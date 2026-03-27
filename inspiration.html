@@ -67,7 +67,7 @@
   <script>
     let data = {};
 
-    fetch('inspiration.json?v=1')
+    fetch('inspiration.json?v=2')
       .then(response => response.json())
       .then(json => {
         data = json;
@@ -98,24 +98,6 @@
  
 
 
-
-function showInspiration() {
-  const quote = getRandomItem(data.quotes);
-  const reflection = getRandomItem(data.reflections);
-
-  document.getElementById("quote").innerHTML = `
-    <p>${quote.text}</p>
-    <small>— ${quote.author}</small>
-  `;
-
-  document.getElementById("reflection").innerHTML = `
-    <p>${reflection}</p>
-  `;
-}
-
-function shuffle() {
-  showInspiration();
-}
  </script>
 </body>
 </html>
