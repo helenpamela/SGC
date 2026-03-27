@@ -15,6 +15,7 @@
     "label": "Affirmation",
     "image": "affirmation-images/202603-affirmation.png"
   },
+  
   "quote": {
     "text": "For every minute you are angry you lose sixty seconds of happiness.",
     "author": "Ralph Waldo Emerson"
@@ -41,7 +42,7 @@
   "luminaries": [
    {
     "name": "No Luminaries this month",
-    "image": "logo/sgc-icon.png"
+    "image": "logo/sgc-big-logo.png"
    }
   ],
   "other": [
