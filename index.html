@@ -111,13 +111,22 @@ h2 {
   flex-wrap: wrap;
 }
 
+
+
 #focus .card {
-  width: calc(50% - 8px);  /* 👈 forces two columns */
+  width: calc(50% - 8px);
+  transition: transform 0.2s ease;
+}
+
+#focus .card:hover {
+  transform: translateY(-3px);
 }
 
 #focus img {
   width: 100%;
 }
+
+
 
 /* Images */
 img {
@@ -217,7 +226,7 @@ focusDiv.innerHTML = "";
 data.focus.forEach(item => {
   focusDiv.innerHTML += `
     <div class="card">
-      ${item.image ? `<img src="${item.image}" style="width:200px;">` : ""}   
+      ${item.image ? `<img src="${item.image}">` : ""}   
       <button class="button" onclick="loadDoc('${item.link}')">
         📄 ${item.label}
       </button>
