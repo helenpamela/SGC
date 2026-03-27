@@ -101,6 +101,17 @@ h2 {
   color: #8a7fb0;
 }
 
+/* Monthly Focus */ 
+
+#focus {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+#focus .card {
+  flex: 1 1 45%;  /* two columns */
+}
 
 /* Images */
 img {
@@ -222,6 +233,7 @@ document.getElementById("affirmation").innerHTML = `
   `;
 */
 
+/*
 const practiceDiv = document.getElementById("practice");
 
 if (data.practice) {
@@ -230,6 +242,23 @@ if (data.practice) {
       <h3>${data.practice.label}</h3>
       <iframe 
         src="https://www.youtube.com/embed/z9d2XApwqZY" 
+        allowfullscreen>
+      </iframe>
+    </div>
+  `;
+}
+*/
+
+const practiceDiv = document.getElementById("practice");
+
+practiceDiv.innerHTML = ""; // clear it first
+
+if (data.practice && data.practice.video) {
+  practiceDiv.innerHTML = `
+    <div class="card">
+      <h3>${data.practice.label}</h3>
+      <iframe 
+        src="${data.practice.video}" 
         allowfullscreen>
       </iframe>
     </div>
