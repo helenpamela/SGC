@@ -16,7 +16,7 @@
 
 .container {
   width: 100%;
-  max-width: 600px;   /* 👈 slightly narrower */
+  max-width: 750px;   /* 👈 slightly narrower */
   margin: 30px auto;
   background: #ffffff;
   padding: 30px 25px;
@@ -221,18 +221,18 @@ function render() {
   
 
 const focusDiv = document.getElementById("focus");
-focusDiv.innerHTML = "";
+focusDiv.innerHTML += `
+  <div class="card">
+    ${item.image ? `<img src="${item.image}">` : ""}   
 
-data.focus.forEach(item => {
-  focusDiv.innerHTML += `
-    <div class="card">
-      ${item.image ? `<img src="${item.image}">` : ""}   
+    ${item.link ? `
       <button class="button" onclick="loadDoc('${item.link}')">
         📄 ${item.label}
       </button>
-    </div>
-  `;
-});
+    ` : `<p>${item.label}</p>`}
+
+  </div>
+`;
 
 document.getElementById("affirmation").innerHTML = `
   <img src="${data.affirmation.image}" style="width:220px;">
