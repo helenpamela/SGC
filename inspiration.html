@@ -71,7 +71,7 @@
 
     <button class="button" onclick="shuffle()">🔄 Shuffle the Cards</button>
     <button class="button" onclick="window.location.href='index.html'">
-      🏡 RETURN HOME BUTTON
+      🏡 Return Home
     </button>
 
   </div>
@@ -79,7 +79,7 @@
   <script>
     let data = {};
 
-    fetch('inspiration.json?v=3')
+    fetch('inspiration.json?v=' + Date.now())
       .then(response => response.json())
       .then(json => {
         data = json;
