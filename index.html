@@ -103,6 +103,8 @@ h2 {
 
 /* Monthly Focus */ 
 
+
+
 #focus {
   display: flex;
   gap: 15px;
@@ -110,7 +112,7 @@ h2 {
 }
 
 #focus .card {
-  flex: 1 1 45%;  /* two columns */
+  width: calc(50% - 8px);  /* 👈 forces two columns */
 }
 
 #focus img {
