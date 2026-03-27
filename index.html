@@ -112,7 +112,7 @@ h2 {
   max-width: 800px;
   border-radius: 12px;
 
-  position: absolute;
+  position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -282,7 +282,7 @@ let data = {};
 
 
 // fetch('data.json')  temporary fix for caching issue. Add ?v=5 to force reload
-fetch('data.json?v=12')
+fetch('data.json?v=14')
   .then(response => response.json())
   .then(json => {
     data = json;
@@ -414,11 +414,26 @@ function loadDoc(url) {
 
 const modal = document.getElementById("modal");
 
+/*
 modal.addEventListener("click", function(event) {
   if (event.target.classList.contains("close") || event.target === modal) {
     modal.style.display = "none";
     document.getElementById("modalViewer").src = "";
   }
+});
+*/
+
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelector(".close").onclick = function() {
+    document.getElementById("modal").style.display = "none";
+  };
+
+  window.onclick = function(event) {
+    const modal = document.getElementById("modal");
+    if (event.target === modal) {
+      modal.style.display = "none";
+    }
+  };
 });
 
   
