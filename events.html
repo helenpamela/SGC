@@ -75,6 +75,7 @@
       height: 80px;
       object-fit: cover;
       border-radius: 12px;
+      transition: transform 0.25s ease;
     }
 
     .event-card {
@@ -83,16 +84,22 @@
       border-radius: 12px;
       margin-bottom: 15px;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-      transition: transform 0.2s ease;
+      transition: all 0.25s ease;
+    }
+    
+    .event-card em {
+      color: #5c4b7d;
     }
 
     .event-card:hover {
-      transform: translateY(-3px);
+      transform: scale(1.05);
+      box-shadow: 0 8px 20px rgba(180, 150, 255, 0.25);
     }
-
+  
     strong {
       color: #5c4b7d;
     }
+    
   </style>
 </head>
 
@@ -120,15 +127,15 @@
         showEvent();
       });
 
-      function showEvent() {
-        const eventDiv = document.getElementById("event");
-        eventDiv.innerHTML = "";
+    function showEvent() {
+      const eventDiv = document.getElementById("event");
+      eventDiv.innerHTML = "";
 
-        data.event.forEach(item => {
+      data.event.forEach(item => {
 
-          if (item.status === "active") {
+        if (item.status === "active") {
 
-            eventDiv.innerHTML += `
+          eventDiv.innerHTML += `
             <div class="event-card">
               <div class="event-row">
                 ${item.image ? `<img src="${item.image}">` : ""}
@@ -144,10 +151,10 @@
              </div>
            </div>
          `;
-       }
+        }
 
       });
-   }
+    }
 
   </script>
 </body>
