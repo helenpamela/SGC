@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Upcoming Events</title>
+
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      margin: 0;
+      background: #f6f3f9;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 800px;
+      margin: 30px auto;
+      background: #ffffff;
+      padding: 30px 25px;
+      border-radius: 18px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      text-align: center;
+      color: #5c4b7d;
+    }
+
+    .card {
+      padding: 15px;
+      border-radius: 12px;
+      background: #ffffff;
+      margin-bottom: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+
+    .button {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 14px;
+      background: #e6d9f5;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+  
+    }
+
+    .button:hover {
+      background: #d6c6f0;
+      box-shadow: 0 0 10px rgba(180,150,255,0.4);
+    }
+    
+    img {
+      width: 120px;
+      margin-bottom: 10px;
+    }
+    .event-row {
+      display: flex;
+      gap: 15px;
+      align-items: flex-start;
+      margin-bottom: 15px;
+    }
+
+    .event-row img {
+      width: 80px;
+      border-radius: 10px;
+    }
+
+
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    
+    <img src="logo/sgc-big-logo.png">
+
+    <h1>Upcoming Events</h1>
+
+    <div id="event" class="card"></div>
+ 
+    <button class="button" onclick="window.location.href='index.html'">🏡 Home </button>
+
+  </div>
+
+  <script>
+    let data = {};
+
+    fetch('events.json?v=' + Date.now())
+      .then(response => response.json())
+      .then(json => {
+        data = json;
+        showEvent();
+      });
+
+      function showEvent() {
+  const eventDiv = document.getElementById("event");
+  eventDiv.innerHTML = "";
+
+  data.event.forEach(item => {
+
+    if (item.status === "active") {
+
+      eventDiv.innerHTML += `
+        <div class="event-row">
+          ${item.image ? `<img src="${item.image}">` : ""}
+          <div>
+            <strong>${item.type}</strong><br>
+            ${item.datetime}<br>
+            ${item.location}<br>
+            <em>${item.note}</em>
+          </div>
+        </div>
+      `;
+    }
+
+  });
+}
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+{
+  
+  "title": "Upcoming Events",
+  "lastUpdated": "March 28,2026",
+
+  "event": [
+      {
+      "status": "archived",
+      "type": "Meeting",  
+      "datetime": "Saturday March 21 Noon",
+      "location": "Linda's House",
+      "note": "Bring Cliff Notes binders!"
+     },
+
+     {
+      "status": "active",
+      "image": "events/holding-hands.jpg",
+      "type": "Meeting",  
+      "datetime": "Saturday April 11 Noon",
+      "time": "Noon",
+      "location": "Linda's House",
+      "note": "Bring Cliff Notes binders (again)! Celebrating birthdays: Trudi and Pam"
+     },
+
+     {
+      "status": "active",
+      "image": "events/sandwich.jpg",
+      "type": "Lunch",  
+      "datetime": "Saturday April 18 Noon",
+      "location": "Ajo Al in Gilbert",
+      "note": "Celebrating Patty's birthday"
+     },
+ 
+    {
+      "status": "active",
+      "image": "events/cruise-ship.jpg",
+      "type": "Meeting",  
+      "datetime": "",
+      "location": "",
+      "note": "No meeting in May due to travel"
+     },
+
+     {
+      "status": "draft",
+      "image": "logo/sgc-icon.png",
+      "type": "Meeting",  
+      "datetime": "future",
+      "location": "Linda's House",
+      "note": "Bring your pen!"
+     }
+   ]
+}
