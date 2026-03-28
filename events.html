@@ -18,7 +18,7 @@
       background: #ffffff;
       padding: 30px 25px;
       border-radius: 18px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
     }
 
     h1 {
@@ -35,7 +35,7 @@
       border-radius: 12px;
       background: #ffffff;
       margin-bottom: 15px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
     }
 
     .button {
@@ -46,18 +46,19 @@
       border: none;
       border-radius: 10px;
       cursor: pointer;
-  
+
     }
 
     .button:hover {
       background: #d6c6f0;
-      box-shadow: 0 0 10px rgba(180,150,255,0.4);
+      box-shadow: 0 0 10px rgba(180, 150, 255, 0.4);
     }
-    
+
     img {
       width: 120px;
       margin-bottom: 10px;
     }
+
     .event-row {
       display: flex;
       gap: 15px;
@@ -65,18 +66,8 @@
       margin-bottom: 15px;
     }
 
-    .event-row img {
-      width: 80px;
-      border-radius: 10px;
-    }
-
-    .event-card {
-      background: #ffffff;
-      padding: 15px;
-      border-radius: 12px;
-      margin-bottom: 15px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-      transition: transform 0.2s ease;
+    .event-row div {
+      line-height: 1.4;
     }
 
     .event-row img {
@@ -86,24 +77,35 @@
       border-radius: 12px;
     }
 
+    .event-card {
+      background: #ffffff;
+      padding: 15px;
+      border-radius: 12px;
+      margin-bottom: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+      transition: transform 0.2s ease;
+    }
+
     .event-card:hover {
       transform: translateY(-3px);
     }
 
-
+    strong {
+      color: #5c4b7d;
+    }
   </style>
 </head>
 
 <body>
 
   <div class="container">
-    
+
     <img src="logo/sgc-big-logo.png">
 
     <h1>Upcoming Events</h1>
 
     <div id="event" class="card"></div>
- 
+
     <button class="button" onclick="window.location.href='index.html'">🏡 Home </button>
 
   </div>
@@ -124,26 +126,30 @@
 
         data.event.forEach(item => {
 
-        if (item.status === "active") {
+          if (item.status === "active") {
 
-          eventDiv.innerHTML += `
+            eventDiv.innerHTML += `
             <div class="event-card">
               <div class="event-row">
                 ${item.image ? `<img src="${item.image}">` : ""}
-              <div>
-                <strong>${item.type}</strong><br>
-                ${item.datetime ? item.datetime + "<br>" : ""}
-                ${item.location ? item.location + "<br>" : ""}
-                <em>${item.note}</em>
-              </div>
-            </div>
-          </div>
-       `;
-      }
+                <div>
+                  <strong>${item.type}</strong><br>
+                  ${item.datetime ? "🕒 " + item.datetime + "<br>" : ""}
+                  ${item.location ? "📍 " + item.location + "<br>" : ""}
+                  <em>
+                    ${item.note.includes("birthday") ? "🎂 " : ""}
+                    ${item.note}
+                  </em>
+               </div>
+             </div>
+           </div>
+         `;
+       }
 
-    });
+      });
    }
 
   </script>
 </body>
+
 </html>
