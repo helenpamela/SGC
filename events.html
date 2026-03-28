@@ -132,7 +132,6 @@
 
     <img src="logo/sgc-big-logo.png">
 
-    <h1>Upcoming Events</h1>
     <h1 id="title"></h1>
 
     <div id="event" class="card"></div>
@@ -171,6 +170,8 @@ fetch('events.json?v=' + Date.now())
 
       data.event.forEach(item => {
 
+        const isBirthday = item.note.toLowerCase().includes("birthday");
+        
         if (item.status === "active") {
           eventDiv.innerHTML += `
             <div class="event-card ${isBirthday ? "birthday" : ""}">
