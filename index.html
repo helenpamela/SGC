@@ -3,7 +3,7 @@
 <html>
 <head>
   <title>Spiritual Growth Club</title>
-
+ 
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, sans-serif;
@@ -51,10 +51,16 @@
      box-shadow: 0 6px 18px rgba(180,150,255,0.35);
     }
 
-  img {
-    width: 120px;
-    margin-bottom: 10px;
-  }
+    img {
+      width: 120px;
+      margin-bottom: 10px;
+    }
+
+    #greeting {
+      color: #7a6c9d;
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
 
   </style>
 </head>
@@ -64,6 +70,7 @@
   <div class="container">
     <img src="logo/sgc-big-logo.png">
     <h1>Spiritual Growth Club</h1>
+    <h2 id="greeting"></h2>
     <div class="subtitle">Choose your path for today ✨</div>
 
     <button class="button" onclick="location.href='monthly.html'">
@@ -95,6 +102,26 @@
     </button>
 
   </div>
+
+  <script>
+    const name = "Pam"; // we’ll make this dynamic later 😉
+
+    const hour = new Date().getHours();
+    let timeGreeting = "";
+
+    if (hour < 12) {
+      timeGreeting = "Good morning";
+    } else if (hour < 18) {
+      timeGreeting = "Good afternoon";
+    } else {
+      timeGreeting = "Good evening";
+    }
+
+    document.getElementById("greeting").innerText =
+      timeGreeting + ", " + name + " ☀️";
+      
+</script>
+
 
 </body>
 </html>
