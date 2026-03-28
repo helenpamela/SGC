@@ -57,6 +57,18 @@
     #reflection {
       background: #f9f6fc;
     }
+
+    .fade {
+      opacity: 0;
+      transition: opacity 0.4s ease;
+    }
+
+    .fade.show {
+      opacity: 1;
+    }
+
+    
+
   </style>
 </head>
 
@@ -91,17 +103,30 @@
     }
 
     function showInspiration() {
-      const quote = getRandomItem(data.quotes);
-      const reflection = getRandomItem(data.reflections);
+      const quoteDiv = document.getElementById("quote");
+      const reflectionDiv = document.getElementById("reflection");
 
-      document.getElementById("quote").innerHTML = `
-        <p>${quote.text}</p>
-        <small>— ${quote.author}</small>
-      `;
+      // fade out
+      quoteDiv.classList.remove("show");
+      reflectionDiv.classList.remove("show");
 
-      document.getElementById("reflection").innerHTML = `
-        <p>${reflection}</p>
-      `;
+      setTimeout(() => {
+        const quote = getRandomItem(data.quotes);
+        const reflection = getRandomItem(data.reflections);
+
+        quoteDiv.innerHTML = `
+          <p>${quote.text}</p>
+          <small>— ${quote.author}</small>
+        `;
+
+        reflectionDiv.innerHTML = `
+          <p>${reflection}</p>
+        `;
+
+         // fade in
+        quoteDiv.classList.add("fade", "show");
+        reflectionDiv.classList.add("fade", "show");
+      }, 200);
     }
 
     function shuffle() {
