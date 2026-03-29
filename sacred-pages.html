@@ -183,11 +183,18 @@
       border: none;
     }
 
+    .hero {
+      position: relative;
+    }
+    
     .hero-title {
       position: absolute;
       bottom: 20px;
       left: 50%;
       transform: translateX(-50%);
+
+      margin: 0;              /* 👈 important fix */
+      width: auto;
 
       color: white;
       font-size: 32px;
