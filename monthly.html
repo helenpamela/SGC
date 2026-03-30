@@ -78,7 +78,7 @@ h2 {
   border-radius: 10px;
   cursor: pointer;
   transition: all 0.2s ease;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .button:hover {
@@ -304,8 +304,7 @@ function render() {
 
   document.getElementById("title").innerHTML =
   `${data.month} - ${data.title}<br><span style="font-size: 0.6em; color: #888;">Updated: ${data.lastUpdated}</span>`;
-
-  
+ 
 
 const focusDiv = document.getElementById("focus");
 focusDiv.innerHTML = "";
@@ -340,7 +339,6 @@ document.getElementById("affirmation").innerHTML = `
 */
 
 
-
 const practiceDiv = document.getElementById("practice");
 
 practiceDiv.innerHTML = ""; // clear it first
@@ -351,6 +349,22 @@ if (data.practice && data.practice.video) {
       <h3>${data.practice.label}</h3>
       <iframe 
         src="${data.practice.video}" 
+        allowfullscreen>
+      </iframe>
+    </div>
+  `;
+}
+
+const meditationDiv = document.getElementById("meditation");
+
+meditationDiv.innerHTML = ""; // clear it first
+
+if (data.meditation && data.meditation.video) {
+  meditationDiv.innerHTML = `
+    <div class="card">
+      <h3>${data.meditation.label}</h3>
+      <iframe 
+        src="${data.meditation.video}" 
         allowfullscreen>
       </iframe>
     </div>
@@ -377,30 +391,8 @@ const othersDiv = document.getElementById("others");
     `;
   }); 
 
-const lumSection = document.getElementById("luminarySection");
-const lumDiv = document.getElementById("luminaries");
-lumDiv.innerHTML = "";
-if (data.luminaries && data.luminaries.length > 0) {
-  lumSection.style.display = "block";
-
-  data.luminaries.forEach(person => {
-    lumDiv.innerHTML += `
-      <div class="card">
-        <h3>${person.name}</h3>
-        ${person.image ? `<img src="${person.image}">` : ""}
-      </div>
-    `;
-  });
-
-} else {
-  lumSection.style.display = "none";
-}
-
-
   
 }
-
-
 
 function loadDoc(url) {
   const modal = document.getElementById("modal");
