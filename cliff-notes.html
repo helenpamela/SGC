@@ -87,6 +87,8 @@
       cursor: pointer;
     }
 
+
+
     /*
     img {
       width: 120px;
@@ -110,6 +112,44 @@
       font-size: 16px;
       margin-bottom: 10px;
     }
+
+    /* Use this section to place title on top of image  */
+    .hero {
+      position: relative;
+      width: 100%;
+    }
+
+    .hero img {
+      width: 100%;
+      max-height: 300px;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+
+    .hero-title {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      margin: 0;
+      width: auto;
+
+      color: white;
+      font-size: 32px;
+      font-weight: 600;
+      text-align: center;
+
+      /*  Use one of these backgrounds -- NOT BOTH
+      background: rgba(0, 0, 0, 0.35);/* soft dark overlay */
+
+      background: rgba(255, 255, 255, 0.6);
+      /* light  */
+
+      color: #5c4b7d;
+      padding: 8px 16px;
+      border-radius: 10px;
+    }
+    
   </style>
 </head>
 
@@ -119,9 +159,10 @@
 
   <div class="container">
 
-    <img src="cliff-notes-images/cliff-notes-header.png">
-
-    <h1>Cliff Notes</h1>
+    <div class="hero">
+      <img src="cliff-notes-images/cliff-notes-header.png">
+      <h1 class="hero-title">Cliff Notes</h1>
+    </div>
 
     <div class="subtitle">What topic is calling to me? ✨</div>
 
