@@ -175,23 +175,11 @@
       showInspiration();
     }
 
-    function logout() {
-      localStorage.removeItem("role");
-
-      // Only run if elements exist
-      const app = document.getElementById("appContent");
-      const login = document.getElementById("loginScreen");
-
-      if (app && login) {
-        app.style.display = "none";
-        login.style.display = "flex";
-      } else {
-        // If on a child page, just go back home
-        window.location.href = "index.html";
-      }
-    }
 
   </script>
+
+  <script src="app.js"></script>
+
 </body>
 
 </html>

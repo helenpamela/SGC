@@ -75,7 +75,6 @@
       }
     }
 
-
     /* Buttons */
 
     .button {
@@ -132,7 +131,6 @@
       }
     }
 
-
     .modal-content {
       background: #fff;
       padding: 15px;
@@ -144,7 +142,6 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-
       box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
     }
 
@@ -172,10 +169,7 @@
       border: none;
     }
 
-
     /* Quote styling */
-
-
     #quote {
       background: linear-gradient(135deg, #f3ecfb, #ffffff);
       border-left: none;
@@ -187,13 +181,13 @@
     }
 
     /*
-#quote::before {
-  content: "❝";
-  font-size: 18px;
-  color: #cbb6e9;
-  margin-bottom: 3px;
-}
-*/
+    #quote::before {
+      content: "❝";
+      font-size: 18px;
+      color: #cbb6e9;
+      margin-bottom: 3px;
+    }
+    */
 
     #quote p {
       font-style: italic;
@@ -242,7 +236,6 @@
       margin-bottom: 10px;
     }
 
-
     /* Images */
     img {
       width: 100%;
@@ -250,8 +243,6 @@
       margin-top: 10px;
       overflow: visible;
     }
-
-
 
     /* Document viewer (handouts) */
     #viewer {
@@ -270,8 +261,6 @@
     }
   </style>
 </head>
-
-
 
 <body>
 
@@ -334,23 +323,22 @@
       document.getElementById("title").innerHTML =
         `${data.month} - ${data.title}<br><span style="font-size: 0.6em; color: #888;">Updated: ${data.lastUpdated}</span>`;
 
-
       const focusDiv = document.getElementById("focus");
       focusDiv.innerHTML = "";
 
       data.focus.forEach(item => {
         focusDiv.innerHTML += `
-      <div class="card">
-        ${item.image ? `<img src="${item.image}">` : ""}   
+          <div class="card">
+            ${item.image ? `<img src="${item.image}">` : ""}   
 
-        ${item.link ? `
-          <button class="button" onclick="loadDoc('${item.link}')">
-            📄 ${item.label}
-          </button>
-        ` :   `<p>${item.label}</p>`}
+            ${item.link ? `
+              <button class="button" onclick="loadDoc('${item.link}')">
+                📄 ${item.label}
+              </button>
+           ` :   `<p>${item.label}</p>`}
 
-      </div>
-    `;
+          </div>
+       `;
       });
 
       document.getElementById("affirmation").innerHTML = `
@@ -358,15 +346,9 @@
       `;
 
       document.getElementById("quote").innerHTML = `
-    <p>${data.quote.text}</p>
-    <small>— ${data.quote.author}</small>
-  `;
-
-      /* document.getElementById("title").innerText =
-       `${data.month} - ${data.title} (Updated: ${data.lastUpdated})
-       `;
-     */
-
+        <p>${data.quote.text}</p>
+        <small>— ${data.quote.author}</small>
+      `;
 
       const practiceDiv = document.getElementById("practice");
 
@@ -374,14 +356,14 @@
 
       if (data.practice && data.practice.video) {
         practiceDiv.innerHTML = `
-    <div class="card">
-      <h3>${data.practice.label}</h3>
-      <iframe 
-        src="${data.practice.video}" 
-        allowfullscreen>
-      </iframe>
-    </div>
-  `;
+          <div class="card">
+            <h3>${data.practice.label}</h3>
+            <iframe 
+              src="${data.practice.video}" 
+              allowfullscreen>
+            </iframe>
+          </div>
+       `;
       }
 
       const meditationDiv = document.getElementById("meditation");
@@ -390,34 +372,34 @@
 
       if (data.meditation && data.meditation.video) {
         meditationDiv.innerHTML = `
-    <div class="card">
-      <h3>${data.meditation.label}</h3>
-      <iframe 
-        src="${data.meditation.video}" 
-        allowfullscreen>
-      </iframe>
-    </div>
-  `;
+          <div class="card">
+            <h3>${data.meditation.label}</h3>
+            <iframe 
+              src="${data.meditation.video}" 
+              allowfullscreen>
+            </iframe>
+          </div>
+        `;
       }
 
       const topicsDiv = document.getElementById("topics");
       topicsDiv.innerHTML = "";
       data.topics.forEach(item => {
         topicsDiv.innerHTML += `
-      <button class="button" onclick="loadDoc('${item.link}')">
-        📄 ${item.label}
-      </button>
-    `;
+        <button class="button" onclick="loadDoc('${item.link}')">
+          📄 ${item.label}
+        </button>
+        `;
       });
 
       const othersDiv = document.getElementById("others");
       othersDiv.innerHTML = "";
       data.other.forEach(item => {
         othersDiv.innerHTML += `
-      <button class="button" onclick="loadDoc('${item.link}')">
-        📎 ${item.label}
-      </button>
-    `;
+          <button class="button" onclick="loadDoc('${item.link}')">
+            📎 ${item.label}
+          </button>
+        `;
       });
 
 
@@ -444,28 +426,11 @@
         modal.style.display = "none";
         document.getElementById("modalViewer").src = "";
       }
-    };
-
-    function logout() {
-      localStorage.removeItem("role");
-
-      // Only run if elements exist
-      const app = document.getElementById("appContent");
-      const login = document.getElementById("loginScreen");
-
-      if (app && login) {
-        app.style.display = "none";
-        login.style.display = "flex";
-      } else {
-        // If on a child page, just go back home
-        window.location.href = "index.html";
-      }
-    }
-
+    }; 
 
   </script>
 
-
+  <script src="app.js"></script>
 
 </body>
 

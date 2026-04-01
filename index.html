@@ -200,24 +200,7 @@
   </div>
 
   <script>
-    const STUDENT_WORD = "circle";
-    const TEACHER_WORD = "luminary"; // your current one if you like
-
-    function checkAccess() {
-      const input = document.getElementById("accessInput").value;
-
-      if (input === STUDENT_WORD) {
-        localStorage.setItem("role", "student");
-        showApp();
-
-      } else if (input === TEACHER_WORD) {
-        localStorage.setItem("role", "teacher");
-        showApp();
-
-      } else {
-        document.getElementById("errorMsg").style.display = "block";
-      }
-    }
+    
 
     fetch('home-header.html')
       .then(response => response.text())
@@ -233,13 +216,6 @@
       }
     };
 
-
-    function showApp() {
-      document.getElementById("loginScreen").style.display = "none";
-      document.getElementById("appContent").style.display = "block";
-    }
-
-
     const hour = new Date().getHours();
     let timeGreeting = "";
 
@@ -254,24 +230,11 @@
     document.getElementById("greeting").innerText =
       timeGreeting + " ☀️";
 
-    function logout() {
-      localStorage.removeItem("role");
 
-      // Only run if elements exist
-      const app = document.getElementById("appContent");
-      const login = document.getElementById("loginScreen");
-
-      if (app && login) {
-        app.style.display = "none";
-        login.style.display = "flex";
-      } else {
-        // If on a child page, just go back home
-        window.location.href = "index.html";
-      }
-    }
 
   </script>
 
+  <script src="app.js"></script>
 
 </body>
 

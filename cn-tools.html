@@ -113,7 +113,6 @@
       cursor: pointer;
     }
 
-
     img {
       width: 120px;
       margin-bottom: 10px;
@@ -190,23 +189,8 @@
       document.getElementById("modal").style.display = "none";
     }
 
-    function logout() {
-      localStorage.removeItem("role");
-
-      // Only run if elements exist
-      const app = document.getElementById("appContent");
-      const login = document.getElementById("loginScreen");
-
-      if (app && login) {
-        app.style.display = "none";
-        login.style.display = "flex";
-      } else {
-        // If on a child page, just go back home
-        window.location.href = "index.html";
-      }
-    }
-
   </script>
+
 
   <div id="modal" class="modal">
     <div class="modal-content">
@@ -222,6 +206,8 @@
 
     </div>
   </div>
+
+  <script src="app.js"></script>
 
 </body>
 
