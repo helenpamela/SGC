@@ -23,6 +23,20 @@
   cursor: pointer;
 }
 
+.top-nav button:hover {
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 6px 14px rgba(140, 110, 200, 0.25);
+}
+
+.active-nav {
+  background-color: #cbbbe9 !important;
+  box-shadow: 0 4px 12px rgba(140, 110, 200, 0.35);
+  transform: scale(1.05);
+  transition: all 0.2s ease;
+  border: 2px solid #a18cd1;
+}
+
+
 .container {
   margin: 80px auto;
   /* was 60px */
