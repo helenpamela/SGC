@@ -6,6 +6,8 @@
 <head>
   <title>Cliff Notes</title>
 
+  <link rel="stylesheet" href="home-styles.css">
+
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, sans-serif;
@@ -85,6 +87,19 @@
       color: #5c4b7d;
     }
 
+     .nav-buttons {
+      margin-top: 10px;
+    }
+
+    .nav-buttons button {
+      padding: 10px 16px;
+      margin: 5px;
+      border-radius: 8px;
+      border: none;
+      background: #e6d9f5;
+      cursor: pointer;
+    }
+
     /*
       .button:hover {
         background: #d6c6f0;
@@ -106,7 +121,8 @@
 </head>
 
 <body>
-  <a href="index.html" class="home-button">🏡 Home</a>
+
+  <div id="header-placeholder"></div>
 
   <div class="container">
 
@@ -128,7 +144,7 @@
       <button class="button">👑 Daily Practices</button>
     </a>
 
-        <a href="cn-concepts.html">
+    <a href="cn-concepts.html">
       <button class="button">💡 Concepts</button>
     </a>
 
@@ -140,9 +156,11 @@
 
   <script>
 
-
-
-
+    fetch('home-header.html')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('header-placeholder').innerHTML = data;
+      });
 
   </script>
 

@@ -45,8 +45,13 @@ ul {
 li a {
   display: inline-block;
   line-height: 1.4;  
+  color: #5c4b7d;
+  text-decoration: none;
 }
 
+li a:hover {
+  text-decoration: underline;
+}
 
 li {
   padding: 6px 8px;
