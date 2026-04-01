@@ -39,6 +39,39 @@ function applyPermissions() {
   });
 }
 
+window.addEventListener("load", () => {
+  const currentPage = window.location.pathname.split("/").pop();
+  const homeBtn = document.querySelector(".nav-home");
+  const cliffBtn = document.querySelector(".nav-cliff");
+
+  // Pages where Cliff Notes button SHOULD be visible
+  const cliffPages = [
+    "cn-sacred-pages.html",
+    "cn-first-aid.html",
+    "cn-daily-practices.html",
+    "cn-concepts.html",
+    "cn-tools.html",
+    "cn-forms.html",
+    "cn-resources.html"
+  ];
+
+  // HOME PAGE → only Logout
+  if (currentPage === "index.html" || currentPage === "") {
+    if (homeBtn) homeBtn.style.display = "none";
+  }
+
+  // CLIFF NOTES MAIN PAGE → hide Cliff Notes button
+  if (currentPage === "cliff-notes.html") {
+    if (cliffBtn) cliffBtn.style.display = "none";
+  }
+
+  // ALL OTHER PAGES → control Cliff Notes visibility
+  if (!cliffPages.includes(currentPage)) {
+    if (cliffBtn) cliffBtn.style.display = "none";
+  }
+});
+
+
 function logout() {
   localStorage.removeItem("role");
 

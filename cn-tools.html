@@ -6,7 +6,7 @@
 <head>
   <title>Tools</title>
 
-  <link rel="stylesheet" href="cliff-notes-styles.css">
+  <link rel="stylesheet" href="header-styles.css">
 
   <style>
     body {
@@ -144,7 +144,7 @@
 
   <script>
 
-    fetch('cliff-notes-header.html')
+    fetch('header.html')
       .then(response => response.text())
       .then(data => {
         document.getElementById('header-placeholder').innerHTML = data;

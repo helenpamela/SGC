@@ -6,7 +6,7 @@
 <head>
   <title>Cliff Notes</title>
 
-  <link rel="stylesheet" href="home-styles.css">
+  <link rel="stylesheet" href="header-styles.css">
 
   <style>
     body {
@@ -190,7 +190,7 @@
 
   <script>
 
-    fetch('home-header.html')
+    fetch('header.html')
       .then(response => response.text())
       .then(data => {
         document.getElementById('header-placeholder').innerHTML = data;

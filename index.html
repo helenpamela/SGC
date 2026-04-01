@@ -5,7 +5,7 @@
 <head>
   <title>Spiritual Growth Club</title>
 
-  <link rel="stylesheet" href="home-styles.css">
+  <link rel="stylesheet" href="header-styles.css">
 
   <style>
     #loginScreen {
@@ -69,8 +69,6 @@
       background-color: #6a5bb5;
     }
 
-
-
     body {
       font-family: 'Segoe UI', Tahoma, sans-serif;
       background: #f6f3f9;
@@ -116,19 +114,6 @@
       transform: translateY(-3px) scale(1.02);
       box-shadow: 0 6px 18px rgba(180, 150, 255, 0.35);
     }
-
-    /*    We don't need a home button.  We are on the Home Page!
-    .home-button {
-      display: inline-block;
-      margin-bottom: 20px;
-      padding: 12px 20px;
-      font-size: 16px;
-      background: #dcd0f0;
-      border-radius: 10px;
-      text-decoration: none;
-      color: #5c4b7d;
-    }
-    */
 
     img {
       width: 300px;
@@ -202,7 +187,7 @@
   <script>
     
 
-    fetch('home-header.html')
+    fetch('header.html')
       .then(response => response.text())
       .then(data => {
         document.getElementById('header-placeholder').innerHTML = data;
