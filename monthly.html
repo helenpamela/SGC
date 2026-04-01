@@ -17,8 +17,7 @@
 
     .container {
       width: 100%;
-      max-width: 800px;
-      /* 👈 slightly narrower */
+      max-width: 800px;     /* 👈 slightly narrower */
       margin: 30px auto;
       background: #ffffff;
       padding: 30px 25px;
@@ -49,10 +48,8 @@
       background: #ffffff;
       margin-bottom: 15px;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-      opacity: 0;
-      /* Fade-in for cards */
-      transform: translateY(10px);
-      /* Fade-in for cards */
+      opacity: 0;     /* Fade-in for cards */
+      transform: translateY(10px);    /* Fade-in for cards */
       animation: fadeIn 0.6s ease forwards;
       /* Fade-in for cards */
     }
@@ -98,8 +95,7 @@
     .button:hover {
       background: #d6c6f0;
       transform: translateY(-1px);
-      box-shadow: 0 0 10px rgba(180, 150, 255, 0.4);
-      /* Gentle button hover glow */
+      box-shadow: 0 0 10px rgba(180, 150, 255, 0.4);      /* Gentle button hover glow */
     }
 
     .home-button {
@@ -344,22 +340,22 @@
 
       data.focus.forEach(item => {
         focusDiv.innerHTML += `
-    <div class="card">
-      ${item.image ? `<img src="${item.image}">` : ""}   
+      <div class="card">
+        ${item.image ? `<img src="${item.image}">` : ""}   
 
-      ${item.link ? `
-        <button class="button" onclick="loadDoc('${item.link}')">
-          📄 ${item.label}
-        </button>
-      ` : `<p>${item.label}</p>`}
+        ${item.link ? `
+          <button class="button" onclick="loadDoc('${item.link}')">
+            📄 ${item.label}
+          </button>
+        ` :   `<p>${item.label}</p>`}
 
-    </div>
-  `;
+      </div>
+    `;
       });
 
       document.getElementById("affirmation").innerHTML = `
-  <img src="${data.affirmation.image}" style="width:220px;">
-`;
+       <img src="${data.affirmation.image}" style="width:220px;">
+      `;
 
       document.getElementById("quote").innerHTML = `
     <p>${data.quote.text}</p>
