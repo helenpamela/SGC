@@ -6,6 +6,7 @@
   "event": [
       {
       "status": "archived",
+      "image": "logo/sgc_icon.png",
       "type": "Meeting",  
       "datetime": "Saturday March 21 Noon",
       "location": "Linda's House",
@@ -14,7 +15,7 @@
 
      {
       "status": "active",
-      "image": "events/holding-hands.jpg",
+      "image": "events-images/holding-hands.jpg",
       "type": "Meeting",  
       "datetime": "Saturday April 11 Noon",
       "time": "Noon",
@@ -24,7 +25,7 @@
 
      {
       "status": "active",
-      "image": "events/sandwich.jpg",
+      "image": "events-images/sandwich.jpg",
       "type": "Lunch",  
       "datetime": "Saturday April 18 Noon",
       "location": "Ajo Al in Gilbert",
@@ -33,7 +34,7 @@
  
     {
       "status": "active",
-      "image": "events/cruise-ship.jpg",
+      "image": "events-images/cruise-ship.jpg",
       "type": "Meeting",  
       "datetime": "",
       "location": "",
@@ -41,10 +42,10 @@
      },
 
      {
-      "status": "draft",
-      "image": "logo/sgc-icon.png",
+      "status": "active",
+      "image": "events-images/pink-flamingo.jpg",
       "type": "Meeting",  
-      "datetime": "future",
+      "datetime": "Saturday June 6 Noon",
       "location": "Linda's House",
       "note": "Bring your pen!"
      }
