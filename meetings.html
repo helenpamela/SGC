@@ -277,7 +277,7 @@
 
     <h2>Agenda</h2>
     <div id="final_agenda"></div>
-    
+
     <div id="teacher-only" style="display:none;">
       <h2>Teacher Materials</h2>
       <div id="working_agenda"></div>
@@ -336,6 +336,15 @@
 
     data = meetings[id];
 
+    if (!data) {
+      document.getElementById("title").innerText = "Meeting not found 😢";
+      console.log("Invalid meeting ID:", id);
+      return;
+    }
+
+
+    render();
+
     function render() {
 
       document.getElementById("title").innerHTML =
@@ -351,7 +360,7 @@
         `;
       });
 
-      
+
       /* Working agenda -- Teacher Only */
 
       const isTeacher = localStorage.getItem("isTeacher");
@@ -361,7 +370,7 @@
       }
       const working_agendaDiv = document.getElementById("working_agenda");
       working_agendaDiv.innerHTML = "";
-      data.working_agenda.forEach(item => {
+      data.teacher_only.working_agenda.forEach(item => {
         working_agendaDiv.innerHTML += `
         <button class="button" onclick="loadDoc('${item.link}')">
           📄 ${item.label}
