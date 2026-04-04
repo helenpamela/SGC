@@ -42,6 +42,13 @@
       padding-bottom: 5px;
     }
 
+    /* Subtitles */
+    .subtitle {
+      font-weight: normal;
+      color: #8a7fb0;
+      font-size: 0.9em;
+    }
+
     /* Cards */
     .card {
       padding: 15px;
@@ -352,143 +359,81 @@
 
       const final_agendaDiv = document.getElementById("final_agenda");
       final_agendaDiv.innerHTML = "";
-      data.final_agenda.forEach(item => {
-        final_agendaDiv.innerHTML += `
-        <button class="button" onclick="loadDoc('${item.link}')">
-          📄 ${item.label}
-        </button>
+      final_agendaDiv.innerHTML += `
+        <button class="button" onclick="loadDoc('${item.link}')"> </button>
         `;
-      });
-
+      ;
 
       /* Working agenda -- Teacher Only */
-
       const isTeacher = localStorage.getItem("isTeacher");
-
       if (isTeacher === "true") {
         document.getElementById("teacher-only").style.display = "block";
       }
       const working_agendaDiv = document.getElementById("working_agenda");
       working_agendaDiv.innerHTML = "";
-      data.teacher_only.working_agenda.forEach(item => {
-        working_agendaDiv.innerHTML += `
-        <button class="button" onclick="loadDoc('${item.link}')">
-          📄 ${item.label}
-        </button>
+      working_agendaDiv.innerHTML += `
+        <button class="button" onclick="loadDoc('${item.link}')"> </button>
         `;
-      });
+      ;
 
-      const intentionDiv = document.getElementById("intention");
-      intentionDiv.innerHTML = "";
+      // Titles, setup, special sections
+      document.getElementById("title").innerHTML = data.title;
 
-      data.intention.forEach(item => {
-        intentionDiv.innerHTML += `
-          <div class="card">
-            ${item.image ? `<img src="${item.image}">` : ""}   
+      // Now render each section using your helper ✨
+      renderItems(data.intention || [], "intention");
+      renderItems(data.lovingkindness || [], "lovingkindness");
+      renderItems(data.focus || [], "focus");
+      renderItems(data.practice || [], "practice");
+      renderItems(data.affirmation || [], "affirmation");
+      renderItems(data.meditation || [], "meditation");
+      renderItems(data.topic || [], "topic");
+      renderItems(data.other || [], "other");
 
-            ${item.link ? `
-              <button class="button" onclick="loadDoc('${item.link}')">
-                📄 ${item.label}
-              </button>
-           ` : `<p>${item.label}</p>`}
+    }
 
-          </div>
-       `;
-      });
+    function setTitle(id, main, sub) {
+      const el = document.getElementById(id);
 
-      const lovingkindnessDiv = document.getElementById("lovingkindness");
-      lovingkindnessDiv.innerHTML = "";
-      data.lovingkindness.forEach(item => {
-        lovingkindnessDiv.innerHTML += `
-          <div class="card">
-            ${item.image ? `<img src="${item.image}">` : ""}   
-
-            ${item.link ? `
-              <button class="button" onclick="loadDoc('${item.link}')">
-                📄 ${item.label}
-              </button>
-           ` : `<p>${item.label}</p>`}
-
-          </div>
-       `;
-      });
-
-
-      const focusDiv = document.getElementById("focus");
-      focusDiv.innerHTML = "";
-      data.focus.forEach(item => {
-        focusDiv.innerHTML += `
-          <div class="card">
-            ${item.image ? `<img src="${item.image}">` : ""}   
-
-            ${item.link ? `
-              <button class="button" onclick="loadDoc('${item.link}')">
-                📄 ${item.label}
-              </button>
-           ` : `<p>${item.label}</p>`}
-
-          </div>
-       `;
-      });
-
-
-      document.getElementById("practice").innerHTML = `
-        <p>${data.practice.text}</p>`;
-
-      const practiceDiv = document.getElementById("practice")
-      practiceDiv.innerHTML = ""; // clear it first
-      if (data.practice && data.practice.video) {
-        practiceDiv.innerHTML = `
-          <div class="card">
-            <h3>${data.practice.label}</h3>
-            <iframe 
-              src="${data.practice.video}" 
-              allowfullscreen>
-            </iframe>
-          </div>
-       `;
+      if (sub) {
+        el.innerHTML = `${main} <span class="subtitle"> ${sub}</span>`;
+      } else {
+        el.innerHTML = main;
       }
+    }
 
-      document.getElementById("affirmation").innerHTML = `
-       <img src="${data.affirmation.image}" style="width:220px;">
+    function renderItems(items, containerId) {
+      const div = document.getElementById(containerId);
+      div.innerHTML = "";
+
+      if (!items || items.length === 0) return;
+
+      items.forEach(item => {
+        let content = "";
+
+        if (item.type === "image") {
+          content = `<img src="${item.src}">`;
+        }
+
+        if (item.type === "pdf") {
+          content = `
+        <button class="button" onclick="loadDoc('${item.src}')">
+          📄 ${item.label || "Open"}
+        </button>
       `;
+        }
 
+        if (item.type === "video") {
+          content = `
+        <iframe src="${item.src}" allowfullscreen></iframe>
+      `;
+        }
 
-      const meditationDiv = document.getElementById("meditation");
-      meditationDiv.innerHTML = ""; // clear it first
-      if (data.meditation && data.meditation.video) {
-        meditationDiv.innerHTML = `
-          <div class="card">
-            <h3>${data.meditation.label}</h3>
-            <iframe 
-              src="${data.meditation.video}" 
-              allowfullscreen>
-            </iframe>
-          </div>
-        `;
-      }
+        if (item.type === "text") {
+          content = `<p>${item.label}</p>`;
+        }
 
-      const topicDiv = document.getElementById("topic");
-      topicDiv.innerHTML = "";
-      data.topic.forEach(item => {
-        topicDiv.innerHTML += `
-        <button class="button" onclick="loadDoc('${item.link}')">
-          📄 ${item.label}
-        </button>
-        `;
+        div.innerHTML += `<div class="card">${content}</div>`;
       });
-
-      const otherDiv = document.getElementById("other");
-      otherDiv.innerHTML = "";
-      data.other.forEach(item => {
-        otherDiv.innerHTML += `
-          <button class="button" onclick="loadDoc('${item.link}')">
-            📎 ${item.label}
-          </button>
-        `;
-      });
-
-
     }
 
     function loadDoc(url) {
