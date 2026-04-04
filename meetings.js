@@ -543,7 +543,7 @@ const meetings = {
       {
         type: "image",
         label: "Pens from Kenny",
-        src: "other-images/202512-from-kenny.jpg"
+        src: "other-images/202512-pens-from-kenny.jpg"
       },
       {
         type: "pdf",
