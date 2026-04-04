@@ -64,6 +64,13 @@
       /* Fade-in for cards */
     }
 
+    .card p {
+      text-align: center;
+      margin-top: 8px;
+      color: #5c4b7d;
+      font-size: 16px;
+    }
+
 
     /* Stagger effect */
     .card:nth-child(1) {
@@ -364,8 +371,8 @@
       setTitle("luminary-title", "Luminary", data.luminary?.title);
 
       /* Working agenda -- Teacher Only */
-      const isTeacher = localStorage.getItem("isTeacher");
-      if (isTeacher === "true") {
+      const role = localStorage.getItem("role");
+      if (role === "teacher") {
         document.getElementById("teacher-only").style.display = "block";
       }
 
@@ -381,6 +388,7 @@
       renderItems(data.practice?.items || [], "practice");
       renderItems(data.affirmation || [], "affirmation");
       renderItems(data.meditation?.items || [], "meditation");
+      renderItems(data.luminary?.items || [], "luminary");
       renderItems(data.topic?.items || [], "topic");
       renderItems(data.other || [], "other");
 
@@ -391,7 +399,7 @@
 
       if (!el) return;
 
-      if (sub !== undefined && sub !== null) {
+      if (sub && sub.trim() !== "") {
         el.innerHTML = `${main} <span class="subtitle">- ${sub}</span>`;
       } else {
         el.innerHTML = main;
@@ -408,7 +416,10 @@
         let content = "";
 
         if (item.type === "image") {
-          content = `<img src="${item.src}">`;
+          content = `
+            <img src="${item.src}">
+            ${item.label ? `<p>${item.label}</p>` : ""}
+         `;
         }
 
         if (item.type === "pdf") {
