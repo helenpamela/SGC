@@ -362,7 +362,7 @@ const meetings = {
         {
           type: "image",
           label: "How to Make a Difference Card",
-          src: "daily-practice-images/202601-card-how to make a diff.jpg"
+          src: "daily-practice-images/202601-card-how-to-make-a-diff.jpg"
         },
         {
           type: "pdf",
