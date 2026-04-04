@@ -399,7 +399,7 @@
       renderItems(data.focus?.items || [], "focus");
       renderItems(data.practice?.items || [], "practice");
       renderItems(data.affirmation || [], "affirmation");
-      renderItems(data.meditation || [], "meditation");
+      renderItems(data.meditation?.items || [], "meditation");
       renderItems(data.topic?.items || [], "topic");
       renderItems(data.other || [], "other");
 
@@ -457,7 +457,7 @@
       modal.style.display = "block";
     }
 
-
+    /*
     const modal = document.getElementById("modal");
     const closeBtn = document.querySelector(".close");
 
@@ -472,10 +472,33 @@
         document.getElementById("modalViewer").src = "";
       }
     };
+    */
+
+    window.addEventListener("load", () => {
+      const modal = document.getElementById("modal");
+      const closeBtn = document.querySelector(".close");
+
+      if (closeBtn) {
+        console.log("Close button:", closeBtn);
+        closeBtn.onclick = function () {
+          modal.style.display = "none";
+          document.getElementById("modalViewer").src = "";        
+        };
+      }
+
+      if (modal) {
+        modal.onclick = function (event) {
+          if (event.target === modal) {
+            modal.style.display = "none";
+            document.getElementById("modalViewer").src = "";
+          }
+        };
+      }
+    });
 
   </script>
 
-  
+
 
 </body>
 
