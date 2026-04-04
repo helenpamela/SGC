@@ -428,7 +428,7 @@ const meetings = {
       {
         type: "image",
         label: "Tree of Life from Linda",
-        src: "other-images/202601_Tree of Life.jpg"
+        src: "other-images/202601-tree-of-life.jpg"
       }
 
     ]
