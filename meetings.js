@@ -117,12 +117,12 @@ const meetings = {
       {
         type: "PDF",
         label: "Prayer for Spring Equinox",
-        link: "https://drive.google.com/file/d/1SuH0bEKTPwSG4Ijr8Zgqbr4yNvkkE9qW/preview"
+        src: "https://drive.google.com/file/d/1SuH0bEKTPwSG4Ijr8Zgqbr4yNvkkE9qW/preview"
       },
       {
         type: "PDF",
         label: "Return to Flow",
-        link: "https://drive.google.com/file/d/1bSiJW7JUBCeRqq1sebAmFJCF3MavJGgS/preview"
+        src: "https://drive.google.com/file/d/1bSiJW7JUBCeRqq1sebAmFJCF3MavJGgS/preview"
       }
 
     ]
@@ -535,7 +535,7 @@ const meetings = {
         {
           type: "PDF",
           label: "Water Release Ritual",
-          src: "https://drive.google.com/file/d/1VDXZV_0eXz8GEQbTlhWFKl7sRmYJtC-C/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1VDXZV_0eXz8GEQbTlhWFKl7sRmYJtC-C/preview"
         }
       ]
     },

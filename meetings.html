@@ -357,36 +357,42 @@
       document.getElementById("title").innerHTML =
         `${data.title}<br><span style="font-size: 0.6em; color: #888;"></span>`;
 
+      /*
       const final_agendaDiv = document.getElementById("final_agenda");
       final_agendaDiv.innerHTML = "";
       final_agendaDiv.innerHTML += `
-        <button class="button" onclick="loadDoc('${item.link}')"> </button>
+        <button class="button" onclick="loadDoc('${item.src}')"> </button>
         `;
       ;
+      */
 
       /* Working agenda -- Teacher Only */
       const isTeacher = localStorage.getItem("isTeacher");
       if (isTeacher === "true") {
         document.getElementById("teacher-only").style.display = "block";
       }
+      /*
       const working_agendaDiv = document.getElementById("working_agenda");
       working_agendaDiv.innerHTML = "";
       working_agendaDiv.innerHTML += `
-        <button class="button" onclick="loadDoc('${item.link}')"> </button>
+        <button class="button" onclick="loadDoc('${item.src}')"> </button>
         `;
       ;
+      */
 
       // Titles, setup, special sections
       document.getElementById("title").innerHTML = data.title;
 
       // Now render each section using your helper ✨
+      renderItems(data.final_agenda || [], "final_agenda");
+      renderItems(data.teacher_only?.working_agenda || [], "working_agenda");
       renderItems(data.intention || [], "intention");
       renderItems(data.lovingkindness || [], "lovingkindness");
-      renderItems(data.focus || [], "focus");
-      renderItems(data.practice || [], "practice");
-      renderItems(data.affirmation || [], "affirmation");
-      renderItems(data.meditation || [], "meditation");
-      renderItems(data.topic || [], "topic");
+      renderItems(data.focus.items || [], "focus");
+      renderItems(data.practice.items || [], "practice");
+      renderItems(data.affirmation.items || [], "affirmation");
+      renderItems(data.meditation.items || [], "meditation");
+      renderItems(data.topic.items || [], "topic");
       renderItems(data.other || [], "other");
 
     }

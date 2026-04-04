@@ -10,6 +10,29 @@
       background: #f6f3f9;
     }
 
+    select {
+      font-size: 18px;
+      padding: 8px;
+    }
+
+    label {
+      font-size: 18px;
+    }
+
+    button {
+      font-size: 18px;
+      padding: 10px 16px;
+    }
+
+    input {
+      font-size: 18px;
+    }
+
+    select, input {
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
+
     .container {
       width: 100%;
       max-width: 800px;
@@ -68,7 +91,7 @@
       width: 120px;
       margin-bottom: 10px;
     }
-   
+
     @keyframes gentleGlow {
       0% {
         box-shadow: 0 0 10px rgba(200, 170, 255, 0.25);
@@ -120,7 +143,7 @@
     <h2>Search by Topic 🔍</h2>
 
     <input type="text" id="searchInput" placeholder="Enter topic, monthly focus, or daily practice..."
-    onkeyup="searchMeetings()" style="width: 100%; padding: 12px; margin-bottom: 20px;">
+      onkeyup="searchMeetings()" style="width: 100%; padding: 12px; margin-bottom: 20px;">
 
     <ul id="searchResults"></ul>
 
