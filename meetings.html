@@ -356,7 +356,10 @@
       console.log("Invalid meeting ID:", id);
     } else {
       render();
-      applyPermissions();
+      // Delay permissions slightly so DOM is fully ready
+      setTimeout(() => {
+        applyPermissions();
+      }, 0);
     }
 
     function render() {
