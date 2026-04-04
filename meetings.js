@@ -79,6 +79,16 @@ const meetings = {
       ]
     },
 
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    }
+
     tags: ["cliff notes", "happiness", "equinox", "flow", "positive energy"],
 
     topic: {

@@ -255,16 +255,21 @@
     }
 
     /* Images */
+    /*
     img {
       width: 100%;
       border-radius: 10px;
       margin-top: 10px;
       overflow: visible;
     }
+      */
 
     .card img {
-      max-width: 100%;
+      width: 100%;
+      max-width: 400px;
       height: auto;
+      margin: 0 auto;
+      display: block;
       border-radius: 10px;
     }
 
@@ -305,7 +310,6 @@
       display: block;
       border-radius: 12px;
     }
-
   </style>
 </head>
 
@@ -322,9 +326,11 @@
     <div id="final_agenda"></div>
 
 
-    <div id="teacher-only" class="teacher-only" style="display:none;"></div>
-    <h2>Teacher Materials</h2>
-    <div id="working_agenda"></div>
+    <div id="teacher-only" class="teacher-only" style="display:none;">
+      <h2>Teacher Materials</h2>
+      <div id="working_agenda"></div>
+    </div>
+
   </div>
 
   <h2>Set Intention</h2>
