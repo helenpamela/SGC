@@ -506,7 +506,7 @@ const meetings = {
       {
         type: "video",
         label: "Release What Does Not Serve You Guided Meditation",
-        src: "https://www.youtube.com/watch?v=r4dfe0j_NCg&t=11s"
+        src: "https://www.youtube.com/embed/r4dfe0j_NCg&t=11s"
       }
     ],
 

@@ -292,7 +292,8 @@
     <h2>Agenda</h2>
     <div id="final_agenda"></div>
 
-    <div id="teacher-only" style="display:none;">
+   
+    <div id="teacher-only" class="teacher-only" style="display:none;"></div>
       <h2>Teacher Materials</h2>
       <div id="working_agenda"></div>
     </div>
@@ -370,11 +371,12 @@
       setTitle("topic-title", "Topic", data.topic?.title);
       setTitle("luminary-title", "Luminary", data.luminary?.title);
 
-      /* Working agenda -- Teacher Only */
+      /* Working agenda -- Teacher Only -- handled by app.js
       const role = localStorage.getItem("role");
       if (role === "teacher") {
         document.getElementById("teacher-only").style.display = "block";
       }
+      */
 
       // Titles, setup, special sections
       document.getElementById("title").innerHTML = data.title;
