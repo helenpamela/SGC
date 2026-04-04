@@ -87,7 +87,7 @@ const meetings = {
           src: "none-images/no-meditation.jpg"
         }
       ]
-    }
+    },
 
     tags: ["cliff notes", "happiness", "equinox", "flow", "positive energy"],
 
