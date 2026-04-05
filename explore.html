@@ -4,6 +4,25 @@
   <link rel="stylesheet" href="header-styles.css">
 
   <style>
+    .explore-banner {
+      background: linear-gradient(135deg, #e6d9f5, #f3ecfb);
+      padding: 25px;
+      border-radius: 16px;
+      margin-bottom: 25px;
+      text-align: center;
+    }
+
+    .explore-banner h1 {
+      margin: 0;
+      color: #5c4b7d;
+    }
+
+    .explore-banner img {
+      width: 100px;
+      margin-bottom: 10px;
+    }
+
+
     body {
       font-family: 'Segoe UI', Tahoma, sans-serif;
       margin: 0;
@@ -132,7 +151,11 @@
   <div id="header-placeholder"></div>
 
   <div class="container">
-    <h1>Explore 🔍</h1>
+
+    <div class="explore-banner">
+      <img src="cliff-notes-images/map.png" alt="Explore">
+      <h1>Explore</h1>
+    </div>
 
     <h2>Search Meetings by Date 🔍</h2>
 
@@ -160,7 +183,7 @@
     <br><br>
 
     <button onclick="goToMeeting()">Go</button>
-    
+
     <h2>Search Meetings by Topic 🔍</h2>
 
     <input type="text" id="searchInput" placeholder="Enter topic, monthly focus, or daily practice..."
