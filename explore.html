@@ -209,7 +209,10 @@
 
     results.innerHTML = "";
 
-    if (!input) return;
+    if (!input) {
+      localStorage.removeItem("searchResults"); // 👈 clear old results
+      return;
+    }
 
     let matches = [];
 
@@ -218,6 +221,7 @@
       const tagMatch = meeting.tags?.some(tag =>
         tag.toLowerCase().includes(input)
       );
+
       if (titleMatch || tagMatch) {
         matches.push(id);
 
@@ -230,14 +234,17 @@
         results.appendChild(li);
       }
     });
-    // 👇 NEW PART (your idea!)
+
+    // 👇 SAVE RESULTS (this is the key fix)
+    localStorage.setItem("searchResults", JSON.stringify(matches));
+
+    // Optional message
     if (matches.length === 0) {
       results.innerHTML = `<li style="color:#8a7fb0;">No results found 💜</li>`;
     }
 
-    // Save results for navigation
-    localStorage.setItem("searchResults", JSON.stringify(matches));
-
+    console.log("Saved searchResults:", matches); // 👈 debug
   }
+
 
 </script>
