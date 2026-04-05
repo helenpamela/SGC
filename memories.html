@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 
@@ -12,20 +11,22 @@
       margin: 0;
       background: #f6f3f9;
     }
+
     .container {
       max-width: 900px;
       margin: 30px auto;
       background: #fff;
       padding: 25px;
       border-radius: 18px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
     }
 
     h1 {
       text-align: center;
       color: #5c4b7d;
     }
-     .subtitle {
+
+    .subtitle {
       text-align: center;
       color: #8a7fb0;
       margin-bottom: 20px;
@@ -37,23 +38,27 @@
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
       gap: 15px;
     }
-     .photo-card {
+
+    .photo-card {
       background: #fff;
       border-radius: 12px;
       padding: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
       cursor: pointer;
       transition: all 0.2s ease;
     }
+
     .photo-card:hover {
       transform: translateY(-3px);
-      box-shadow: 0 0 12px rgba(180,150,255,0.4);
+      box-shadow: 0 0 12px rgba(180, 150, 255, 0.4);
     }
 
     .photo-card img {
       width: 100%;
       border-radius: 10px;
+
     }
+
     .photo-card p {
       text-align: center;
       font-size: 14px;
@@ -61,20 +66,26 @@
       margin-top: 8px;
     }
 
+    .photo-card img:hover {
+      transform: scale(1.03);
+    }
+
     /* Modal */
     .modal {
       display: none;
       position: fixed;
       z-index: 1000;
-      left:0; top:0;
-      width:100%; height:100%;
-      background: rgba(0,0,0,0.6);
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.6);
     }
 
     .modal-content {
       position: fixed;
-      top:50%;
-      left:50%;
+      top: 50%;
+      left: 50%;
       transform: translate(-50%, -50%);
       max-width: 700px;
       width: 90%;
@@ -83,9 +94,11 @@
       padding: 15px;
       text-align: center;
     }
-
+    
     .modal img {
-      width: 100%;
+      max-width: 100%;
+      max-height: 70vh;
+      object-fit: contain;
       border-radius: 10px;
     }
 
@@ -120,87 +133,87 @@
     .nav-buttons button:hover {
       background: #d6c6f0;
     }
-
   </style>
 </head>
 
 <body>
 
-<div id="header-placeholder"></div>
+  <div id="header-placeholder"></div>
 
-<div class="container">
-  <h1>Shared Memories 💜</h1>
-  <p class="subtitle">Moments we've cherished together</p>
+  <div class="container">
+    <h1>Shared Memories 💜</h1>
+    <p class="subtitle">Moments we've cherished together</p>
 
-  <div id="gallery" class="gallery"></div>
-</div>
+    <div id="gallery" class="gallery"></div>
+  </div>
 
-<!-- Modal -->
-<div id="modal" class="modal">
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <img id="modalImg">
-    <p id="modalCaption"></p>
+  <!-- Modal -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <img id="modalImg">
+      <p id="modalCaption"></p>
 
-    <div class="nav-buttons">
-      <button onclick="prevPhoto()">⬅ Previous</button>
-      <button onclick="nextPhoto()">Next ➡</button>
+      <div class="nav-buttons">
+        <button onclick="prevPhoto()">⬅ Previous</button>
+        <button onclick="nextPhoto()">Next ➡</button>
+      </div>
     </div>
   </div>
-</div>
 
-<script src="app.js"></script>
-<script src="memories.js"></script>
+  <script src="app.js"></script>
+  <script src="memories.js"></script>
 
-<script>
-  fetch('header.html')
-    .then(r => r.text())
-    .then(d => document.getElementById('header-placeholder').innerHTML = d);
+  <script>
+    fetch('header.html')
+      .then(r => r.text())
+      .then(d => document.getElementById('header-placeholder').innerHTML = d);
 
-  let currentIndex = 0;
+    let currentIndex = 0;
 
-  function renderGallery() {
-    const gallery = document.getElementById("gallery");
-    gallery.innerHTML = "";
+    function renderGallery() {
+      const gallery = document.getElementById("gallery");
+      gallery.innerHTML = "";
 
-    memories.forEach((item, index) => {
-      gallery.innerHTML += `
+      memories.forEach((item, index) => {
+        gallery.innerHTML += `
         <div class="photo-card" onclick="openModal(${index})">
           <img src="${item.src}">
           ${item.caption ? `<p>${item.caption}</p>` : ""}
         </div>
       `;
-    });
-  }
+      });
+    }
 
-  function openModal(index) {
-    currentIndex = index;
-    showPhoto();
-    document.getElementById("modal").style.display = "block";
-  }
+    function openModal(index) {
+      currentIndex = index;
+      showPhoto();
+      document.getElementById("modal").style.display = "block";
+    }
 
-  function showPhoto() {
-    const item = memories[currentIndex];
-    document.getElementById("modalImg").src = item.src;
-    document.getElementById("modalCaption").innerText = item.caption || "";
-  }
+    function showPhoto() {
+      const item = memories[currentIndex];
+      document.getElementById("modalImg").src = item.src;
+      document.getElementById("modalCaption").innerText = item.caption || "";
+    }
 
-  function nextPhoto() {
-    currentIndex = (currentIndex + 1) % memories.length;
-    showPhoto();
-  }
+    function nextPhoto() {
+      currentIndex = (currentIndex + 1) % memories.length;
+      showPhoto();
+    }
 
-  function prevPhoto() {
-    currentIndex = (currentIndex - 1 + memories.length) % memories.length;
-    showPhoto();
-  }
+    function prevPhoto() {
+      currentIndex = (currentIndex - 1 + memories.length) % memories.length;
+      showPhoto();
+    }
 
-  document.querySelector(".close").onclick = () => {
-    document.getElementById("modal").style.display = "none";
-  };
+    document.querySelector(".close").onclick = () => {
+      document.getElementById("modal").style.display = "none";
+    };
 
-  renderGallery();
-</script>
+    renderGallery();
+  </script>
 
 </body>
+
 </html>
