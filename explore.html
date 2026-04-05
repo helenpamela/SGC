@@ -4,14 +4,6 @@
   <link rel="stylesheet" href="header-styles.css">
 
   <style>
-    .explore-banner {
-      background: linear-gradient(135deg, #e6d9f5, #f3ecfb);
-      padding: 25px;
-      border-radius: 16px;
-      margin-bottom: 25px;
-      text-align: center;
-    }
-
     .explore-banner h1 {
       margin: 0;
       color: #5c4b7d;
@@ -20,6 +12,44 @@
     .explore-banner img {
       width: 100px;
       margin-bottom: 10px;
+    }
+
+    .explore-banner {
+      background-image: url('cliff-notes-images/explore-header.jpg');
+      /* <-- your image path */
+      background-size: cover;
+      background-position: center;
+
+      padding: 40px 20px;
+      border-radius: 16px;
+      margin-bottom: 25px;
+      text-align: center;
+
+      position: relative;
+    }
+
+    .explore-banner {
+      background-image: url('images/map.jpg');
+      /* <-- your image path */
+      background-size: cover;
+      background-position: center;
+
+      padding: 40px 20px;
+      border-radius: 16px;
+      margin-bottom: 25px;
+      text-align: center;
+
+      position: relative;
+    }
+
+    /* Soft overlay so text is readable */
+    .explore-banner::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(255, 255, 255, 0.75);
+      /* soft white glow */
+      border-radius: 16px;
     }
 
 
