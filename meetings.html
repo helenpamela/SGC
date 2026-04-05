@@ -362,6 +362,14 @@
       console.log("Invalid meeting ID:", id);
     } else {
       render();
+
+      // 👇 ADD THIS RIGHT HERE
+      let searchResults = JSON.parse(localStorage.getItem("searchResults") || "[]");
+
+      if (searchResults.length > 1) {
+        document.getElementById("search-nav").style.display = "block";
+      }
+
       // Delay permissions slightly so DOM is fully ready
       setTimeout(() => {
         applyPermissions();
