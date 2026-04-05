@@ -131,6 +131,12 @@
       font-size: 16px;
       margin-bottom: 10px;
     }
+
+    #searchBox:focus {
+      outline: none;
+      border-color: #b9a7e6;
+      box-shadow: 0 0 5px rgba(180, 150, 255, 0.4);
+    }
   </style>
 </head>
 
@@ -142,7 +148,12 @@
     <img src="cliff-notes-images/first-aid.png">
     <h1>First Aid</h1>
     <div class="subtitle">What do I need right now? ✨</div>
-    <ul>
+
+    <input type="text" id="searchBox" placeholder="What am I looking for..."
+      style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 10px; border: 1px solid #ddd;">
+
+
+    <ul id="firstAidList">
       <li><a href="#" onclick="openModal(0)">🌬️ Deep Breathing / Ask for Help</a></li>
       <li><a href="#" onclick="openModal(1)">💛 Rescue Remedy</a></li>
       <li><a href="#" onclick="openModal(2)">🙏 Go outside in Nature / Silence / Take a nap </a></li>
@@ -161,7 +172,6 @@
       .then(data => {
         document.getElementById('header-placeholder').innerHTML = data;
       });
-
 
     const firstAidDocs = [
       "https://drive.google.com/file/d/1TPXrTxqnTJwfAFf20Fm93SIPK1twjUb8/preview",   // cn-fa-01-breathe-ask.pdf
@@ -206,6 +216,27 @@
     }
 
   </script>
+
+  <script id="kx8c2t">
+    const searchBox = document.getElementById("searchBox");
+    const items = document.querySelectorAll("#firstAidList li");
+
+    searchBox.addEventListener("keyup", function () {
+      const searchText = searchBox.value.toLowerCase();
+
+      items.forEach(function (item) {
+        const text = item.textContent.toLowerCase();
+        if (text.includes(searchText)) {
+          item.style.display = "";
+        } else {
+          item.style.display = "none";
+        }
+      });
+    });
+  </script>
+
+
+
 
   <script src="app.js"></script>
 
