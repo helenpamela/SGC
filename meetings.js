@@ -562,7 +562,7 @@ const meetings = {
       }
     ]
 
-  },
+  }
 
 
 

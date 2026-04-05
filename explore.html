@@ -218,6 +218,15 @@
     let matches = [];
 
     Object.entries(meetings).forEach(([id, meeting]) => {
+      if (!meeting.title) {
+        console.log("Missing title:", id, meeting);
+      }
+
+      if (!meeting.tags) {
+        console.log("Missing tags:", id, meeting);
+      }
+
+
       const titleMatch = meeting.title.toLowerCase().includes(input);
       const tagMatch = meeting.tags?.some(tag =>
         tag.toLowerCase().includes(input)
