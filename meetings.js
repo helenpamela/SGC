@@ -89,7 +89,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cliff notes", "happiness", "equinox", "flow", "positive energy"],
+    tags: ["cliff notes", "happiness", "equinox",  "positive energy"],
 
     topic: {
       title: "Cliff Notes Update and Happiness",
@@ -565,10 +565,6 @@ const meetings = {
   },
 
 
-
-  "202511": {
-
-  }
 
 };
 
