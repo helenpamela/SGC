@@ -28,7 +28,8 @@
       font-size: 18px;
     }
 
-    select, input {
+    select,
+    input {
       border-radius: 8px;
       border: 1px solid #ddd;
     }
@@ -104,6 +105,24 @@
       100% {
         box-shadow: 0 0 10px rgba(200, 170, 255, 0.25);
       }
+    }
+
+    #searchResults li {
+      list-style: none;
+      margin: 8px 0;
+    }
+
+    #searchResults a {
+      text-decoration: none;
+      color: #5c4b7d;
+      background: #f3ecfb;
+      padding: 10px;
+      border-radius: 8px;
+      display: block;
+    }
+
+    #searchResults a:hover {
+      background: #e6d9f5;
     }
   </style>
 </head>
@@ -183,4 +202,31 @@
 
     window.location.href = `meetings.html?id=${id}`;
   }
+  function searchMeetings() {
+    const input = document.getElementById("searchInput").value.toLowerCase();
+    const results = document.getElementById("searchResults");
+
+    results.innerHTML = "";
+
+    if (!input) return;
+
+    Object.entries(meetings).forEach(([id, meeting]) => {
+      const titleMatch = meeting.title.toLowerCase().includes(input);
+      const tagMatch = meeting.tags?.some(tag =>
+        tag.toLowerCase().includes(input)
+      );
+
+      if (titleMatch || tagMatch) {
+        const li = document.createElement("li");
+        li.innerHTML = `
+        <a href="meetings.html?id=${id}">
+          ${meeting.title}
+        </a>
+      `;
+
+        results.appendChild(li);
+      }
+    });
+  }
+
 </script>
