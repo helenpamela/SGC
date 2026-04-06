@@ -178,6 +178,21 @@
 
   </script>
 
+<audio id="chime" src="sounds/chime.mp3"></audio>
+
+<script>
+  window.addEventListener("load", () => {
+    const chime = document.getElementById("chime");
+
+    // Small delay makes it feel more intentional ✨
+    setTimeout(() => {
+      chime.play().catch(() => {
+        console.log("Autoplay blocked (normal behavior)");
+      });
+    }, 300);
+  });
+</script>
+
   <script src="app.js"></script>
 
 </body>
