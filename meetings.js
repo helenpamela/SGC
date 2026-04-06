@@ -89,7 +89,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cliff notes", "happiness", "equinox",  "positive energy"],
+    tags: ["cliff notes", "happiness", "equinox", "positive energy"],
 
     topic: {
       title: "Cliff Notes Update and Happiness",
@@ -444,7 +444,6 @@ const meetings = {
 
   },
 
-
   "202512": {
     title: "December 2025",
     month: "December",
@@ -562,10 +561,165 @@ const meetings = {
       }
     ]
 
+  },
+
+  "202511": {
+    title: "November 2025",
+    month: "November",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1QN86OVUKLN20e8PL6lfxaVaxDBU4IajD/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1t8EO8k3hpiLjm-SrqE8PTfNELZtaR3Kw/preview"
+        }
+      ]
+    },
+    intention: [
+      {
+        type: "pdf",
+        label: "Intention Process",
+        src:   "https://drive.google.com/file/d/1nmOrPzG_e56y8S7hW__qPchSOti2me3e/preview"
+      }
+
+    ],
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rainbow Fluorite",
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202511-rainbow-fluorite.jpg",
+        },
+        {
+          type: "image",
+          src: "crystal-images/202511-rainbow-fluorite-properties.jpg",
+        },
+        {
+          type: "image",
+          label: "Worry Stone from Linda",
+          src: "crystal-images/202511-rainbow-fluorite-worry-stone.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Rainbow Fluorite - Meaning & Properties",
+          src: "https://drive.google.com/file/d/1KMY0BPiAbr7TId800gtEszsSVA2kTcIo/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rainbow Fluorite - What is it Good For?",
+          src: "https://drive.google.com/file/d/1zNkuQ8VSrpv1Odwj-yNFC_6fYH_WMaRx/preview"
+        }
+      ]
+
+    },
+     
+    practice: {
+      title: "Gratitude",
+      items: [
+        {
+          type: "image",
+          label: "Blessings Abound",
+          src: "daily-practice-images/202511-blessings-abound-book.jpg",
+        },
+        {
+          type: "image",
+          label: "rose quartz hearts from Linda",
+          src: "daily-practice-images/202511-rose-quartz-hearts.jpg",
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This month's affirmation",
+        src: "affirmation-images/202511-affirmation.png"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          image: "luminary-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    tags: ["gratitude", "rose quartz", "rainbow fluorite", "quantum jumping"],
+
+    topic: {
+      title: "Quantum Jumping",
+      items: [
+        {
+          type: "image",
+          label: "Card - How Good Can it Get?",
+          src: "topic-images/202511-card-how-good-can-it-get.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Definition of Quantum Jumpingl",
+          src: "https://drive.google.com/file/d/1C07SSsLtcGqcxjD2bIoqYTFuFlY5Y7AG/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Quantum Jumping - AI Overview",
+          src: "https://drive.google.com/file/d/16vqh3fljz2dWnZO_s7k4rZn9pT_3eEpR/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Shift Reality - 3 Steps & Top 10 Tips",
+          src: "https://drive.google.com/file/d/1KyZrdZ9OEcZgGZWc87TNOPPrN9dUMLN3/preview"
+        },
+        {
+          type: "pdf",
+          label: "Quantum Jumping with the Two Glass Method",
+          src: "https://drive.google.com/file/d/1uJs_cXBnqOrkYYrlKloWzvz5N2sVL78C/preview"
+        },
+        {
+          type: "pdf",
+          label: "Quantum Jumping - Two-Glass Method",
+          src: "https://drive.google.com/file/d/1SR3zmVLyK3fi73KCC_p9UOL_DHFPEGYB/preview"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      } 
+    ]
   }
 
-
-
-};
-
+}
 
