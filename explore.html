@@ -358,22 +358,46 @@
 <script>
 
   const allItems = [
-    { text: "Affirmations", category: "First Aid", link: "first-aid.html" },
-    { text: "My Affirmations", category: "First Aid", link: "first-aid.html" },
-
-    { text: "Energy", category: "Concepts", link: "concepts.html" },
-    { text: "Law of Attraction - Like Attracts Like", category: "Concepts", link: "concepts.html" },
-    { text: "Emotional Guidance Scale", category: "Concepts", link: "concepts.html" },
-
-    { text: "Breathing", category: "Daily Practices", link: "daily-practices.html" }
+    {
+      text: "Affirmations",
+      category: "First Aid",
+      link: "first-aid.html",
+      tags: ["confidence", "self-talk", "uplift"]
+    },
+    {
+      text: "My Affirmations",
+      category: "First Aid",
+      link: "first-aid.html",
+      tags: ["personal", "confidence", "daily"]
+    },
+    {
+      text: "Energy",
+      category: "Concepts",
+      link: "concepts.html",
+      tags: ["vibration", "awareness", "mindset"]
+    },
+    {
+      text: "Emotional Guidance Scale",
+      category: "Concepts",
+      link: "concepts.html",
+      tags: ["emotions", "awareness", "feelings"]
+    },
+    {
+      text: "Breathing",
+      category: "Daily Practices",
+      link: "daily-practices.html",
+      tags: ["calm", "anxiety", "relax", "ground"]
+    }
   ];
+
+
 
   function highlightText(text, searchTerm) {
     if (!searchTerm) return text;
 
-     const escaped = searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-     const regex = new RegExp(`(${escaped})`, "gi");
-    
+    const escaped = searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(`(${escaped})`, "gi");
+
     // const regex = new RegExp(`(${searchTerm})`, "gi");
     return text.replace(regex, '<span class="highlight">$1</span>');
   }
@@ -388,7 +412,15 @@
 
     let matchCount = 0;
     allItems.forEach(item => {
-      if (item.text.toLowerCase().includes(value)) {
+
+      const textMatch = item.text.toLowerCase().includes(value);
+
+      const tagMatch = item.tags?.some(tag =>
+        tag.toLowerCase().includes(value)
+      );
+
+      if (textMatch || tagMatch) {
+
         const li = document.createElement("li");
 
         li.innerHTML = `
