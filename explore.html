@@ -371,7 +371,10 @@
   function highlightText(text, searchTerm) {
     if (!searchTerm) return text;
 
-    const regex = new RegExp(`(${searchTerm})`, "gi");
+     const escaped = searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+     const regex = new RegExp(`(${escaped})`, "gi");
+    
+    // const regex = new RegExp(`(${searchTerm})`, "gi");
     return text.replace(regex, '<span class="highlight">$1</span>');
   }
 
