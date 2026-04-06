@@ -164,6 +164,29 @@
     #searchResults a:hover {
       background: #e6d9f5;
     }
+
+    #results li {
+      list-style: none;
+      margin-bottom: 10px;
+    }
+
+    #results a {
+      display: block;
+      background: #f3ecfb;
+      padding: 14px;
+      border: 1px solid rgba(180, 150, 255, 0.2);
+      border-radius: 12px;
+      text-decoration: none;
+      color: #5c4b7d;
+      font-size: 16px;
+      transition: all 0.2s ease;
+    }
+
+    #results a:hover {
+      background: #e6d9f5;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 14px rgba(180, 150, 255, 0.25);
+    }
   </style>
 </head>
 
@@ -346,10 +369,18 @@
         const li = document.createElement("li");
 
         li.innerHTML = `
-        <a href="${item.link}">
-          ${item.text} 
-          <span style="color:#888;">(${item.category})</span>
-        </a>
+          <a href="${item.link}">
+            ${item.text}            
+              <span style="
+                 display:block;
+                 font-size: 14px;
+                 color:#8a7fb0;
+                margin-top: 4px;
+             ">
+             ${item.category}
+             </span>
+          
+          </a>
       `;
 
         results.appendChild(li);
