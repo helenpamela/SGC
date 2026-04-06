@@ -163,6 +163,10 @@ const memories = {
     {
       src: "member-images/cliff-notes-cropped-2019.jpg",
       caption: "Cliff Notes 2019 📖"
+    },
+    {
+      src: "member-images/2020-linda-pc-pam-trudi-village-inn.jpg",
+      caption: "Village Inn 2020 🥪"
     }
 
 
@@ -288,8 +292,106 @@ const memories = {
     },
     {
       src: "member-images/group-photo.jpg",
-      caption: "Pink Scarves 2022 🍉"
+      caption: "Pink Scarves 2022 🧣"
+    },
+    {
+      src: "member-images/2022-archetype-game.jpg",
+      caption: "Archetype Game 2022 🎴"
+    },
+    {
+      src: "member-images/2022-at-randy-rainbow-show.jpg",
+      caption: "Randy Rainbow in Person 2022 🌈"
+    },
+    {
+      src: "member-images/2022-dalai-linda.jpg",
+      caption: "Dalai Linda 2022 ☯️"
+    },
+    {
+      src: "member-images/2022-election-vision-board.jpg",
+      caption: "Election Vision Board 2022 🤞🏻"
+    },
+    {
+      src: "member-images/2022-linda-birthday.jpg",
+      caption: "2022 Birthday - What's in the bag? 🎁"
+    },
+    {
+      src: "member-images/2022-linda-coloring-book.jpg",
+      caption: "Let Your Light Shine Coloring Book 2022 🖍️"
+    },
+    {
+      src: "member-images/2022-linda-mimosa.jpg",
+      caption: "Cheers! 2022 🍹"
+    },
+    {
+      src: "member-images/2022-linda-pc-pam-trudi-out-and-about.jpg",
+      caption: "Out and About 2022 🚗"
+    },
+    {
+      src: "member-images/2022-linda-pc-silly-animal-masks.jpg",
+      caption: "2022 Who is that masked stranger? 🦊"
+    },
+    {
+      src: "member-images/2022-lunch-with-the-girls.jpg",
+      caption: "Lunch with the Girls 2022 🍴"
+    }, 
+    {
+      src: "member-images/2022-mimosas.jpg",
+      caption: "2022 Mimosas 🍹"
+    },
+    {
+      src: "member-images/2022-burning-bowl-bucket.jpg",
+      caption: "No, it's not just a bucket 2022 🪣"
+    },
+    {
+      src: "member-images/2022-pam-coloring-book.jpg",
+      caption: "Pam - Coloring Book 2022 🖍️"
+    },
+    {
+      src: "member-images/2022-pam-linda-archetype-cards.jpg",
+      caption: "Archetype Cards 2022 🎴"
+    },
+    {
+      src: "member-images/2022-pam-trudi-birthday-presents.jpg",
+      caption: "April Birthday Girls 2022 🎉"
+    },
+    {
+      src: "member-images/2022-pc-smiling.jpg",
+      caption: "PC is happy 2022 🙂"
+    },
+    {
+      src: "member-images/2022-pc-trudi-archetype cards.jpg",
+      caption: "PC & Trudi - Archetype Cards 2022 🎴"
+    },
+    {
+      src: "member-images/2022-randy-rainbow.jpg",
+      caption: "Randy Rainbow Show 2022 🌈"
+    },
+    {
+      src: "member-images/2022-st-patricks-day.jpg",
+      caption: "St. Patrick's Day 2022 ☘️"
+    },
+    {
+      src: "member-images/2022-trudi-i-am-releasing.jpg",
+      caption: "2022 Trudi - I am releasing... 🕉️"
+    },
+    {
+      src: "member-images/2022-village-inn.jpg",
+      caption: "Village Inn 2022 🍴"
+    },
+    {
+      src: "member-images/2022-village-inn-again.jpg",
+      caption: "Village Inn 2022 🍴"
+    },
+    {
+      src: "member-images/2022-walter-eating-with-sgc.jpg",
+      caption: "Walter joined SGC! 2022 🚀"
+    },
+    {
+      src: "member-images/2022-watching-the-burning-bowl.jpg",
+      caption: "Watching it burn 2022 🔥"
     }
+
+
 
 
 
