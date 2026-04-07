@@ -275,6 +275,18 @@ const memories = {
       caption: "Linda & Pa - Christmas 2021 🎄"
     },
     {
+      src: "member-images/2024-vision-boards-pc-trudi-kathy.jpg",
+      caption: "Vision Boards 2024 🖼️"
+    },
+    {
+      src: "2024-year-of-the-dragon-10-dragons.jpg",
+      caption: "Year of 10 Dragons 2024 🖼️"
+    },
+    {
+      src: "2024-lunch-with-shirts.jpg",
+      caption: "Lunch with Shirts 2024 🖼️"
+    },
+    {
       src: "member-images/sloths-2025.jpg",
       caption: "Sloths 2025 🦥"
     },
