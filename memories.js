@@ -76,7 +76,7 @@ const memories = {
 
   ],
 
-   
+
   middle: [
     {
       src: "member-images/2020-bookmarks.jpg",
@@ -428,7 +428,7 @@ const memories = {
       src: "member-images/2022-lunch-with-the-girls.jpg",
       caption: "Lunch with the Girls 2022 🍴",
       year: 2022
-    }, 
+    },
     {
       src: "member-images/2022-mimosas.jpg",
       caption: "2022 Mimosas on Easy Street 🍹",
@@ -498,7 +498,55 @@ const memories = {
       src: "member-images/2022-watching-the-burning-bowl.jpg",
       caption: "Watching it burn 2022 🔥",
       year: 2022
+    },
+    {
+      src: "member-images/2023-birthday-at-bjs.jpg",
+      caption: "Birthday at BJ's 2023 🎂",
+      year: 2023
+    },
+    {
+      src: "member-images/2023-dalai-linda-birthday.jpg",
+      caption: "Dalai Linda's Birthday 2023 🎁",
+      year: 2023
+    },
+    {
+      src: "member-images/2023-italian-lunch-with-vicky.jpg",
+      caption: "Italian Lunch with Vicky 2023 🍝",
+      year: 2023
+    },
+    {
+      src: "member-images/2023-kathy-trudi-Italian-wine.jpg",
+      caption: "Kathy & Trudi enjoying Italian Wine 2023 🍷",
+      year: 2023
+    },
+    {
+      src: "member-images/2023-kitchen-we-look-good!.jpg",
+      caption: "We are looking good! 2023 🦋",
+      year: 2023
+    },
+    {
+      src: "member-images/2023-linda-birthday-pizookie.jpg",
+      caption: "Pizookie! 2023 🍪",
+      year: 2023
+    },
+    {
+      src: "member-images/2023-linda-stuffed-animal.jpg",
+      caption: "2023 What is that? a lion? 🦁",
+      year: 2023
+    },
+    {
+      src: "member-images/2023-linda-unicorn.jpg",
+      caption: "2023 Linda and her Unicorn 🦄",
+      year: 2023
+    },
+    {
+      src: "member-images/2023-lunch.jpg",
+      caption: "Lunch 2023 🥗",
+      year: 2023
     }
+
+
+
 
 
 
