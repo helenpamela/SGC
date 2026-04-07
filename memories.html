@@ -154,9 +154,10 @@
     #nowCaption {
       font-size: 14px;
       color: #6b5c8a;
-      margin-top: 4px;
+      margin-top: 6px;
       font-style: italic;
     }
+
 
     .photo {
       max-width: 250px;
@@ -166,6 +167,7 @@
       width: 100%;
       border-radius: 12px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      transition: opacity 0.4s ease;
     }
 
     .photo p {
@@ -310,8 +312,6 @@
       showPhoto();
     }
 
-
-
     function getYear(memory) {
       if (memory.year) return memory.year;
 
@@ -319,6 +319,7 @@
       return match ? parseInt(match[0]) : null;
     }
 
+    /*
     function shufflePhotos() {
 
       // 👇 Combine all memory groups into one array
@@ -351,6 +352,22 @@
 
       document.getElementById("thenCaption").innerText = thenPick.caption || "";
       document.getElementById("nowCaption").innerText = nowPick.caption || "";
+    }
+    */
+
+    function shufflePhotos() {
+      const thenImg = document.getElementById("thenPhoto");
+      const nowImg = document.getElementById("nowPhoto");
+
+      thenImg.style.opacity = 0;
+      nowImg.style.opacity = 0;
+
+      setTimeout(() => {
+        // your existing shuffle logic here
+
+        thenImg.style.opacity = 1;
+        nowImg.style.opacity = 1;
+      }, 200);
     }
 
 
