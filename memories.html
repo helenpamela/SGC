@@ -220,6 +220,9 @@
       <button onclick="shufflePhotos()">Shuffle 🎲</button>
     </section>
 
+    <h2>🗓️ Browse by Year</h2>
+    <div id="year-buttons" style="text-align:center; margin-bottom: 15px;"></div>
+    <div id="gallery-year" class="gallery"></div>
 
     <div id="gallery" class="gallery"></div>
     <h2>🌿 2009-2014</h2>
@@ -319,41 +322,6 @@
       return match ? parseInt(match[0]) : null;
     }
 
-    /*
-    function shufflePhotos() {
-
-      // 👇 Combine all memory groups into one array
-      const allMemories = [
-        ...memories.early,
-        ...memories.middle,
-        ...memories.recent,
-        ...memories.undated
-      ];
-
-      const thenPhotos = allMemories.filter(m => {
-        const year = getYear(m);
-        return year && year < 2017;
-      });
-
-      const nowPhotos = allMemories.filter(m => {
-        const year = getYear(m);
-        return year && year > 2023;
-      });
-      if (thenPhotos.length === 0 || nowPhotos.length === 0) {
-        console.warn("Not enough photos for Then & Now");
-        return;
-      }
-
-      const thenPick = thenPhotos[Math.floor(Math.random() * thenPhotos.length)];
-      const nowPick = nowPhotos[Math.floor(Math.random() * nowPhotos.length)];
-
-      document.getElementById("thenPhoto").src = thenPick.src;
-      document.getElementById("nowPhoto").src = nowPick.src;
-
-      document.getElementById("thenCaption").innerText = thenPick.caption || "";
-      document.getElementById("nowCaption").innerText = nowPick.caption || "";
-    }
-    */
 
     function shufflePhotos() {
       const thenImg = document.getElementById("thenPhoto");
@@ -400,20 +368,49 @@
       }, 200);
     }
 
+    function getAllMemories() {
+      return [
+        ...memories.early,
+        ...memories.middle,
+        ...memories.recent,
+        ...memories.undated
+      ];
+    }
 
+    function getUniqueYears() {
+      const all = getAllMemories();
+      const years = all
+        .map(m => getYear(m))
+        .filter(y => y !== null);
 
+      return [...new Set(years)].sort((a, b) => b - a); // newest first
+    }
+
+    function renderYearButtons() {
+      const container = document.getElementById("year-buttons");
+      const years = getUniqueYears();
+
+      container.innerHTML = years.map(year =>
+        `<button onclick="filterByYear(${year})" style="margin:4px;">${year}</button>`
+      ).join("");
+    }
+    function filterByYear(year) {
+      const all = getAllMemories();
+      const filtered = all.filter(m => getYear(m) === year);
+
+      renderGallerySection(filtered, "gallery-year");
+    }
 
     // Load a random pair when page opens
     window.onload = shufflePhotos;
-
-
-
 
     document.querySelector(".close").onclick = () => {
       document.getElementById("modal").style.display = "none";
     };
 
     renderAll();
+    renderYearButtons();
+
   </script>
 
 </body>
