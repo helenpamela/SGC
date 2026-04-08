@@ -434,23 +434,23 @@
       }
 
       
-      function filterUndated() {
+      function filterUnknown() {
         const all = getAllMemories();
         const filtered = all.filter(m => getYear(m) === null);
 
         renderGallerySection(filtered, "gallery-year");
 
-        // highlight Undated
+        // highlight Unknown
         document.querySelectorAll("#year-buttons button").forEach(btn => {
-          btn.style.background = btn.innerText === "Undated" ? "#7b5cff" : "";
-          btn.style.color = btn.innerText === "Undated" ? "white" : "";
+          btn.style.background = btn.innerText === "Unknown" ? "#7b5cff" : "";
+          btn.style.color = btn.innerText === "Unknown" ? "white" : "";
         });
 
         document.getElementById("gallery-year").scrollIntoView({
           behavior: "smooth"
         });
       }
-      */
+      
 
       document.getElementById("gallery-year").scrollIntoView({
         behavior: "smooth"
