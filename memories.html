@@ -396,11 +396,13 @@
         `<button onclick="filterByYear(${year})" style="margin:4px;">${year}</button>`
       ).join("");
 
+      /*
       container.innerHTML = 
         `<button onclick="filterUnknown()" style="margin:4px;">Unknown</button>` +
           years.map(year =>
         `<button onclick="filterByYear(${year})" style="margin:4px;">${year}</button>`
         ).join("");
+      */
 
     }
 
@@ -431,6 +433,7 @@
         });
       }
 
+      /*
       function filterUnknown() {
         const all = getAllMemories();
         const filtered = all.filter(m => getYear(m) === null);
@@ -447,6 +450,7 @@
           behavior: "smooth"
         });
       }
+      */
 
       document.getElementById("gallery-year").scrollIntoView({
         behavior: "smooth"
