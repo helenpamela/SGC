@@ -683,11 +683,11 @@ const memories = {
   ],
 
 
-  unknown: [
+  undated: [
     {
-   src: "member-images/unknown-pink-scarves.jpg",
+   src: "member-images/undated-pink-scarves.jpg",
       caption: "Pink Scarves 🧣",
-      year: "Unknown"
+      year: "undated"
     }
 
 
