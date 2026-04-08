@@ -396,11 +396,10 @@
         `<button onclick="filterByYear(${year})" style="margin:4px;">${year}</button>`
       ).join("");
 
-      container.innerHTML =
-        `<button onclick="showAllMemories()" style="margin:4px;">All</button>
-           <button onclick="filterUnknown()" style="margin:4px;">Unknown</button>` +
-        years.map(year =>
-          `<button onclick="filterByYear(${year})" style="margin:4px;">${year}</button>`
+      container.innerHTML = 
+        `<button onclick="filterUnknown()" style="margin:4px;">Unknown</button>` +
+          years.map(year =>
+        `<button onclick="filterByYear(${year})" style="margin:4px;">${year}</button>`
         ).join("");
 
     }
