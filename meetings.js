@@ -783,7 +783,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "animal-images/202510-sloth-properties.png",
+          src: "animal-images/202510-sloth-properties.jpg",
         },
         {
           type: "image",
