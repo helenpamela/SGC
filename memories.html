@@ -224,7 +224,7 @@
 
     <h2>🗓️ Browse by Year</h2>
     <div id="year-buttons" style="text-align:center; margin-bottom: 15px;"></div>
-    <div id="gallery-year" class="gallery"></div> 
+    <div id="gallery-year" class="gallery"></div>
 
     <div id="gallery" class="gallery"></div>
     <h2>🌿 2009-2014</h2>
@@ -381,29 +381,27 @@
 
     function getUniqueYears() {
       const all = getAllMemories();
-      const years = all
-        .map(m => getYear(m))
-        .filter(y => y !== null);
 
-      return [...new Set(years)].sort((a, b) => b - a); // newest first
+      const years = [...new Set(all.map(m => getYear(m)))];
+
+      return years.sort((a, b) => {
+        if (a === "undated") return 1;   // push to end
+        if (b === "undated") return -1;
+        return b - a; // numeric sort
+      });
     }
 
     function renderYearButtons() {
       const container = document.getElementById("year-buttons");
       const years = getUniqueYears();
 
-      container.innerHTML = years.map(year =>
-        `<button onclick="filterByYear(${year})" style="margin:4px;">${year}</button>`
-      ).join("");
-
-
-      container.innerHTML =
-        `<button onclick="filterUndated()" style="margin:4px;">Undated</button>` +
-        years.map(year =>
-          `<button onclick="filterByYear(${year})" style="margin:4px;">${year}</button>`
-        ).join("");
-
-
+      container.innerHTML = years.map(year => {
+        if (year === "undated") {
+          return `<button onclick="filterUndated()" style="margin:4px;">undated</button>`;
+        } else {
+          return `<button onclick="filterByYear(${year})" style="margin:4px;">${year}</button>`;
+        }
+      }).join("");
     }
 
     function filterByYear(year) {
