@@ -301,6 +301,9 @@
       <div id="working_agenda"></div>
     </div>
 
+    <h2>Announcements</h2>
+    <div id="announcements"></div>
+
     <h2>Set Intention</h2>
     <div id="intention"></div>
 
@@ -407,6 +410,7 @@
       // Now render each section using your helper ✨
       renderItems(data.final_agenda || [], "final_agenda");
       renderItems(data.teacher_only?.working_agenda || [], "working_agenda");
+      renderItems(data.announcements || [], "announcements");
       renderItems(data.intention || [], "intention");
       renderItems(data.lovingkindness || [], "lovingkindness");
       renderItems(data.invocation || [], "invocation");
