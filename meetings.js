@@ -1248,15 +1248,15 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1D4FD0yeNHYyJrXFRCVscp3GlTzSLT_y1/preview"
       }
     ],
     teacher_only: {
       working_agenda: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1URY1q_vVSOLGha7sHo1e62AAm_2JDYZq/preview"
         }
       ]
     },
@@ -1271,9 +1271,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -1288,24 +1288,56 @@ const meetings = {
 
    
     focus: {
-      title: "",
+      title: "Horse",
       items: [
         {
-          type: "",
-          src: ""
-        }      
+          type: "image",
+          src: "animal-images/202507-horse.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202507-horse-properties.jpg"
+        }, 
+        {
+          type: "image",
+          src: "animal-images/202507-horse-properties.jpg"
+        }, 
+        {
+          type: "image",
+          src: "monthly-focus-images/202507-horse-items-from-Linda.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Horse Properties AI",
+          src: "https://drive.google.com/file/d/14RnTikVXK45OxMKPo7nuNJCWOYUHh9Tc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Horse Images",
+          src: "https://drive.google.com/file/d/1t0zYMaVKmyBMjiH4Hvxqe-mAIrFjtbEH/preview"
+        }
        
       ]
 
     },
      
     practice: {
-      title: "",
+      title: "Shine Your Light",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Article - What Does Shine Your Light Mean?",
+          src: "https://drive.google.com/file/d/1xLChuInCxfIByiBYA50w6ChZjjWvCD6h/preview"
+        },
+        {
+          type: "pdf",
+          label: "A to Z Shine Your Light",
+          src: "https://drive.google.com/file/d/1QQhlnY3ilF4LE9-KqPc2np_5RFqoxwo3/preview"
+        },
+        {
+          type: "image",
+          label: "Doobie Bros Lyrics",
+          src: "daily-practice-images/202507-doobie-bros-lyrics.jpg"
         }
     
       ]
@@ -1313,9 +1345,9 @@ const meetings = {
 
     affirmation: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "This month's affirmation",
+        src: "affirmation-images/202507-affirmation.jpg"
       }
     ],
 
@@ -1341,26 +1373,57 @@ const meetings = {
       ]
     },
 
-    tags: ["cancelled"],
+    tags: ["sonia choquette", "limiting beliefs", "shine your light", "doobie brothers", "horse"],
 
     topic: {
-      title: "",
+      title: "Limiting Beliefs",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
-        }
-       
+          type: "pdf",
+          label: "Article - Remove Limiting Beliefs",
+          src: "https://drive.google.com/file/d/148JUiaUSvTjTCsPvNXSV647LzVK0imfa/review"
+        },
+        {
+          type: "pdf",
+          label: "The Power of Belief",
+          src: "https://drive.google.com/file/d/17BKyARTKeYTtD3rksx6HCp8zdzppAS7d/preview"
+        },
+        {
+          type: "pdf",
+          label: "Limiting Belief Examples",
+          src: "https://drive.google.com/file/d/1CEQSm3WPmU6qXPw_pw3tDmKfM9t2GLcS/preview"
+        },
+        {
+          type: "pdf",
+          label: "Limiting Belief Images",
+          src: "https://drive.google.com/file/d/1gVvcGtT5ZWbwWZsy3zn9kdnTbpLqfNYW/preview"
+        },
+        {
+          type: "pdf",
+          label: "Top 10 Self-Limiting Beliefs",
+          src: "https://drive.google.com/file/d/1TedFWYtmgWdVJMaWZ-mW6ve6b68ujkG4/preview"
+        },
+        {
+          type: "pdf",
+          label: "Limiting Beliefs Asana Article",
+          src: "https://drive.google.com/file/d/1bQ8aZI_Ov7Kkd56bsvOIhUqafnto751-/preview"
+        },
+        {
+          type: "pdf",
+          label: "Disempowering and Empowering Beliefs",
+          src: "https://drive.google.com/file/d/1NXGtqgNLkSJHDb6F0Pks9LyMzjUlX3-4/preview"
+        } 
 
       ]
     },
 
     other: [
       {
-        type: ""
-
-      } 
+        type: "pdf",
+        label: "Email from Sonia Choquette",
+        src: "https://drive.google.com/file/d/1ATjXD2FtHR-Wm3gdIaa7ai4rDH6abfev/preview"
+      },
+    
     ]
   },
 
