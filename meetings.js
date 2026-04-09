@@ -1260,6 +1260,20 @@ const meetings = {
         }
       ]
     },
+    announcements: [
+      {
+        type: "pdf",
+        label: "Email from Sonia Choquette",
+        src: "https://drive.google.com/file/d/1ATjXD2FtHR-Wm3gdIaa7ai4rDH6abfev/preview"
+      },            
+      {
+        type: "image",
+        label: "CD: Music to Lift Your Heart",
+        src:   "announcement-images/202507-cd-music-to-lift-your-heart.jpg"
+      }
+
+    ],
+
     intention: [
       {
         type: "",
@@ -1355,8 +1369,8 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
-          src: ""
+          type: "image",
+          src: "none-images/no-meditation.jpg"
         }
       ]
     },
@@ -1365,15 +1379,15 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
+          type: "image",
           label: "",
-          src: ""
+          src: "none-images/no-luminaries.png"
         }
 
       ]
     },
 
-    tags: ["sonia choquette", "limiting beliefs", "shine your light", "doobie brothers", "horse"],
+    tags: ["sonia choquette", "limiting beliefs", "shine your light", "doobie brothers", "horse","cd"],
 
     topic: {
       title: "Limiting Beliefs",
@@ -1419,10 +1433,10 @@ const meetings = {
 
     other: [
       {
-        type: "pdf",
-        label: "Email from Sonia Choquette",
-        src: "https://drive.google.com/file/d/1ATjXD2FtHR-Wm3gdIaa7ai4rDH6abfev/preview"
-      },
+        type: "",
+        label: "",
+        src: ""
+      }
     
     ]
   },
@@ -1430,6 +1444,258 @@ const meetings = {
    "202506": {
     title: "June 2025",
     month: "June",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+   
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }      
+       
+      ]
+
+    },
+     
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+    
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+       
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      } 
+    ]
+  },
+
+  
+   "202505": {
+    title: "May 2025",
+    month: "May",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+   
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }      
+       
+      ]
+
+    },
+     
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+    
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+       
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      } 
+    ]
+  },
+
+   
+   "202504": {
+    title: "April 2025",
+    month: "April",
     year: 2025,
 
     final_agenda: [
