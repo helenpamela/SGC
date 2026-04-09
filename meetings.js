@@ -914,6 +914,131 @@ const meetings = {
 
       } 
     ]
+  },
+
+   "202509": {
+    title: "September 2025",
+    month: "September",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1C9KrjfWI5kTjTPjSWnsU1dMMLbtEohFP/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+   
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }      
+       
+      ]
+
+    },
+     
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+    
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+       
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      } 
+    ]
   }
 
 }
