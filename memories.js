@@ -3,6 +3,41 @@
 const memories = {
   early: [
     {
+      src: "member-images/2010-five-of-us.jpg",
+      caption: "Our Favorite Photo 2010 💖",
+      year: 2010
+    },
+    {
+      src: "member-images/2012-sunflowers.jpg",
+      caption: "Sunflowers 2012 ☘️",
+      year: 2012
+    },
+    {
+      src: "member-images/2012-crazy-glasses.jpg",
+      caption: "Silly Glasses 2012 👓",
+      year: 2012
+    },
+    {
+      src: "member-images/2013-vision-boards.jpg",
+      caption: "Vision Boards 2013 🖼️",
+      year: 2013
+    },
+    {
+      src: "member-images/2013-cliff-notes.jpg",
+      caption: "Cliff Notes 2013 🖼️",
+      year: 2013
+    },
+    {
+      src: "member-images/2013-scarves.jpg",
+      caption: "Scarves 2013 🧣",
+      year: 2013
+    },
+    {
+      src: "member-images/2013-st-pat-kerchiefs.jpg",
+      caption: "St. Patrick's Day 2013 ☘️",
+      year: 2013
+    },
+    {
       src: "member-images/2014-pam-kiki.jpg",
       caption: "Pam & Kiki 2014 🐶",
       year: 2014
@@ -26,47 +61,12 @@ const memories = {
       src: "member-images/2014-trudy-selma.jpg",
       caption: "Trudi & Selma 2014 🐶",
       year: 2014
-    },
-    {
-      src: "member-images/2013-vision-boards.jpg",
-      caption: "Vision Boards 2013 🖼️",
-      year: 2013
-    },
-    {
-      src: "member-images/2013-cliff-notes.jpg",
-      caption: "Cliff Notes 2013 🖼️",
-      year: 2013
-    },
+    },    
     {
       src: "member-images/2014-vision-boards.jpg",
       caption: "Vision Boards 2014 🖼️",
       year: 2014
-    },
-    {
-      src: "member-images/2010-five-of-us.jpg",
-      caption: "Our Favorite Photo 2010 💖",
-      year: 2010
-    },
-    {
-      src: "member-images/2013-scarves.jpg",
-      caption: "Scarves 2013 🧣",
-      year: 2013
-    },
-    {
-      src: "member-images/2013-st-pat-kerchiefs.jpg",
-      caption: "St. Patrick's Day 2013 ☘️",
-      year: 2013
-    },
-    {
-      src: "member-images/2012-sunflowers.jpg",
-      caption: "Sunflowers 2012 ☘️",
-      year: 2012
-    },
-    {
-      src: "member-images/2012-crazy-glasses.jpg",
-      caption: "Silly Glasses 2012 👓",
-      year: 2012
-    },
+    },  
     {
       src: "member-images/2014-vision-boards.jpg",
       caption: "Vision Boards 2014 🖼️",
@@ -77,7 +77,6 @@ const memories = {
       caption: "Kathy 2014 😃",
       year: 2014
     }
-
 
   ],
 
@@ -169,11 +168,6 @@ const memories = {
       year: 2015
     },
     {
-      src: "member-images/2015-kathy-trudi-love-hats.jpg",
-      caption: "2015 - Kathy & Trudi in Love Hats 👒",
-      year: 2015
-    },
-    {
       src: "member-images/2015-linda-trudi-love-hats.jpg",
       caption: "2015 - Linda & Trudi in Love Hats 👒",
       year: 2015
@@ -193,7 +187,27 @@ const memories = {
       caption: "2015 - PC laughing 🍔",
       year: 2015
     },
-
+    {
+      src: "member-images/2015-elephants.jpg",
+      caption: "Elephants 2015 🐘",
+      year: 2015
+    },
+    {
+      src: "member-images/2016-reindeer-antlers1.jpg",
+      caption: "Reindeer Antlers 2016 🫎",
+      year: 2016
+    },
+ 
+    {
+      src: "member-images/2016-vision-boards.jpg",
+      caption: "Vision Boards 2016 🖼️",
+      year: 2016
+    },
+    {
+      src: "member-images/2019-cliff-notes.jpg",
+      caption: "Cliff Notes 2019 📖",
+      year: 2019
+    },
     {
       src: "member-images/2020-bookmarks.jpg",
       caption: "Bookmarks 2020 🔖",
@@ -298,26 +312,6 @@ const memories = {
       src: "member-images/2020-year-of-the-cute-rat.jpg",
       caption: "2020 Year of the Cute Rat 🐭",
       year: 2020
-    },
-    {
-      src: "member-images/2016-reindeer-antlers1.jpg",
-      caption: "Reindeer Antlers 2016 🫎",
-      year: 2016
-    },
-    {
-      src: "member-images/2015-elephants.jpg",
-      caption: "Elephants 2015 🐘",
-      year: 2015
-    },
-    {
-      src: "member-images/2016-vision-boards.jpg",
-      caption: "Vision Boards 2016 🖼️",
-      year: 2016
-    },
-    {
-      src: "member-images/2019-cliff-notes.jpg",
-      caption: "Cliff Notes 2019 📖",
-      year: 2019
     },
     {
       src: "member-images/2020-linda-pc-pam-trudi-village-inn.jpg",
@@ -481,36 +475,6 @@ const memories = {
       year: 2021
     },
     {
-      src: "member-images/2024-vision-boards-pc-trudi-kathy.jpg",
-      caption: "Vision Boards 2024 🖼️",
-      year: 2024
-    },
-    {
-      src: "member-images/2024-year-of-the-dragon-10-dragons.jpg",
-      caption: "Year of 10 Dragons 2024 🖼️",
-      year: 2024
-    },
-    {
-      src: "member-images/2024-lunch-with-shirts.jpg",
-      caption: "Lunch with Shirts 2024 🖼️",
-      year: 2024
-    },
-    {
-      src: "member-images/2025-sloths.jpg",
-      caption: "Sloths 2025 🦥",
-      year: 2025
-    },
-    {
-      src: "member-images/2025-calendars.jpg",
-      caption: "Calendars 2025 📆",
-      year: 2025
-    },
-    {
-      src: "member-images/2023-lunch-with-vicky.jpg",
-      caption: "Lunch with Vicky 2023 🥗",
-      year: 2023
-    },
-    {
       src: "member-images/2022-archetype-game.jpg",
       caption: "Archetype Game 2022 🎴",
       year: 2022
@@ -558,21 +522,6 @@ const memories = {
     {
       src: "member-images/2022-lunch-with-the-girls.jpg",
       caption: "Lunch with the Girls 2022 🍴",
-      year: 2022
-    },
-    {
-      src: "member-images/2022-mimosas-easy-street.jpg",
-      caption: "2022 Mimosas on Easy Street 🍹",
-      year: 2022
-    },
-    {
-      src: "member-images/2022-burning-bowl-bucket.jpg",
-      caption: "No, it's not just a bucket 2022 🪣",
-      year: 2022
-    },
-    {
-      src: "member-images/2022-pam-coloring-book.jpg",
-      caption: "Pam - Coloring Book 2022 🖍️",
       year: 2022
     },
     {
@@ -636,6 +585,11 @@ const memories = {
       year: 2022
     },
     {
+      src: "member-images/2023-lunch-with-vicky.jpg",
+      caption: "Lunch with Vicky 2023 🥗",
+      year: 2023
+    },
+    {
       src: "member-images/2023-vision-boards.jpg",
       caption: "Vision Boards 2023 🖼️",
       year: 2023
@@ -679,7 +633,7 @@ const memories = {
       src: "member-images/2023-linda-stuffed-animal.jpg",
       caption: "2023 What is that? a lion? 🦁",
       year: 2023
-    },
+    },    
     {
       src: "member-images/2023-linda-unicorn.jpg",
       caption: "2023 Linda and her Unicorn 🦄",
@@ -765,15 +719,36 @@ const memories = {
       caption: "Trudi & Pam - Birthday 2023 🎂",
       year: 2023
     },
-
+    {
+      src: "member-images/2024-vision-boards-pc-trudi-kathy.jpg",
+      caption: "Vision Boards 2024 🖼️",
+      year: 2024
+    },
+    {
+      src: "member-images/2024-year-of-the-dragon-10-dragons.jpg",
+      caption: "Year of 10 Dragons 2024 🖼️",
+      year: 2024
+    },
+    {
+      src: "member-images/2024-lunch-with-shirts.jpg",
+      caption: "Lunch with Shirts 2024 🖼️",
+      year: 2024
+    },
+    {
+      src: "member-images/2025-sloths.jpg",
+      caption: "Sloths 2025 🦥",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-calendars.jpg",
+      caption: "Calendars 2025 📆",
+      year: 2025
+    },      
     {
       src: "member-images/2025-thanksgiving.jpg",
       caption: "Thanksgiving 2025 🍗",
       year: 2025
     }
-
-
-
 
 
   ],
