@@ -1472,7 +1472,7 @@ const meetings = {
       {
         type: "image",
         label: "Randy Rainbow's New Book",
-        src:   "202506-randy-rainbows-book.png"
+        src:   "announcement-images/202506-randy-rainbows-book.png"
       }
     ],
     intention: [
@@ -1507,11 +1507,11 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "202506-kyanite.jpg"
+          src: "crystal-images/202506-kyanite.jpg"
         }, 
         {
           type: "image",
-          src: "202506-kyanite-properties.jpg"
+          src: "crystal-images/202506-kyanite-properties.jpg"
         },
         {
           type: "pdf",
@@ -1544,7 +1544,7 @@ const meetings = {
       {
         type: "image",
         label: "This Month's Affirmation",
-        src: "202506-affirmation.jpg"
+        src: "affirmation-images/202506-affirmation.jpg"
       }
     ],
 
@@ -1588,7 +1588,7 @@ const meetings = {
         {
           type: "image",
           label: "Mindfulness Coloring Book",
-          src: "202506-mindfulness-coloring-book.jpg"
+          src: "topic-images/202506-mindfulness-coloring-book.jpg"
         },
         {
           type: "video",
@@ -1618,7 +1618,7 @@ const meetings = {
       {
         type: "image",
         label: "Good Morning Card",
-        src: "202506-handout-good-mornng-linda-card.jpg"
+        src: "other-images/202506-handout-good-mornng-linda-card.jpg"
       } 
     ]
   },
