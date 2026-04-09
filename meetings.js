@@ -1451,18 +1451,30 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1XPsT5ZKRPB6Bnyv7hfSXDn-Q0m2X8WFt/preview"
       }
     ],
     teacher_only: {
       working_agenda: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/168_XWWlECnvO7Sr4-TdcVNjtVzn1zZ1k/preview"
         }
       ]
     },
+    announcements: [
+      {
+        type: "image",
+        label: "Randy Rainbow",
+        src: "announcement-images/202506-randy-rainbow.png"
+      },            
+      {
+        type: "image",
+        label: "Randy Rainbow's New Book",
+        src:   "202506-randy-rainbows-book.png"
+      }
+    ],
     intention: [
       {
         type: "",
@@ -1474,9 +1486,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"   
       }
     ],
 
@@ -1494,21 +1506,35 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
-          src: ""
-        }      
+          type: "image",
+          src: "202506-kyanite.jpg"
+        }, 
+        {
+          type: "image",
+          src: "202506-kyanite-properties.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Kyanite Images",
+          src: "https://drive.google.com/file/d/1DRvR980xazCgbgIYyuUjr6HiVu5q1TXd/preview"
+        }
        
       ]
 
     },
      
     practice: {
-      title: "",
+      title: "Be Here Now",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Be Here Now Images",
+          src: "https://drive.google.com/file/d/1ur19ZeIWvm6_gOubaQNTn8_XVHxZwRMF/preview"
+        },
+        {
+          type: "pdf",
+          label: "Article by Deepak Chopra",
+          src: "https://drive.google.com/file/d/1r5tInX6hcuD9OIY19h23I7dM_kFvGED7/preview"
         }
     
       ]
@@ -1516,24 +1542,24 @@ const meetings = {
 
     affirmation: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "202506-affirmation.jpg"
       }
     ],
 
     meditation: {
-      title: "",
+      title: "Denise Linn - Serene Inner Peace",
       items: [
         {
-          type: "",
-          src: ""
+          type: "video",
+          src: "https://www.youtube.com/embed/53E4ExkkBD8?si=ZrzC6fM4XgwJU1BU"
         }
       ]
     },
 
     luminary: {
-      title: "",
+      title: "Jon Kabat-Zinn and Ram Dass",
       items: [
         {
           type: "",
@@ -1544,25 +1570,55 @@ const meetings = {
       ]
     },
 
-    tags: ["cancelled"],
+    tags: ["mindfulness", "kyanite", "be here now", "randy rainbow", "jon kabat-zinn", "ram dass"],
 
     topic: {
-      title: "",
+      title: "Mindfulness",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
-        }
-       
+          type: "pdf",
+          label: "What is Mindfulness",
+          src: "https://drive.google.com/file/d/10N8yqrrUkSdNBdV1XQYcC6goFoeAVInp/preview"
+        },
+        {
+          type: "pdf",
+          label: "9 Attitudes of Mindfulness",
+          src: "https://drive.google.com/file/d/1PVZXDxqYfG9SSqx_tOXx5sY8Nt1Ipmoz/preview"
+        },
+        {
+          type: "image",
+          label: "Mindfulness Coloring Book",
+          src: "202506-mindfulness-coloring-book.jpg"
+        },
+        {
+          type: "video",
+          label: "What is Mindfulness - Jon Kabat-Zinn",
+          src: "https://www.youtube.com/embed/HmEo6RI4Wvs?si=QL5VdtjvO_K7LGbr"
+        },
+        {
+          type: "video",
+          label: "Mindfulness: What is it Really? - Marie Ficociello",
+          src: "https://www.youtube.com/embed/Me9tuDsHsL0?si=ycCoSPnGU7Vkweqe"
+        },
+        {
+          type: "video",
+          label: "9 Attitudes of Mindfulness - Jon Kabat-Zinn",
+          src: "https://www.youtube.com/embed/2n7FOBFMvXg?si=zCZR9ltKK0NaDSkw" 
+        },
+        {
+          type: "video",
+          label: "TEDx The Power of Mindfulness - Shauna Shapiro",
+          src: "https://www.youtube.com/embed/IeblJdB2-Vo?si=z3t5uiy8nXM6EHXi" 
+        }     
 
       ]
     },
 
     other: [
       {
-        type: ""
-
+        type: "image",
+        label: "Good Morning Card",
+        src: "202506-handout-good-mornng-linda-card.jpg"
       } 
     ]
   },
