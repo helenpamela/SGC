@@ -1270,6 +1270,11 @@ const meetings = {
         type: "image",
         label: "CD: Music to Lift Your Heart",
         src:   "announcement-images/202507-cd-music-to-lift-your-heart.jpg"
+      },
+      {
+        type: "image",
+        label: "CD Song List",
+        src:   "announcement-images/202507-cd-song-list.jpg"
       }
 
     ],
