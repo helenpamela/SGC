@@ -1316,11 +1316,7 @@ const meetings = {
         {
           type: "image",
           src: "animal-images/202507-horse-properties.jpg"
-        }, 
-        {
-          type: "image",
-          src: "animal-images/202507-horse-properties.jpg"
-        }, 
+        },  
         {
           type: "image",
           src: "monthly-focus-images/202507-horse-items-from-Linda.jpg"
