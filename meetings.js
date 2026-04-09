@@ -1094,7 +1094,7 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
+          type: "image",
           src: "none-images/no-monthly-focus.png"
         }      
        
@@ -1178,7 +1178,7 @@ const meetings = {
       items: [
         {
           type: "video",
-          src: "https://youtu.be/sMrb-itIjxY?si=Db28K8WsiyHk5N0w"
+          src: "https://www.youtube.com/embed/sMrb-itIjxY?si=IR1tvWwbuVBcphBL" 
         }
       ]
     },
@@ -1207,7 +1207,7 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "Images",
+          label: "10 Guideposts",
           src: "https://drive.google.com/file/d/1reEgtCDkwKSda4dXhfWgEV4RFp1YfNVi/preview"
         },
         {
