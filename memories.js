@@ -679,6 +679,7 @@ const memories = {
       caption: "Christmas 2022 - candy cane cups🍭",
       year: 2022
     },
+    
     {
       src: "member-images/2022-christmas-linda-sgc-pillow.jpg",
       caption: "Christmas 2022 - SGC Pillow 🎄",
@@ -965,8 +966,83 @@ const memories = {
       year: 2025
     },
     {
+      src: "member-images/2025-pam-kathy-st-patricks-day.jpg",
+      caption: "St Patrick's Day 2025 ☘️",
+      year: 2025
+    },
+     {
+      src: "member-images/2025-st-patricks-day.jpg",
+      caption: "St Patrick's Day 2025 ☘️",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-lunch.jpg",
+      caption: "Vision Boards 2025 🍔",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-linda-flower.jpg",
+      caption: "Two Flowers - one named Linda 2025 🌼",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-pc-pam-trudi-flowers.jpg",
+      caption: "Flowers 2025 🌼",
+      year: 2025
+    },
+    {
       src: "member-images/2025-sloths.jpg",
       caption: "Sloths 2025 🦥",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-linda-sloth.jpg",
+      caption: "Linda & her Sloth 2025 🦥",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-pam-sloth.jpg",
+      caption: "Celebrating Sloths 2025 🦥",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-pc-sloth.jpg",
+      caption: "PC Sloths 2025 🦥",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-trudi-sloth-socks.jpg",
+      caption: "Trudi Sloth Socks 2025 🦥",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-vicky-kenny.jpg",
+      caption: "Vicky & Kenny 2025 💘",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-linda-tapping-and-teaching.jpg",
+      caption: "Linda Tapping & Teaching 2025 👇🏻",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-pam-tapping.jpg",
+      caption: "Pam Tapping 2025 👇🏻",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-pc-tapping.jpg",
+      caption: "PC Tapping 2025 👇🏻",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-trudi-tapping.jpg",
+      caption: "Trudi Tapping 2025 👇🏻",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-yellow-roses.jpg",
+      caption: "Yellow Roses 2025 🌹",
       year: 2025
     },
     {
@@ -978,8 +1054,18 @@ const memories = {
       src: "member-images/2025-thanksgiving.jpg",
       caption: "Thanksgiving 2025 🍗",
       year: 2025
+    },
+    {
+      src: "member-images/2025-linda-walter-turkey-hats.jpg",
+      caption: "The family that turkeys together... 🍗",
+      year: 2025
+    },
+    {
+      src: "member-images/2025-Christmas-vicky-linda-earmuffs-calendar.jpg",
+      caption: "Christmas 2025 - Vicky & Linda 🎅🏻",
+      year: 2025
     }
-
+    
 
   ],
 
