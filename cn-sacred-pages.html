@@ -124,42 +124,47 @@
       font-size: 16px;
       margin-bottom: 10px;
     }
-     .hero {
-       position: relative;
-       width: 100%;
-    }
 
-    .hero img {
-      width: 100%;
-      max-height: 300px;
-      object-fit: cover;
-      border-radius: 10px;
-    }
-    
-    .hero-title {
-      position: absolute;
-      top: 30%;
-      left: 50%;
-
-      transform: translate(-50%, -50%);
-      margin: 0;
-      width: auto;
-
-      color: white;
-      font-size: 32px;
+    .sacred-banner h1 {
+      position: relative;
+      color: #5c4b7d;
       font-weight: 600;
+      font-size: 38px;
+      text-shadow:
+        0 2px 6px rgba(255, 255, 255, 0.9),
+        0 0 8px rgba(92, 75, 125, 0.2);
+    }
+
+    .sacred-banner img {
+      width: 100px;
+      margin-bottom: 10px;
+    }
+
+    .sacred-banner {
+      background-image: url('cliff-notes-images/sacred-pages.jpg');
+     
+      /* <-- your image path */
+      background-size: cover;
+      background-position: center;
+
+      padding: 40px 20px;
+      border-radius: 16px;
+      margin-bottom: 25px;
       text-align: center;
 
-      background: rgba(255, 234, 130, 0.023);
-       color: #5c4b7d;
-      padding: 8px 18px;
-      border-radius: 12px;
-      font-weight: 600;
-
-      line-height: 1.2;
-      display: inline-block;
+      position: relative;
     }
 
+      /* Soft overlay so text is readable */
+    .sacred-banner::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(255, 255, 255, 0.35);
+      /* soft white glow */
+      border-radius: 16px;
+    }
+    
 
 
   </style>
@@ -170,10 +175,12 @@
   <div id="header-placeholder"></div>
 
   <div class="container">
-    <img src="cliff-notes-images/sacred-pages.jpg">
-    <h1 class="hero-title">Sacred Pages</h1>
 
-    <p style="text-align:center; color:#6a5d8f; margin: 10px 0 25px 0;">
+    <div class="sacred-banner">
+      <h1>Sacred Pages</h1>
+    </div>
+
+    <p style="color:#6a5d8f; margin: 10px 0 25px 0;">
       A collection of pages we return to again and again—
       reminders of who we are and what matters most.
     </p>
