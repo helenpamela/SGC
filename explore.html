@@ -359,9 +359,16 @@
 
   let allItems = [];
 
-  Promise.all([
-    fetch('cn-first-aid.json').then(res => res.json())
+  function safeFetch(url) {
+    return fetch(url)
+      .then(res => res.ok ? res.json() : { items: [] })
+      .catch(() => ({ items: [] }));
+  }
 
+  Promise.all([
+    safeFetch('cn-first-aid.json'),
+    safeFetch('cn-concepts.json'),
+    safeFetch('cn-daily-practices.json')
   ])
     .then(([firstAid, concepts, practices]) => {
 
@@ -439,7 +446,7 @@
     });
 
 
-  noResults.style.display = matchCount === 0 ? "block" : "none";
+    noResults.style.display = matchCount === 0 ? "block" : "none";
   });
 
 
