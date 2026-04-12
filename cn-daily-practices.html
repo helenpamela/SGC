@@ -205,7 +205,7 @@
     }
 
     function showPage() {
-      const file = dailyPracticesData[currentIndex];
+      const item = dailyPracticesData[currentIndex];
 
       if (item.type === "PDF") {
         document.getElementById("modal-body").innerHTML =
@@ -227,7 +227,7 @@
     }
 
     function nextPage() {
-      if (currentIndex < dailyPracticeData.length - 1) {
+      if (currentIndex < dailyPracticesData.length - 1) {
         currentIndex++;
         showPage();
       }
