@@ -124,14 +124,14 @@
       font-size: 16px;
       margin-bottom: 10px;
     }
-   
+
     #searchBox:focus {
       outline: none;
       border-color: #b9a7e6;
       box-shadow: 0 0 5px rgba(180, 150, 255, 0.4);
     }
 
-     #dailyPracticesList {
+    #dailyPracticesList {
       text-align: left;
       column-count: 2;
       column-gap: 20px;
@@ -142,9 +142,6 @@
       text-align: left;
       margin-bottom: 8px;
     }
-    
-
-
   </style>
 </head>
 
@@ -157,25 +154,11 @@
     <img src="cliff-notes-images/daily-practices.png">
     <h1>Daily Practices</h1>
     <div class="subtitle">What is my heart calling me to do right now? ✨</div>
-    
+
     <input type="text" id="searchBox" placeholder="What am I looking for..."
       style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 10px; border: 1px solid #ddd;">
 
-
-    <ul id="dailyPracticesList">
-      <li><a href="#" onclick="openModal(0)">🌬️ Breathing Exercises</a></li>
-      <li><a href="#" onclick="openModal(1)">💛 Centering</a></li>
-      <li><a href="#" onclick="openModal(2)">📑 Journaling </a></li>
-      <li><a href="#" onclick="openModal(3)">📑 Journaling Quotes </a></li>
-      <li><a href="#" onclick="openModal(4)">📑 Self-Reflection Journal Questions </a></li>
-      <li><a href="#" onclick="openModal(5)">📑 The Benefits of Writing Down Your Thoughts & Feelings </a></li>
-      <li><a href="#" onclick="openModal(6)">🙏🏻 Gratitude Quotes </a></li>
-      <li><a href="#" onclick="openModal(7)">🙏🏻 Gratitude Benefits </a></li>
-      <li><a href="#" onclick="openModal(8)">🙏🏻 Gratitude Poem </a></li>
-      <li><a href="#" onclick="openModal(9)">🧘🏻‍♀️ Meditation </a></li>
-      <li><a href="#" onclick="openModal(10)">🧘🏻‍♀️ Meditation Methods </a></li>
-
-    </ul>
+    <ul id="dailyPracticesList"></ul>
 
   </div>
 
@@ -187,21 +170,33 @@
         document.getElementById('header-placeholder').innerHTML = data;
       });
 
-    const dailyPracticeDocs = [
-      "https://drive.google.com/file/d/1gNbTVmWm-XRMVwBQc1w6mlWWKD-qt1TS/preview",    // cn-dp-01-breathing.pdf
-      "https://drive.google.com/file/d/1RC_VvT7glEbPhnzwFbcBmRuNJQqZZu4O/preview",    // cn-dp-02-centering.pdf,
-      "https://drive.google.com/file/d/106sTmCTXE2z1iEd-_cdH1j9ZoAHiejZy/preview",    // cn-dp-03a-journaling.pdf"
-      "https://drive.google.com/file/d/1ajNmlSh7DIfbMH1woA1zutsIlznPei-r/preview",    // cn-dp-03b-journaling-quotes.pdf
-      "https://drive.google.com/file/d/1kmQ2ZEaEaRIVBYbqhDE-u-LMgjCHKWr4/preview",    // cn-dp-03c-self-reflection-journal-questions.pdf
-      "https://drive.google.com/file/d/19bmKXKxVKhrdtVeaeuv45npS_QNYEebw/preview",    // cn-dp-03d-benefits-of-writing-down-thoughts.pdf
-      "https://drive.google.com/file/d/1ytok17dongm9mbV4PCphVKN1KOuiNaoI/preview",    // cn-dp-04a-gratitude.pdf
-      "https://drive.google.com/file/d/1iikGmX9alMwi5a4-iHKheIhrFp0tvP8h/preview",    // cn-dp04b-gratitude-benefits.pdf
-      "https://drive.google.com/file/d/1ZCCVisYBkJfaJQ5DFO02nDO9krsmWuVk/preview",    // cn-dp04c-gratitude-poem.pdf
-      "https://drive.google.com/file/d/1d24mDiKwtuglK8NrLWzQa6Db4CulDfjQ/preview",    // cn-dp05a-meditation.pdf
-      "https://drive.google.com/file/d/1weYGA1WYzKYrua579YfGBjIKf_37ddbZ/preview",    // cn-dp05b-meditation-methods.pdf
-    ];
-
+    let dailyPracticesData = [];
     let currentIndex = 0;
+
+    fetch('cn-daily-practices.json')
+      .then(response => response.json())
+      .then(data => {
+        dailyPracticesData = data["items"];
+        buildList();
+      });
+
+    function buildList() {
+      const list = document.getElementById("firstAidList");
+      list.innerHTML = "";
+
+      firstAidData.forEach((item, index) => {
+        const li = document.createElement("li");
+
+        li.innerHTML = `
+      <a href="#" onclick="openModal(${index})">
+        ${item.label}
+      </a>
+    `;
+
+        list.appendChild(li);
+      });
+    }
+
 
     function openModal(index) {
       currentIndex = index;
@@ -210,14 +205,31 @@
     }
 
     function showPage() {
-      const file = dailyPracticeDocs[currentIndex];
+      const file = dailyPracticeData[currentIndex];
 
-      document.getElementById("modal-body").innerHTML =
-        `<iframe src="${file}" width="100%" height="600px"></iframe>`;
+      if (item.type === "PDF") {
+        document.getElementById("modal-body").innerHTML =
+          `<iframe src="${item.src1}" width="100%" height="600px"></iframe>`;
+      }
+
+      else if (item.type === "image") {
+        let html = `<img src="${item.src1}" style="max-width:100%; margin-bottom:10px;">`;
+
+        if (item.src2) {
+          html += `<img src="${item.src2}" style="max-width:100%;">`;
+        }
+        document.getElementById("modal-body").innerHTML = html;
+      }
+      else {
+        document.getElementById("modal-body").innerHTML =
+          `<p>Oops! Something went wrong loading this resource.</p>`;
+      }
     }
 
+
+
     function nextPage() {
-      if (currentIndex < dailyPracticeDocs.length - 1) {
+      if (currentIndex < dailyPracticeData.length - 1) {
         currentIndex++;
         showPage();
       }
@@ -252,6 +264,7 @@
         }
       });
     });
+    
   </script>
 
   <script src="app.js"></script>
