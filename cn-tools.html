@@ -141,8 +141,6 @@
       text-align: left;
       margin-bottom: 8px;
     }
-
-
   </style>
 </head>
 
@@ -158,19 +156,7 @@
     <input type="text" id="searchBox" placeholder="What am I looking for..."
       style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 10px; border: 1px solid #ddd;">
 
-    <ul id="toolsList">
-      <li><a href="#" onclick="openModal(0)">🌷 Aromatherapy</a></li>
-      <li><a href="#" onclick="openModal(1)">🌸 Flower Essences</a></li>
-      <li><a href="#" onclick="openModal(2)">🪻 Flower Essences - Bach</a></li>
-      <li><a href="#" onclick="openModal(3)">💎 Crystals</a></li>
-      <li><a href="#" onclick="openModal(4)">💎 Crystals & Chakras</a></li>
-      <li><a href="#" onclick="openModal(5)">☝🏻 EFT</a></li>
-      <li><a href="#" onclick="openModal(6)">☝🏻 EFT Quotes</a></li>
-      <li><a href="#" onclick="openModal(7)">🎵 Music Song Dance</a></li>
-      <li><a href="#" onclick="openModal(8)">🎴 Oracle Cards</a></li>
-      <li><a href="#" onclick="openModal(9)">⚡ Energy Medicine</a></li>
-      <li><a href="#" onclick="openModal(10)">⚖️ Pendulum</a></li>
-    </ul>
+    <ul id="toolsList"></ul>
 
   </div>
 
@@ -182,22 +168,32 @@
         document.getElementById('header-placeholder').innerHTML = data;
       });
 
-
-    const toolsDocs = [
-      "https://drive.google.com/file/d/1UW45E_s0IgweF1gdAEmXNwmc4oHKgKcs/preview",  // T1_Aromatherapy.pdf
-      "https://drive.google.com/file/d/1UTkEmHtCkwHDOgVYGCB0D2xxBjXt6NrG/preview",  // T2a_FlowerEssences.pdf,
-      "https://drive.google.com/file/d/1aTcM7lGogcBnYeyKSZhXWmGZcxQjFLl_/preview",  // T2b_FlowerEssencesBach.pdf
-      "https://drive.google.com/file/d/19LgnyDMVZuTqejH6oqP3MyT9_dmZYeuy/preview",  // T3a_Crystals.pdf
-      "https://drive.google.com/file/d/1WVVkIEPpZbJdJ2qOV5UgvZrZ90CVd78c/preview",  // T3b_CrystalsChakra.pdf
-      "https://drive.google.com/file/d/1HjucekFnVuc6rsNN8aExqV3jeHIUTfYx/preview",  // T4a_EFT.pdf
-      "https://drive.google.com/file/d/1ehZDzbNh5CaqxsKoeHYVw_dhG9b8x5n3/preview",  // T4b_EFT.pdf
-      "https://drive.google.com/file/d/114O5ZH1NDfx5CTUQYUxsG3LrEOHHyJ6J/preview",  // T5_MusicSongDance.pdf
-      "https://drive.google.com/file/d/1YjPLq0ILLL3kX_4nVHUqhFpFHWgkA8u_/preview",  // T6_OracleCards.pdf
-      "https://drive.google.com/file/d/1FwqUCf23ap3ADrWwHCVXcz9lc7Nwr2hR/preview",  // T7_EnergyMedicine.pdf
-      "https://drive.google.com/file/d/1-wVG-IC9ekHdSpFtS40BfqM_MsTtpmdT/preview"  // T8_Pendulum.pdf
-    ];
-
+    let toolsData = [];
     let currentIndex = 0;
+
+    fetch('cn-tools.json')
+      .then(response => response.json())
+      .then(data => {
+        toolsData = data["items"];
+        buildList();
+      });
+
+    function buildList() {
+      const list = document.getElementById("toolsList");
+      list.innerHTML = "";
+
+      toolsData.forEach((item, index) => {
+        const li = document.createElement("li");
+
+        li.innerHTML = `
+           <a href="#" onclick="openModal(${index})">
+        ${item.label}
+      </a>
+    `;
+
+        list.appendChild(li);
+      });
+    }
 
     function openModal(index) {
       currentIndex = index;
@@ -206,14 +202,30 @@
     }
 
     function showPage() {
-      const file = toolsDocs[currentIndex];
+      const file = toolsData[currentIndex];
 
-      document.getElementById("modal-body").innerHTML =
-        `<iframe src="${file}" width="100%" height="600px"></iframe>`;
+      if (item.type === "PDF") {
+        document.getElementById("modal-body").innerHTML =
+          `<iframe src="${item.src1}" width="100%" height="600px"></iframe>`;
+      }
+
+      else if (item.type === "image") {
+        let html = `<img src="${item.src1}" style="max-width:100%; margin-bottom:10px;">`;
+
+        if (item.src2) {
+          html += `<img src="${item.src2}" style="max-width:100%;">`;
+        }
+        document.getElementById("modal-body").innerHTML = html;
+      }
+      else {
+        document.getElementById("modal-body").innerHTML =
+          `<p>Oops! Something went wrong loading this resource.</p>`;
+      }
+
     }
 
     function nextPage() {
-      if (currentIndex < toolsDocs.length - 1) {
+      if (currentIndex < toolsData.length - 1) {
         currentIndex++;
         showPage();
       }
