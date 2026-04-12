@@ -360,9 +360,8 @@
   let allItems = [];
 
   Promise.all([
-    fetch('cn-first-aid.json').then(res => res.json()),
-    fetch('cn-concepts.json').then(res => res.json()),
-    fetch('cn-daily-practices.json').then(res => res.json())
+    fetch('cn-first-aid.json').then(res => res.json())
+
   ])
     .then(([firstAid, concepts, practices]) => {
 

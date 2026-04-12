@@ -4,7 +4,7 @@
 
   "items": [
       {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa-01-breathe-ask.pdf",
       "label": "🌬️ Deep Breathing / Ask for Help", 
@@ -13,7 +13,7 @@
       "tags": ["breath", "help"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa-02-rescue-remedy.pdf",
       "label": "💛 Rescue Remedy", 
@@ -22,7 +22,7 @@
       "tags": ["flower essences", "rescue remedy", "healing tool"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa-03-nature-nap.pdf",
       "label": "🙏 Go outside in Nature / Silence / Take a nap", 
@@ -31,7 +31,7 @@
       "tags": ["nature", "silence", "nap"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa-04-humor-music.pdf",
       "label": "🤣 Humor / Music / Funny Books & Movies", 
@@ -40,7 +40,7 @@
       "tags": ["nature", "silence", "nap"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa-05-affirmations.pdf",
       "label": "👄 Affirmations", 
@@ -49,7 +49,7 @@
       "tags": ["affirmation", "raise your vibration", "positive thought"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa-05a-speaking-affirmations-with-crystals.pdf",
       "label": "💎 Speaking Self-Affirmations with your Crystals", 
@@ -58,7 +58,7 @@
       "tags": ["affirmation", "raise your vibration", "positive thought", "crystal"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa-05b-my-affirmations.pdf",
       "label": "👄 My Affirmations", 
@@ -67,7 +67,7 @@
       "tags": ["affirmation", "raise your vibration", "positive thought", "form"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa-06a-inspirational-books.pdf",
       "label": "📚 Inspirational Books", 
@@ -76,7 +76,7 @@
       "tags": ["book", "inspiration", "read"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa06b-quotes-rumi.pdf",
       "label": "🐪 Rumi Quotes", 
@@ -85,7 +85,7 @@
       "tags": ["poetry", "poem", "rumi", "mystic"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa06c-my-inspiration.pdf",
       "label": "📄 My Inspiration", 
@@ -94,7 +94,7 @@
       "tags": ["inspiration", "form"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa06d-choose.pdf",
       "label": "👉🏻 Choose", 
@@ -103,7 +103,7 @@
       "tags": ["choice", "choose", "advice"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa06e-desiderata.pdf",
       "label": "☮️ Desiderata", 
@@ -112,7 +112,7 @@
       "tags": ["poem", "poetry"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa06f-do-it-anyway.pdf",
       "label": "⛪ Do It Anyway", 
@@ -121,7 +121,7 @@
       "tags": ["mother teresa", "advice", "service"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa06g-its-time.pdf",
       "label": "⏰ It's Time", 
@@ -130,7 +130,7 @@
       "tags": ["helen mirren", "advice"]
      },
      {   
-      "cn-section": "First Aid",
+      "section": "First Aid",
       "type": "PDF",
       "file-name": "cn-fa07a-quotations1.pdf",
       "label": "📢 Quotations", 
