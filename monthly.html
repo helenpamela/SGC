@@ -8,7 +8,6 @@
   <link rel="stylesheet" href="header-styles.css">
 
   <style>
-
     .monthly-theme-banner h1 {
       position: relative;
       color: #f2f0f4;
@@ -19,12 +18,12 @@
         0 0 8px rgba(92, 75, 125, 0.2); */
     }
 
-     .monthly-theme-banner img {
+    .monthly-theme-banner img {
       width: 100px;
       margin-bottom: 10px;
     }
 
-     .monthly-theme-banner {
+    .monthly-theme-banner {
       background-image: url('monthly-theme-images/monthly-theme-header.jpg');
       /* <-- your image path */
       background-size: cover;
@@ -38,6 +37,9 @@
       position: relative;
     }
 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url('monthly-theme-images/monthly-theme-header.jpg');
+
 
 
     body {
@@ -49,7 +51,8 @@
 
     .container {
       width: 100%;
-      max-width: 800px;     /* 👈 slightly narrower */
+      max-width: 800px;
+      /* 👈 slightly narrower */
       margin: 30px auto;
       background: #ffffff;
       padding: 30px 25px;
@@ -80,8 +83,10 @@
       background: #ffffff;
       margin-bottom: 15px;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-      opacity: 0;     /* Fade-in for cards */
-      transform: translateY(10px);    /* Fade-in for cards */
+      opacity: 0;
+      /* Fade-in for cards */
+      transform: translateY(10px);
+      /* Fade-in for cards */
       animation: fadeIn 0.6s ease forwards;
       /* Fade-in for cards */
     }
@@ -126,7 +131,8 @@
     .button:hover {
       background: #d6c6f0;
       transform: translateY(-1px);
-      box-shadow: 0 0 10px rgba(180, 150, 255, 0.4);      /* Gentle button hover glow */
+      box-shadow: 0 0 10px rgba(180, 150, 255, 0.4);
+      /* Gentle button hover glow */
     }
 
     .home-button {
@@ -370,7 +376,7 @@
               <button class="button" onclick="loadDoc('${item.link}')">
                 📄 ${item.label}
               </button>
-           ` :   `<p>${item.label}</p>`}
+           ` : `<p>${item.label}</p>`}
 
           </div>
        `;
@@ -461,7 +467,7 @@
         modal.style.display = "none";
         document.getElementById("modalViewer").src = "";
       }
-    }; 
+    };
 
   </script>
 
