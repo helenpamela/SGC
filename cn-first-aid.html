@@ -182,7 +182,7 @@
     fetch('cn-first-aid.json')
       .then(response => response.json())
       .then(data => {
-        firstAidData = data["first-aid-data"];
+        firstAidData = data["items"];
         buildList();
       });
 
