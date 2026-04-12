@@ -1,7 +1,7 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "April 2,2026",
+  "lastUpdated": "April 12,2026",
 
   "event": [
       {
@@ -14,7 +14,7 @@
      },
 
      {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/holding-hands.jpg",
       "type": "Meeting",  
       "datetime": "Saturday April 11 Noon",
@@ -25,11 +25,11 @@
 
      {
       "status": "active",
-      "image": "events-images/sandwich.jpg",
+      "image": "events-images/cancelled.jpg",
       "type": "Lunch",  
       "datetime": "Saturday April 18 Noon",
-      "location": "Ajo Al in Gilbert",
-      "note": "Celebrating Patty's birthday"
+      "location": "",
+      "note": "CANCELLED"
      },
  
     {
