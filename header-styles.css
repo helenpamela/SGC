@@ -41,6 +41,7 @@
 
 .banner {
   max-width: 800px;
+  margin: 30px auto; 
   border-radius: 16px;
   padding: 40px 20px;
   text-align: center;
