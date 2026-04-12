@@ -44,7 +44,8 @@
   padding: 40px 20px;
   text-align: center;
   margin-bottom: 25px;
-
+  min-height: 180px; 
+  
   /* animation */
   opacity: 0;
   transform: translateY(10px);
