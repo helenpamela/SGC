@@ -40,8 +40,7 @@
         "resources",
         "dvd"
       ]
-    },
-   
+    },   
    
     {
       "section": "Resources",
@@ -52,11 +51,9 @@
       "src2": "",
       "tags": [
         "resources",
-        "cd",
-   
+        "cd"   
       ]
-    },
-    
+    },    
     {
       "section": "Resources",
       "type": "PDF",
@@ -68,8 +65,7 @@
         "resources",
         "flower"
       ]
-    },
-   
+    },   
     {
       "section": "Resources",
       "type": "image",
@@ -81,8 +77,7 @@
         "resources",
         "archangels"
       ]
-    },
-   
+    },   
     {
       "section": "Resources",
       "type": "PDF",
@@ -95,7 +90,6 @@
         "ascended master"
       ]
     }, 
-
     {
       "section": "Resources",
       "type": "PDF",
@@ -108,7 +102,6 @@
         "chakra"
       ]
     },
-
     {
       "section": "Resources",
       "type": "PDF",
