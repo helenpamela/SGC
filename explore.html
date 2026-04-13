@@ -187,14 +187,15 @@
       background: #e6d9f5;
       transform: translateY(-2px);
       box-shadow: 0 6px 14px rgba(180, 150, 255, 0.25);
-    }
+    } 
 
     #results {
       display: grid;
-      grid-template-columns: repeat(2, 300px);
-
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
       gap: 16px;
       justify-content: center;
+      max-width: 700px;
+      margin: 0 auto;    /* 👈 centers container */
     }
 
     .highlight {
@@ -363,7 +364,7 @@
 </script>
 
 <script>
-  
+
   // Search Cliff Notes
 
   let allItems = [];
@@ -471,13 +472,13 @@
     currentIndex = index;
 
     showPage();
-    
+
     document.getElementById("modal").style.display = "block";
   }
 
   function showPage() {
     // document.getElementById("modal-body").innerHTML = "HELLO PAM 👋";
-    
+
     // console.log("Index:", currentIndex);
     // console.log("Item:", allItems[currentIndex]);
 
@@ -493,7 +494,7 @@
       //console.log("Showing src1 image:", item);
       if (item.src2) {
         html += `<img src="${item.src2}" style="max-width:100%;">`;
-          //console.log("Showing src2 item:", item);
+        //console.log("Showing src2 item:", item);
       }
 
       document.getElementById("modal-body").innerHTML = html;
