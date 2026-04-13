@@ -321,8 +321,8 @@
     </div>
 
     <div id="search-nav" style="display:none; text-align:center; margin-bottom:15px;">
-      <button onclick="prevResult()">⬅ Previous Result</button>
-      <button onclick="nextResult()">Next Result ➡</button>
+      <button onclick="prevResult()">⬅ Previous</button>
+      <button onclick="nextResult()">Next ➡</button>
     </div>
 
 
@@ -431,14 +431,6 @@
       setTitle("meditation-title", "Meditation", data.meditation?.title);
       setTitle("luminary-title", "Luminary", data.luminary?.title);
 
-      
-
-      /* Working agenda -- Teacher Only -- handled by app.js
-      const role = localStorage.getItem("role");
-      if (role === "teacher") {
-        document.getElementById("teacher-only").style.display = "block";
-      }
-      */
 
       // Titles, setup, special sections
       document.getElementById("title").innerHTML = data.title;
