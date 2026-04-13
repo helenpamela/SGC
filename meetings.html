@@ -8,7 +8,6 @@
   <link rel="stylesheet" href="header-styles.css">
 
   <style>
-
     .meeting-banner h1 {
       position: relative;
       color: #5c4b7d;
@@ -537,18 +536,39 @@
       }
     });
 
+    function getMeetingList() {
+      // If valid search results exist, use them
+      if (searchResults && searchResults.length > 1) {
+        return searchResults;
+      }
+
+      // Otherwise use all meetings (calendar order)
+      return Object.keys(meetings);
+    }
 
     function nextResult() {
-      let currentIndex = searchResults.indexOf(id);
-      let nextId = searchResults[(currentIndex + 1) % searchResults.length];
+      let list = getMeetingList();
+      let currentIndex = list.findIndex(x => String(x) === String(id));
+
+      if (currentIndex === -1) currentIndex = 0;
+
+      let nextId = list[(currentIndex + 1) % list.length];
       window.location.href = `meetings.html?id=${nextId}`;
     }
 
     function prevResult() {
-      let currentIndex = searchResults.indexOf(id);
-      let prevId = searchResults[(currentIndex - 1 + searchResults.length) % searchResults.length];
+      let list = getMeetingList();
+      let currentIndex = list.findIndex(x => String(x) === String(id));
+
+      if (currentIndex === -1) currentIndex = 0;
+
+      let prevId = list[(currentIndex - 1 + list.length) % list.length];
       window.location.href = `meetings.html?id=${prevId}`;
     }
+
+
+
+
 
   </script>
 
