@@ -243,6 +243,7 @@
 
       position: relative;
       animation: popIn 0.25s ease;
+
     }
 
     @keyframes popIn {
@@ -256,7 +257,20 @@
         opacity: 1;
       }
     }
+
+    .modal-content button {
+      background: #e6d9f5;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 8px;
+      cursor: pointer;
     }
+
+    .modal-content button:hover {
+      background: #d6c6f0;
+    }
+
+   }
   </style>
 </head>
 
@@ -322,6 +336,11 @@
   <div id="modal" class="modal">
     <div class="modal-content">
       <span class="close" onclick="closeModal()">&times;</span>
+      <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+        <button onclick="prevItem()">⬅️ Previous</button>
+        <button onclick="nextItem()">Next ➡️</button>
+      </div>
+
       <div id="modal-body"></div>
     </div>
   </div>
@@ -563,6 +582,17 @@
       document.getElementById("modal-body").innerHTML =
         `<p>Oops! Couldn't load this item.</p>`;
     }
+    document.getElementById("modal-body").scrollTop = 0;
+  }
+
+  function nextItem() {
+    currentIndex = (currentIndex + 1) % allItems.length;
+    showPage();
+  }
+
+  function prevItem() {
+    currentIndex = (currentIndex - 1 + allItems.length) % allItems.length;
+    showPage();
   }
 
   document.getElementById("modal").addEventListener("click", function (e) {
