@@ -67,7 +67,6 @@ window.addEventListener("load", () => {
 
   const navMap = {
     "index.html": "nav-home",
-    "monthly.html": "nav-theme",
     "inspiration.html": "nav-inspire",
     "events.html": "nav-events",
     "cliff-notes.html": "nav-cliff",
