@@ -415,16 +415,13 @@
 
       const topicsDiv = document.getElementById("topics");
       topicsDiv.innerHTML = "";
-      data.topics.forEach(item => {
-        if (data.topics.item.link) {
-          topicsDiv.innerHTML += `
-          <button class="button" onclick="loadDoc('${item.link}')">
-            📄 ${item.label}
+      data.topics.forEach(item => {   
+       topicsDiv.innerHTML += `
+         <button class="button" onclick="loadDoc('${item.link}')">
+           📄 ${item.label}
           </button>
-          `;
-        } else if (data.topics.item.text) {
-            <p>${data.topics.item.text}</p>
-        }
+       `;
+       
       });
 
       const othersDiv = document.getElementById("others");
@@ -436,7 +433,6 @@
           </button>
         `;
       });
-
 
     }
 
