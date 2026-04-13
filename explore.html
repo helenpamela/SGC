@@ -466,8 +466,14 @@
   let currentIndex = 0;
 
   function openModal(index) {
+    console.log("🔥 openModal fired with index:", index);
+
     currentIndex = index;
+
+    console.log("👉 About to call showPage()");
     showPage();
+    console.log("✅ showPage returned");
+    
     document.getElementById("modal").style.display = "block";
   }
 
