@@ -1,90 +1,446 @@
 {
-  
   "title": "Resources Data",
-
   "items": [
-      {   
+    {
       "section": "Resources",
       "type": "PDF",
       "file-name": "R1_SourcesOfInspiration.pdf",
-      "label": "🌷 Sources of Inspiration", 
+      "label": "🌷 Sources of Inspiration",
       "src1": "https://drive.google.com/file/d/1skp2xVHi7pJj_s7dkwm5uwSavMeF3ztj/preview",
       "src2": "",
-      "tags": ["resources", "sources of inspiration", "luminaries"]
-     },
-     {   
+      "tags": [
+        "resources",
+        "sources of inspiration",
+        "luminaries"
+      ]
+    },
+    {
+      "section": "Resources-Luminaries",
+      "type": "image",
+      "file-name": "",
+      "label": "A Course in Miracles",
+      "src1": "resources-images/a-course-in-miracles.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "luminaries",
+        "course in miracles"
+      ]
+    },
+    {
+      "section": "Resources-Luminaries",
+      "type": "image",
+      "file-name": "",
+      "label": "Abraham-Hicks",
+      "src1": "resources-images/abraham-hicks.png",
+      "src2": "resources-images/ask-and-it-is-given.png",
+      "tags": [
+        "resources",
+        "luminaries",
+        "abraham",
+        "law of attraction"
+      ]
+    },
+    {
+      "section": "Resources-Luminaries",
+      "type": "image",
+      "file-name": "",
+      "label": "Dr. Hunter 'Patch' Adams",
+      "src1": "resources-images/patch-adams.png",
+      "src2": "resources-images/robin-williams-as-patch-adams.png",
+      "tags": [
+        "resources",
+        "luminaries",
+        "patch adams",
+        "robin williams"
+      ]
+    },
+    {
+      "section": "Resources-Luminaries",
+      "type": "image",
+      "file-name": "",
+      "label": "Aristotle",
+      "src1": "resources-images/aristotle.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "luminaries",
+        "aristotle",
+        "philosophy"
+      ]
+    },
+    {
+      "section": "Resources-Luminaries",
+      "type": "image",
+      "file-name": "",
+      "label": "Will Arntz & Betsy Chasse & Mark Vicente",
+      "src1": "resources-images/arntz-chasse-vicente.png",
+      "src2": "resources-images/what-the-bleep-do-we-know.png",
+      "tags": [
+        "resources",
+        "luminaries",
+        "what the bleep",
+        "arntz",
+        "chasse",
+        "vicente"
+      ]
+    },
+    {
       "section": "Resources",
       "type": "PDF",
       "file-name": "R2_CDs.pdf",
-      "label": "🌸 CD's", 
+      "label": "🌸 CD's",
       "src1": "https://drive.google.com/file/d/1D0h22iHd9mETgBj18w0TcxErTBFNcD_u/preview",
       "src2": "",
-      "tags": ["resources", "cd", "music"]
-     },
-     {   
+      "tags": [
+        "resources",
+        "cd",
+        "music"
+      ]
+    },
+    {
+      "section": "Resources-CDs",
+      "type": "image",
+      "file-name": "",
+      "label": "Happy CD",
+      "src1": "resources-images/happy-cd.jpg",
+      "src2": "resources-images/happy-cd-song-list.png",
+      "tags": [
+        "resources",
+        "CD",
+        "happy"
+      ]
+    },
+    {
+      "section": "Resources-CDs",
+      "type": "image",
+      "file-name": "",
+      "label": "Love CD",
+      "src1": "resources-images/love-cd.jpg",
+      "src2": "resources-images/love-cd-song-list.png",
+      "tags": [
+        "resources",
+        "CD",
+        "love"
+      ]
+    },
+    {
+      "section": "Resources-CDs",
+      "type": "image",
+      "file-name": "",
+      "label": "Peace CD",
+      "src1": "resources-images/peace-cd.jpg",
+      "src2": "resources-images/peace-cd-song-list.png",
+      "tags": [
+        "resources",
+        "CD",
+        "peace"
+      ]
+    },
+    {
+      "section": "Resources-CDs",
+      "type": "image",
+      "file-name": "",
+      "label": "Gratitude CD",
+      "src1": "resources-images/gratitude-cd.jpg",
+      "src2": "resources-images/gratitude-cd-song-list.png",
+      "tags": [
+        "resources",
+        "CD",
+        "gratitude"
+      ]
+    },
+    {
+      "section": "Resources-CDs",
+      "type": "image",
+      "file-name": "",
+      "label": "Shine Your Light CD",
+      "src1": "resources-images/shine-your-light-cd.jpg",
+      "src2": "resources-images/shine-your-light-cd-song-list.png",
+      "tags": [
+        "resources",
+        "CD",
+        "shine your light"
+      ]
+    },
+    {
       "section": "Resources",
       "type": "PDF",
       "file-name": "R3_DVDs.pdf",
-      "label": "💿 DVD's", 
+      "label": "💿 DVD's",
       "src1": "https://drive.google.com/file/d/1LBMGdj5gZBM1aghWqazOrjz605thvFYC/preview",
       "src2": "",
-      "tags": ["resources", "dvd"]
-     },
-     {   
-      "section": "Resources",
-      "type": "PDF",
-      "file-name": "R4_Crystals.pdf",
-      "label": "💎 Crystals", 
-      "src1": "https://drive.google.com/file/d/14NS8fT4BWEY9dPR_uMcDaAWkhUCsOcBd/preview",
+      "tags": [
+        "resources",
+        "dvd"
+      ]
+    },
+    {
+      "section": "Resources-DVDs",
+      "type": "image",
+      "file-name": "",
+      "label": "Attitudinal Healing DVD",
+      "src1": "resources-images/attitudinal-healing-dvd.jpg",
+      "src2": """tags": [
+        "resources",
+        "DVD",
+        "attitudinal healing"
+      ]
+    },
+    {
+      "section": "Resources-DVDs",
+      "type": "image",
+      "file-name": "",
+      "label": "Forgiveness DVD",
+      "src1": "resources-images/forgiveness-dvd.jpg",
       "src2": "",
-      "tags": ["resources", "crystals"]
-     },
-     {   
+      "tags": [
+        "resources",
+        "DVD",
+        "forgiveness"
+      ]
+    },
+    {
+      "section": "Resources-DVDs",
+      "type": "image",
+      "file-name": "",
+      "label": "Intention DVD",
+      "src1": "resources-images/intention-dvd.jpg",
+      "src2": "",
+      "tags": [
+        "resources",
+        "DVD",
+        "intention"
+      ]
+    },
+    {
+      "section": "Resources-DVDs",
+      "type": "image",
+      "file-name": "",
+      "label": "Just Believe DVD",
+      "src1": "resources-images/just-believe-dvd.jpg",
+      "src2": "",
+      "tags": [
+        "resources",
+        "DVD",
+        "belief"
+      ]
+    },
+    {
+      "section": "Resources-DVDs",
+      "type": "image",
+      "file-name": "",
+      "label": "Friends DVD",
+      "src1": "resources-images/friends-dvd.jpg",
+      "src2": "",
+      "tags": [
+        "resources",
+        "DVD",
+        "friend"
+      ]
+    },
+    {
+      "section": "Resources-Crystals",
+      "type": "image",
+      "file-name": "",
+      "label": "Lapis Lazuli",
+      "src1": "lapis-lazuli.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "crystals",
+        "protection",
+        "enlightenment",
+        "awareness"
+      ]
+    },
+    {
+      "section": "Resources-Crystals",
+      "type": "image",
+      "file-name": "",
+      "label": "Red Jasper",
+      "src1": "red-jasper.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "crystals",
+        "calm",
+        "protection",
+        "stability"
+      ]
+    },
+
+    {
+      "section": "Resources-Crystals",
+      "type": "image",
+      "file-name": "",
+      "label": "Turquoise",
+      "src1": "turquoise.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "crystals", "healing", "purification", "strength", "spiritual expansion"
+      ]
+    },
+
+     {
+      "section": "Resources-Crystals",
+      "type": "image",
+      "file-name": "",
+      "label": "Turquoise",
+      "src1": "turquoise.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "crystals", "healing", "purification", "strength", "spiritual expansion"
+      ]
+    },
+
+    {
+      "section": "Resources-Crystals",
+      "type": "image",
+      "file-name": "",
+      "label": "Black Obsidian",
+      "src1": "black-obsidian.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "crystals",
+        "protection",
+        "cleansing",
+        "grounding"
+      ]
+    },
+    {
       "section": "Resources",
       "type": "PDF",
       "file-name": "R5_FlowersAndPlants.pdf",
-      "label": "🌻 Flowers and Plants", 
+      "label": "🌻 Flowers and Plants",
       "src1": "https://drive.google.com/file/d/1sCX9eJ8a1-7FtViV_0ahzOCy0VHekghr/preview",
       "src2": "",
-      "tags": ["resources", "flower"]
-     },
-     {   
+      "tags": [
+        "resources",
+        "flower"
+      ]
+    },
+
+    {
+      "section": "Resources-Flowers",
+      "type": "image",
+      "file-name": "",
+      "label": "Poinsettia",
+      "src1": "resources-images/poinsettia.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "flower",
+        "celebration", "inspiring others"
+      ]
+    },
+
+    {
+      "section": "Resources-Flowers",
+      "type": "image",
+      "file-name": "",
+      "label": "Cactus",
+      "src1": "resources-images/cactus.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "flower",
+        "protection"
+      ]
+    },
+
+    {
+      "section": "Resources-Flowers",
+      "type": "image",
+      "file-name": "",
+      "label": "Lotus",
+      "src1": "resources-images/lotus.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "flower",
+        "meditation", "spirituality"
+      ]
+    },
+
+    {
+      "section": "Resources-Flowers",
+      "type": "image",
+      "file-name": "",
+      "label": "Sunflower",
+      "src1": "resources-images/sunflower.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "flower",
+        "smiles", "happiness"
+      ]
+    },
+
+    {
+      "section": "Resources-Flowers",
+      "type": "image",
+      "file-name": "",
+      "label": "Daisy",
+      "src1": "resources-images/daisy.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "flower",
+        "peace", "relaxation"
+      ]
+    },
+
+    {
       "section": "Resources",
-      "type": "PDF",
+      "type": "image",
       "file-name": "R6_Archangels.pdf",
-      "label": "😇 Archangels", 
+      "label": "😇 Archangels",
       "src1": "https://drive.google.com/file/d/1JyuF69rE5AUeTFB8FFvGGtTxTuvDexMF/preview",
       "src2": "",
-      "tags": ["resources", "archangels"]
-     },
-     {   
+      "tags": [
+        "resources",
+        "archangels"
+      ]
+    },
+    {
       "section": "Resources",
       "type": "PDF",
       "file-name": "R7_AscendedMasters.pdf",
-      "label": "🪽 Ascended Masters", 
+      "label": "🪽 Ascended Masters",
       "src1": "https://drive.google.com/file/d/1vMpz9fwxZ_tZPbt9dF9xSo-hm5oE-PTj/preview",
       "src2": "",
-      "tags": ["resources", "ascended master"]
-     },
-     {   
+      "tags": [
+        "resources",
+        "ascended master"
+      ]
+    },
+    {
       "section": "Resources",
       "type": "PDF",
       "file-name": "R8_Chakras.pdf",
-      "label": "⚡ Chakras", 
+      "label": "⚡ Chakras",
       "src1": "https://drive.google.com/file/d/1R0_UkkkgjOM-6XxvhZV3ne2XYp7RBeW3/preview",
       "src2": "",
-      "tags": ["resources", "chakra"]
-     },
-     {   
+      "tags": [
+        "resources",
+        "chakra"
+      ]
+    },
+    {
       "section": "Resources",
       "type": "PDF",
       "file-name": "R9_TotemAnimals.pdf",
-      "label": "🐎 Totem Animals", 
+      "label": "🐎 Totem Animals",
       "src1": "https://drive.google.com/file/d/1Q42iG559aXL-pVfyk0p-uuknc_HkRsu2/preview",
       "src2": "",
-      "tags": ["resources", "totem animals"]
-     }
-     
-
-   ]
+      "tags": [
+        "resources",
+        "totem animals"
+      ]
+    }
+  ]
 }
