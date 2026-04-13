@@ -209,6 +209,54 @@
     #modal-body {
       text-align: center;
     }
+
+    .modal {
+      position: fixed;
+      z-index: 9999;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.5);
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s ease;
+    }
+
+    .modal.show {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .modal-content {
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 16px;
+      max-width: 700px;
+      width: 90%;
+      max-height: 80vh;
+      overflow-y: auto;
+
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+
+      position: relative;
+      animation: popIn 0.25s ease;
+    }
+
+    @keyframes popIn {
+      from {
+        transform: scale(0.9);
+        opacity: 0;
+      }
+
+      to {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+    }
   </style>
 </head>
 
@@ -482,7 +530,8 @@
 
     showPage();
 
-    document.getElementById("modal").style.display = "block";
+    //document.getElementById("modal").style.display = "block";
+    document.getElementById("modal").classList.add("show");
   }
 
   function showPage() {
@@ -516,8 +565,14 @@
     }
   }
 
+  document.getElementById("modal").addEventListener("click", function (e) {
+    if (e.target === this) {
+      closeModal();
+    }
+  });
+
   function closeModal() {
-    document.getElementById("modal").style.display = "none";
+    document.getElementById("modal").classList.remove("show");
   }
 
 
