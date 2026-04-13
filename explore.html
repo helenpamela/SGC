@@ -467,6 +467,9 @@
 
   function openModal(index) {
     console.log("🔥 openModal fired with index:", index);
+    document.getElementById("modal").style.display = "block";
+    document.getElementById("modal").style.background = "rgba(255,0,0,0.3)";
+    document.getElementById("modal").style.zIndex = "9999";
 
     currentIndex = index;
 
