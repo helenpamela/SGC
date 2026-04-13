@@ -245,7 +245,7 @@
       "type": "image",
       "file-name": "",
       "label": "Lapis Lazuli",
-      "src1": "lapis-lazuli.png",
+      "src1": "resources-images/lapis-lazuli.png",
       "src2": "",
       "tags": [
         "resources",
@@ -260,7 +260,7 @@
       "type": "image",
       "file-name": "",
       "label": "Red Jasper",
-      "src1": "red-jasper.png",
+      "src1": "resources-images/red-jasper.png",
       "src2": "",
       "tags": [
         "resources",
@@ -270,39 +270,44 @@
         "stability"
       ]
     },
-
     {
       "section": "Resources-Crystals",
       "type": "image",
       "file-name": "",
       "label": "Turquoise",
-      "src1": "turquoise.png",
+      "src1": "resources-images/turquoise.png",
       "src2": "",
       "tags": [
         "resources",
-        "crystals", "healing", "purification", "strength", "spiritual expansion"
+        "crystals",
+        "healing",
+        "purification",
+        "strength",
+        "spiritual expansion"
       ]
     },
-
-     {
+    {
       "section": "Resources-Crystals",
       "type": "image",
       "file-name": "",
       "label": "Turquoise",
-      "src1": "turquoise.png",
+      "src1": "resources-images/turquoise.png",
       "src2": "",
       "tags": [
         "resources",
-        "crystals", "healing", "purification", "strength", "spiritual expansion"
+        "crystals",
+        "healing",
+        "purification",
+        "strength",
+        "spiritual expansion"
       ]
     },
-
     {
       "section": "Resources-Crystals",
       "type": "image",
       "file-name": "",
       "label": "Black Obsidian",
-      "src1": "black-obsidian.png",
+      "src1": "resources-images/black-obsidian.png",
       "src2": "",
       "tags": [
         "resources",
@@ -324,27 +329,26 @@
         "flower"
       ]
     },
-
     {
       "section": "Resources-Flowers",
       "type": "image",
       "file-name": "",
       "label": "Poinsettia",
-      "src1": "resources-images/poinsettia.png",
+      "src1": "resources-images/resources-images/poinsettia.png",
       "src2": "",
       "tags": [
         "resources",
         "flower",
-        "celebration", "inspiring others"
+        "celebration",
+        "inspiring others"
       ]
     },
-
     {
       "section": "Resources-Flowers",
       "type": "image",
       "file-name": "",
       "label": "Cactus",
-      "src1": "resources-images/cactus.png",
+      "src1": "resources-images/resources-images/cactus.png",
       "src2": "",
       "tags": [
         "resources",
@@ -352,7 +356,6 @@
         "protection"
       ]
     },
-
     {
       "section": "Resources-Flowers",
       "type": "image",
@@ -363,10 +366,10 @@
       "tags": [
         "resources",
         "flower",
-        "meditation", "spirituality"
+        "meditation",
+        "spirituality"
       ]
     },
-
     {
       "section": "Resources-Flowers",
       "type": "image",
@@ -377,10 +380,10 @@
       "tags": [
         "resources",
         "flower",
-        "smiles", "happiness"
+        "smiles",
+        "happiness"
       ]
     },
-
     {
       "section": "Resources-Flowers",
       "type": "image",
@@ -391,10 +394,10 @@
       "tags": [
         "resources",
         "flower",
-        "peace", "relaxation"
+        "peace",
+        "relaxation"
       ]
     },
-
     {
       "section": "Resources",
       "type": "image",
@@ -405,6 +408,75 @@
       "tags": [
         "resources",
         "archangels"
+      ]
+    },
+    {
+      "section": "Resources-Archangels",
+      "type": "image",
+      "file-name": "",
+      "label": "Michael",
+      "src1": "resources-images/angel-michael.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "archangel",
+        "protection",
+        "clearing cords"
+      ]
+    },
+    {
+      "section": "Resources-Archangels",
+      "type": "image",
+      "file-name": "",
+      "label": "Raphael",
+      "src1": "resources-images/angel-raphael.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "archangel",
+        "healing"
+      ]
+    },
+    {
+      "section": "Resources-Archangels",
+      "type": "image",
+      "file-name": "",
+      "label": "Ariel",
+      "src1": "resources-images/angel-ariel.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "archangel",
+        "courage",
+        "lionness"
+      ]
+    },
+    {
+      "section": "Resources-Archangels",
+      "type": "image",
+      "file-name": "",
+      "label": "Gabriel",
+      "src1": "resources-images/angel-gabriel.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "archangel",
+        "communication",
+        "strength"
+      ]
+    },
+    {
+      "section": "Resources-Archangels",
+      "type": "image",
+      "file-name": "",
+      "label": "Metatron",
+      "src1": "resources-images/angel-metatron.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "archangel",
+        "spiritual knowledge",
+        "guard"
       ]
     },
     {
@@ -420,6 +492,93 @@
       ]
     },
     {
+      "section": "Resources-Ascended Masters",
+      "type": "image",
+      "file-name": "",
+      "label": "Kwan Yin",
+      "src1": "resources-images/kwan-yin.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "ascended master",
+        "compassion",
+        "clairvoyance",
+        "grace",
+        "beauty",
+        "kindness",
+        "love",
+        "fertility",
+        "children",
+        "enlightenment"
+      ]
+    },
+
+    {
+      "section": "Resources-Ascended Masters",
+      "type": "image",
+      "file-name": "",
+      "label": "Mother Mary",
+      "src1": "resources-images/mother-mary.png",
+      "src2": "",
+      "tags": [
+        "resources",
+        "ascended master",
+        "holy virgin",
+        "divine motherhood",
+        "intuition",
+        "power of love",
+        "devotion",
+        "service",
+        "white rose"
+       
+      ]
+    },
+    {
+      "section": "Resources-Ascended Masters",
+      "type": "image",
+      "file-name": "",
+      "label": "Jesus",
+      "src1": "resources-images/jesus.png",
+      "src2": "",
+      "tags": [
+        "love",
+        "forgiveness",
+        "holy virgin",
+        "healing"
+       
+      ]
+    },
+    {
+      "section": "Resources-Ascended Masters",
+      "type": "image",
+      "file-name": "",
+      "label": "Pele",
+      "src1": "resources-images/pele.png",
+      "src2": "",
+      "tags": [
+        "volcano",
+        "purification",
+        "release",
+        "passion", "motivation"       
+      ]
+    },
+
+    {
+      "section": "Resources-Ascended Masters",
+      "type": "image",
+      "file-name": "",
+      "label": "Buddha",
+      "src1": "resources-images/buddha.png",
+      "src2": "",
+      "tags": [
+        "end to suffering",
+        "middle way",
+        "moderation",
+        "meditation"      
+      ]
+    },
+
+    {
       "section": "Resources",
       "type": "PDF",
       "file-name": "R8_Chakras.pdf",
@@ -431,6 +590,96 @@
         "chakra"
       ]
     },
+
+    {
+      "section": "Resources-Chakras",
+      "type": "image",
+      "file-name": "",
+      "label": "First Chakra",
+      "src1": "resources-images/1st-chakra-affirmation.jpg",
+      "src2": "",
+      "tags": [
+        "earth energies", "grounded", "centered", "purified"
+             
+      ]
+    },
+    {
+      "section": "Resources-Chakras",
+      "type": "image",
+      "file-name": "",
+      "label": "Second Chakra",
+      "src1": "resources-images/2nd-chakra-affirmation.jpg",
+      "src2": "",
+      "tags": [
+        "self-respect", "enjoyment", "loving life", "resting"
+             
+      ]
+    },
+
+    {
+      "section": "Resources-Chakras",
+      "type": "image",
+      "file-name": "",
+      "label": "Third Chakra",
+      "src1": "resources-images/3rd-chakra-affirmation.jpg",
+      "src2": "",
+      "tags": [
+        "worthiness", "kindness", "respect", "enough"
+             
+      ]
+    },
+
+    {
+      "section": "Resources-Chakras",
+      "type": "image",
+      "file-name": "",
+      "label": "Fourth Chakra",
+      "src1": "resources-images/4th-chakra-affirmation.jpg",
+      "src2": "",
+      "tags": [
+        "love", "peace", "light", "joy"
+             
+      ]
+    },
+
+    {
+      "section": "Resources-Chakras",
+      "type": "image",
+      "file-name": "",
+      "label": "Fifth Chakra",
+      "src1": "resources-images/5th-chakra-affirmation.jpg",
+      "src2": "",
+      "tags": [
+        "self-expression", "grace", "integration", "speak from the heart", "worthy of being heard"
+             
+      ]
+    },
+
+    {
+      "section": "Resources-Chakras",
+      "type": "image",
+      "file-name": "",
+      "label": "Sixth Chakra",
+      "src1": "resources-images/6th-chakra-affirmation.jpg",
+      "src2": "",
+      "tags": [
+        "clarity", "inspiration", "intuition", "imagination", "wisdom"
+             
+      ]
+    },
+    {
+      "section": "Resources-Chakras",
+      "type": "image",
+      "file-name": "",
+      "label": "Seventh Chakra",
+      "src1": "resources-images/7th-chakra-affirmation.jpg",
+      "src2": "",
+      "tags": [
+        "connection with Spirit", "sacred transformation", "unity"
+             
+      ]
+    },
+
     {
       "section": "Resources",
       "type": "PDF",
@@ -442,6 +691,60 @@
         "resources",
         "totem animals"
       ]
+    },
+    {
+      "section": "Resources-Totem Animals",
+      "type": "image",
+      "file-name": "",
+      "label": "Dove",
+      "src1": "resources-images/dove.jpg",
+      "src2": "",
+      "tags": [
+        "releasing emotions", "forgive", "peace", "release", "rebirth", "lifted up"
+             
+      ]
+    },
+    {
+      "section": "Resources-Totem Animals",
+      "type": "image",
+      "file-name": "",
+      "label": "Bald Eagle",
+      "src1": "resources-images/bald-eagle.jpg",
+      "src2": "",
+      "tags": [
+        "swiftness", "strength", "courage", "power", "balance", "dignity with grace", 
+        "wisdom", "keen sight", "rising above"
+             
+      ]
+    },
+
+    {
+      "section": "Resources-Totem Animals",
+      "type": "image",
+      "file-name": "",
+      "label": "Elephant",
+      "src1": "resources-images/elephant.jpg",
+      "src2": "",
+      "tags": [
+        "good luck", "good fortune", "power", "feminine strength", "royalty", 
+        "kindness", "gentle respect", "loyalty", "wise", "good memory", "patience"
+             
+      ]
+    },
+    {
+      "section": "Resources-Totem Animals",
+      "type": "image",
+      "file-name": "",
+      "label": "Reindeer",
+      "src1": "resources-images/elephant.jpg",
+      "src2": "",
+      "tags": [
+        "good luck", "good fortune", "power", "feminine strength", "royalty", 
+        "kindness", "gentle respect", "loyalty", "wise", "good memory", "patience"
+             
+      ]
     }
+
+
   ]
 }
