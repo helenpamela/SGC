@@ -218,21 +218,21 @@
         document.getElementById('header-placeholder').innerHTML = data;
       });
 
-    let sacredPagesData = [];
+    let SacredPagesData = [];
     let currentIndex = 0;
 
     fetch('cn-sacred-pages.json')
       .then(response => response.json())
       .then(data => {
-        sacredPagesData = data["items"];
+        SacredPagesData = data["items"];
         buildList();
       });
 
     function buildList() {
-      const list = document.getElementById("sacredPagesList");
+      const list = document.getElementById("SacredPagesList");
       list.innerHTML = "";
 
-      sacredPagesData.forEach((item, index) => {
+      SacredPagesData.forEach((item, index) => {
         const li = document.createElement("li");
 
         li.innerHTML = `
@@ -252,7 +252,7 @@
     }
 
     function showPage() {
-      const item = sacredPagesData[currentIndex];
+      const item = SacredPagesData[currentIndex];
 
       if (item.type === "PDF") {
         document.getElementById("modal-body").innerHTML =
@@ -274,7 +274,7 @@
     }
 
     function nextPage() {
-      if (currentIndex < sacredPagesDataS.length - 1) {
+      if (currentIndex < SacredPagesData.length - 1) {
         currentIndex++;
         showPage();
       }
