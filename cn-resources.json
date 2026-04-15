@@ -358,13 +358,14 @@
       "type": "image",
       "file-name": "",
       "label": "Michael",
-      "src1": "resources-images/angel-michael.png",
-      "src2": "",
+      "src1": "archangel-images/201203-michael.png",
+      "src2": "archangel-images/201203-michael-properties.png",
       "tags": [
         "resources",
         "archangel",
         "protection",
-        "clearing cords"
+        "clearing cords",
+        "michael"
       ]
     },
     {
@@ -372,12 +373,13 @@
       "type": "image",
       "file-name": "",
       "label": "Raphael",
-      "src1": "resources-images/angel-raphael.png",
-      "src2": "",
+      "src1": "archangel-images/201206-raphael.png",
+      "src2": "archangel-images/201206-raphael-properties.png",
       "tags": [
         "resources",
         "archangel",
-        "healing"
+        "healing",
+        "raphael"
       ]
     },
     {
@@ -385,13 +387,14 @@
       "type": "image",
       "file-name": "",
       "label": "Ariel",
-      "src1": "resources-images/angel-ariel.png",
-      "src2": "",
+      "src1": "archangel-images/201205-ariel.png",
+      "src2": "archangel-images/201205-ariel-properties.png",
       "tags": [
         "resources",
         "archangel",
         "courage",
-        "lionness"
+        "lionness",
+        "ariel"
       ]
     },
     {
@@ -399,8 +402,8 @@
       "type": "image",
       "file-name": "",
       "label": "Gabriel",
-      "src1": "resources-images/angel-gabriel.png",
-      "src2": "",
+      "src1": "archangel-images/201308-gabriel.png",
+      "src2": "archangel-images/201308-gabriel-properties.png",
       "tags": [
         "resources",
         "archangel",
@@ -413,13 +416,14 @@
       "type": "image",
       "file-name": "",
       "label": "Metatron",
-      "src1": "resources-images/angel-metatron.png",
-      "src2": "",
+      "src1": "archangel-images/201309-metatron.png",
+      "src2": "archangel-images/201309-metatron-properties.png",
       "tags": [
         "resources",
         "archangel",
         "spiritual knowledge",
-        "guard"
+        "guard",
+        "metatron"
       ]
     },
    
