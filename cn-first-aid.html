@@ -126,14 +126,6 @@
       transform: translateY(-1px);
     }
 
-
-    /*
-      .button:hover {
-        background: #d6c6f0;
-        transform: translateY(-3px) scale(1.02);
-        box-shadow: 0 6px 18px rgba(180, 150, 255, 0.35);
-      }
-      */
     img {
       width: 120px;
       margin-bottom: 10px;
@@ -206,12 +198,18 @@
       firstAidData.forEach((item, index) => {
         const li = document.createElement("li");
 
-        li.innerHTML = `
-      <a href="#" onclick="openModal(${index})">
-        ${item.label}
-      </a>
-    `;
+        // 👇 store searchable text (label + tags)
+        const searchableText = (
+          item.label + " " + (item.tags || []).join(" ")
+        ).toLowerCase();
 
+        li.setAttribute("data-search", searchableText);
+
+        li.innerHTML = `
+          <a href="#" onclick="openModal(${index})">
+            ${item.label}
+          </a>
+        `;
         list.appendChild(li);
       });
     }
@@ -267,18 +265,16 @@
 
   <script id="kx8c2t">
     const searchBox = document.getElementById("searchBox");
-    const items = document.querySelectorAll("#firstAidList li");
 
     searchBox.addEventListener("keyup", function () {
       const searchText = searchBox.value.toLowerCase();
 
+      const items = document.querySelectorAll("#firstAidList li");
+
       items.forEach(function (item) {
-        const text = item.textContent.toLowerCase();
-        if (text.includes(searchText)) {
-          item.style.display = "";
-        } else {
-          item.style.display = "none";
-        }
+        const text = item.getAttribute("data-search");
+
+        item.style.display = text.includes(searchText) ? "" : "none";
       });
     });
 

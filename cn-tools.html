@@ -197,12 +197,18 @@
       toolsData.forEach((item, index) => {
         const li = document.createElement("li");
 
-        li.innerHTML = `
-           <a href="#" onclick="openModal(${index})">
-        ${item.label}
-      </a>
-    `;
+        // 👇 store searchable text (label + tags)
+        const searchableText = (
+          item.label + " " + (item.tags || []).join(" ")
+        ).toLowerCase();
 
+        li.setAttribute("data-search", searchableText);
+
+        li.innerHTML = `
+          <a href="#" onclick="openModal(${index})">
+            ${item.label}
+          </a>
+        `;
         list.appendChild(li);
       });
     }
@@ -257,18 +263,16 @@
 
   <script id="kx8c2t">
     const searchBox = document.getElementById("searchBox");
-    const items = document.querySelectorAll("#toolsList li");
 
     searchBox.addEventListener("keyup", function () {
       const searchText = searchBox.value.toLowerCase();
 
+      const items = document.querySelectorAll("#toolsList li");
+
       items.forEach(function (item) {
-        const text = item.textContent.toLowerCase();
-        if (text.includes(searchText)) {
-          item.style.display = "";
-        } else {
-          item.style.display = "none";
-        }
+        const text = item.getAttribute("data-search");
+
+        item.style.display = text.includes(searchText) ? "" : "none";
       });
     });
   </script>

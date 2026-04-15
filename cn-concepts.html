@@ -197,15 +197,23 @@
       conceptsData.forEach((item, index) => {
         const li = document.createElement("li");
 
+        // 👇 store searchable text (label + tags)
+        const searchableText = (
+          item.label + " " + (item.tags || []).join(" ")
+        ).toLowerCase();
+
+        li.setAttribute("data-search", searchableText);
+
         li.innerHTML = `
-           <a href="#" onclick="openModal(${index})">
-        ${item.label}
-      </a>
-    `;
+          <a href="#" onclick="openModal(${index})">
+          ${item.label}
+         </a>
+        `;
 
         list.appendChild(li);
       });
     }
+
 
     function openModal(index) {
       currentIndex = index;
@@ -257,18 +265,16 @@
 
   <script id="kx8c2t">
     const searchBox = document.getElementById("searchBox");
-    const items = document.querySelectorAll("#conceptsList li");
 
     searchBox.addEventListener("keyup", function () {
       const searchText = searchBox.value.toLowerCase();
 
+      const items = document.querySelectorAll("#conceptsList li");
+
       items.forEach(function (item) {
-        const text = item.textContent.toLowerCase();
-        if (text.includes(searchText)) {
-          item.style.display = "";
-        } else {
-          item.style.display = "none";
-        }
+        const text = item.getAttribute("data-search");
+
+        item.style.display = text.includes(searchText) ? "" : "none";
       });
     });
   </script>
