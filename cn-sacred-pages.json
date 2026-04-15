@@ -22,7 +22,7 @@
       "src1": "https://drive.google.com/file/d/1oae8kN9SHpDlyhQt2ha2hDL26bOjdHXH/preview",
       "src2": "",
       "tags": [
-        "Resources-Sacred-Pages",
+         "Resources-Sacred-Pages",
          "intentions"
       ]
     },
@@ -68,10 +68,10 @@
     },   
     {
       "section": "Resources-Sacred-Pages",
-      "type": "image",
-      "file-name": "Power Points.pdf",
+      "type": "PDF",
+      "file-name": "PowerPoints.pdf",
       "label": "💪🏻 Power Points",
-      "src1": "https://drive.google.com/file/d/1VGzqzpJJ7KTPoxVeuu3VDrA9nL-O3gRc/preview",
+      "src1": "hhttps://drive.google.com/file/d/1VGzqzpJJ7KTPoxVeuu3VDrA9nL-O3gRc/preview",
       "src2": "",
       "tags": [
         "Resources-Sacred-Pages",
