@@ -1174,7 +1174,6 @@ const meetings = {
       } 
     ]
   },
-
   
    "202508": {
     title: "August 2025",
@@ -1371,7 +1370,6 @@ const meetings = {
       } 
     ]
   },
-
    
    "202507": {
     title: "July 2025",
@@ -1756,7 +1754,6 @@ const meetings = {
       } 
     ]
   },
-
   
    "202505": {
     title: "May 2025 🐝",
@@ -1925,8 +1922,6 @@ const meetings = {
     ]
   },
 
-
-
   "202504": {
     title: "April 2025 🌷",
     month: "April",
@@ -2051,10 +2046,10 @@ const meetings = {
       } 
     ]
   },
-   
-   "202503": {
+  
+  "202503": {
     title: "March 2025 ☘️",
-    month: "AprilMarch",
+    month: "March",
     year: 2025,
 
     final_agenda: [
@@ -2310,7 +2305,175 @@ const meetings = {
 
       } 
     ]
+  },
+
+  "202502": {
+    title: "February 2025 🩷",
+    month: "February",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/18n6oBwprcbjaTv9lUIEB7C-YuGqKhbIc/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "PDF",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1OsTT85uJaPI8B1is0aUIEvo_TZHZfEMl/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+   
+    ],
+
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      },
+   
+      
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+      }
+    ],
+
+    invocation: [
+      {
+        type: "pdf",
+        label: "Spiritual Mind Treatment Instructions",
+        src: "https://drive.google.com/file/d/1k6rI6rO2GvSm9SwphfK9wYsDc7BaaG5C/preview"
+      },
+      {
+        type: "pdf",
+        label: "Spiritual Mind Treatment Example",
+        src: "https://drive.google.com/file/d/10L0_zmMs5LiIoSfodXr8v3JBZI5UOqap/preview"
+      },
+      {
+        type: "pdf",
+        label: "Spiritual Mind Treatment - Bright Financial Future",
+        src: "https://drive.google.com/file/d/1wghgnt5sJIdcRzK6FoCWDA8PPr808Cf6/preview"
+      }
+    ],
+
+   
+    focus: {
+      title: "Year of the Snake",
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202502-year-of-the-snake.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202502-year-of-the-snake-properties.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Snake",
+          src: "https://drive.google.com/file/d/1qYbukTOlf18qaV9geWgq7VpDVje9RWIN/view?usp=drive_link"
+        }
+           
+      ]
+
+    },
+     
+    practice: {
+      title: "Set Intentions",
+      items: [
+        {
+          type: "pdf",
+          label: "Setting Intentions Quotes",
+          src: "https://drive.google.com/file/d/1PJNQApk_eMnFChmLFGsFEP331HRxar3j/preview"
+        },
+        {
+          type: "pdf",
+          label: "Power of Setting Intentions",
+          src: "https://drive.google.com/file/d/1wLeXCBb6asDt2ocy6MSIeWDbhPdogn50/preview"
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202502-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["vision board", "imagination", "future"],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+  
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      } 
+    ]
   }
+ 
 
 }
 
