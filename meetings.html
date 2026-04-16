@@ -403,6 +403,7 @@
       document.getElementById("title").innerHTML =
         `${data.title}<br><span style="font-size: 0.6em; color: #888;"></span>`;
 
+      console.log("setTitle next:", data.focus?.title);
       setTitle("focus-title", "Monthly Focus", data.focus?.title);
       setTitle("practice-title", "Daily Practice", data.practice?.title);
       setTitle("topic-title", "Topic", data.topic?.title);
@@ -412,15 +413,17 @@
 
       // Titles, setup, special sections
       document.getElementById("title").innerHTML = data.title;
-
+       
       // Now render each section using your helper ✨
       renderItems(data.final_agenda || [], "final_agenda");
+      console.log("renderItems working agenda next:");
       renderItems(data.teacher_only?.working_agenda || [], "working_agenda");
       renderItems(data.announcements || [], "announcements");
       renderItems(data.intention || [], "intention");
       renderItems(data.vision || [], "vision");
       renderItems(data.lovingkindness || [], "lovingkindness");
       renderItems(data.invocation || [], "invocation");
+      console.log("renderItems monthly focus next:");
       renderItems(data.focus?.items || [], "focus");
       renderItems(data.practice?.items || [], "practice");
       renderItems(data.affirmation || [], "affirmation");
@@ -439,6 +442,8 @@
     function setTitle(id, main, sub) {
       const el = document.getElementById(id);
 
+      console.log("in setTitle function");
+
       if (!el) return;
 
       if (sub && sub.trim() !== "") {
@@ -451,7 +456,7 @@
     function renderItems(items, containerId) {
       const div = document.getElementById(containerId);
       div.innerHTML = "";
-
+      console.log("In renderItems function item type:", item.type);
       if (!items || items.length === 0) return;
 
       items.forEach(item => {

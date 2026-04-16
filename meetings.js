@@ -2322,7 +2322,7 @@ const meetings = {
     teacher_only: {
       working_agenda: [
         {
-          type: "PDF",
+          type: "pdf",
           label: "Working Agenda",
           src: "https://drive.google.com/file/d/1OsTT85uJaPI8B1is0aUIEvo_TZHZfEMl/preview"
         }
