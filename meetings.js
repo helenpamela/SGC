@@ -1530,7 +1530,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Article - Remove Limiting Beliefs",
-          src: "https://drive.google.com/file/d/148JUiaUSvTjTCsPvNXSV647LzVK0imfa/review"
+          src: "https://drive.google.com/file/d/148JUiaUSvTjTCsPvNXSV647LzVK0imfa/preview"
         },
         {
           type: "pdf",
@@ -1959,9 +1959,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
       }
     ],
 
@@ -2061,18 +2061,42 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1Y2uiZG4qf_E8V4N1zro-KZ10pkHrBmm9/preview"
       }
     ],
     teacher_only: {
       working_agenda: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "PDF",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1b4iUGtDUh3bnF0-3cC0CdgSE5SKzi5RO/preview"
         }
       ]
     },
+    announcements: [
+      {
+        type: "pdf",
+        label: "Spring Equinox",
+        src:   "https://drive.google.com/file/d/1yK-9aia4KbDEpAmBgLzZ4fm_1oQhlcyu/preview"
+      },
+      {
+        type: "pdf",
+        label: "Alan Cohen - Disarmed by Peace",
+        src:   "https://drive.google.com/file/d/1y9FAhIXQPCWjPDJ2CSEupg31tOOSqplL/preview"
+      },
+      {
+        type: "video",
+        label: "Alan Cohen video - Be the Mule",
+        src:   "https://www.youtube.com/embed/W2QhiXyg0Z0?si=WlRrxKMZGjroYXD0"
+      },
+      {
+        type: "video",
+        label: "Randy Rainbow video - Defy Democracy",
+        src:   "https://www.youtube.com/embed/KpPIxcntxkE?si=bqbVcp8MwELJ0TK-"
+      }
+    ],
+
+
     intention: [
       {
         type: "",
@@ -2082,11 +2106,31 @@ const meetings = {
 
     ],
 
+    our_vision: [
+      {
+        type: "image",
+        label: "Sunflower - symbol of Ukraine",
+        src:   "our-values-images/202503/sunflowers.jpg"
+      },
+      {
+        type: "pdf",
+        label: "Sunflower.pdf",
+        src:   "https://drive.google.com/file/d/1DkeIKe4vrpxRlhP1iOAI7HTeThTrzBy6/preview"
+      },
+      {
+        type: "pdf",
+        label: "Our Vision for the New Earth and Ukraine",
+        src:   "https://drive.google.com/file/d/17A-91u1UxGtw7AWD64erXVlkYgKSQ5_t/preview"
+      }
+      
+
+    ],
+
     lovingkindness: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
       }
     ],
 
@@ -2101,34 +2145,60 @@ const meetings = {
 
    
     focus: {
-      title: "",
+      title: "Azurite & Clear Quartz",
       items: [
         {
-          type: "",
-          src: ""
-        }      
+          type: "image",
+          src: "crystal-images/202503-azurite.jpg"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202503-azurite-properties.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Azurite",
+          src: "https://drive.google.com/file/d/14qPRwaGuHaBLGsgLp0KEoEx5uD5b21E_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Clear Quartz article from GemAvenue",
+          src: "https://drive.google.com/file/d/1FwRdG_O41qrBciFwxwerShO-PMPhc6w7/preview"
+        },
+        {
+          type: "pdf",
+          label: "Clear Quartz article from HappySoul",
+          src: "https://drive.google.com/file/d/1uCuAG9TcLaWZBxxeqp2b28OJUXDGXPP3/preview"
+        }
+
        
       ]
 
     },
      
     practice: {
-      title: "",
+      title: "Let Them",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "image",
+          label: "Let Them card",
+          src: "daily-practice-images/202503-card-let-them-let-me.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Book Summary - Let Them",
+          type: "image",
+          label: "Let Them card",
+          src: "https://drive.google.com/file/d/1J1Kpd2x6Uf5O5jlXHxf2pUnm46w2BiV-/preview"
         }
-    
       ]
     },
 
     affirmation: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202503-affirmation.jpg"
       }
     ],
 
@@ -2136,8 +2206,8 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
-          src: ""
+          type: "image",
+          src: "none-images/no-meditation.jpg"
         }
       ]
     },
@@ -2146,26 +2216,95 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
+          type: "image",
           label: "",
-          src: ""
+          src: "none-images/no-luminaries.png"
         }
 
       ]
     },
 
-    tags: ["cancelled"],
+    tags: ["clarity", "let them", "azurite", "clear quartz", "alan cohen",
+      "randy rainbow"],
 
     topic: {
-      title: "",
+      title: "Clarity",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "More of Less Form",
+          src: "https://drive.google.com/file/d/1SJ6bczbAXVjbnUERdRgUyZMCVgwSIraM/preview"
+        },
+        {
+          type: "pdf",
+          label: "Values List",
+          src: "https://drive.google.com/file/d/1smEAE1eI30412j0B2VKtGvjj10Eeux9P/preview"
+        },
+        {
+          type: "pdf",
+          label: "When You're Confused",
+          src: "https://drive.google.com/file/d/1RSx6C7bK77gqZKettrX8aMretrGOdYCk/preview"
+        },
+        {
+          type: "pdf",
+          label: "Three Most Important Questions",
+          src: "https://drive.google.com/file/d/1aLXW6xJ2JiJ0_V_M4uxznVfdt4iUTSJS/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Power of Clarity",
+          src: "https://drive.google.com/file/d/1ZJgFebgfLKHiN7_82SoW_KMrZ8dSBfMD/preview"
+        },
+        {
+          type: "pdf",
+          label: "Clarity and Focus",
+          src: "https://drive.google.com/file/d/1DKY5pZ2sz73HIVZMyu97rvnTZKguJS-K/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Gain More Clarity",
+          src: "https://drive.google.com/file/d/10pvfm82_jJpJq9EnWFVMiHES44DAxuZc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mindvally Clarity Article",
+          src: "https://drive.google.com/file/d/1JpAyXNHT-RY16csyyVSChziCiOCfqpTM/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Clarity?",
+          src: "https://drive.google.com/file/d/1Z6qQRSkQmNANB07KhhQ1futvOe4vN948/preview"
+        },
+        {
+          type: "pdf",
+          label: "Resetting to Zero",
+          src: "https://drive.google.com/file/d/15WVBobzCwqBVaxQsrVLbF5dfeboeDZ43/preview"
+        },
+        {
+          type: "pdf",
+          label: "Easiest Way to Clarity",
+          src: "https://drive.google.com/file/d/1BiOsPFC4KGGfmmKZPAvQO78ZNfBykUQJ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Challenge Your Never",
+          src: "https://drive.google.com/file/d/1AUgbupLiTgast9IChn0pqI9b8iJeZYv_/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Strategies for Clarity",
+          src: "https://drive.google.com/file/d/1aIl7eJA2c_jmoSAofXbV2UO9mFhPy3KZ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Affirmations for Clarity",
+          src: "https://drive.google.com/file/d/1DlahlxKyB9on2sgR_6OB2B-YfRCiTXRA/preview"
+        },
+        {
+          type: "pdf",
+          label: "12 Questions for Clarity",
+          src: "https://drive.google.com/file/d/1PcYJYL2Cio6s1kGOPrspXTlCZxBVv1hW/preview"
         }
-       
-
       ]
     },
 
