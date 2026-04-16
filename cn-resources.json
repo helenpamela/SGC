@@ -230,9 +230,12 @@
       "tags": [
         "resources",
         "crystal",
-        "protection",
-        "enlightenment",
-        "awareness"
+        "truth",
+        "awareness",
+        "insight",
+        "spiritual growth",
+        "self-reflection",
+        "enhance intelletual abilities"
       ]
     },
     {
@@ -245,9 +248,10 @@
       "tags": [
         "resources",
         "crystal",
-        "calm",
-        "protection",
-        "stability"
+        "physical strength",
+        "vitality",
+        "stabilize energy",
+        "manifest creative ideas"
       ]
     },
     {
@@ -260,41 +264,44 @@
       "tags": [
         "resources",
         "crystal",
-        "healing",
-        "purification",
-        "strength",
+        "wholeness",
+        "communication",
         "spiritual expansion"
+       
       ]
     },
-    {
-      "section": "Resources-Crystals",
-      "type": "image",
-      "file-name": "",
-      "label": "Turquoise",
-      "src1": "crystal-images/turquoise.png",
-      "src2": "",
-      "tags": [
-        "resources",
-        "crystal",
-        "healing",
-        "purification",
-        "strength",
-        "spiritual expansion"
-      ]
-    },
+
     {
       "section": "Resources-Crystals",
       "type": "image",
       "file-name": "",
       "label": "Black Obsidian",
-      "src1": "crystal-images/black-obsidian.png",
-      "src2": "",
+      "src1": "crystal-images/201007-black-obsidian.png",
+      "src2": "crystal-images/201007-black-obsidian-properties.png",
       "tags": [
         "resources",
         "crystal",
         "protection",
         "cleansing",
-        "grounding"
+        "grounding",
+        "scrying"
+      ]
+    },
+    {
+      "section": "Resources-Crystals",
+      "type": "image",
+      "file-name": "",
+      "label": "Blue Chalcedony",
+      "src1": "crystal-images/201006-blue-chalcedony.png",
+      "src2": "crystal-images/201006-blue-chalcedony-properties.png",
+      "tags": [
+        "resources",
+        "crystal",
+        "calm",
+        "balance",
+        "centeredness",
+        "inner knowledge",
+        "communication"
       ]
     },
     
