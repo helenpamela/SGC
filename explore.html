@@ -492,6 +492,7 @@
   // Search Cliff Notes
 
   let allItems = [];
+  let filteredItems = [];
 
   function safeFetch(url) {
     return fetch(url)
@@ -538,6 +539,7 @@
 
   search.addEventListener("keyup", function () {
     const value = search.value.toLowerCase();
+    filteredItems = []; // reset every search
     results.innerHTML = "";
 
     let matchCount = 0;
@@ -554,6 +556,10 @@
 
         const li = document.createElement("li");
 
+        filteredItems.push(item);
+
+        const index = filteredItems.length - 1;
+
         // find matching tag
         let matchText = "";
         if (value) {
@@ -565,22 +571,22 @@
 
         li.innerHTML = `
 
-        <a href="#" onclick="event.preventDefault(); openModal(${index})">
+          <a href="#" onclick="event.preventDefault(); openModal(${index})">
 
-        <div style="font-size:13px; color:#7a6c9d;">
-          ${matchText}
-        </div>
+          <div style="font-size:13px; color:#7a6c9d;">
+            ${matchText}
+          </div>
 
-        <div style="font-size:12px; color:#a08fc4;">
-          ${item.section}
-        </div>
+          <div style="font-size:12px; color:#a08fc4;">
+            ${item.section}
+          </div>
 
-        <div style="font-size:16px; font-weight:500;">
-          ${item.label}
-        </div>
+          <div style="font-size:16px; font-weight:500;">
+            ${item.label}
+          </div>
 
-      </a>
-    `;
+          </a>
+       `;
 
         results.appendChild(li);
         matchCount++;
@@ -598,7 +604,6 @@
 
   function openModal(index) {
     currentIndex = index;
-
     showPage();
 
     //document.getElementById("modal").style.display = "block";
@@ -616,7 +621,7 @@
     modalBody.style.opacity = 0;
 
     setTimeout(() => {
-      const item = allItems[currentIndex];
+      const item = filteredItems[currentIndex];
 
       if (item.type === "PDF") {
         modalBody.innerHTML =
@@ -642,13 +647,12 @@
         modalBody.innerHTML = `<p>Oops! Couldn't load this item.</p>`;
       }
 
-
       let html = `
-  <div class="feature-card">
-    <img src="${item.src1}" class="feature-image">
-    <div class="feature-title">${item.label}</div>
-  </div>
-`;
+        <div class="feature-card">
+          <img src="${item.src1}" class="feature-image">
+          <div class="feature-title">${item.label}</div>
+        </div>
+      `;
 
       modalBody.style.opacity = 1;
 
@@ -692,14 +696,14 @@
   }
 
   function nextItem() {
-    currentIndex = (currentIndex + 1) % allItems.length;
-    showPage();
-  }
+  currentIndex = (currentIndex + 1) % filteredItems.length;
+  showPage();
+}
 
-  function prevItem() {
-    currentIndex = (currentIndex - 1 + allItems.length) % allItems.length;
-    showPage();
-  }
+function prevItem() {
+  currentIndex = (currentIndex - 1 + filteredItems.length) % filteredItems.length;
+  showPage();
+}
 
 
 </script>
