@@ -2506,7 +2506,7 @@ const meetings = {
       {
         type:  "pdf",
         label: "Daniel Scranton Email",
-        src:   "https://drive.google.com/file/d/1qnlLY0tvR5mSeEppEY_vzZejBSvmBsGy/view?usp=drive_link"
+        src:   "https://drive.google.com/file/d/1qnlLY0tvR5mSeEppEY_vzZejBSvmBsGy/preview"
       }
    
     ],
@@ -2573,7 +2573,7 @@ const meetings = {
         {
           type:  "image",
           label: "OM Card",
-          src:   "daily-practices-images/202501_OM Card.jpg"
+          src:   "daily-practices-images/202501-om-card.jpg"
         },
         {
           type:  "pdf",
@@ -2626,9 +2626,9 @@ const meetings = {
       title: "Burning Bowl Ceremony & Christmas 🎄",
       items: [
         {
-          type: "text",
-          label: "Topic.txt",
-          src: "https://drive.google.com/file/d/1rbhR20Kk0CHsQ3QgQTdivl0mTO4eaXQ8/preview"
+          type: "pdf",
+          label: "Topics.pdf",
+          src: "https://drive.google.com/file/d/1sfvxJuUwyulbVizwM5jY9WqizuEeO7c2/preview"
         },
         {
           type: "pdf",
