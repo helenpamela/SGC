@@ -2573,7 +2573,7 @@ const meetings = {
         {
           type:  "image",
           label: "OM Card",
-          src:   "daily-practices-images/202501-om-card.jpg"
+          src:   "daily-practice-images/202501-om-card.jpg"
         },
         {
           type:  "pdf",
