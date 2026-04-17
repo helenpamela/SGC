@@ -2649,6 +2649,881 @@ const meetings = {
 
       } 
     ]
+  },
+ 
+  "202412": {
+    title: "December 2024 ✈️",
+    month: "December",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/107lAEXxm0H66I93zyemkwvI2TLt5zkJy/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    announcements: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+   
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      },       
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: "" 
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+  
+    ],
+   
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+           
+      ]
+
+    },
+     
+    practice: {
+      title: "",
+      items: [
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+     
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+
+
+        
+  
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      } 
+    ]
+  },
+
+  "202411": {
+    title: "November 2024 🦃",
+    month: "November",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    announcements: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+   
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      },       
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: "" 
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+  
+    ],
+   
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+           
+      ]
+
+    },
+     
+    practice: {
+      title: "",
+      items: [
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+     
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+
+
+        
+  
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      } 
+    ]
+  },
+
+  "202410": {
+    title: "October 2024 ✈️",
+    month: "October",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    announcements: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+   
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      },       
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: "" 
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+  
+    ],
+   
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+           
+      ]
+
+    },
+     
+    practice: {
+      title: "",
+      items: [
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+     
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+
+
+        
+  
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      } 
+    ]
+  },
+
+  "202409": {
+    title: "September 2024 ✈️",
+    month: "September",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    announcements: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+   
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      },       
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: "" 
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+  
+    ],
+   
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+           
+      ]
+
+    },
+     
+    practice: {
+      title: "",
+      items: [
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+     
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+
+
+        
+  
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      } 
+    ]
+  },
+
+  "202408": {
+    title: "August 2024 ✈️",
+    month: "August",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    announcements: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+   
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      },       
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: "" 
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+  
+    ],
+   
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+           
+      ]
+
+    },
+     
+    practice: {
+      title: "",
+      items: [
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+     
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+
+
+        
+  
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      } 
+    ]
   }
  
  
