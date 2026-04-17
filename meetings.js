@@ -3092,7 +3092,7 @@ const meetings = {
   },
 
   "202411": {
-    title: "November 2024 🦃",
+    title: "November 2024 😢",
     month: "November",
     year: 2024,
 
@@ -3100,7 +3100,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1bCOpWMk4w03q5_6FD_3fM-AvgJJ9y6Ge/preview"
       }
     ],
     teacher_only: {
@@ -3267,7 +3267,7 @@ const meetings = {
   },
 
   "202410": {
-    title: "October 2024 ✈️",
+    title: "October 2024 🎃",
     month: "October",
     year: 2024,
 
@@ -3275,7 +3275,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1RBj6N5o5Udo66oRH0ceo-YZnMHrLwUPc/preview"
       }
     ],
     teacher_only: {
@@ -3424,11 +3424,7 @@ const meetings = {
           type: "",
           label: "",
           src: ""
-        }
-
-
-
-        
+        }     
   
       ]
     },
@@ -3442,7 +3438,7 @@ const meetings = {
   },
 
   "202409": {
-    title: "September 2024 ✈️",
+    title: "September 2024 🏈",
     month: "September",
     year: 2024,
 
@@ -3450,15 +3446,15 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1XpkZm3vDV26BE9R2gNRFtmR6A5RbNWPt/preview"
       }
     ],
     teacher_only: {
       working_agenda: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1cVAtRxBmLBstviZ4qAwjvOpy0yLHYizc/preview"
         }
       ]
     },
@@ -3501,9 +3497,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "",
-        label: "",
-        src: "" 
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
       }
     ],
 
@@ -3517,52 +3513,61 @@ const meetings = {
     ],
    
     focus: {
-      title: "",
+      title: "Obsidian & Blue Calcite",
       items: [
         {
-          type: "",
-          src:  ""
+          type: "image",
+          src:  "crystal-images/202409-blue-calcite2.png"
         },
         {
-          type: "",
-          src:  ""
+          type: "image",
+          src:  "crystal-images/202409-blue-calcite2-properties.png"
+        },
+         {
+          type: "image",
+          src:  "crystal-images/202409-obsidian2.png"
         },
         {
-          type:  "",
-          label: "",
-          src:   ""
-        }
+          type: "image",
+          src:  "crystal-images/202409-obsidian2-properties.png"
+        },
+        {
+          type:  "pdf",
+          label: "Best Crystals for Mindfulness",
+          src:   "https://drive.google.com/file/d/1dDp997-ncGr6GmqfKHSBNxN0ACm2sDOk/preview"
+        },
+        {
+          type: "image",
+          label: "Blue calcite from Linda",
+          src:  "monthly-focus-images/202409-blue-calcite.jpg"
+        },
+        {
+          type: "image",
+          label: "Obsidian bracelet from Linda",
+          src:  "monthly-focus-images/202409-obsidian-bracelet.jpg"
+        },
            
       ]
 
     },
      
     practice: {
-      title: "",
+      title: "Be Mindful",
       items: [
+    
         {
-          type:  "",
-          label: "",
-          src:   ""
-        },
-        {
-          type:  "",
-          label: "",
-          src:   ""
-        },
-        {
-          type:  "",
-          label: "",
-          src:   ""
+          type:  "image",
+          label: "Little Book of Mindfulness",
+          src:   "daily-practice-images/202409-little-book-of-mindfulness.jpg"
         }
       ]
     },
 
     affirmation: [
       {
-        type:  "",
-        label: "",
-        src:   ""
+        type:  "image",
+        label: "This Month's Affirmation",
+        src:   "affirmation-images/202409-affirmation.jpg"
       }
     ],
 
@@ -3572,7 +3577,7 @@ const meetings = {
         {
           type: "",
           label: "",
-          src:   ""
+          src:   "none-images/no-meditation.jpg"
         }
       ]
     },
@@ -3589,20 +3594,36 @@ const meetings = {
       ]
     },
 
-    tags: ["cancelled"],
+    tags: ["mindfulness", "obsidian", "blue calcite"],
 
     topic: {
-      title: "",
-      items: [
-     
+      title: "Mindfulness",
+      items: [     
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Mindfulness vs Meditation",
+          src: "https://drive.google.com/file/d/1vXnKVLCQelfT15aIJONSGg-DZd67ImY7/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mindfulness Practices",
+          src: "https://drive.google.com/file/d/19n4omwALr1HrLvapTJhs65L30iutJEVI/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mindfulness Behaviors Chart",
+          src: "https://drive.google.com/file/d/14mx4UYZilz7Gua9TUGcPY-eUsaT2aPAA/preview"
+        },
+        {
+          type: "pdf",
+          label: "12 Ways to Practice Mindfulness",
+          src: "https://drive.google.com/file/d/1v5Ieaw0WADMRSRQL2K5w8RxX88mcRp4y/preview"
+        },
+        {
+          type: "pdf",
+          label: "5 Benefits of Mindfulness",
+          src: "https://drive.google.com/file/d/17j3MejS62N8yx05zDW62A4JSfAbpeA4W/preview"
         }
-
-
-
         
   
       ]
