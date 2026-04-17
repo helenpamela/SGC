@@ -142,7 +142,7 @@ const meetings = {
 
     final_agenda: [
       {
-        type: "PDF",
+        type: "pdf",
         label: "Agenda",
         src: "https://drive.google.com/file/d/1hH-MF-wzrJzhRMyH-SMW-LS8Yw5rcG5u/preview"
       }
