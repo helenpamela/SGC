@@ -659,7 +659,9 @@ const meetings = {
       ]
     },
 
-    tags: ["meditation", "happiness", "thoughts", "beliefs", "inner smile", "self-love", "compassion"],
+    tags: ["meditation", "happiness", "thoughts", "beliefs", "inner", "smile", 
+                "horse", "fire", "self-love", "compassion", "lee holden", 
+                "kenny", "calendar"],
 
 
     topic: {
@@ -3513,7 +3515,7 @@ const meetings = {
       title: "",
       items: [
         {
-          type:  "",
+          type:  "image",
           label: "",
           src:   "none-images/no-meditation.jpg"
         }
@@ -3524,9 +3526,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
+          type: "image",
           label: "",
-          src: ""
+          src: "none-images/no-luminaries.png"
         }
 
       ]
