@@ -3741,8 +3741,183 @@ const meetings = {
 
     other: [
       {
-        type: ""
+        type: "image",
+        label: "Dragon from 3D Printer from Linda",
+        src: "other-images/202408-dragon-from-3D-printer.jpg"
+      } 
+    ]
+  },
 
+  
+  "202407": {
+    title: "July 2024 🎇",
+    month: "July",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+    announcements: [
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+   
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      },       
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+  
+    ],
+   
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src:  "none-images/no-monthly-focus.png"
+        },
+        {
+          type: "",
+          src:  ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+           
+      ]
+
+    },
+     
+    practice: {
+      title: "",
+      items: [
+        {
+          type:  "image",
+          label: "",
+          src:   "none-images/no-daily-practice.png"
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type:  "image",
+        label: "This Month's Affirmation",
+        src:   "affirmation-images/202408-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src:   "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "",
+      items: [
+     
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+        }
+        
+  
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
       } 
     ]
   }
