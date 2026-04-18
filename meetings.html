@@ -540,9 +540,11 @@
 
     function getMeetingList() {
       // If valid search results exist, use them
+      /*
       if (searchResults && searchResults.length > 1) {
         return searchResults;
       }
+      */
 
       // Otherwise use all meetings (calendar order)
       return Object.keys(meetings);
