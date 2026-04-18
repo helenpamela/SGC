@@ -2147,7 +2147,7 @@ const meetings = {
       ]
     },
 
-    tags: ["rose", "friend", "friendship", ],
+    tags: ["rose", "call", "friend", "friendship", "Atlantis" ],
 
     topic: {
       title: "",
@@ -2481,7 +2481,7 @@ const meetings = {
     },
 
     tags: ["clarity", "let them", "azurite", "clear quartz", "alan cohen",
-      "randy rainbow"],
+      "randy rainbow", "equinox"],
 
     topic: {
       title: "Clarity",
