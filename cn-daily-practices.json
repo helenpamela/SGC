@@ -282,7 +282,7 @@
       "src2": "",
       "tags": ["daily practice", "laugh", "laughter" ]
      },
-{   
+     {   
       "section": "Daily Practices",
       "type": "PDF",
       "file-name": "DP11b_Joy.pdf", 
@@ -290,7 +290,154 @@
       "src1": "https://drive.google.com/file/d/1o8QfOMkHgfaJZtZXPsoaBK2fKzSXbN9N/preview",
       "src2": "",
       "tags": ["daily practice", "joy"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP12a_Self-Care.pdf", 
+      "label": "💛 Self-Care", 
+      "src1": "https://drive.google.com/file/d/1ympl4S6bs2uGPtbyPeYtyVz4WbJSjqoq/preview",
+      "src2": "",
+      "tags": ["daily practice", "self-care"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP12b_ArtOfSelf-CareModules.pdf", 
+      "label": "💛 The Art of Self-Care", 
+      "src1": "https://drive.google.com/file/d/13AhrOWe9jK1lvSbDO0uKWruZW4_p7Ilm/preview",
+      "src2": "",
+      "tags": ["daily practice", "self-care"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP13a0 Benefits of Setting Intentions.pdf", 
+      "label": "💡 The Benefits of Setting Intentions", 
+      "src1": "https://drive.google.com/file/d/1BEXq51blwKeYdusprf_doTujZ489WhJX/preview",
+      "src2": "",
+      "tags": ["daily practice", "intentions"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP13a1_SetIntentions.pdf", 
+      "label": "💡 Setting Intentions", 
+      "src1": "https://drive.google.com/file/d/1bFSBsDH6zykQisFa3hLkS7977vu4j0Rx/preview",
+      "src2": "",
+      "tags": ["daily practice", "intentions"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP13a2_SettingIntentions.pdf", 
+      "label": "💡 Setting Intentions Quotes", 
+      "src1": "https://drive.google.com/file/d/1baj0RELkNBqdTaXlLGRwJ8lclgvNJkW7/preview",
+      "src2": "",
+      "tags": ["daily practice", "intentions"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP13b_CreateYourDay.pdf", 
+      "label": "💡 Create Your Day", 
+      "src1": "https://drive.google.com/file/d/1Il5LMqJ24JOap6ZZUqe5gViwzXWSvJ0a/preview",
+      "src2": "",
+      "tags": ["daily practice", "intentions", "create your day"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP13c_SegmentIntending.pdf", 
+      "label": "💡 Segment Intending", 
+      "src1": "https://drive.google.com/file/d/1Il5LMqJ24JOap6ZZUqe5gViwzXWSvJ0a/preview",
+      "src2": "",
+      "tags": ["daily practice", "intentions", "abraham", "segment intending"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP14_InspirationalReading.pdf", 
+      "label": "📖 Inspirational Reading", 
+      "src1": "https://drive.google.com/file/d/1xfb3zApongXgwWWvOxi-LB4ZyqMDHNqb/preview",
+      "src2": "",
+      "tags": ["daily practice", "book", "read", "inspiration"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP15_Yoga.pdf", 
+      "label": "🧘🏻 Yoga", 
+      "src1": "https://drive.google.com/file/d/1FsL5oWeZRBZLVX4NKeE4XTfL7LjFmev2/preview",
+      "src2": "",
+      "tags": ["daily practice", "yoga"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP16a_GoldenRule1.pdf", 
+      "label": "✡️ Golden Rule", 
+      "src1": "https://drive.google.com/file/d/1BPiiRVTMbjpTGdfNnwQAWLdJArpwz21Z/preview",
+      "src2": "",
+      "tags": ["daily practice", "golden rule", "kindness"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP16b_GoldenRule2.pdf", 
+      "label": "✡️ Golden Rule", 
+      "src1": "https://drive.google.com/file/d/1JekyhnD5NXtfYmJUCfuvo7Blo1zOhx5j/preview",
+      "src2": "",
+      "tags": ["daily practice", "golden rule", "kindness"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP16c_GoldenRule3.pdf", 
+      "label": "✡️ Golden Rule Quotes", 
+      "src1": "https://drive.google.com/file/d/1pG00_qq8JnDowkJy18pydct7eBAO2I4K/preview",
+      "src2": "",
+      "tags": ["daily practice", "golden rule", "kindness"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP16d_GoldenRule4.pdf", 
+      "label": "✡️ Golden Rule Quotes", 
+      "src1": "https://drive.google.com/file/d/1ewshK9dd2931A4OSeOxDfmdhH-2VJpVt/preview",
+      "src2": "",
+      "tags": ["daily practice", "golden rule", "kindness"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP17a_ChooseKindness.pdf", 
+      "label": "💚 Choose Kindness", 
+      "src1": "https://drive.google.com/file/d/1E2_yhhJUOs0j5Z5AskpLn087pDephbg3/preview",
+      "src2": "",
+      "tags": ["daily practice", "choose", "kindness"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP17b1_LovingKindness.pdf", 
+      "label": "💐 LovingKindness Practice", 
+      "src1": "https://drive.google.com/file/d/14HlrFftPkqdZj0B3DPmmS6bOd5HGE18v/preview",
+      "src2": "",
+      "tags": ["daily practice", "lovingkindness"]
+     },
+     {   
+      "section": "Daily Practices",
+      "type": "PDF",
+      "file-name": "DP17b2_LovingKindness.pdf", 
+      "label": "💐 LovingKindness Meditation", 
+      "src1": "https://drive.google.com/file/d/1Ky9GPZRTnzambhS_HlZE6RO_uAUlHm-n/preview",
+      "src2": "",
+      "tags": ["daily practice", "lovingkindness", "meditation"]
      }
+
+     
+     
      
 
 
