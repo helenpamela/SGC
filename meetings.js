@@ -3513,7 +3513,7 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
+          type:  "",
           label: "",
           src:   "none-images/no-meditation.jpg"
         }
@@ -3576,7 +3576,7 @@ const meetings = {
   },
 
   "202408": {
-    title: "August 2024 ✈️",
+    title: "August 2024 🎂",
     month: "August",
     year: 2024,
 
@@ -3584,15 +3584,15 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/138fZYb43sA0oFF8LpP-Ijz3VSnpj2pKm/preview"
       }
     ],
     teacher_only: {
       working_agenda: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/10m9atvoeZmuwyFRETWIjq3ax_G1b08fh/preview"
         }
       ]
     },
@@ -3635,9 +3635,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "",
-        label: "",
-        src: "" 
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
       }
     ],
 
@@ -3654,8 +3654,8 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
-          src:  ""
+          type: "image",
+          src:  "none-images/no-monthly-focus.png"
         },
         {
           type: "",
@@ -3675,9 +3675,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type:  "",
+          type:  "image",
           label: "",
-          src:   ""
+          src:   "none-images/no-daily-practice.png"
         },
         {
           type:  "",
@@ -3694,9 +3694,9 @@ const meetings = {
 
     affirmation: [
       {
-        type:  "",
-        label: "",
-        src:   ""
+        type:  "image",
+        label: "This Month's Affirmation",
+        src:   "affirmation-images/202408-affirmation.jpg"
       }
     ],
 
@@ -3704,9 +3704,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
+          type: "image",
           label: "",
-          src:   ""
+          src:   "none-images/no-meditation.jpg"
         }
       ]
     },
@@ -3715,9 +3715,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
+          type: "image",
           label: "",
-          src: ""
+          src: "none-images/no-luminaries.png"
         }
 
       ]
@@ -3730,13 +3730,10 @@ const meetings = {
       items: [
      
         {
-          type: "",
+          type: "image",
           label: "",
-          src: ""
+          src: "none-images/no-topic.jpg"
         }
-
-
-
         
   
       ]
