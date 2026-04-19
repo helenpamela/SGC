@@ -46,7 +46,7 @@
       "label": "💎 Crystals & Chakras", 
       "src1": "https://drive.google.com/file/d/1WVVkIEPpZbJdJ2qOV5UgvZrZ90CVd78c/preview",
       "src2": "",
-      "tags": ["tool", "crystals"]
+      "tags": ["tool", "crystals", "chakra"]
      },
      {   
       "section": "Tools",
@@ -55,7 +55,7 @@
       "label": "☝🏻 EFT", 
       "src1": "https://drive.google.com/file/d/1HjucekFnVuc6rsNN8aExqV3jeHIUTfYx/preview",
       "src2": "",
-      "tags": ["tools", "eft"]
+      "tags": ["tools", "eft",  "release", "trauma"]
      },
      {   
       "section": "Tools",
@@ -64,7 +64,7 @@
       "label": "☝🏻 EFT Quotes", 
       "src1": "https://drive.google.com/file/d/1ehZDzbNh5CaqxsKoeHYVw_dhG9b8x5n3/preview",
       "src2": "",
-      "tags": ["tools", "eft"]
+      "tags": ["tools", "eft", "release", "trauma"]
      },
      {   
       "section": "Tools",
@@ -82,7 +82,7 @@
       "label": "🎴 Oracle Cards", 
       "src1": "https://drive.google.com/file/d/1YjPLq0ILLL3kX_4nVHUqhFpFHWgkA8u_/preview",
       "src2": "",
-      "tags": ["tools", "oracle cards"]
+      "tags": ["tools", "oracle cards", "intuition", "guidance" ]
      },
      {   
       "section": "Tools",
@@ -91,7 +91,7 @@
       "label": "⚡ Energy Medicine", 
       "src1": "https://drive.google.com/file/d/1FwqUCf23ap3ADrWwHCVXcz9lc7Nwr2hR/preview",
       "src2": "",
-      "tags": ["tools", "oracle cards"]
+      "tags": ["tools", "oracle cards", "intuition", "guidance"]
      },
      {   
       "section": "Tools",
@@ -100,7 +100,263 @@
       "label": "⚖️ Pendulum", 
       "src1": "https://drive.google.com/file/d/1-wVG-IC9ekHdSpFtS40BfqM_MsTtpmdT/preview",
       "src2": "",
-      "tags": ["tools", "pendulum"]
+      "tags": ["tools", "pendulum", "intuition", "guidance"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T9a_VisionBoard.pdf",
+      "label": "🖼️ Vision Board Examples", 
+      "src1": "https://drive.google.com/file/d/1qjg2XboW4U1vM_3hClgCACOWILnIuw34/preview",
+      "src2": "",
+      "tags": ["tools", "vision", "board", "intention", "inspiration", "future", "goals"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T9b_VisionBoard.pdf",
+      "label": "🖼️ Vision Board - How to Use", 
+      "src1": "https://drive.google.com/file/d/1ELOVUecSyt18Fq2TYjc_5qjX_t89iWm6/preview",
+      "src2": "",
+      "tags": ["tools", "vision", "board", "intention", "inspiration", "future", "goals"]
+     },  
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T10a_ByronKatie.pdf",
+      "label": "❓ Byron Katie - The Work", 
+      "src1": "https://drive.google.com/file/d/1jmtL5LH9c6SnHJm5SAhb30YK1mJr9fIb/preview",
+      "src2": "",
+      "tags": ["tools", "byron", "katie", "work", "is it true"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T10b_ByronKatieFacilitation.pdf",
+      "label": "❓ Byron Katie Facilitation Guide", 
+      "src1": "https://drive.google.com/file/d/1J_29MYOcAAC4e7cYrqfuJx_imWJSg3Bk/preview",
+      "src2": "",
+      "tags": ["tools", "byron", "katie", "work", "is it true"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T11_Play.pdf",
+      "label": "🎳 Play", 
+      "src1": "https://drive.google.com/file/d/1d3vD2EyKEAqi8pTuOe7YKk_hSRiSjbQN/preview",
+      "src2": "",
+      "tags": ["tools", "play", "fun", "joy", "silly"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T13a_Hypnosis.pdf",
+      "label": "😴 Hypnosis", 
+      "src1": "https://drive.google.com/file/d/17ii5nVYDUmiwKetB63xlFOfFHtqxJBmD/preview",
+      "src2": "",
+      "tags": ["tools", "hypnosis", "hypnotherapy", "suggestion", "subconscious", "trance", "Guided Imagery"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T13b_SelfHypnosis.pdf",
+      "label": "😴 Self-Hypnosis", 
+      "src1": "https://drive.google.com/file/d/1JNhB7Q8iEuKxjHVQlgVaf2Ba-tHI_rzC/preview",
+      "src2": "",
+      "tags": ["tools", "hypnosis", "hypnotherapy", "suggestion", "subconscious", "trance", 
+               "guided imagery"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T13c_GuidedImagery.pdf",
+      "label": "😴 Guided Imagery", 
+      "src1": "https://drive.google.com/file/d/11RT0a20dCOnJHtkMc1nb7g07cwtl_4Mp/preview",
+      "src2": "",
+      "tags": ["tools", "hypnotherapy", "suggestion", "subconscious", "trance", "guided imagery"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T14_WaterBlessingLabels.pdf",
+      "label": "💦 Water Blessing Labels", 
+      "src1": "https://drive.google.com/file/d/1Q3lBIbnz_4mze9jPUEidUGYTA-68srcY/preview",
+      "src2": "",
+      "tags": ["tools", "water", "blessing"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T15a_MirrorWork.pdf",
+      "label": "🪞 Mirror Work", 
+      "src1": "https://drive.google.com/file/d/1jIbfSONmlUYBnJ37vBMeWj5zeI3jlhP0/preview",
+      "src2": "",
+      "tags": ["tools", "louise hay", "affirmations", "self-love", "mirror"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T15b_LoveLetterToSelf.pdf",
+      "label": "📄 Love Letter to Self", 
+      "src1": "https://drive.google.com/file/d/1MYcBtlijEP_8X2f9Bf8A7dEdyOO8cLQR/preview",
+      "src2": "",
+      "tags": ["tools", "louise hay", "affirmations", "self-love", "mirror work", "i love you",
+            "love letter"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T16a_Visualization.pdf",
+      "label": "👀 Visualization", 
+      "src1": "https://drive.google.com/file/d/1YSWq7JMpFsd_weqN1ZwPKJzDuMGYnDU8/preview",
+      "src2": "",
+      "tags": ["tools", "imagination", "mental", "images", "visualize"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T16b_CreativeWorkshop.pdf",
+      "label": "💭 Creative Workshop", 
+      "src1": "https://drive.google.com/file/d/1XuexAcbKqQIp5ywXvuBPYmuG5hkw2RSq/pre💭view",
+      "src2": "",
+      "tags": ["tools", "imagination", "desires", "vibration", "abraham", "creative", "workshop"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T16d_VisionForJoy.pdf",
+      "label": "😄 Vision for Joy", 
+      "src1": "https://drive.google.com/file/d/1XuexAcbKqQIp5ywXvuBPYmuG5hkw2RSq/preview",
+      "src2": "",
+      "tags": ["tools", "imagination", "create reality", "visualize", "joy", "vision"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T17a_Mandala.pdf",
+      "label": "🛞 Mandala", 
+      "src1": "https://drive.google.com/file/d/1KNf-g7QFFNTsyiCg3s_KU80e2PjjjGKE/preview",
+      "src2": "",
+      "tags": ["tools", "sacred geometry", "circle", "mandala"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T17b1_MandalaColoring.pdf",
+      "label": "🛞 Mandala for Coloring", 
+      "src1": "https://drive.google.com/file/d/1MnDSALMFxLHjoYrkbfdboDyPCQMivxpd/preview",
+      "src2": "",
+      "tags": ["tools", "sacred geometry", "circle", "coloring", "mandala"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T17b2_MandalaColoring.pdf",
+      "label": "🛞 Mandala 2 for Coloring", 
+      "src1": "https://drive.google.com/file/d/1DGGFHwstnAsCRoz2KxThVFbJ7JnxyT5n/preview",
+      "src2": "",
+      "tags": ["tools", "sacred geometry", "circle", "coloring", "mandala"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T17c_MandalaMiniColoring.pdf",
+      "label": "🛞 Mini-Mandalas for Coloring", 
+      "src1": "https://drive.google.com/file/d/1SdxPQiOfWw7zs9PD12oRHEpuGPsVspgZ/preview",
+      "src2": "",
+      "tags": ["tools", "sacred geometry", "circle", "coloring", "mandala"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T18_ToBeList.pdf",
+      "label": "📋 To Be List", 
+      "src1": "https://drive.google.com/file/d/1raTAdjXxA96qKztdZsV7o68QmSuUh8uW/preview",
+      "src2": "",
+      "tags": ["tools", "daily", "jerry jampolsky", "to be list"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T19_CelebrateYourLife.pdf",
+      "label": "🎇 Celebrate Your Life", 
+      "src1": "",
+      "src2": "",
+      "tags": ["tools", "mishka productions", "celebrate", "life"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T20a_Movies.pdf",
+      "label": "🎬 Movies", 
+      "src1": "https://drive.google.com/file/d/1PMkqCdUkm27M_1IFzRhMghaqMZ0i114d/preview",
+      "src2": "",
+      "tags": ["tools", "video","movie"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T20b_Movies.pdf",
+      "label": "🎬 Movies 2", 
+      "src1": "https://drive.google.com/file/d/1NNMfCAtGVI8-VDHT78HrAKwZfa8O_x2k/preview",
+      "src2": "",
+      "tags": ["tools", "video", "movie"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T21_ReprogramSubsconscious.pdf",
+      "label": "🤯 Reprogram Your Subconscious", 
+      "src1": "https://drive.google.com/file/d/1f-oAAfSsyzsnL5TBmbPeFWn8vRPXqZ71/preview",
+      "src2": "",
+      "tags": ["tools", "colette baron-reid", "invision process", "get on your bird", 
+              "reprogram", "subconscious"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T22_LaughterClub.pdf",
+      "label": "🤣 Laughter Club", 
+      "src1": "https://drive.google.com/file/d/11nLClOtisYQLHTQEq0UEU8Wsux75uzbf/preview",
+      "src2": "",
+      "tags": ["tools", "ha ha", "laughter"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T23_BurningBowlCeremony.pdf",
+      "label": "🔥 Burning Bowl Ceremony", 
+      "src1": "https://drive.google.com/file/d/1_qU4plmrzrGzQ6KWmCCywztqinxOPk7G/preview",
+      "src2": "",
+      "tags": ["tools", "release", "burning bowl"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T24_Spiritual Checklist.pdf",
+      "label": "📋 Spiritual Checklist", 
+      "src1": "https://drive.google.com/file/d/1lKUJTFYM-1Wzm44dMjHNAotatboeQvvp/preview",
+      "src2": "",
+      "tags": ["tools", "regimen", "meditation", "soul questions", "connection",
+          "journaling", "creativity", "compassion", "honesty", "play", "checklist"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T25_AsIfTechnique.pdf",
+      "label": "🤯 As If Technique", 
+      "src1": "https://drive.google.com/file/d/1TqtOgQAjVwXQyO41PjuLmZFYc2egySnG/preview",
+      "src2": "",
+      "tags": ["tools", "fake it", "brain","as if"]
+     },
+     {   
+      "section": "Tools",
+      "type": "PDF",
+      "file-name": "T27_What is Mindfulness.pdf",
+      "label": "🕉️ What is Mindfulness?", 
+      "src1": "https://drive.google.com/file/d/1_wiW7KHG8_Rq0Hr7K4iS3KLeUa6y15EI/preview",
+      "src2": "",
+      "tags": ["tools", "present", "non-judgment", "mindfulness" ]
      }
      
 
