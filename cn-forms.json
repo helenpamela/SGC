@@ -196,12 +196,76 @@
      {   
       "section": "Forms",
       "type": "PDF",
-      "file-name": "F15_ThingsThatBringMeJoy.pdf",
-      "label": "😃 Things that Bring Me Joy", 
-      "src1": "https://drive.google.com/file/d/1A9QotMkM5dmxSzj0km7dld_Z8XGY12W0/preview",
+      "file-name": "F16_ReleaseForm.pdf",
+      "label": "🚮 Release Form", 
+      "src1": "https://drive.google.com/file/d/15RGeEfZlqcqcsJZ-jgTkCQU_igX0Feqx/preview",
       "src2": "",
-      "tags": ["form", "joy" ]
+      "tags": ["form", "release", "let go"]
+     },
+     {   
+      "section": "Forms",
+      "type": "PDF",
+      "file-name": "F17_SetIntentionsForm.pdf",
+      "label": "💭 Set Intentions for Year Form", 
+      "src1": "https://drive.google.com/file/d/1gkKEhMBxFRv9jJBhUraaq3DdAXesQ2_u/preview",
+      "src2": "",
+      "tags": ["form", "intentions", "goals", "annual"]
+     },
+     {   
+      "section": "Forms",
+      "type": "PDF",
+      "file-name": "F17a_DeclarationOfIntentionForm.pdf",
+      "label": "📜 Declaration of Intentions Form", 
+      "src1": "https://drive.google.com/file/d/1bV10wnsCyGOfqDz2iQkMQY6NGHi7LrzL/preview",
+      "src2": "",
+      "tags": ["form", "intentions", "goals", "annual", "declaration"]
+     },
+     {   
+      "section": "Forms",
+      "type": "PDF",
+      "file-name": "f18_CountYourBlessingsForm.pdf",
+      "label": "😇 Count Your Blessings Form", 
+      "src1": "https://drive.google.com/file/d/1L03PphqzS5ixDZ3iM-eXimxTiiTqtt9M/preview",
+      "src2": "",
+      "tags": ["form", "blessings", "grateful"]
+     },
+     {   
+      "section": "Forms",
+      "type": "PDF",
+      "file-name": "F19_MyDailyPracticesForm.pdf",
+      "label": "📜 My Daily Practice Form", 
+      "src1": "https://drive.google.com/file/d/109xHuBmgfQxuHPYxNIPwMwSsSfBjLj5t/preview",
+      "src2": "",
+      "tags": ["form", "daily", "practice"]
+     },
+     {   
+      "section": "Forms",
+      "type": "PDF",
+      "file-name": "F20_TGIF.pdf",
+      "label": "📜 TGIF Form", 
+      "src1": "https://drive.google.com/file/d/1ZTSsjXSq-AbPONWtKPt8H_dRXA8_GsUQ/preview",
+      "src2": "",
+      "tags": ["form", "trust", "gratitude", "inspiration", "fun", "TGIF"]
+     },
+     {   
+      "section": "Forms",
+      "type": "PDF",
+      "file-name": "F21_What Do I Fear.pdf",
+      "label": "😨 What Do I Fear Form", 
+      "src1": "https://drive.google.com/file/d/11ERgrCxGbaS8F4oVECflVgo46-uKsG12/preview",
+      "src2": "",
+      "tags": ["form", "fear", "afraid", "scared"]
+     },
+     {   
+      "section": "Forms",
+      "type": "PDF",
+      "file-name": "F23_My Archetypes.pdf",
+      "label": "🎴 My Archetypes Form", 
+      "src1": "https://drive.google.com/file/d/1yeoSZsVB_outKaJAwub82b21y5x7YcKR/preview",
+      "src2": "",
+      "tags": ["form", "archetype", "personality"]
      }
+     
 
 
 
