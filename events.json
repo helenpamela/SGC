@@ -1,7 +1,7 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "April 12,2026",
+  "lastUpdated": "April 20, 2026",
 
   "event": [
       {
@@ -24,7 +24,7 @@
      },
 
      {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/cancelled.png",
       "type": "Lunch",  
       "datetime": "Saturday April 18 Noon",
