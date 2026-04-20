@@ -3839,7 +3839,7 @@ const meetings = {
         {
           type:  "image",
           label: "Quartz Pendulum from Linda",
-          src:   "monthly-focus-images/202407-quartz-pendulum.png"
+          src:   "monthly-focus-images/202407-quartz-pendulum.jpg"
         },
         {
           type:  "pdf",
