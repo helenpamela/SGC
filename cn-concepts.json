@@ -237,7 +237,179 @@
       "src1": "https://drive.google.com/file/d/1vZzjiIIm0WtB9grijO0zLcFGes3ZjycL/preview",
       "src2": "",
       "tags": ["concept", "happy", "choose", "choice", "happiness"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C12b_HappinessABC.pdf",
+      "label": "🔤 The ABC's of Genuine Happiness", 
+      "src1": "https://drive.google.com/file/d/1h8UNkLoLLYjaHsQPuU9ZWGQVV6tj0gq6/preview",
+      "src2": "",
+      "tags": ["concept", "happy", "alphabet", "happiness"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C12c_HappinessDontWorry.pdf",
+      "label": "😀 Don't Worry, Be Happy", 
+      "src1": "https://drive.google.com/file/d/10hEJIohbfM2JS6gufgxP6hFdAHEKUlSG/preview",
+      "src2": "",
+      "tags": ["concept", "happy", "worry", "happiness"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C12d__12 things happy people do.pdf",
+      "label": "🔢 12 Things Happy People Do", 
+      "src1": "https://drive.google.com/file/d/132Oa998Xu19ABLY6etVitdWXrFDYvsVy/preview",
+      "src2": "",
+      "tags": ["concept", "happy", "happiness"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C12e_Happiness Habits.pdf",
+      "label": "☺️ Happiness Habits", 
+      "src1": "https://drive.google.com/file/d/11c1I6em7A_T4GXKjd1fFsqAGqOM4XbU6/preview",
+      "src2": "",
+      "tags": ["concept", "happy", "happiness", "habits"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C12f_Maximizing Happiness.pdf",
+      "label": "☺️ Maximizing Happiness", 
+      "src1": "https://drive.google.com/file/d/1HOTWuvR-Lhjss3CwGbHtCEijKOQ-eJmd/preview",
+      "src2": "",
+      "tags": ["concept", "happy", "happiness"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C12g_You Can Be Happy No Matter What 1.pdf",
+      "label": "☺️ You Can Be Happy No Matter What 1", 
+      "src1": "https://drive.google.com/file/d/1PO8nJcQXM1Jo3bEY7Ro6oyVZakoloz1y/preview",
+      "src2": "",
+      "tags": ["concept", "happy", "happiness"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C12h_You Can Be Happy No Matter What 2.pdf",
+      "label": "☺️ You Can Be Happy No Matter What 2", 
+      "src1": "https://drive.google.com/file/d/1-sZDzCBwXUTfBVDsvKu-pQIA1t4P4SAH/preview",
+      "src2": "",
+      "tags": ["concept", "happy", "happiness"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13a1_Love.pdf",
+      "label": "🩷 Love", 
+      "src1": "https://drive.google.com/file/d/1gbk5s7Rc7jCL1lC9IsUOntxFqi1TcnM_/preview",
+      "src2": "",
+      "tags": ["concept", "love"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13a2_Compassion.pdf",
+      "label": "🩷 Compassion", 
+      "src1": "https://drive.google.com/file/d/19Hv7ICvWIUHy83Fcha65MSA6fBnv4LjB/preview",
+      "src2": "",
+      "tags": ["concept", "compassion"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13a3_Compassion.pdf",
+      "label": "🩷 Compassion", 
+      "src1": "https://drive.google.com/file/d/1XRrtVOHbRXGW14zJRSIWMH6iFdT1tbWi/preview",
+      "src2": "",
+      "tags": ["concept", "compassion"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13a4a_SelfAcceptance.pdf",
+      "label": "🩷 Self-Acceptance", 
+      "src1": "https://drive.google.com/file/d/1zKZK2rA_yMmwm1bQpRs27CqJVtzrXR-Q/preview",
+      "src2": "",
+      "tags": ["concept", "self-acceptance"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13a4b_SelfAcceptance.pdf",
+      "label": "🩷 Self-Acceptance", 
+      "src1": "https://drive.google.com/file/d/1nC_52d-uC9vs0YKtfdyTQuS4_J-OPO_T/preview",
+      "src2": "",
+      "tags": ["concept", "self-acceptance"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13b1_SelfLove.pdf",
+      "label": "🩷 Self-Love", 
+      "src1": "https://drive.google.com/file/d/1GR4RKHgrClOsdEI0icq5CyPnoQ9YmXF5/preview",
+      "src2": "",
+      "tags": ["concept", "self-love"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13b2_Hays12Commandments.pdf",
+      "label": "🩷 12 Commandments - How to Love Yourself", 
+      "src1": "https://drive.google.com/file/d/1ohFfHZ5doR243kzVD62Ah2_xBENi2mGb/preview",
+      "src2": "",
+      "tags": ["concept", "self-love", "louise hay"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13b3_LoveAffirmation.pdf",
+      "label": "🩷 I Love Myself Affirmation", 
+      "src1": "https://drive.google.com/file/d/1WOBWJgqkihk01SYdj5e0BExcZtwfKoyg/preview",
+      "src2": "",
+      "tags": ["concept", "love", "louise hay", "affirmation"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13c_WorkbookSelfLove.pdf",
+      "label": "🩷 Self-Love", 
+      "src1": "https://drive.google.com/file/d/1ZQchU2Ou2BAw1VpN9eG4cFOlk-2tMBuF/preview",
+      "src2": "",
+      "tags": ["concept", "love"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13d1_SelfCompassion.pdf",
+      "label": "🩷 Self-Compassion", 
+      "src1": "https://drive.google.com/file/d/1I_3JTqCgSsBl9B4nVgzC3P04laaWGRUU/preview",
+      "src2": "",
+      "tags": ["concept", "compassion"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C13d2_SelfCompassion.pdf",
+      "label": "🩷 What is Self-Compassion", 
+      "src1": "https://drive.google.com/file/d/11aEYL4HDzsoPfmYmC4sPo7-TSQyKd3DC/preview",
+      "src2": "",
+      "tags": ["concept", "compassion"]
      }
+
+
+
+
+
+
+
+
+
+
 
 
 
