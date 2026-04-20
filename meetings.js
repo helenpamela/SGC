@@ -3844,7 +3844,7 @@ const meetings = {
         {
           type:  "pdf",
           label: "Clear Quartz Chart",
-          src:   "https://drive.google.com/file/d/10gIb5-ODenJHl3oAwyUF_BRnzxzf13ww/review"
+          src:   "https://drive.google.com/file/d/10gIb5-ODenJHl3oAwyUF_BRnzxzf13ww/preview"
         },
            
       ]
