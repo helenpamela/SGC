@@ -3953,7 +3953,7 @@ const meetings = {
       {
         type:  "pdf",
         label: "Announcements",
-        src:   "https://drive.google.com/file/d/17U4iibtKkB4PfGQ9981wpS9DwX3MKxKi/view?usp=drive_link"
+        src:   "https://drive.google.com/file/d/17U4iibtKkB4PfGQ9981wpS9DwX3MKxKi/preview"
       },
       {
         type:  "video",
