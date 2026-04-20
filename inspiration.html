@@ -161,12 +161,6 @@
         showInspiration();
       });
 
-    /*
-    function getRandomItem(array) {
-      return array[Math.floor(Math.random() * array.length)];
-    }
-    */
-
     function getRandomIndex(arrayLength, lastIndex) {
       let newIndex;
 
@@ -186,9 +180,6 @@
       reflectionDiv.classList.remove("show");
 
       setTimeout(() => {
-        // const quote = getRandomItem(data.quotes);
-        // const affirmation = getRandomItem(data.affirmations || []);
-        // const reflection = getRandomItem(data.reflections);
 
         const quoteIndex = getRandomIndex(data.quotes.length, lastQuoteIndex);
         lastQuoteIndex = quoteIndex;
@@ -220,9 +211,8 @@
           <small>— ${quote.author}</small>
         `;
 
-
         affirmationDiv.innerHTML = affirmation?.image
-          ? `<img src="${affirmation.image}" style="max-width:250px;">`
+          ? `<img src="${affirmation.image}" style="max-width:300px;">`
           : "";
 
         reflectionDiv.innerHTML = `
@@ -282,7 +272,6 @@
     });
 
     document.addEventListener("click", playChime, { once: true });
-
 
   </script>
 
