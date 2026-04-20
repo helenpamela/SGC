@@ -2,109 +2,198 @@
   "quotes": [
     {
       "text": "For every minute you are angry you lose sixty seconds of happiness.",
-      "author": "Ralph Waldo Emerson"
+      "author": "Ralph Waldo Emerson",
+      "tags": ["anger", "happiness"]
     },
     
     {
       "text": "Peace comes from within.",
-      "author": "Buddha"
+      "author": "Buddha",
+      "tags": ["peace"]
     },
     {
       "text": "The way to gain a good reputation is to endeavor to be what you desire to appear.",
-      "author": "Socrates"
+      "author": "Socrates",
+      "tags": ["reputation", "being"]
     },
     {
       "text": "How good can it get?",
-      "author": "Cynthia Sue Larson"
+      "author": "Cynthia Sue Larson",
+      "tags": ["quantum jumping", "shifting reality" ]
     },
     {
       "text": "Everything we call real is made of things that cannot be regarded as real. If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.",
-      "author": "Niels Bohr"
+      "author": "Niels Bohr",
+      "tags": ["quantum jumping", "quantum mechanics"]
     },
     {
       "text": "Perseverance - the greater the obstacle, the greater the glory in overcoming it.",
-      "author": "Unknown"
+      "author": "Unknown",
+      "tags": ["perseverance", "obstacle", "glory"]
     },
     {
       "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-      "author": "Winston Churchill"
+      "author": "Winston Churchill",
+      "tags": ["perseverance", "success", "failure", "courage"]
     },
     {
       "text": "Perseverance, secret of triumphs.",
-      "author": "Victor Hugo"
+      "author": "Victor Hugo",
+      "tags": ["perseverance"]
     },
     {
       "text": "Great works are performed not by strength but by perseverance.",
-      "author": "Samuel Johnson"
+      "author": "Samuel Johnson",
+      "tags": ["perseverance", "strength"]
     },
     {
       "text": "Energy and persistence conquer all things.",
-      "author": "Benjamin Franklin"
+      "author": "Benjamin Franklin",
+      "tags": ["reputation", "energy"]
     },
     {
       "text": "Success is almost totally dependent upon drive and persistence.",
-      "author": "Thomas Edison"
+      "author": "Thomas Edison",
+      "tags": ["perseverance", "success"]
     },
     {
       "text": "Fall down seven times, stand up eight",
-      "author": "Japanese Proverb"
+      "author": "Japanese Proverb",
+      "tags": ["perseverance", "failure"]
     },
     {
       "text": "You may encounter many defeats, but you must not be defeated.",
-      "author": "Maya Angelou"
+      "author": "Maya Angelou",
+      "tags": ["perseverance", "defeat"]
     },
     {
       "text": "The brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
-      "author": "Randy Pausch"
+      "author": "Randy Pausch",
+      "tags": ["perseverance", "obstacle", "desire"]
     },
     {
       "text": "Courage is not having the strength to go on; it is going on when you don’t have the strength.",
-      "author": "Theodore Roosevelt"
+      "author": "Theodore Roosevelt",
+      "tags": ["perseverance", "courage", "strength"]
     },
     {
       "text": "If you are going through hell, keep going.",
-      "author": "Winston Churchill"
+      "author": "Winston Churchill",
+      "tags": ["perseverance"]
     },
     {
-      "text": "If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward.",
-      "author": "Martin Luther King Jr."
+      "text": "If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.",
+      "author": "Martin Luther King Jr.",
+      "tags": ["perseverance", "moving forward"]
     },
     {
       "text": "The man who moves a mountain begins by carrying away small stones.",
-      "author": "Confucius"
+      "author": "Confucius",
+      "tags": ["perseverance", "small steps", "tiny steps", "steps"]
     },
     {
-      "text": "By perseverance the snail reached to ark.",
-      "author": "Charles Spurgeon"
+      "text": "By perseverance the snail reached the ark.",
+      "author": "Charles Spurgeon",
+      "tags": ["perseverance"]
     },
     {
       "text": "Enlightenment isn't a change into something better or more. It's a simple recognition of who we truly are.",
-      "author": "Unknown"
+      "author": "Unknown",
+      "tags": ["enlightenment"]
     },
     {
       "text": "The path to enlightenment is not a path at all, it's actually a metaphor for the time it takes for you to allow yourself to be happy with you already are, where you're already at, and what you already have - no matter what.",
-      "author": "Mike Dooley"
+      "author": "Mike Dooley",
+      "tags": ["enlightenment", "path", "happiness"]
     },
     {
       "text": "Don't you know yet?  It is your light that lights the worlds.",
-      "author": "Rumi"
+      "author": "Rumi",
+      "tags": ["light"]
     },
     {
       "text": "You were born with wings, why prefer to crawl through life?",
-      "author": "Rumi"
+      "author": "Rumi",
+      "tags": ["enlightenment", "flying", "wings"]
     },
     {
       "text": "Do not feel lonely.  The entire universe is inside you.",
-      "author": "Rumi"
+      "author": "Rumi",
+      "tags": ["enlightenment", "universe", "within"]
     },
     {
       "text": "You are not a drop in the ocean.  You are the entire ocean, in a drop.",
-      "author": "Rumi"
+      "author": "Rumi",
+      "tags": ["enlightenment", "ocean"]
+    },
+    {
+      "text": "Happiness is there for the taking - and the making.",
+      "author": "Oprah",
+      "tags": ["happiness"]
+    },
+    {
+      "text": "To experience peace does not mean that your life is always blissful.  It means that you are capable of tapping into a blissful state of mind amidst the chaos of a normal hectic life.",
+      "author": "Jill Bolte Taylor",
+      "tags": ["peace", "bliss"]
+    },
+    {
+      "text": "The best way to get rid of the pain is to feel the pain. And when you feel the pain and go beyond it, you'll see there's a very intense love that is wanting to awaken itself.",
+      "author": "Deepak Chopra",
+      "tags": ["pain", "love"]
+    },
+    {
+      "text": "So many conditions of happiness are available; more than enough for you to be happy right now. You don't have to run into the future to get more.",
+      "author": "Thich Nhat Nanh",
+      "tags": ["happiness"]
+    },
+    {
+      "text": "When we are unable to find tranquility within ourselves, it is useless to seek it elsewhere.",
+      "author": "La Rochefoucauld",
+      "tags": ["tranquility", "seek"]
+    },
+    {
+      "text": "The greatest weapon against stress is our ability to choose one thought over another.",
+      "author": "William James",
+      "tags": ["stress", "choose", "thought"]
+    },
+    {
+      "text": "Never doubt that a small group of thoughtful, committed citizens can change the world.  Indeed, it is the only thing that ever has.",
+      "author": "Margaret Mead",
+      "tags": ["change the world", "making a difference"]
+    },
+    {
+      "text": "Instead of thinking outside the box, get rid of the box",
+      "author": "Deepak Chopra",
+      "tags": ["box", "thinking"]
+    },
+    {
+      "text": "Be who you are and say what you feel because those who mind don't matter and those who matter don't mind",
+      "author": "Dr Seuss",
+      "tags": ["authentic"]
+    },
+    {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "tags": ["past", "future", "go within"]
+    },
+    {
+      "text": "Be happy for no reason, like a child. If you happy for a reason, you're in trouble, because that reason can be taken from you.",
+      "author": "Deepak Chopra",
+      "tags": ["happiness"]
+    },
+    {
+      "text": "Begin challenging your own assumptions. You assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.",
+      "author": "Alan Alda",
+      "tags": ["assumptions", "perspective", "beliefs"]
     }
+
 
   ],
 
   "affirmations": [
+    {
+      "image": "affirmation-images/202604-affirmation.png"
+    },
     {
       "image": "affirmation-images/202603-affirmation.png"
     },
@@ -119,6 +208,99 @@
     },
     {
       "image": "affirmation-images/202511-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202510-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-1.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-2.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-3.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-4.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-5.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-6.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-7.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-8.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-9.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-10.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-11.png"
+    },
+    {
+      "image": "affirmation-images/202507-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202506-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202505-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202504-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202503-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202502-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202501-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202409-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202408-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202407-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202406-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202405-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/1st-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/2nd-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/3rd-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/4th-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/5th-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/6th-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/7th-chakra-affirmation.jpg"
     },
     {
       "image": "affirmation-images/cn-fa05-affirmation1.png"
