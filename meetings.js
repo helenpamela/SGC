@@ -3759,7 +3759,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1tfetx2q94XKPPnTdCZvM10xtiHZjm-fI/preview"
       }
     ],
     teacher_only: {
@@ -3767,7 +3767,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Working Agenda",
-          src: ""
+          src: "https://drive.google.com/file/d/1NQdhhdweFRz6DIT5OIvWjdaDoet4APBU/preview"
         }
       ]
     },
@@ -3781,6 +3781,400 @@ const meetings = {
         type:  "",
         label: "",
         src:   ""
+      },
+      {
+        type:  "",
+        label: "",
+        src:   ""
+      }
+   
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      },       
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+  
+    ],
+   
+    focus: {
+      title: "Clear Quartz",
+      items: [
+        {
+          type: "image",
+          src:  "crystal-images/202407-clear-quartz2.png"
+        },
+        {
+          type: "image",
+          src:  "crystal-images/202407-clear-quartz2-properties.png"
+        },
+        {
+          type:  "image",
+          label: "Quartz Pendulum from Linda",
+          src:   "monthly-focus-images/202407-quartz-pendulum.png"
+        },
+        {
+          type:  "pdf",
+          label: "Clear Quartz Chart",
+          src:   "https://drive.google.com/file/d/10gIb5-ODenJHl3oAwyUF_BRnzxzf13ww/review"
+        },
+           
+      ]
+
+    },
+     
+    practice: {
+      title: "Beautiful Words",
+      items: [
+        {
+          type:  "pdf",
+          label: "A to Z Beautiful Words",
+          src:   "https://drive.google.com/file/d/11ExPXI9yj1fV2vfuntaRC5s9KhbOK8i7/preview"
+        },
+        {
+          type:  "pdf",
+          label: "Power of Words",
+          src:   "https://drive.google.com/file/d/1NA2I3gK9fg_7NAyiFHpFSO_f7xkOuAHp/preview"
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type:  "image",
+        label: "This Month's Affirmation",
+        src:   "affirmation-images/202407-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src:   "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["cliff notes", "clear quartz"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+     
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+        
+  
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      } 
+    ]
+  },
+
+  "202406": {
+    title: "June 2024",
+    month: "June",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1BTnoza2BubIghseXMWysJJF84yv8etPy/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1hvt9SpyRU6-jRZqvddG9PuAKO414lKMI/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type:  "pdf",
+        label: "Announcements",
+        src:   "https://drive.google.com/file/d/17U4iibtKkB4PfGQ9981wpS9DwX3MKxKi/view?usp=drive_link"
+      },
+      {
+        type:  "video",
+        label: "How to Watch the News - Rikka Zimmerman",
+        src:   "https://www.youtube.com/embed/69YSMnlv9Nk?si=x5DN18TkNzdtXEYv" 
+      },
+      {
+        type:  "pdf",
+        label: "Chakra Guide",
+        src:   "https://drive.google.com/file/d/1LDELijHIozdoZ4zm5e4qjjNOdw9EvfWj/preview"
+      },
+      {
+        type:  "image",
+        label: "Bookmark from Kenny - side 1",
+        src:   "announcement-images/202406-book-mark-side1-present-from-kenny.jpg"
+      },
+      {
+        type:  "image",
+        label: "Bookmark from Kenny - side 2",
+        src:   "announcement-images/202406-book-mark-side2-present-from-kenny.jpg"
+      }
+   
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src:   ""
+      },       
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+  
+    ],
+   
+    focus: {
+      title: "Lapis Lazuli",
+      items: [
+        {
+          type: "image",
+          src:  "crystal-images/202406-lapis-lazuli-2.png"
+        },
+        {
+          type: "image",
+          src:  "crystal-images/202406-lapis-lazuli-2-properties.png"
+        },
+        {
+          type:  "pdf",
+          label: "Crystals for Belief",
+          src:   "https://drive.google.com/file/d/1akCv_zQbPMz_EcMFoxPXnNRVv6BEKO18/preview"
+        },
+        {
+          type:  "image",
+          label: "Three Lapis Hearts from Linda",
+          src:   "monthly-focus-images/202406-lapis-hearts.jpg"
+        }
+           
+      ]
+
+    },
+     
+    practice: {
+      title: "Meditation",
+      items: [
+        {
+          type:  "video",
+          label: "Picnic at the Park",
+          src:   "https://www.youtube.com/embed/8HuEsyEoAZk?si=dkLL9sY8T2RmX6bF"
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type:  "image",
+        label: "This Month's Affirmation",
+        src:   "affirmation-images/202406-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src:   "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["beliefs", "lapis lazuli", "rikka zimmerman", "bruce lipton", 
+          "hermetic principles", "kenny", "denise linn", "chakra guide"],
+
+    topic: {
+      title: "Strengthen Beliefs",
+      items: [
+     
+        {
+          type: "pdf",
+          label: "Lion Goodman Email",
+          src: "https://drive.google.com/file/d/16nzPZWYghCQHwfTWm5g-f2wUdUF348Tn/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Strengthen Your Mindset",
+          src: "https://drive.google.com/file/d/1mW9MXnJ7eNP2hW6a5bmjpf5GqdhXr-vW/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bruce Lipton - Hermetic Principles",
+          src: "https://drive.google.com/file/d/1Sn9OJN8xFPoQhFNgm8hRTOzQMmGIedpT/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bruce Lipton - Brain",
+          src: "https://drive.google.com/file/d/1jj15S3Oaza-IllDzkHAQOXd0pt5dY3cv/preview"
+        },
+        {
+          type: "pdf",
+          label: "Core Beliefs",
+          src: "https://drive.google.com/file/d/1z26m9hGOKRmeL5EUg9UME-1UvdyFJF_Z/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Ways to Upgrade Your Belief System",
+          src: "https://drive.google.com/file/d/1Rc4KhhBfwrquseKej-hkDu1ESUq_bS8z/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Hermetic Principles - P1",
+          src: "https://drive.google.com/file/d/1TKU60Gavydvd2xIfqzi8lujbEyt4QV9o/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Hermetic Principles - P2",
+          src: "https://drive.google.com/file/d/1PHzrkwJQEweW8w1ezp3kBYNsfN0P83RI/preview"
+        }
+        
+        
+  
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      } 
+    ]
+  },
+
+  "202405": {
+    title: "May 2024",
+    month: "May",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1XH2kvQGV9fWzLlf7seikCNo7TI-dKQmY/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1OZ3xqqIFaw08_SNkLl5z3LGb3Zi5SAnt/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type:  "image",
+        label: "Book Mark from Kenny",
+        src:   "announcement-images/202405-vienna-book-mark-from-kenny.jpg"
+      },
+      {
+        type:  "image",
+        label: "Small Purse from Linda",
+        src:   "announcement-images/202405-small-purse-present-from-linda.jpg"
       },
       {
         type:  "",
@@ -3840,19 +4234,24 @@ const meetings = {
           type:  "",
           label: "",
           src:   ""
-        }
+        },
+        {
+          type:  "",
+          label: "",
+          src:   ""
+        },
            
       ]
 
     },
      
     practice: {
-      title: "",
+      title: "Stop Drop Roll",
       items: [
         {
-          type:  "image",
-          label: "",
-          src:   "none-images/no-daily-practice.png"
+          type:  "pdf",
+          label: "Stop Drop Roll - Michelle Medrano",
+          src:   "https://drive.google.com/file/d/1WvWnJe_lxhzJCUZ8lt7ca3JsZs-SEmms/preview"
         },
         {
           type:  "",
@@ -3871,17 +4270,17 @@ const meetings = {
       {
         type:  "image",
         label: "This Month's Affirmation",
-        src:   "affirmation-images/202408-affirmation.jpg"
+        src:   "affirmation-images/202405-affirmation.jpg"
       }
     ],
 
     meditation: {
-      title: "",
+      title: "Atlantis",
       items: [
         {
-          type: "image",
+          type: "",
           label: "",
-          src:   "none-images/no-meditation.jpg"
+          src:   ""
         }
       ]
     },
@@ -3898,16 +4297,16 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["birthday", "stop", "drop", "roll", "atlantis" ],
 
     topic: {
-      title: "",
+      title: "Celebrate Birthdays: Trudi, Pam, & PC",
       items: [
      
         {
-          type: "image",
+          type: "",
           label: "",
-          src: "none-images/no-topic.jpg"
+          src: ""
         }
         
   
@@ -3921,9 +4320,8 @@ const meetings = {
         src: ""
       } 
     ]
-  }
- 
- 
+  },
+  
 
 }
 

@@ -209,6 +209,34 @@
       "src2": "",
       "tags": ["concept", "chakra", "base", "root", "sacral", "solar plexus", "heart",
               "throat", "brow", "third eye", "crown"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C9b_ChakraMeditation.pdf",
+      "label": "☸️ Chakra Meditation", 
+      "src1": "https://drive.google.com/file/d/1--_EjYNtABFf1Q9yUen_Ofzm4xrLgklq/preview",
+      "src2": "",
+      "tags": ["concept", "chakra", "base", "root", "sacral", "solar plexus", "heart",
+              "throat", "brow", "third eye", "crown"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C10_AllIsWell.pdf",
+      "label": "👍🏻 All is Well", 
+      "src1": "https://drive.google.com/file/d/1gOqEIL98PXgXvCQ8aqQVf3d6J0TVvsOP/preview",
+      "src2": "",
+      "tags": ["concept", "all is well", "well-being"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C12a_HappinessIsAChoice.pdf",
+      "label": "😀 Happiness is a Choice", 
+      "src1": "https://drive.google.com/file/d/1vZzjiIIm0WtB9grijO0zLcFGes3ZjycL/preview",
+      "src2": "",
+      "tags": ["concept", "happy", "choose", "choice", "happiness"]
      }
 
 
@@ -217,9 +245,12 @@
 
 
 
-     
+
+
 
      
+
+    
      
 
    ]
