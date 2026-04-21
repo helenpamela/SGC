@@ -4414,7 +4414,7 @@ const meetings = {
         {
           type: "pdf",
           label: "What Does This Bring Up?",
-          src: "https://drive.google.com/file/d/1K85BcDK9k140KktfNpjZwBjadAmJPczQ/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1K85BcDK9k140KktfNpjZwBjadAmJPczQ/preview"
         },
         {
           type: "pdf",
