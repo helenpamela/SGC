@@ -501,7 +501,7 @@
       "tags": ["concept", "complain", "problems", "angry", "pessimist", "will bowen", 
               "maya angelou", "quotes"] 
      },
-      {   
+     {   
       "section": "Concepts",
       "type": "PDF",
       "file-name": "C21a_Magic.pdf",
@@ -509,7 +509,180 @@
       "src1": "https://drive.google.com/file/d/1Ll5iY4Y3z3hrEx9IPrBtJsoavzz6MwlZ/preview",
       "src2": "",
       "tags": ["concept", "magic", "believe" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C21b_Miracles.pdf",
+      "label": "🪄 Miracles", 
+      "src1": "https://drive.google.com/file/d/1NIrVrf9VQGiQ51NUpipR1QEEvJ1YcZhT/preview",
+      "src2": "",
+      "tags": ["concept", "miracles", "believe" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C21c_Mystery.pdf",
+      "label": "🪄 Mystery", 
+      "src1": "https://drive.google.com/file/d/1FIGD7UizSyBPkfnUK97oqPBRgiwYwneO/preview",
+      "src2": "",
+      "tags": ["concept", "mystery" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C22_Celebrate.pdf",
+      "label": "🎉 Celebrate - Quotes", 
+      "src1": "https://drive.google.com/file/d/1ele5V1XlFGDF6IuFCpZf7yhBY_n6-IYT/preview",
+      "src2": "",
+      "tags": ["concept", "celebrate" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C23a_UniversalLaws1.pdf",
+      "label": "📜 Universal Laws 1", 
+      "src1": "https://drive.google.com/file/d/13AM1dUmvdx4uyva4H5FOecKTYgUt1OUj/preview",
+      "src2": "",
+      "tags": ["concept", "universal laws", "guidelines", "law of action", "law of relativity", 
+               "law of perpetual transmutation", "law of attraction", "law of gender" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C23b_UniversalLaws2.pdf",
+      "label": "📜 Universal Laws 2", 
+      "src1": "https://drive.google.com/file/d/17hcIEfVDk96FYirmKK8r_Q4OUPz-z0IG/preview",
+      "src2": "",
+      "tags": ["concept", "universal laws", "guidelines", "law of karma", "law of oneness", 
+               "law of polarity", "law of vibration", "law of correspondence",
+               "law of cause and effect", "law of attraction" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C23c_UniversalLaws3.pdf",
+      "label": "📜 Universal Laws 3", 
+      "src1": "https://drive.google.com/file/d/1GXluTg6VNplqhhy8AfaRnDAzrMPJkNam/preview",
+      "src2": "",
+      "tags": ["concept", "universal laws", "guidelines" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C24a_LettingGo.pdf",
+      "label": "🚮 Letting Go Surrender Quotes 1", 
+      "src1": "https://drive.google.com/file/d/1Zgi6aPueswwpjaqHQwgWfxq78iKdvv0c/preview",
+      "src2": "",
+      "tags": ["concept", "letting go", "surrender", "release" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C24b_LettingGo.pdf",
+      "label": "🚮 Letting Go Surrender Quotes 2", 
+      "src1": "https://drive.google.com/file/d/1Khr4uQkfa8RWrb_0uaFCnezrFMeVQtyK/preview",
+      "src2": "",
+      "tags": ["concept", "letting go", "surrender", "release" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C24c_LettingGo.pdf",
+      "label": "🚮 Letting Go Surrender Quotes 3", 
+      "src1": "https://drive.google.com/file/d/1XjJ7BrVZLBrJxMw4Tw_EmKq0lyo8z9kS/preview",
+      "src2": "",
+      "tags": ["concept", "letting go", "surrender", "release" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C25_PowerOfTheGroup.pdf",
+      "label": "🛞 Power of the Group", 
+      "src1": "https://drive.google.com/file/d/1OKjB1KOl-aiJj6N3dx3ALVvslDJzAdEe/preview",
+      "src2": "",
+      "tags": ["concept", "power", "group", "circle", "change the world" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C26_GivingAndReceiving.pdf",
+      "label": "🎁 Giving and Receiving", 
+      "src1": "https://drive.google.com/file/d/1pThKW6v8XedXzkXMzgq-XKSrkJIIqZ6O/preview",
+      "src2": "",
+      "tags": ["concept", "give", "receive", "giving", "receiving" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C27_EmbraceYourMagnificence.pdf",
+      "label": "🪷 Embrace Your Magnificence", 
+      "src1": "https://drive.google.com/file/d/1T6L2M2RjntMxSlf-ghRrdOOSpSTCuBpU/preview",
+      "src2": "",
+      "tags": ["concept", "embrace", "magnificence", "self-worth" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C28a1_Trust.pdf",
+      "label": "🛡️ Trust Quotes 1", 
+      "src1": "https://drive.google.com/file/d/1t7hyyoHpGuYlHz_IX5Hf04PH4VC-HR1Q/preview",
+      "src2": "",
+      "tags": ["concept", "trust", "reliability", "integrity" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C28a2_Trust.pdf",
+      "label": "🛡️ Trust Quotes 2", 
+      "src1": "https://drive.google.com/file/d/1G99yk8LvMCwMN8pkH4UymAjSzgEvXb6x/preview",
+      "src2": "",
+      "tags": ["concept", "trust", "reliability", "integrity", "trust yourself" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C28a3_Trust.pdf",
+      "label": "🛡️ Trust Quotes 3", 
+      "src1": "https://drive.google.com/file/d/1xRb3-uWQ-HIzLwnOLD6fzaRdKz4u8Zcn/preview",
+      "src2": "",
+      "tags": ["concept", "trust", "reliability", "integrity","trust the universe"] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C28b_7ElementsOfTrust.pdf",
+      "label": "🛡️ Elements of Trust", 
+      "src1": "https://drive.google.com/file/d/1M7L11EDHItdwD_iDUJZNRzksI4jfGzNS/preview",
+      "src2": "",
+      "tags": ["concept", "trust", "elements", "boundaries", "reliability", "accountability",
+              "vault", "integrity", "nonjudgment", "generosity", "brene brown"] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C29_Forgiveness.pdf",
+      "label": "💐 Forgiveness", 
+      "src1": "https://drive.google.com/file/d/16zEVgswrt2uqWvolGHMtFOcBYdB-dsHQ/preview",
+      "src2": "",
+      "tags": ["concept", "forgive", "forgiveness", "jampolsky", "mandela"] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C30_StandUpForYourself.pdf",
+      "label": "💪🏻 Stand Up for Yourself", 
+      "src1": "https://drive.google.com/file/d/1FEiTQbL23X7VLRaVZCAOIYNZjPOXPVp1/preview",
+      "src2": "",
+      "tags": ["concept", "forgive", "forgiveness", "jampolsky", "mandela"] 
      }
+
+     
+
+
+     
+
+
 
 
 
