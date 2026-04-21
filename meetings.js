@@ -4273,7 +4273,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "none-images/no-luminaries.jpg"
+          src: "none-images/no-luminaries.png"
         }
       ]
     },
@@ -4283,7 +4283,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "none-images/no-meditation.png"
+          src: "none-images/no-meditation.jpg"
         }
       ]
     },
