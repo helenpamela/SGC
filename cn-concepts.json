@@ -674,7 +674,132 @@
       "label": "💪🏻 Stand Up for Yourself", 
       "src1": "https://drive.google.com/file/d/1FEiTQbL23X7VLRaVZCAOIYNZjPOXPVp1/preview",
       "src2": "",
-      "tags": ["concept", "forgive", "forgiveness", "jampolsky", "mandela"] 
+      "tags": ["concept", "stand", "up", "courageous", "be yourself"] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C31_Faith.pdf",
+      "label": "✝️ Faith", 
+      "src1": "https://drive.google.com/file/d/10z76VdJTyR5WuYj7t8wqST-sXIKLsOYb/preview",
+      "src2": "",
+      "tags": ["concept", "faith", "hope", "trust"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C32a_PillarsOfJoy.pdf",
+      "label": "😃 Pillars of Joy", 
+      "src1": "https://drive.google.com/file/d/1vusiHjWR8tF-x7Q0WTPAf2pTtBmaWZeQ/preview",
+      "src2": "",
+      "tags": ["concept", "joy", "pillars", "perspective", "humility", "Humor", "Acceptance",
+               "Forgiveness", "Gratitude", "Compassion", "Generosity"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C32b_PillarsOfJoy.pdf",
+      "label": "😃 The 8 Pillars of Joy", 
+      "src1": "https://drive.google.com/file/d/1cs44jCqOVfV3j7afaBavcm1Er38_N5XW/preview",
+      "src2": "",
+      "tags": ["concept", "joy", "pillars", "perspective", "humility", "Humor", "Acceptance",
+               "Forgiveness", "Gratitude", "Compassion", "Generosity"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C33_PowerOfApology.pdf",
+      "label": "🙏🏻 Power of Apology", 
+      "src1": "https://drive.google.com/file/d/1VogKiyad3_7uGdHbokcCPW62QiqKTWhI/preview",
+      "src2": "",
+      "tags": ["concept", "power", "apology", "harriet lerner", "brene brown", "sorry", "but" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C34_WisdomOfStory.pdf",
+      "label": "📔 Wisdom of Story", 
+      "src1": "https://drive.google.com/file/d/19-AaiVg_EGze07hCxaebr-UPAoIVA9Gd/preview",
+      "src2": "",
+      "tags": ["concept", "story",  "wisdom", "glennon doyle", "hero", "joseph campbell", "3 acts"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C35_FourNobleTruths.pdf",
+      "label": "🔢 Four Noble Truths", 
+      "src1": "https://drive.google.com/file/d/1OKt_l0-o2i9gLX3XhHuPf_5ErHARQJbK/preview",
+      "src2": "",
+      "tags": ["concept", "noble", "truths", "suffering", "attachment", "eightfold path"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C36_EightfoldPath.pdf",
+      "label": "8️⃣ Eightfold Path", 
+      "src1": "https://drive.google.com/file/d/1W5lQ7K98zGsoUxk2wWHYx56oWW_fmzU6/preview",
+      "src2": "",
+      "tags": ["concept", "right speech", "right understanding", "right livelihood",
+              "right mindfulness", "right aspiration", "right behavior", "right absorbtion",
+              "right effort" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C37a_WholeheartedLiving.pdf",
+      "label": "🧡 Wholehearted Living Guideposts", 
+      "src1": "https://drive.google.com/file/d/1vrrvXJogXSwDMnLk4dKaR-BDPL-iUFT7/preview",
+      "src2": "",
+      "tags": ["concept", "wholehearted", "living", "authenticity", "self-compassion",
+               "resilience", "gratitude", "joy", "intuition",  "trusting faith", 
+               "creativity", "play", "rest", "calm", "stillness", "meaningful work",
+               "laughter", "song", "dance"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C37b_WholeheartedLiving.pdf",
+      "label": "🧡 Wholehearted Living Quotes", 
+      "src1": "https://drive.google.com/file/d/1KdrzTFMNcRtCpeTY3GFr0Gt3sTvRDlwY/preview",
+      "src2": "",
+      "tags": ["concept", "wholehearted", "living", "imperfect", "vulnerable" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C38a_Vulnerability.pdf",
+      "label": "🤲🏻 Vulnerability Quotes", 
+      "src1": "https://drive.google.com/file/d/1ekBJ8oqbVfv1Yp2p3nUqEDvH_ITnZcW2/preview",
+      "src2": "",
+      "tags": ["concept", "vulnerable", "emotional exposure", "sharing feelings"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C38b_Vulnerability.pdf",
+      "label": "🤲🏻 Vulnerability", 
+      "src1": "https://drive.google.com/file/d/1ICIRuwuhiOe5g7g0idMgkkyaDLe6OqtZ/preview",
+      "src2": "",
+      "tags": ["concept", "vulnerable", "courage", "self-compassion", "authenticity"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C39_ShameResilience.pdf",
+      "label": "🙈 Shame Resilience", 
+      "src1": "https://drive.google.com/file/d/1gnGGXgGuktUG6ldErwSpCFfNuz23Ji-2/preview",
+      "src2": "",
+      "tags": ["concept", "shame", "secrecy", "silence", "judgment", "unworthy", "addictions",
+               "low self-esteem", "rage", "perfectionism", "anxiety", "envy", "depression"]     
+     },
+      {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C39a_Quotes_Atlas of Heart.pdf",
+      "label": "🗺️ Atlas of the Heart Quotes", 
+      "src1": "https://drive.google.com/file/d/1MHggn-ehzec6dxhlgfjZrNewBVe1_64T/preview",
+      "src2": "",
+      "tags": ["concept", "atlas", "heart", "brene brown", "listen" ]     
      }
 
      
