@@ -399,7 +399,119 @@
       "src1": "https://drive.google.com/file/d/11aEYL4HDzsoPfmYmC4sPo7-TSQyKd3DC/preview",
       "src2": "",
       "tags": ["concept", "compassion"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C14a_PeaceIsAChoice.pdf",
+      "label": "☮️ Peace is a Choice", 
+      "src1": "https://drive.google.com/file/d/19u1H2lCeB8rUWec9s46RYJkHD0XNc1Nl/preview",
+      "src2": "",
+      "tags": ["concept", "peace", "choice", "choose"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C14b_Peace.pdf",
+      "label": "☮️ Peace", 
+      "src1": "https://drive.google.com/file/d/1ARxUTeG_z3hLYXdF1M_uZZbHf-SM2LDg/preview",
+      "src2": "",
+      "tags": ["concept", "peace", "heart", "calm"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C14c1_InnerPeace.pdf",
+      "label": "☮️ Inner Peace Quotes 1", 
+      "src1": "https://drive.google.com/file/d/1EwSMW6U3pbtdCDIYz2NVBaXGN1DziRjV/preview",
+      "src2": "",
+      "tags": ["concept", "peace", "inner peace", "quotes"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C14c2_InnerPeace.pdf",
+      "label": "☮️ Inner Peace Quotes 2", 
+      "src1": "https://drive.google.com/file/d/1qTvRdQZshOCQRajPPooWMvqfM3Rss6ni/preview",
+      "src2": "",
+      "tags": ["concept", "peace", "inner peace", "quotes"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C14c3_InnerPeace.pdf",
+      "label": "☮️ Inner Peace Quotes 3", 
+      "src1": "https://drive.google.com/file/d/1gJY--OW3A4MpEZoXpYowWuOjdbuWpZdK/preview",
+      "src2": "",
+      "tags": ["concept", "peace", "inner peace", "quotes"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C15_ShineYourLight.pdf",
+      "label": "🕯️ Shine Your Light Quotes", 
+      "src1": "https://drive.google.com/file/d/1nsNNMvs0S2YuxUr5OpSS2Eh4qN-t3tgs/preview",
+      "src2": "",
+      "tags": ["concept", "shine your light", "shine", "light", "quotes"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C17_Expectations.pdf",
+      "label": "👀 Expectations Quotes", 
+      "src1": "https://drive.google.com/file/d/16iNABU_Hhpiricj9QPG2aaXfh_uBXYoD/preview",
+      "src2": "",
+      "tags": ["concept", "expect", "expectation", "quotes"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C18_TheFourAgreements.pdf",
+      "label": "📜 The Four Agreements", 
+      "src1": "https://drive.google.com/file/d/1IHl5cOCNNfmH0cCOGhdggOVwOW9vDy_q/preview",
+      "src2": "",
+      "tags": ["concept", "four agreements", "agree", "impeccable", "personally", 
+             "best", "assumption", "don miguel ruiz"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C19_Values.pdf",
+      "label": "🏆 Values", 
+      "src1": "https://drive.google.com/file/d/1ySVJ8aQyK34gwGcS8_60Vy0rn1V2vxTf/preview",
+      "src2": "",
+      "tags": ["concept", "values", "important", "family" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C20a_Complaint-FreeWorld.pdf",
+      "label": "😡 Complaint-Free World 1", 
+      "src1": "https://drive.google.com/file/d/1UsI34pCI9ZgMY21GEvNzZpdfqnLb6c3t/preview",
+      "src2": "",
+      "tags": ["concept", "complain", "problems", "angry", "pessimist", "will bowen", "quotes" ] 
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C20b_Complaint-FreeWorld.pdf",
+      "label": "😡 Complaint-Free World 2", 
+      "src1": "https://drive.google.com/file/d/1wRJHGc7idtA2kArZt1ExciL03ew3S8z1/preview",
+      "src2": "",
+      "tags": ["concept", "complain", "problems", "angry", "pessimist", "will bowen", 
+              "maya angelou", "quotes"] 
+     },
+      {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C21a_Magic.pdf",
+      "label": "🪄 Magic", 
+      "src1": "https://drive.google.com/file/d/1Ll5iY4Y3z3hrEx9IPrBtJsoavzz6MwlZ/preview",
+      "src2": "",
+      "tags": ["concept", "magic", "believe" ] 
      }
+
+
 
 
 
