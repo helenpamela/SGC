@@ -4191,6 +4191,342 @@ const meetings = {
       } 
     ]
   },
+
+  "202404": {
+    title: "April 2024",
+    month: "April",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1LzNtWUocxZzNXlIlZ6wlBg1mB59O7H2G/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1tENY_cMAfMvHXD_hLe1ytvD7D6Oahx0H/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Announcements",
+        src: "https://drive.google.com/file/d/12em653q2oSqI8wyyj-RvOHRCg8L2GpGA/preview"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202404-affirmation.jpg"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.jpg"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.png"
+        }
+      ]
+    },
+
+    tags: ["michelle medrano"],
+
+    topic: {
+      title: "When Your Truth is Not My Truth",
+      items: [
+        {
+          type: "video",
+          label: "Michelle Medrano - New Vision Center  March 2024",
+          src: "https://www.youtube.com/embed/Diegm1Iw-Uk?si=RrQdym3DgdVm2gbH"
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
+  "202403": {
+    title: "March 2024",
+    month: "March",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1cBXTc1mAqEkb5mwVAf8GawPKSBFvG1sl/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1Z__8sx-ke7SkRCTP6dJtAcm_ZTOF57D6/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Bruce Lipton Email",
+        src: "https://drive.google.com/file/d/1BM38UVfLg0h16oefnzD_2_GR6zPGwiEX/preview"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Focus on Love",
+
+      items: [
+        {
+          type: "pdf",
+          label: "Love Letter to Self",
+          src: "https://drive.google.com/file/d/15kwTM5RBNuMp9qihfRHTCTiyIBBjrY2f/preview"
+        }
+      ],
+      items: [
+        {
+          type: "pdf",
+          label: "Mirror Work",
+          src: "https://drive.google.com/file/d/10Jp6w9aobg8k25h6dhZnmQjxtjQAyFxN/preview"
+        }
+      ],
+      items: [
+        {
+          type: "pdf",
+          label: "You Are Enough",
+          src: "https://drive.google.com/file/d/1OYhNQA3PfzuhKPxCoSv_EvOy6Zhepf6a/preview"
+        }
+      ],
+      items: [
+        {
+          type: "pdf",
+          label: "Quotes - Focus on Love",
+          src: "https://drive.google.com/file/d/1sLTcmPlRt4ebgNqfMbQs44T1tgF_GfD_/preview"
+        }
+      ],
+      items: [
+        {
+          type: "image",
+          label: "Card - I Love You",
+          src: "monthly-focus-images/202403-card-i-love-you.png"
+        }
+      ],
+      items: [
+        {
+          type: "pdf",
+          label: "7 Simple Steps",
+          src: "https://drive.google.com/file/d/13GZ1VgBmukRe7Wuq6FNnXSijjybdG5xp/preview"
+        }
+      ]
+
+    },
+
+    practice: {
+      title: "Check-In",
+      items: [
+        {
+          type: "pdf",
+          label: "What Does This Bring Up?",
+          src: "https://drive.google.com/file/d/1K85BcDK9k140KktfNpjZwBjadAmJPczQ/view?usp=drive_link"
+        },
+      ],
+      items: [
+        {
+          type: "pdf",
+          label: "Quotes - Check-In",
+          src: "https://drive.google.com/file/d/1_Ta-v23A9YqcxADu9--b7qd8VgXwNY4A/preview"
+        },
+      ],
+      items: [
+        {
+          type: "pdf",
+          label: "Emotional Guidance Scale",
+          src: "https://drive.google.com/file/d/1KbZ92nmioMdGA7f_p6_awB5VXGFcOPJv/preview"
+        },
+      ],
+      items: [
+        {
+          type: "image",
+          label: "Card - Easy Does It",
+          src: "daily-practice-images/202403-card-easy-does-it.png"
+        },
+      ],
+      items: [
+        {
+          type: "pdf",
+          label: "Probably Time For a Check-In",
+          src: "https://drive.google.com/file/d/1yecZe-hPQ2X3HzLzgZjMoauKyXQ0IEi2/preview"
+        },
+      ],
+      items: [
+        {
+          type: "pdf",
+          label: "10 Mindfulness Questions",
+          src: "https://drive.google.com/file/d/1CwwjPkeC0zdxHwlduaARquY1EPXv6FTy/preview"
+        },
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202403-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.jpg"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Atlantis",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
   
 
 }
