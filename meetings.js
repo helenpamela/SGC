@@ -4378,37 +4378,27 @@ const meetings = {
           type: "pdf",
           label: "Love Letter to Self",
           src: "https://drive.google.com/file/d/15kwTM5RBNuMp9qihfRHTCTiyIBBjrY2f/preview"
-        }
-      ],
-      items: [
+        },
         {
           type: "pdf",
           label: "Mirror Work",
           src: "https://drive.google.com/file/d/10Jp6w9aobg8k25h6dhZnmQjxtjQAyFxN/preview"
-        }
-      ],
-      items: [
+        },
         {
           type: "pdf",
           label: "You Are Enough",
           src: "https://drive.google.com/file/d/1OYhNQA3PfzuhKPxCoSv_EvOy6Zhepf6a/preview"
-        }
-      ],
-      items: [
+        },
         {
           type: "pdf",
           label: "Quotes - Focus on Love",
           src: "https://drive.google.com/file/d/1sLTcmPlRt4ebgNqfMbQs44T1tgF_GfD_/preview"
-        }
-      ],
-      items: [
+        },
         {
           type: "image",
           label: "Card - I Love You",
           src: "monthly-focus-images/202403-card-i-love-you.png"
-        }
-      ],
-      items: [
+        },
         {
           type: "pdf",
           label: "7 Simple Steps",
@@ -4426,42 +4416,32 @@ const meetings = {
           label: "What Does This Bring Up?",
           src: "https://drive.google.com/file/d/1K85BcDK9k140KktfNpjZwBjadAmJPczQ/view?usp=drive_link"
         },
-      ],
-      items: [
         {
           type: "pdf",
           label: "Quotes - Check-In",
           src: "https://drive.google.com/file/d/1_Ta-v23A9YqcxADu9--b7qd8VgXwNY4A/preview"
-        },
-      ],
-      items: [
+        },    
         {
           type: "pdf",
           label: "Emotional Guidance Scale",
           src: "https://drive.google.com/file/d/1KbZ92nmioMdGA7f_p6_awB5VXGFcOPJv/preview"
         },
-      ],
-      items: [
         {
           type: "image",
           label: "Card - Easy Does It",
           src: "daily-practice-images/202403-card-easy-does-it.png"
         },
-      ],
-      items: [
         {
           type: "pdf",
           label: "Probably Time For a Check-In",
           src: "https://drive.google.com/file/d/1yecZe-hPQ2X3HzLzgZjMoauKyXQ0IEi2/preview"
         },
-      ],
-      items: [
         {
           type: "pdf",
           label: "10 Mindfulness Questions",
           src: "https://drive.google.com/file/d/1CwwjPkeC0zdxHwlduaARquY1EPXv6FTy/preview"
-        },
-      ],
+        }
+      ]
     },
 
     affirmation: [
@@ -4477,7 +4457,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "none-images/no-luminaries.jpg"
+          src: "none-images/no-luminaries.png"
         }
       ]
     },
