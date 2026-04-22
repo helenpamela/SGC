@@ -4846,5 +4846,137 @@ const meetings = {
     ]
   }, 
 
+  "202312": {
+    title: "December 2023",
+    month: "December",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1n7ba4Ihm-uNU0OQlygbPxpLmjLvr30bx/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1ESztW6sGwNLZDjvED1yuZiqfzImdJUYF/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202312-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Denise Linn - Sparkling Joy Meditation",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "Burning Bowl Ceremony",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
