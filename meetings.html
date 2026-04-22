@@ -417,7 +417,7 @@
       // console.log("setTitle for Topic next:", data.topic?.title);
       setTitle("topic-title", "Topic", data.topic?.title);
 
-      // console.log("setTitle for Meditation next:", data.meditation?.title);
+       console.log("setTitle for Meditation next:", data.meditation?.title);
       setTitle("meditation-title", "Meditation", data.meditation?.title);
       setTitle("luminary-title", "Luminary", data.luminary?.title);
 
@@ -440,12 +440,7 @@
       renderItems(data.focus?.items || [], "focus");
       renderItems(data.practice?.items || [], "practice");
       renderItems(data.affirmation || [], "affirmation");
-      renderItems(
-        Array.isArray(data.meditation)
-          ? data.meditation
-          : data.meditation?.items || [],
-        "meditation"
-      );
+      renderItems(data.meditation?.items || [], "meditation");
       renderItems(data.luminary?.items || [], "luminary");
       renderItems(data.topic?.items || [], "topic");
       renderItems(data.other || [], "other");
@@ -455,7 +450,7 @@
     function setTitle(id, main, sub) {
       const el = document.getElementById(id);
 
-      // console.log("in setTitle function, id:", id);
+       console.log("in setTitle function, id and el:", id, el);
 
       if (!el) return;
 
