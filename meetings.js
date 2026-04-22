@@ -4648,8 +4648,8 @@ const meetings = {
       items: [
         {
           type: "video",
-          label: "Denise Linn - Open Your Heart"
-          src: "https://www.youtube.com/embed/mlMvBl2D2Ug?si=ouoNeeCN4ir5QUnV""
+          label: "Denise Linn - Open Your Heart",
+          src: "https://www.youtube.com/embed/mlMvBl2D2Ug?si=ouoNeeCN4ir5QUnV"
         }
       ]
     },
