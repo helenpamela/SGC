@@ -4568,7 +4568,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "monthly-focus-images/202402-stuffed-dragon.png"
+          src: "monthly-focus-images/202402-stuffed-dragon.jpg"
         },
         {
           type: "pdf",
