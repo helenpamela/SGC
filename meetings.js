@@ -4507,6 +4507,211 @@ const meetings = {
 
     ]
   }, 
+
+    "202402": {
+    title: "February 2024",
+    month: "February",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1_1oFzsZU5rtGPK5G5RzmpDQKdyFWLqQv/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/17imLxxeIMx9YFAjvULcxJ6UgkTgiIaI-/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "I Can Do It",
+        src: "https://drive.google.com/file/d/1uh182wSVsIsipy6wlDoOV1JlLxOzTMTv/preview"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Year of the Dragon",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202402-year-of-the-dragon.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202402-year-of-the-dragon-properties.png"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202402-stuffed-dragon.png"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Dragon Meaning",
+          src: "https://drive.google.com/file/d/1PhZHllFWEgZ5nqcBifiYbsHheQrHweoc/preview"
+        },
+        {
+          type: "pdf",
+          label: "What Zodiac Sign is SGC?",
+          src: "https://drive.google.com/file/d/1VKF6lO22vsMU0zFBU_CygnhQpWOhWkUX/preview"
+        },
+        {
+          type: "pdf",
+          label: "Images - Year of the Dragon",
+          src: "https://drive.google.com/file/d/1Ozr5Jp7fz_9P6lOBb5d4tpHr_u0xKMtM/preview"
+        },
+        {
+          type: "pdf",
+          label: "What 2024 Has in Store for You",
+          src: "https://drive.google.com/file/d/1D0Z59tje4OYacBIzeEQ0ruGGaGubRrsq/preview"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Dragon Could Be Lucky for You",
+          src: "https://drive.google.com/file/d/10TooMI5M7sXOmaLqKcf2icxMsaoOKNV0/preview"
+        },
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "pdf",
+          label: "Quotes - Open Your Heart",
+          src: "https://drive.google.com/file/d/1fU9EwQXurz-Gcgr8bqmMkEMFf9YyQcm2/preview"
+        },
+        {
+          type: "pdf",
+          label: "Images - Open Your Heart",
+          src: "https://drive.google.com/file/d/14cha71KGtpy3YGQatgNOQjiBaXXD6boy/preview"
+        },
+        {
+          type: "pdf",
+          label: "5 Steps to Keeping an Open Heart",
+          src: "https://drive.google.com/file/d/1GQMd7iOTUB7BgiJXBU9dngEDYkrT-WOp/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Steps to Open Your Heart",
+          src: "https://drive.google.com/file/d/1uA6gYUZewM2i1jHFbfGmaP15I9YhdY-6/preview"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202402-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "Setting Intentions",
+      items: [
+        {
+          type: "pdf",
+          label: "Setting My Intentions for 2024",
+          src: "https://drive.google.com/file/d/1PXmdZxhRLSgq1rsft8QSUk3gx7zd9L2H/preview"
+        },
+    
+        {
+          type: "pdf",
+          label: "Intention Setting Worksheet",
+          src: "https://drive.google.com/file/d/1SLRsmkxhzVv6EyOA2s4IwEIbTkgbNPKp/preview"
+        },
+        {
+          type: "pdf",
+          label: "How Emotions Affect the Body",
+          src: "https://drive.google.com/file/d/1a4O7L3PYuBGzYExE8aAgZA-b4e2EcWpO/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Intention Setting",
+          src: "https://drive.google.com/file/d/1eZMfD9hcFJGqli44-9WLpQQHRqWKixK_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Power of Intention Setting",
+          src: "https://drive.google.com/file/d/1xL4zvB5TuVzLkzmEELa_b_lsLzbhQE9Q/preview"
+        },
+        {
+          type: "pdf",
+          label: "Intention Setting 101",
+          src: "https://drive.google.com/file/d/1BVT2uHkCfmpYu9Ddn5x3xlhCjuFDPRs4/preview"
+        },
+         {
+          type: "pdf",
+          label: "Setting Intentions - Quotes",
+          src: "https://drive.google.com/file/d/1T7ozTdACpBxw3-yoKdHivO6iaFL2GHWO/preview"
+        },
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
   
 
 }
