@@ -792,7 +792,7 @@
       "tags": ["concept", "shame", "secrecy", "silence", "judgment", "unworthy", "addictions",
                "low self-esteem", "rage", "perfectionism", "anxiety", "envy", "depression"]     
      },
-      {   
+     {   
       "section": "Concepts",
       "type": "PDF",
       "file-name": "C39a_Quotes_Atlas of Heart.pdf",
@@ -800,7 +800,283 @@
       "src1": "https://drive.google.com/file/d/1MHggn-ehzec6dxhlgfjZrNewBVe1_64T/preview",
       "src2": "",
       "tags": ["concept", "atlas", "heart", "brene brown", "listen" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C39b_87 Atlas of Heart_Emotions.pdf",
+      "label": "🗺️ Atlas of the Heart - 87 Emotions", 
+      "src1": "https://drive.google.com/file/d/1ry_8gAE43vroEZ06qitITLlIisXEdVqa/preview",
+      "src2": "",
+      "tags": ["concept", "atlas", "heart", "brene brown", "listen" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C40a_Acceptance.pdf",
+      "label": "🕯️ Acceptance Quotes 1", 
+      "src1": "https://drive.google.com/file/d/1J6QRdPgEhC5TUCDgUWzuy1NpBY3xgGn2/preview",
+      "src2": "",
+      "tags": ["concept", "accept", "allow"  ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C40b_Acceptance.pdf",
+      "label": "🕯️ Acceptance Quotes 2", 
+      "src1": "https://drive.google.com/file/d/19u6ZsrOgUg-TYo15VB9DGcigd1SBaSYq/preview",
+      "src2": "",
+      "tags": ["concept", "accept", "allow"  ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C40c_Acceptance Definition.pdf",
+      "label": "🕯️ Acceptance Definition", 
+      "src1": "https://drive.google.com/file/d/1kIFcmUqooY8EUe_Rq_rf6bOfvbc3135r/preview",
+      "src2": "",
+      "tags": ["concept", "accept", "allow", "consent", "receive", "adequate"  ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C41_Mindfulness.pdf",
+      "label": "🕯️ 15 Things Mindful People Do Differently", 
+      "src1": "https://drive.google.com/file/d/16Vq060Yw3rGHymTMJkA1yPPP07_33IMu/preview",
+      "src2": "",
+      "tags": ["concept", "mindful", "avoid", "deny", "multi-task", "moment", "laugh",
+                "curious", "natre", "present", "focus", "laugh" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C41a_What is Mindfulness.pdf",
+      "label": "🕯️ What is Mindfulness", 
+      "src1": "https://drive.google.com/file/d/1ZC6N1pzpSenL2_bjebUbZoCEnk-jglFu/preview",
+      "src2": "",
+      "tags": ["concept", "mindful", "here and now", "being", "observing", "sensing", 
+              "describing", "noticing", "non-judgemental", "non-judgmental", "one thing",
+              "meditation", "nonjudgment"]     
+     },     
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C42a_Kindness.pdf",
+      "label": "🩷 Kindness Quotes", 
+      "src1": "https://drive.google.com/file/d/1D22-PmIgnv1-HBTgCLryUQs5vl5su5VI/preview",
+      "src2": "",
+      "tags": ["concept", "kind" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C42b_RadicalKindness.pdf",
+      "label": "🩷 Radical Kindness", 
+      "src1": "https://drive.google.com/file/d/1WNpP5DkTdyjEUsu4OkOiR4CiMTLH27F1/preview",
+      "src2": "",
+      "tags": ["concept", "kind", "golden rule", "unconditional", "compassion", 
+               "angela santomero" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C43a_RaiseYourVibration.pdf",
+      "label": "⚡ Raise Your Vibration", 
+      "src1": "https://drive.google.com/file/d/1hoqoLEg9eqhRJrkJK80yL04UGlOEsAgv/preview",
+      "src2": "",
+      "tags": ["concept", "vibration", "frequency", "light", "affirmation", "appreciation",
+                "water", "meditate", "movement", "healing frequencies", "nature", "gratitude" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C43b_RaiseYourVibration.pdf",
+      "label": "⚡ Raise Your Vibration 2", 
+      "src1": "https://drive.google.com/file/d/1Wn0M_SIiYnKmi4QGAfNELZfx5NAqzBX5/preview",
+      "src2": "",
+      "tags": ["concept", "vibration", "frequency", "light", "affirmation", "appreciation",
+                "water", "meditate", "movement", "healing frequencies", "nature", "gratitude",
+               "breathe", "loving-kindness", "earthing", "joy", "passion", "singing", "dancing" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C44_Fear.pdf",
+      "label": "😱 Fear", 
+      "src1": "https://drive.google.com/file/d/1gddXKQU3vpJCUs8P5DpE5GZ_VerUnv-9/preview",
+      "src2": "",
+      "tags": ["concept", "fear", "danger", "pain", "threat"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C45a_Courage.pdf",
+      "label": "🦁 Courage", 
+      "src1": "https://drive.google.com/file/d/1mWIPys4iBjc0ytLpomdt_t5by-wDGDmL/preview",
+      "src2": "",
+      "tags": ["concept", "courage", "strength", "brave"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C45b_VowOfTheCourageousWarrior.pdf",
+      "label": "🦁 Vow of the Courageous Warrior", 
+      "src1": "https://drive.google.com/file/d/119ZJ7rse9Tf7kmGU7ua2dYjLEH-zyThu/preview",
+      "src2": "",
+      "tags": ["concept", "courage", "strength", "brave", "vow", "warrior"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C46_Perspective.pdf",
+      "label": "🔭 Perspective", 
+      "src1": "https://drive.google.com/file/d/1lgo_YxsDnJr12Z3QkXhvHF5NOt8_xWXV/preview",
+      "src2": "",
+      "tags": ["concept", "perspective", "attitude", "point of view", "bigger picture" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C47_Becoming Metahuman.pdf",
+      "label": "🌟 Becoming Metahuman", 
+      "src1": "https://drive.google.com/file/d/1972CivKu6O7StDDZMV19q1TnO9TQk-_G/preview",
+      "src2": "",
+      "tags": ["concept", "metahuman", "beyond", "timeless", "infinite" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C48_Archetypes.pdf",
+      "label": "🃏 Archetypes", 
+      "src1": "https://drive.google.com/file/d/1BMw6Q1WNFyivdYuc71u1GZlrmfi9q-S7/preview",
+      "src2": "",
+      "tags": ["concept", "archetype", "characteristic", "pattern" , "behavior"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C49_Self-Reflection.pdf",
+      "label": "🃏 Self-Reflection", 
+      "src1": "https://drive.google.com/file/d/1IHWHRfCOB7ZyAe2GtLYs9aReVJgKrnrW/preview",
+      "src2": "",
+      "tags": ["concept", "reflect", "meditate", "contemplate", "self-aware", "thoughts",
+               "feelings", "actions"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C50_HooponoponoThe4Mantras.pdf",
+      "label": "🌺 Ho'oponopono The 4 Mantras", 
+      "src1": "https://drive.google.com/file/d/1Jam-OqyRgSO6BQCR0oQCEvVjYc0HK_3v/preview",
+      "src2": "",
+      "tags": ["concept", "sorry", "forgive", "thank", "love"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C51a_Imagination.pdf",
+      "label": "💫 Imagination 1", 
+      "src1": "https://drive.google.com/file/d/14uU8R1ziL9-LqfPIX303dlmne24MJt6X/preview",
+      "src2": "",
+      "tags": ["concept","imagine", "mental image", "brain", "new" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C51b_Imagination.pdf",
+      "label": "💫 Imagination 2", 
+      "src1": "https://drive.google.com/file/d/1qCBzjNMUDxPBFnaQ1pr3ueJA6aEBg4pN/preview",
+      "src2": "",
+      "tags": ["concept","imagine", "mental image", "brain", "new", "clarity", "innovative", "perspective" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C51c_Imagination.pdf",
+      "label": "💫 Imagination Quotes 1", 
+      "src1": "https://drive.google.com/file/d/1K5Cdf3KyfCjpmYc-bqYRevT922DdONdS/preview",
+      "src2": "",
+      "tags": ["concept","imagine", "mental image", "brain", "new", "clarity", "innovative", "perspective" ]     
+     },    
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C52a_CalmYourEmotions Wheel.pdf",
+      "label": "☸️ Calm Your Emotions Wheel", 
+      "src1": "https://drive.google.com/file/d/1VNYwGfJgbKySWa1zpVOPb2R39FXv2IeI/preview",
+      "src2": "",
+      "tags": ["concept","imagine", "calm", "wheel", "plutchik", "emotions", "mastering"]     
+     },  
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C52b_CalmYourEmotions Quotes.pdf",
+      "label": "🗣️ Calm Your Emotions Quotes", 
+      "src1": "https://drive.google.com/file/d/1Emdp0U8BmMQdzvHCADrd3OHWnshTOcvt/preview",
+      "src2": "",
+      "tags": ["concept","imagine", "calm", "wheel", "plutchik", "emotions", "mastering"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C53_Power of Words.pdf",
+      "label": "🔠 Power of Words", 
+      "src1": "https://drive.google.com/file/d/1Try_nM_E8eH6YMKSg3ixcL_RhoLPvt9d/preview",
+      "src2": "",
+      "tags": ["concept","power", "word", "inspire", "motivate", "comfort", "heal" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C54_How Emotions Affect Body.pdf",
+      "label": "🤣 How Emotions Affect the Body", 
+      "src1": "https://drive.google.com/file/d/1KmXZOVLtcecz9_r_2383mv-qjUjRh5Fn/preview",
+      "src2": "",
+      "tags": ["concept", "body", "emotion", "anger", "heart", "worry", "spleen", "anger",
+               "liver", "fear", "kidney", "sad", "lung" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C56_Friendship Quotes.pdf",
+      "label": "👥 Friendship Quotes", 
+      "src1": "https://drive.google.com/file/d/1N_XGwrnjTnh3YD5fruid3NUZIcZax20u/preview",
+      "src2": "",
+      "tags": ["concept", "friend", "quote"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C57_Shifting Reality Steps & Tips.pdf",
+      "label": "⚛️ Shifting Reality Steps & Tips", 
+      "src1": "https://drive.google.com/file/d/1zPUy8493hxI6dyVgLXNMTzOhV91DLy_i/preview",
+      "src2": "",
+      "tags": ["concept", "quantum", "cynthia sue larson", "shift", "reality"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C59_How to Gain More Clarity AI.pdf",
+      "label": "👓 How to Gain More Clarity", 
+      "src1": "https://drive.google.com/file/d/1y5U1dAjzQMT5Q3Jk02-6Vb3gjO3shP0-/preview",
+      "src2": "",
+      "tags": ["concept", "clarity", "priorities", "goals", "meditate", "reflect", "distract" ]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C59a_12 Questions for Clarity.pdf",
+      "label": "👓 12 Questions for Clarity", 
+      "src1": "https://drive.google.com/file/d/10at5f98jr5aS62HLznMaEV-NI2dN12AL/preview",
+      "src2": "",
+      "tags": ["concept", "clarity", "draining", "learn", "admire", "traits", "accomplishments",
+              "goal", "declutter", "ideal"]     
      }
+     
+
+
+
+
 
      
 
