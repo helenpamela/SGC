@@ -4933,10 +4933,11 @@ const meetings = {
     },
 
     meditation: {
-      title: "Denise Linn - Sparkling Joy Meditation",
+      title: "Denise Linn Meditation",
       items: [
         {
-          type: "",
+          type: "text",
+          label: "Sparkling Joy, Shimmering Blessings",
           src: ""
         }
       ]

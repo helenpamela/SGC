@@ -393,7 +393,7 @@
         searchResults = [];
       }
 
-      console.log("Search results:", searchResults);
+      // console.log("Search results:", searchResults);
 
       document.getElementById("search-nav").style.display = "block";
 
@@ -417,7 +417,7 @@
       // console.log("setTitle for Topic next:", data.topic?.title);
       setTitle("topic-title", "Topic", data.topic?.title);
 
-       console.log("setTitle for Meditation next:", data.meditation?.title);
+       // console.log("setTitle for Meditation next:", data.meditation?.title);
       setTitle("meditation-title", "Meditation", data.meditation?.title);
       setTitle("luminary-title", "Luminary", data.luminary?.title);
 
@@ -428,7 +428,7 @@
       // Now render each section using your helper ✨
       renderItems(data.final_agenda || [], "final_agenda");
 
-      console.log("renderItems working agenda next:");
+      // console.log("renderItems working agenda next:");
       renderItems(data.teacher_only?.working_agenda || [], "working_agenda");
       renderItems(data.announcements || [], "announcements");
       renderItems(data.intention || [], "intention");
@@ -462,12 +462,12 @@
     }
     ;
     function renderItems(items, containerId) {
-      console.log("In renderItems containerId:", containerId);
+      // console.log("In renderItems containerId:", containerId);
 
       const div = document.getElementById(containerId);
       div.innerHTML = "";
 
-      console.log("In renderItems function, items length:", items.length);
+      // console.log("In renderItems function, items length:", items.length);
 
       if (!items || items.length === 0) return;
 
@@ -475,7 +475,7 @@
         if (!item.type) {
           console.warn("Missing type in item:", item);
         }
-        console.log("Item type:", item.type); // ✅ moved inside loop
+        // console.log("Item type:", item.type); // ✅ moved inside loop
 
         let content = "";
 
@@ -487,7 +487,7 @@
         }
 
         if (item.type === "pdf") {
-          console.log("this is a pdf");
+          // console.log("this is a pdf");
           content = `
         <button class="button" onclick="loadDoc('${item.src}')">
           📄 ${item.label || "Open"}
@@ -524,7 +524,7 @@
       const closeBtn = document.querySelector(".close");
 
       if (closeBtn) {
-        console.log("Close button:", closeBtn);
+        // console.log("Close button:", closeBtn);
         closeBtn.onclick = function () {
           modal.style.display = "none";
           document.getElementById("modalViewer").src = "";
