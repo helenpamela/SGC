@@ -4472,7 +4472,7 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["bruce lipton", "louise hay", "check-in", "love", "mindfulness", "scale"],
 
     topic: {
       title: "",
@@ -4810,7 +4810,7 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["vision", "board"],
 
     topic: {
       title: "Vision Boards",
@@ -4937,13 +4937,13 @@ const meetings = {
       items: [
         {
           type: "text",
-          label: "Sparkling Joy, Shimmering Blessings",
+          label: "Denise Linn: Sparkling Joy, Shimmering Blessings",
           src: ""
         }
       ]
     },
 
-    tags: [""],
+    tags: ["burn", "bowl", "ceremony"],
 
     topic: {
       title: "Burning Bowl Ceremony",
@@ -4978,6 +4978,148 @@ const meetings = {
 
     ]
   },
+
+  "202311": {
+    title: "November 2023",
+    month: "November",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1tYvg9OHYuuuAD4cp2I1TLQEd6uCOakT9/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1QAKaDUP8ZXyJECv8eVdYoDjXdE7edmzF/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202311-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["atlas of the heart"],
+
+    topic: {
+      title: "Atlas of the Heart",
+      items: [
+        {
+          type: "pdf",
+          label: "Quotes - Atlas of the Heart",
+          src: "https://drive.google.com/file/d/1Wm9MwXnS--G7mFzxc0wpcIazDKdVcL1J/preview"
+        },    
+        {
+          type: "pdf",
+          label: "Empathy Misses",
+          src: "https://drive.google.com/file/d/11LeCArC4fmZYPJM5m9HnEH0aVCMe-DrW/preview"
+        },
+        {
+          type: "pdf",
+          label: "Class Session Outline",
+          src: "https://drive.google.com/file/d/1cOskQ59MOVzbUP5eGvbwx3-yHKye2MJd/preview"
+        },
+        {
+          type: "pdf",
+          label: "87 Emotions",
+          src: "https://drive.google.com/file/d/1xBLLvxR30W40PN7IWOrdopzzPCPi71uW/preview"
+        },
+   
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
 
 }
 
