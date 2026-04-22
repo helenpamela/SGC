@@ -4508,7 +4508,7 @@ const meetings = {
     ]
   }, 
 
-    "202402": {
+  "202402": {
     title: "February 2024",
     month: "February",
     year: 2024,
@@ -4713,7 +4713,138 @@ const meetings = {
 
     ]
   }, 
-  
+ 
+  "202401": {
+    title: "January 2024",
+    month: "January",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1rGtqYBUVwrfRFtE41ptSqS5G3Y9yw_eA/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1tqHxYS0V3d3y7e6bfVaUIGsQRJglKkM6/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202401-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
 
 }
 
