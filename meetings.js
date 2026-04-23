@@ -5349,5 +5349,138 @@ const meetings = {
     ]
   }, 
 
+  "202309": {
+    title: "September 2023",
+    month: "September",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1FAhP311UoJppTquwIom-08wAE-YiEuxa/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1dmkUd5nBM9NwhWp_-uc05bOSlYrru-YL/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Teddy Bear (Continued)",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "What Do I Want?",
+      items: [
+        {
+          type: "pdf",
+          label: "What Do I Want? form"
+          src: "https://drive.google.com/file/d/1iKcqLVuSQ6mEpOEFaHRwRPSsN8nSSCOY/preview"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "text",
+        label: "Same as last month",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "Calm Your Emotions (Continued)",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Patricia Cota-Robles - Divine Plan",
+        src: "https://drive.google.com/file/d/1p1sHxwklWr-q0lPD0rd7MVYJdPBfgfg7/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
 }
 
