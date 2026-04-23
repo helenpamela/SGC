@@ -268,7 +268,6 @@ const meetings = {
 
     ]
   },
-
  
   "202603": {
     title: "March 2026",
@@ -5102,6 +5101,235 @@ const meetings = {
         },
    
    
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
+  "202310": {
+    title: "October 2023",
+    month: "October",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1WnKJ5jqqrFLBM_V8imCgxFH8lC7bUF3k/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1PkaAG6UBklyb4UZWcQUHScaBRxTcQMOr/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "You Need Three Bones - Reba",
+        src: "https://drive.google.com/file/d/1KPOY49znc1DoNPdC1LodGKC-AcH9kZzH/preview"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Unicorn",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202310-unicorn.png"
+        },
+        
+        {
+          type: "image",
+          src: "animal-images/202310-unicorn-properties.png"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202310-stuffed-unicorn.jpg"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202310-unicorn-coloring-book.jpg"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202310-unicorn-figurine.jpg"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202310-unicorn-bookmarks.jpg"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202310-unicorn-bracelet.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Unicorn Symbolism & Meaning",
+          src: "https://drive.google.com/file/d/1GgvTujBBRbg-9Gyq8HbSGuROZaOaiawJ/preview"
+        }
+      
+
+      ],
+    },
+
+    practice: {
+      title: "Use Your Imagination",
+      items: [
+        {
+          type: "text",
+          label: "Write 'What's Your Superpower?' "
+        }
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202310-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Denise Linn - Manifest Your Dreams",
+          src: ""
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "Imagination",
+      items: [
+        {
+          type: "image",
+          label: "Imagination CD 1 - Song List",
+          src: "topic-images/202310-cd1-song-list.png"
+        },    
+        {
+          type: "image",
+          label: "Imagination CD 2 - Song List",
+          src: "topic-images/202310-cd2-song-list.png"
+        },
+        {
+          type: "video",
+          label: "Barbra Streisand - Pure Imagination",
+          src: "https://www.youtube.com/embed/9kP-EP3ucis?si=pSk7I7uQrCoba5Wn"
+        },
+        {
+          type: "video",
+          label: "Amy Purdy - TED Talk - Living beyond Limits",
+          src: "https://www.youtube.com/embed/N2QZM7azGoA?si=SaEh8H11GN4Doi4H"
+        },
+        {
+          type: "pdf",
+          label: "Use Imagination Creatively",
+          src: "https://drive.google.com/file/d/1-V7J7nK8LMl0XeXICrWTkLohIy-phdq3/preview"
+        },
+        {
+          type: "pdf",
+          label: "SMART Goals",
+          src: "https://drive.google.com/file/d/1u-JNe3MR5GfAcAA8bL4v92helwQcGDHp/preview"
+        },
+        {
+          type: "pdf",
+          label: "Pure Imagination Lyrics",
+          src: "https://drive.google.com/file/d/12jqbcvngZ3EzcBqU10v-xUsInayVCoho/preview"
+        },
+        {
+          type: "pdf",
+          label: "Imagination Quotes",
+          src: "https://drive.google.com/file/d/1MlI8wGt93GQeX0axn9MJpa6yjW4GgIUZ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Imagination Q & A",
+          src: "https://drive.google.com/file/d/1Y8Ext-uaf-X-HwYbRJ-cG1JpzkR0hCzb/preview"
+        },
+        {
+          type: "pdf",
+          label: "Create a Brilliant Life",
+          src: "https://drive.google.com/file/d/1sv0QyZHcj1zt2VcGDpjtVknuXY-Un6cB/preview"
+        },
+        {
+          type: "pdf",
+          label: "The 43 Best Quotes on Imagination",
+          src: "https://drive.google.com/file/d/159awazZGITISg4lv2cipA0zA5oHPteNm/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Ways to Jump Start Your Imagination",
+          src: "https://drive.google.com/file/d/1Z9HqOxSzEo2uTwNuT9PxosLgKMHfznep/preview"
+        },
+        {
+          type: "pdf",
+          label: "5 Benefits Using Imagination",
+          src: "https://drive.google.com/file/d/1yZfPRfrN0be6yVg2-mI54vRz3TeWLrOh/preview"
+        },
+        {
+          type: "pdf",
+          label: "8 Ways to Engage Imagination",
+          src: "https://drive.google.com/file/d/10mkE0WaB5x1rzUA_THbRbtjrTKwKobIW/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Steps to Unleashing Your Imagination!",
+          src: "https://drive.google.com/file/d/1H0CmZ8ULvbPmrk5MJE3rp8B2pPM-HWtG/preview"
+        }
+             
 
       ]
     },
