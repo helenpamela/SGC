@@ -5400,8 +5400,8 @@ const meetings = {
 
       items: [
         {
-          type: "image",
-          src: "none-images/no-monthly-focus.png"
+          type: "",
+          src: ""
         }
       ],
     },
@@ -5452,9 +5452,9 @@ const meetings = {
       title: "Calm Your Emotions (Continued)",
       items: [
         {
-          type: "image",
-          label: "",
-          src: "none-images/no-topic.jpg"
+          type: "pdf",
+          label: "Benefits of Writing Down Your Thoughts",
+          src: "https://drive.google.com/file/d/1JVq8vxATzFzeW82A6452V3cRfJ-Suj8g/preview"
         },
     
         {
