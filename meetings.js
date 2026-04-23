@@ -5482,5 +5482,227 @@ const meetings = {
     ]
   }, 
 
+  "202308": {
+    title: "August 2023",
+    month: "August",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1xeDtM4Uq0ScqoZ5Sw34m9mhuilaKgmnN/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/11z_dWBC9lRNiJSOzFH5VKX5KTn-8UAe1/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Unity World Day of Prayer Sept 13",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Teddy Bear",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202308-teddy-bear.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202308-teddy-bear-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Teddy Bear Symbolism",
+          src: "https://drive.google.com/file/d/1_kU2JK5JH815q2M_aCk-0OiAbwRZCaLq/preview"
+        },
+        {
+          type: "pdf",
+          label: "Story of the Teddy Bear",
+          src: "https://drive.google.com/file/d/1h3xE_HVZMZBzSUb8PYmOPJBgdM3JOt3v/preview"
+        },
+        {
+          type: "pdf",
+          label: "Benefits of Having a Teddy Bear",
+          src: "https://drive.google.com/file/d/1roAYSoHMmx1U72hIo-xbEcCKy7rd3QHB/preview"
+        }
+      ],
+    },
+
+    practice: {
+      title: "Engage Your Senses",
+      items: [
+        {
+          type: "pdf",
+          label:  "Sweeten Your Senses",
+          src: "https://drive.google.com/file/d/1EdcqCZc-__ovJ_lU2O7QJTy17ttmqWj7/preview"
+        },
+        {
+          type: "pdf",
+          label:  "Stress Relief Activities",
+          src: "https://drive.google.com/file/d/1Yzh3F2CThIh_ttdMzx7-r0KHHRz9INvV/preview"
+        },
+        {
+          type: "pdf",
+          label:  "Five Senses",
+          src: "https://drive.google.com/file/d/17pJBC8l9eQmG1z3VT5sMVxMUGCKMaB_g/preview"
+        },
+        {
+          type: "pdf",
+          label:  "Engage Your Senses",
+          src: "https://drive.google.com/file/d/1PVcdrH-J0aPbDlTpQ9mn28ieHuLB226a/preview"
+        }
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["teddy bear", "engage your senses"],
+
+    topic: {
+      title: "Calm Your Emotions",
+      items: [
+        {
+          type: "pdf",
+          label: "87 Emotions",
+          src: "https://drive.google.com/file/d/1cfQa37wV1qTKIVL5_Zq-LRZHCMEby_vM/preview"
+        },
+    
+        {
+          type: "pdf",
+          label: "Simple Step",
+          src: "https://drive.google.com/file/d/1hVCt3Rw7kDTp9AZge9o1l34j3C7x13-B/preview"
+        },
+        {
+          type: "pdf",
+          label: "Plutchik's Emotion Wheel",
+          src: "https://drive.google.com/file/d/17YhKe9OcUHrD6cyu97llEIwXyNVOhB39/preview"
+        },
+        {
+          type: "pdf",
+          label: "Feelings Thermometer",
+          src: "https://drive.google.com/file/d/1yxxQ02-PHs6kE6WEuBC96XC29hWNfmax/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emotions vs Feelings",
+          src: "https://drive.google.com/file/d/1lu4deSYO7hUOwU0jznpxCuHsJfgA8LPZ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emotion Quotes",
+          src: "https://drive.google.com/file/d/1SyPomf0wXlnQ-PmlIPNssgiGc_IQXx18/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emotion Definitions",
+          src: "https://drive.google.com/file/d/10z3M_jMMidjZ56rr-fmIN05B90-QcUbF/preview"
+        },
+        {
+          type: "pdf",
+          label: "Detailed Wheel of Emotions",
+          src: "https://drive.google.com/file/d/1tber2skhjoIu1IgVl2ppGu0QHzsy4wPB/preview"
+        },
+        {
+          type: "pdf",
+          label: "Calm Your Emotions Book Summary",
+          src: "https://drive.google.com/file/d/1gt3-7RhalpQC1FGQYW5hUpyo2E4PVis6/preview"
+        },
+        {
+          type: "pdf",
+          label: "Calm Your Emotions Book Notes",
+          src: "https://drive.google.com/file/d/1JblehoHHoA7fmksHgP6RSHq_2hpKVddT/preview"
+        },
+        {
+          type: "pdf",
+          label: "What are Emotions?",
+          src: "https://drive.google.com/file/d/18OBnpcJxenuYWzZZhroRsvjSXrRP09ZL/preview"
+        },
+        {
+          type: "pdf",
+          label: "22 Ways to Calm Yourself Down",
+          src: "https://drive.google.com/file/d/1Q0maLK3N2Gov8KdOZew5fn2so6veFQ41/preview"
+        },
+        {
+          type: "pdf",
+          label: "Three Daily Practice",
+          src: "https://drive.google.com/file/d/1oJ-D3mVeQm6BxJrc9zIlUcF0RuKNOQZN/preview"
+        }
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
 }
 
