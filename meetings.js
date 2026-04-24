@@ -6459,5 +6459,184 @@ const meetings = {
     ]
   },
 
+  "202302": {
+    title: "February 2023",
+    month: "February",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1aK2Z-JrLBKGgvhp3WXIRrxn2mZvgTaLY/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1rH6HDKIXwP7XzMCtwebCPIbGDbPhGk4J/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "image",
+        label: "Card - May All Be Healed",
+        src: "announcement-images/202302-may-all-be-healed-card.png"
+      }, 
+      {
+        type: "pdf",
+        label: "Change the Way You See - Cliff Notes",
+        src: "https://drive.google.com/file/d/1i2cj09wsbheFUVbdY6KHRbXzKvsRfhFN/preview"
+      } 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rabbit",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202302-rabbit.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202302-rabbit-properties.png"
+        },
+        {
+          type: "image",
+          label: "Stuffed Rabbit",
+          src: "monthly-focus-images/202302-rabbit-stuffed-animal.jpg"
+        },
+        {
+          type: "image",
+          label: "Chinese Fortune Card - front",
+          src: "monthly-focus-images/202302-chinese-fortune-card-front.jpg"
+        },
+        {
+          type: "image",
+          label: "Chinese Fortune Card - back",
+          src: "monthly-focus-images/202302-chinese-fortune-card-back.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Rabbit",
+          src: "https://drive.google.com/file/d/1RT3A6OfvjsJ9P0S0RIxoaqzP6oEjfGdv/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rabbit Symbolism",
+          src: "https://drive.google.com/file/d/1_gC7x5W5aBacMu-SX9rOHAtQd95-23W9/preview"
+        }
+        
+        
+      ],
+    },
+
+    practice: {
+      title: "Don't Sweat the Small Stuff",
+      items: [
+        {
+          type: "pdf",
+          label:  "Quotes - Don't Sweat the Small Stuff",
+          src: "https://drive.google.com/file/d/1j4XWBuz0CjegZDOL1KFVFENh307HBYNE/preview"
+        },
+        {
+          type: "pdf",
+          label:  "List - Don't Sweat the Small Stuff",
+          src: "https://drive.google.com/file/d/1j4XWBuz0CjegZDOL1KFVFENh307HBYNE/preview"
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "Affirmation 1",
+        src: "affirmation-images/202302-affirmation1.png"
+      },
+      {
+        type: "image",
+        label: "Affirmation 2",
+        src: "affirmation-images/202302-affirmation2.png"
+      }
+    ],
+
+    luminary: {
+      title: "Richard Carlson",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          src: "EFT Micro-burst of Happiness"
+        }
+      ]
+    },
+
+    tags: ["sweat", "small stuff", "happy", "richard carlson", "eft", "rabbit", "chinese", "fortune"],
+
+    topic: {
+      title: "You Can Be Happy No Matter What",
+      items: [
+        {
+          type: "pdf",
+          label: "Book Summary - You Can Be Happy No Matter What",
+          src: "https://drive.google.com/file/d/1GtCxWe16iSZWvEjqNnqNdnnQGsmP2CDm/preview"
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
 }
 
