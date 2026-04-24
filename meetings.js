@@ -6007,5 +6007,163 @@ const meetings = {
     ]
   },
 
+  "202305": {
+    title: "May 2023",
+    month: "May",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Wohg1zHjwDWJ_owX4f5ORlNsz7nGx-WS/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1fS2UVuFKZmlo6eRMYFCkWKJvOuP5pmpW/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Giraffe",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202305-giraffe.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202305-giraffe-properties.png"
+        },
+        {
+          type: "image",
+          label: "Stuffed Giraffe from Linda",
+          src: "monthly-focus-images/202305-stuffed-giraffe-prop.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Giraffe Images",
+          src: "https://drive.google.com/file/d/1xEn7okuYQRYv6ihqddg1yQHYMslskduT/preview"
+        },
+        {
+          type: "pdf",
+          label: "Giraffe Spirit Animal",
+          src: "https://drive.google.com/file/d/1lliR0DFhwZhtXy9m83F18BYQZBKz1TkS/preview"
+        }       
+
+      ],
+    },
+
+    practice: {
+      title: "Get on Your Bird",
+      items: [
+        {
+          type: "pdf",
+          label: "Get on Your Bird",
+          src: "https://drive.google.com/file/d/1IRIfbRisvMKDZgaFbDW9aghlZD96AVsk/preview"
+        },
+        {
+          type: "text",
+          label: "Meditation: Get on Your Bird (10 min) by Collette Baron-Reid"
+        },
+
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202305-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["get on your bird", "giraffe"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }
+
 }
 
