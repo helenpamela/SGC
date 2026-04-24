@@ -6339,7 +6339,7 @@ const meetings = {
       {
         type: "image",
         label: "St Patrick's Day Necklace",
-        src: "announcement-image/202303-st-pat-necklace.jpg"
+        src: "announcement-images/202303-st-pat-necklace.jpg"
       }, 
     ],
 
