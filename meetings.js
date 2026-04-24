@@ -5704,5 +5704,175 @@ const meetings = {
     ]
   }, 
 
+  "202307": {
+    title: "July 2023",
+    month: "July",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1bKPju_y6EUd2jYgCe12WvVzKAFtB4wGq/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1FLJqNbOPLOodUNJRg48KbFZsl1vjUO1n/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Drenched in Holiness - from Kathy",
+        src: "https://drive.google.com/file/d/1G5M2I1jiFXF8pGYlHcfeQ1-QfW_B5FaI/preview"
+      }, 
+      {
+        type: "image",
+        label: "Vienna pen - gift from Kenny & Vicky",
+        src: "announcement-images/202307-vienna-pen-from-ken&vic.jpg"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Apatite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/apatite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/apatite-properties.png"
+        },
+        {
+          type: "image",
+          label: "Apatite stones from Linda",
+          src: "monthly-focus-images/apatite-stones.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Apatite - Stone of Acceptance",
+          src: "https://drive.google.com/file/d/1__c59JwIt8wC0Mvw4yBxsiKUgSazJY4m/preview"
+        },
+        {
+          type: "pdf",
+          label: "Apatite Meaning & Properties",
+          src: "https://drive.google.com/file/d/17i7Dmyvuo3ziQk7bwmFBdJg2v-n7JkNk/preview"
+        }
+      ],
+    },
+
+    practice: {
+      title: "Be Gentle With Yourself",
+      items: [
+        {
+          type: "Be Gentle With Yourself - from Cliff Notes",
+          src: "https://drive.google.com/file/d/1R9eB8cKz0mjivJdBx6l1dAra0bMhHMOK/preview"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202307-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["gentle", "apatite", "acceptance", "drenched", "holiness"],
+
+    topic: {
+      title: "Acceptance",
+      items: [
+        {
+          type: "pdf",
+          label: "Acceptance Definitions",
+          src: "https://drive.google.com/file/d/1UkNNxPa7TROyDuohxtHNS-ggUx7hdo99/preview"
+        },
+        {
+          type: "pdf",
+          label: "4 Reasons Why Acceptance is Essential to Your Recovery",
+          src: "https://drive.google.com/file/d/1spm1xkAsRz8K5q8Zgc1n3VBvQMY3nXK6/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Gifts of Acceptance",
+          src: "https://drive.google.com/file/d/1sDxzADRRJMFQbUpqyQ34n0Oq8_4kXwI6/preview"
+        },
+        {
+          type: "pdf",
+          label: "15 Affirmations for Acceptance",
+          src: "https://drive.google.com/file/d/1UKO4Jr8pbcye0hN7ay8dB-jXjzN_XHiw/preview"
+        },
+        {
+          type: "image",
+          label: "Serenity Prayer Bookmark - from Linda",
+          src: "topic-images/202307-serenity-prayer-bookmarks.jpg"
+        }
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
 }
 
