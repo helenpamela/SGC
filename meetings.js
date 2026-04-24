@@ -6068,7 +6068,7 @@ const meetings = {
         {
           type: "image",
           label: "Stuffed Giraffe from Linda",
-          src: "monthly-focus-images/202305-stuffed-giraffe-prop.jpg"
+          src: "monthly-focus-images/202305-giraffe-stuffed-animal.jpg"
         },
         {
           type: "pdf",
