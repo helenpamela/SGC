@@ -5916,9 +5916,9 @@ const meetings = {
     lovingkindness: [
       {
         type: "",
-        label: "","
-      }
+        label: "",
         src: ""
+      }
     ],
 
     focus: {
