@@ -5761,16 +5761,16 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "crystal-images/apatite.png"
+          src: "crystal-images/202307-apatite.png"
         },
         {
           type: "image",
-          src: "crystal-images/apatite-properties.png"
+          src: "crystal-images/202307-apatite-properties.png"
         },
         {
           type: "image",
           label: "Apatite stones from Linda",
-          src: "monthly-focus-images/apatite-stones.jpg"
+          src: "monthly-focus-images/202307-apatite-stones.jpg"
         },
         {
           type: "pdf",
@@ -5789,7 +5789,8 @@ const meetings = {
       title: "Be Gentle With Yourself",
       items: [
         {
-          type: "Be Gentle With Yourself - from Cliff Notes",
+          type: "pdf",
+          label: "Be Gentle With Yourself - from Cliff Notes",
           src: "https://drive.google.com/file/d/1R9eB8cKz0mjivJdBx6l1dAra0bMhHMOK/preview"
         },
 
