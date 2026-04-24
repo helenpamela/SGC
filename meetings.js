@@ -6163,7 +6163,154 @@ const meetings = {
       }
 
     ]
-  }
+  },
+
+  "202304": {
+    title: "April 2023",
+    month: "April",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1vpdIKJaChDhPEFtyWSr4BPyGbwTAGlim/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1IjxnwlBDNTfrUMLVZ73azVdk3arVN9Rn/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Aloe Vera",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202304-aloe-vera.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202304-aloe-vera-properties.png"
+        },
+        {
+          type: "image",
+          label: "Aloe Vera Plant from Linda",
+          src: "flower-images/202304-aloe-vera-plant.jpg"
+        },
+        {
+          type: "pdf",
+          label: "How to Care for Aloe Vera Plant",
+          src: "https://drive.google.com/file/d/1TKcKjq_owAaNALL264WrC35uVwVVbpme/preview"
+        }    
+
+      ]
+    },
+
+    practice: {
+      title: "EFT",
+      items: [
+        {
+          type: "pdf",
+          label: "EFT",
+          src: "https://drive.google.com/file/d/1JlV4eH_3JfLodQgy8TW4OQAlk4E3zYsb/preview"
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202304-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "EFT",
+      items: [
+        {
+          type: "pdf",
+          label: "How to Manage Your Mind in an Uncertain World - Cheryl Richardson",
+          src: "https://drive.google.com/file/d/1cz53Ihh-cI9lJJilXqeJcEUF08ELnuLp/preview"
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        }  
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  } 
 
 }
 
