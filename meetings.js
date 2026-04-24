@@ -6563,7 +6563,7 @@ const meetings = {
         {
           type: "pdf",
           label:  "List - Don't Sweat the Small Stuff",
-          src: "https://drive.google.com/file/d/1j4XWBuz0CjegZDOL1KFVFENh307HBYNE/preview"
+          src: "https://drive.google.com/file/d/1XwvVL5_WYpfrvzXlQb6UQsVkiFVGvVjU/preview"
         }
 
       ]
