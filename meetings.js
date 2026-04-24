@@ -6226,7 +6226,7 @@ const meetings = {
         {
           type: "image",
           label: "Aloe Vera Plant from Linda",
-          src: "flower-images/202304-aloe-vera-plant.jpg"
+          src: "monthly-focus-images/202304-aloe-vera-plant.jpg"
         },
         {
           type: "pdf",
