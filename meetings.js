@@ -6277,7 +6277,7 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["eft", "aloe vera"],
 
     topic: {
       title: "EFT",
@@ -6310,7 +6310,154 @@ const meetings = {
       }
 
     ]
-  } 
+  },
+  
+  "202303": {
+    title: "March 2023",
+    month: "March",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/12DKeTNjw8x3Rj7p1vFDjZ02G-o25-u2F/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1UDfdhQZROki_2etXTaWiamvakJsILfNK/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "image",
+        label: "St Patrick's Day Necklace",
+        src: "announcement-image/202303-st-pat-necklace.jpg"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Indigo Gabbro",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202303-mystic-merlinite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202303-mystic-merlinite-properties.png"
+        },
+        {
+          type: "image",
+          label: "Indigo Gabbro Worry Stone from Linda",
+          src: "monthly-focus-images/202303-indigo-gabbro-worry-stone.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Indigo Gabbro",
+          src: "https://drive.google.com/file/d/1hKOR-Bu5IjniOPb8BlQKfzYkv43COQ48/preview"
+        }       
+
+      ],
+    },
+
+    practice: {
+      title: "Listen to Music",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202303-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["music, indigo gabbro", "st patrick's day"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 }
 
