@@ -2130,9 +2130,9 @@ const meetings = {
       title: "Cliff Notes Update",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "New/Updated Pages",
+          src: "https://drive.google.com/file/d/1N_TtSKCwfePYU3VAIogax_I6EBQmA9rH/preview"
         }
 
 
@@ -7171,6 +7171,327 @@ const meetings = {
 
     ]
   },
+
+  "202210": {
+    title: "October 2022",
+    month: "October",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1mUvyxtw_OLAno-PWZ3zZM1Ze_bqWC0Ft/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: [],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
+  "202209": {
+    title: "September 2022",
+    month: "September",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1eQKmZAp_Ab39apQCcLZ40A3sFeQOQJ4R/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1uVGKk0SL75Xrf0WFuedDIrzmfTbgMhsJ/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Quokka",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202209-quokka.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202209-quokka-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Book: Meet the Quokkas - from Linda",
+          src: "https://drive.google.com/file/d/1MsYzCUY-cpTvP3XIku3Y8wyeam0rwcVv/preview"
+        }
+
+
+        
+      ],
+    },
+
+    practice: {
+      title: "Smiling",
+      items: [
+        {
+          type: "pdf",
+          label: "Smiling - Quotes",
+          src: "https://drive.google.com/file/d/1zl24Bx2eHRS7eDdERhLgYz1JpbqbBjXC/preview"
+        },
+        {
+          type: "pdf",
+          label: "11 Science-Backed Benefits of Smiling",
+          src: "https://drive.google.com/file/d/1U0hNuP90vDzhv7MeX9CcRFE434pA2TWR/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Reasons to Smile",
+          src: "https://drive.google.com/file/d/1lIIPGveWLwR0WqaKae1lw-NEKQ4ufqaL/preview"
+        }        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202209-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "MicroBoost of Happiness from Tapping Solution",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["happy", "happiness", "quokka", "smile", "smiling"],
+
+    topic: {
+      title: "Happiness",
+      items: [
+        {
+          type: "pdf",
+          label: "Happiness Definition",
+          src: "https://drive.google.com/file/d/1dp_3XDKgeNYfKM_St7G2B51IZyfyPNjB/preview"
+  
+        },
+    
+        {
+          type: "pdf",
+          label: "Happiness Quotes",
+          src: "https://drive.google.com/file/d/1oPbV5Yj-Pk_gZWVpmz59A890GGHnL3Uf/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Happiness? 1",
+          src: "https://drive.google.com/file/d/1qRI8N-vxZbG0f9tJKWvSYhaBqXHvGsUh/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Happiness? 2",
+          src: "https://drive.google.com/file/d/1MF6hRi1pUwxNMZ-eHKF2UtYFJ2OUOGHt/preview"
+        },
+        {
+          type: "pdf",
+          label: "Different Types of Happiness",
+          src: "https://drive.google.com/file/d/1BTBnCnMTDX16t0p4QhpZgpGxEWTyrKCk/preview"
+        }
+   
+
+        
+      
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
 
 }
 
