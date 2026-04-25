@@ -6700,7 +6700,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "crystal-images/202301-rhodonite2.png"
+          src: "crystal-images/202301-rhodonite2-properties.png"
         },
         {
           type: "image",
