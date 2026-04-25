@@ -1195,7 +1195,7 @@ const meetings = {
     year: 2025,
     meetingCancelled: true, // or false
     cancelReasonImage: "none-images/202509-no-mtg.png", // optional but lovely
-    cancelMessage: "Test message.  blah blah blah",
+    cancelMessage: "We’ll Be Together Again Soon ✨",
 
     final_agenda: [
       {
@@ -2735,6 +2735,9 @@ const meetings = {
     title: "December 2024",
     month: "December",
     year: 2024,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202412-no-mtg.png", // optional but lovely
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
     final_agenda: [
       {
