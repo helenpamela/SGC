@@ -296,6 +296,12 @@
       <h1 id="title"></h1>
     </div>
 
+    <div id="cancelled-banner" style="display:none; text-align:center; margin-bottom:20px;">
+      <h1 style="color:#a94442; font-size:42px;">🚫 MEETING CANCELLED</h1>
+      <p id="cancel-message" style="font-size:18px; color:#6a5d8f;"></p>
+      <img id="cancel-image" style="max-width:300px; border-radius:12px; margin-top:10px;">
+    </div>
+
     <div id="search-nav" style="display:none; text-align:center; margin-bottom:15px;">
       <button onclick="prevResult()">⬅ Previous</button>
       <button onclick="nextResult()">Next ➡</button>
@@ -408,6 +414,26 @@
       document.getElementById("title").innerHTML =
         `${data.title}<br><span style="font-size: 0.6em; color: #888;"></span>`;
 
+      // 🌟 Handle cancelled meeting
+      if (data.meetingCancelled) {
+        const banner = document.getElementById("cancelled-banner");
+        banner.style.display = "block";
+
+        document.getElementById("cancel-message").innerText =
+          data.cancelMessage || "";
+
+        if (data.cancelReasonImage) {
+          const img = document.getElementById("cancel-image");
+          img.src = data.cancelReasonImage;
+          img.style.display = "block";
+        }
+
+        // OPTIONAL: stop rendering the rest of the meeting
+        return;
+      }
+
+
+
       // console.log("setTitle for MonthlyFocus next:", data.focus?.title);
       setTitle("focus-title", "Monthly Focus", data.focus?.title);
 
@@ -417,7 +443,7 @@
       // console.log("setTitle for Topic next:", data.topic?.title);
       setTitle("topic-title", "Topic", data.topic?.title);
 
-       // console.log("setTitle for Meditation next:", data.meditation?.title);
+      // console.log("setTitle for Meditation next:", data.meditation?.title);
       setTitle("meditation-title", "Meditation", data.meditation?.title);
       setTitle("luminary-title", "Luminary", data.luminary?.title);
 
@@ -450,7 +476,7 @@
     function setTitle(id, main, sub) {
       const el = document.getElementById(id);
 
-       console.log("in setTitle function, id and el:", id, el);
+      console.log("in setTitle function, id and el:", id, el);
 
       if (!el) return;
 

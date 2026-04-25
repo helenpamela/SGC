@@ -1,7 +1,7 @@
 
 
 const meetings = {
- 
+
 
 
 
@@ -9,6 +9,9 @@ const meetings = {
     title: "May 2026",
     month: "May",
     year: 2026,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "", // optional but lovely
+    cancelMessage: "",
 
     final_agenda: [
       {
@@ -33,7 +36,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -111,13 +114,13 @@ const meetings = {
           label: "",
           src: ""
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -165,7 +168,7 @@ const meetings = {
         type: "text",
         label: "New SGC App 🪷",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -243,13 +246,13 @@ const meetings = {
           label: "",
           src: ""
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -268,7 +271,7 @@ const meetings = {
 
     ]
   },
- 
+
   "202603": {
     title: "March 2026",
     month: "March",
@@ -528,9 +531,9 @@ const meetings = {
       ]
     },
 
-    tags: ["meditation", "happiness", "thoughts", "beliefs", "inner", "smile", 
-                "horse", "fire", "self-love", "compassion", "lee holden", 
-                "kenny", "calendar"],
+    tags: ["meditation", "happiness", "thoughts", "beliefs", "inner", "smile",
+      "horse", "fire", "self-love", "compassion", "lee holden",
+      "kenny", "calendar"],
 
 
     topic: {
@@ -858,7 +861,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Intention Process",
-        src:   "https://drive.google.com/file/d/1nmOrPzG_e56y8S7hW__qPchSOti2me3e/preview"
+        src: "https://drive.google.com/file/d/1nmOrPzG_e56y8S7hW__qPchSOti2me3e/preview"
       }
 
     ],
@@ -899,7 +902,7 @@ const meetings = {
       ]
 
     },
-     
+
     practice: {
       title: "Gratitude",
       items: [
@@ -987,11 +990,11 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
 
-   "202510": {
+  "202510": {
     title: "October 2025",
     month: "October",
     year: 2025,
@@ -1016,7 +1019,7 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -1043,7 +1046,7 @@ const meetings = {
 
     ],
 
-   
+
     focus: {
       title: "",
       items: [
@@ -1083,7 +1086,7 @@ const meetings = {
       ]
 
     },
-     
+
     practice: {
       title: "Set Intentions",
       items: [
@@ -1182,14 +1185,17 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
 
-   "202509": {
+  "202509": {
     title: "September 2025",
     month: "September",
     year: 2025,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202509-no-mtg.png", // optional but lovely
+    cancelMessage: "Test message.  blah blah blah",
 
     final_agenda: [
       {
@@ -1211,7 +1217,7 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -1233,19 +1239,19 @@ const meetings = {
 
     ],
 
-   
+
     focus: {
       title: "",
       items: [
         {
           type: "",
           src: ""
-        }      
-       
+        }
+
       ]
 
     },
-     
+
     practice: {
       title: "",
       items: [
@@ -1254,7 +1260,7 @@ const meetings = {
           label: "",
           src: ""
         }
-    
+
       ]
     },
 
@@ -1298,7 +1304,7 @@ const meetings = {
           label: "",
           src: ""
         }
-       
+
 
       ]
     },
@@ -1307,11 +1313,11 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
-  
-   "202508": {
+
+  "202508": {
     title: "August 2025",
     month: "August",
     year: 2025,
@@ -1336,7 +1342,7 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -1345,7 +1351,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"    
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -1358,19 +1364,19 @@ const meetings = {
 
     ],
 
-   
+
     focus: {
       title: "",
       items: [
         {
           type: "image",
           src: "none-images/no-monthly-focus.png"
-        }      
-       
+        }
+
       ]
 
     },
-     
+
     practice: {
       title: "",
       items: [
@@ -1379,7 +1385,7 @@ const meetings = {
           label: "",
           src: "none-images/no-daily-practice.png"
         }
-    
+
       ]
     },
 
@@ -1389,7 +1395,7 @@ const meetings = {
         label: "This Month's Affirmation",
         src: "affirmation-images/202508-affirmation.jpg"
       },
-        
+
     ],
 
     meditation: {
@@ -1397,7 +1403,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "none-images/no-meditation.jpg" 
+          src: "none-images/no-meditation.jpg"
         }
       ]
     },
@@ -1429,8 +1435,8 @@ const meetings = {
           label: "",
           src: ""
         },
-         
-       
+
+
 
       ]
     },
@@ -1441,11 +1447,11 @@ const meetings = {
         label: "3D-printer Dragon from Linda",
         src: "other-images/202408-dragon-from-3D-printer.jpg"
 
-      } 
+      }
     ]
   },
-   
-   "202507": {
+
+  "202507": {
     title: "July 2025",
     month: "July",
     year: 2025,
@@ -1471,16 +1477,16 @@ const meetings = {
         type: "pdf",
         label: "Email from Sonia Choquette",
         src: "https://drive.google.com/file/d/1ATjXD2FtHR-Wm3gdIaa7ai4rDH6abfev/preview"
-      },            
+      },
       {
         type: "image",
         label: "CD: Music to Lift Your Heart",
-        src:   "announcement-images/202507-cd-music-to-lift-your-heart.jpg"
+        src: "announcement-images/202507-cd-music-to-lift-your-heart.jpg"
       },
       {
         type: "image",
         label: "CD Song List",
-        src:   "announcement-images/202507-cd-song-list.jpg"
+        src: "announcement-images/202507-cd-song-list.jpg"
       }
 
     ],
@@ -1489,7 +1495,7 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -1511,7 +1517,7 @@ const meetings = {
 
     ],
 
-   
+
     focus: {
       title: "Horse",
       items: [
@@ -1522,7 +1528,7 @@ const meetings = {
         {
           type: "image",
           src: "animal-images/202507-horse-properties.jpg"
-        },  
+        },
         {
           type: "image",
           src: "monthly-focus-images/202507-horse-items-from-Linda.jpg"
@@ -1537,11 +1543,11 @@ const meetings = {
           label: "Horse Images",
           src: "https://drive.google.com/file/d/1t0zYMaVKmyBMjiH4Hvxqe-mAIrFjtbEH/preview"
         }
-       
+
       ]
 
     },
-     
+
     practice: {
       title: "Shine Your Light",
       items: [
@@ -1560,7 +1566,7 @@ const meetings = {
           label: "Doobie Bros Lyrics",
           src: "daily-practice-images/202507-doobie-bros-lyrics.jpg"
         }
-    
+
       ]
     },
 
@@ -1594,7 +1600,7 @@ const meetings = {
       ]
     },
 
-    tags: ["sonia choquette", "limiting beliefs", "shine your light", "doobie brothers", "horse","cd"],
+    tags: ["sonia choquette", "limiting beliefs", "shine your light", "doobie brothers", "horse", "cd"],
 
     topic: {
       title: "Limiting Beliefs",
@@ -1633,7 +1639,7 @@ const meetings = {
           type: "pdf",
           label: "Disempowering and Empowering Beliefs",
           src: "https://drive.google.com/file/d/1NXGtqgNLkSJHDb6F0Pks9LyMzjUlX3-4/preview"
-        } 
+        }
 
       ]
     },
@@ -1644,11 +1650,11 @@ const meetings = {
         label: "",
         src: ""
       }
-    
+
     ]
   },
 
-   "202506": {
+  "202506": {
     title: "June 2025",
     month: "June",
     year: 2025,
@@ -1674,18 +1680,18 @@ const meetings = {
         type: "image",
         label: "Randy Rainbow",
         src: "announcement-images/202506-randy-rainbow.png"
-      },            
+      },
       {
         type: "image",
         label: "Randy Rainbow's New Book",
-        src:   "announcement-images/202506-randy-rainbows-book.png"
+        src: "announcement-images/202506-randy-rainbows-book.png"
       }
     ],
     intention: [
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -1694,7 +1700,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"   
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -1707,14 +1713,14 @@ const meetings = {
 
     ],
 
-   
+
     focus: {
       title: "",
       items: [
         {
           type: "image",
           src: "crystal-images/202506-kyanite.jpg"
-        }, 
+        },
         {
           type: "image",
           src: "crystal-images/202506-kyanite-properties.jpg"
@@ -1724,11 +1730,11 @@ const meetings = {
           label: "Kyanite Images",
           src: "https://drive.google.com/file/d/1DRvR980xazCgbgIYyuUjr6HiVu5q1TXd/preview"
         }
-       
+
       ]
 
     },
-     
+
     practice: {
       title: "Be Here Now",
       items: [
@@ -1742,7 +1748,7 @@ const meetings = {
           label: "Article by Deepak Chopra",
           src: "https://drive.google.com/file/d/1r5tInX6hcuD9OIY19h23I7dM_kFvGED7/preview"
         }
-    
+
       ]
     },
 
@@ -1809,13 +1815,13 @@ const meetings = {
         {
           type: "video",
           label: "9 Attitudes of Mindfulness - Jon Kabat-Zinn",
-          src: "https://www.youtube.com/embed/2n7FOBFMvXg?si=zCZR9ltKK0NaDSkw" 
+          src: "https://www.youtube.com/embed/2n7FOBFMvXg?si=zCZR9ltKK0NaDSkw"
         },
         {
           type: "video",
           label: "TEDx The Power of Mindfulness - Shauna Shapiro",
-          src: "https://www.youtube.com/embed/IeblJdB2-Vo?si=z3t5uiy8nXM6EHXi" 
-        }     
+          src: "https://www.youtube.com/embed/IeblJdB2-Vo?si=z3t5uiy8nXM6EHXi"
+        }
 
       ]
     },
@@ -1825,11 +1831,11 @@ const meetings = {
         type: "image",
         label: "Good Morning Card",
         src: "other-images/202506-handout-good-mornng-linda-card.jpg"
-      } 
+      }
     ]
   },
-  
-   "202505": {
+
+  "202505": {
     title: "May 2025",
     month: "May",
     year: 2025,
@@ -1854,7 +1860,7 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -1863,7 +1869,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"   
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -1876,18 +1882,18 @@ const meetings = {
 
     ],
 
-   
+
     focus: {
       title: "",
       items: [
         {
           type: "image",
           src: "flower-images/202505-yellow-rose.png"
-        }, 
+        },
         {
           type: "image",
           src: "flower-images/202505-yellow-rose-properties.png"
-        }, 
+        },
         {
           type: "pdf",
           label: "Yellow Roses Meaning",
@@ -1908,11 +1914,11 @@ const meetings = {
           label: "Yellow Roses from Linda",
           src: "monthly-focus-images/202505-yellow-roses-from-linda.jpg"
         }
-       
+
       ]
 
     },
-     
+
     practice: {
       title: "Call a Friend ☎️",
       items: [
@@ -1921,7 +1927,7 @@ const meetings = {
           label: "",
           src: ""
         }
-    
+
       ]
     },
 
@@ -1956,7 +1962,7 @@ const meetings = {
       ]
     },
 
-    tags: ["rose", "call", "friend", "friendship", "Atlantis" ],
+    tags: ["rose", "call", "friend", "friendship", "Atlantis"],
 
     topic: {
       title: "",
@@ -1983,7 +1989,7 @@ const meetings = {
         },
 
 
-       
+
 
       ]
     },
@@ -1992,7 +1998,7 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
 
@@ -2021,7 +2027,7 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -2030,7 +2036,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -2043,19 +2049,19 @@ const meetings = {
 
     ],
 
-   
+
     focus: {
       title: "",
       items: [
         {
           type: "",
           src: ""
-        }      
-       
+        }
+
       ]
 
     },
-     
+
     practice: {
       title: "",
       items: [
@@ -2064,7 +2070,7 @@ const meetings = {
           label: "",
           src: ""
         }
-    
+
       ]
     },
 
@@ -2108,7 +2114,7 @@ const meetings = {
           label: "",
           src: ""
         }
-       
+
 
       ]
     },
@@ -2117,10 +2123,10 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
-  
+
   "202503": {
     title: "March 2025",
     month: "March",
@@ -2146,22 +2152,22 @@ const meetings = {
       {
         type: "pdf",
         label: "Spring Equinox",
-        src:   "https://drive.google.com/file/d/1yK-9aia4KbDEpAmBgLzZ4fm_1oQhlcyu/preview"
+        src: "https://drive.google.com/file/d/1yK-9aia4KbDEpAmBgLzZ4fm_1oQhlcyu/preview"
       },
       {
         type: "pdf",
         label: "Alan Cohen - Disarmed by Peace",
-        src:   "https://drive.google.com/file/d/1y9FAhIXQPCWjPDJ2CSEupg31tOOSqplL/preview"
+        src: "https://drive.google.com/file/d/1y9FAhIXQPCWjPDJ2CSEupg31tOOSqplL/preview"
       },
       {
         type: "video",
         label: "Alan Cohen video - Be the Mule",
-        src:   "https://www.youtube.com/embed/W2QhiXyg0Z0?si=WlRrxKMZGjroYXD0"
+        src: "https://www.youtube.com/embed/W2QhiXyg0Z0?si=WlRrxKMZGjroYXD0"
       },
       {
         type: "video",
         label: "Randy Rainbow video - Defy Democracy",
-        src:   "https://www.youtube.com/embed/KpPIxcntxkE?si=bqbVcp8MwELJ0TK-"
+        src: "https://www.youtube.com/embed/KpPIxcntxkE?si=bqbVcp8MwELJ0TK-"
       }
     ],
 
@@ -2170,7 +2176,7 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -2179,19 +2185,19 @@ const meetings = {
       {
         type: "image",
         label: "Sunflower - symbol of Ukraine",
-        src:   "our-vision-images/202503-sunflowers.jpg"
+        src: "our-vision-images/202503-sunflowers.jpg"
       },
       {
         type: "pdf",
         label: "Sunflower.pdf",
-        src:   "https://drive.google.com/file/d/1DkeIKe4vrpxRlhP1iOAI7HTeThTrzBy6/preview"
+        src: "https://drive.google.com/file/d/1DkeIKe4vrpxRlhP1iOAI7HTeThTrzBy6/preview"
       },
       {
         type: "pdf",
         label: "Our Vision for the New Earth and Ukraine",
-        src:   "https://drive.google.com/file/d/17A-91u1UxGtw7AWD64erXVlkYgKSQ5_t/preview"
+        src: "https://drive.google.com/file/d/17A-91u1UxGtw7AWD64erXVlkYgKSQ5_t/preview"
       }
-      
+
 
     ],
 
@@ -2199,7 +2205,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -2212,7 +2218,7 @@ const meetings = {
 
     ],
 
-   
+
     focus: {
       title: "Azurite & Clear Quartz",
       items: [
@@ -2238,11 +2244,11 @@ const meetings = {
           type: "pdf",
           label: "Clear Quartz article from HappySoul",
           src: "https://drive.google.com/file/d/1uCuAG9TcLaWZBxxeqp2b28OJUXDGXPP3/preview"
-        }      
+        }
       ]
 
     },
-     
+
     practice: {
       title: "Let Them",
       items: [
@@ -2377,7 +2383,7 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
 
@@ -2406,16 +2412,16 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
-   
+
     ],
 
     intention: [
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -2424,8 +2430,8 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
-      },       
+        src: ""
+      },
 
     ],
 
@@ -2433,7 +2439,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -2455,7 +2461,7 @@ const meetings = {
       }
     ],
 
-   
+
     focus: {
       title: "Year of the Snake",
       items: [
@@ -2472,11 +2478,11 @@ const meetings = {
           label: "Year of the Snake",
           src: "https://drive.google.com/file/d/1qYbukTOlf18qaV9geWgq7VpDVje9RWIN/preview"
         }
-           
+
       ]
 
     },
-     
+
     practice: {
       title: "Set Intentions",
       items: [
@@ -2533,7 +2539,7 @@ const meetings = {
           label: "",
           src: ""
         },
-  
+
       ]
     },
 
@@ -2541,7 +2547,7 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
 
@@ -2568,28 +2574,28 @@ const meetings = {
     },
     announcements: [
       {
-        type:  "pdf",
+        type: "pdf",
         label: "Diana Cooper's Visualization for 2025",
-        src:   "https://drive.google.com/file/d/1ISbRDsP_LPlZgGPKfB-d1JSp2vBr5fSX/preview"
+        src: "https://drive.google.com/file/d/1ISbRDsP_LPlZgGPKfB-d1JSp2vBr5fSX/preview"
       },
       {
-        type:  "text",
+        type: "text",
         label: "Announcements.txt",
-        src:   "https://drive.google.com/file/d/1I_bftbjM_4fOPy1x4679tvJ-XwnqGN-_/preview"
+        src: "https://drive.google.com/file/d/1I_bftbjM_4fOPy1x4679tvJ-XwnqGN-_/preview"
       },
       {
-        type:  "pdf",
+        type: "pdf",
         label: "Daniel Scranton Email",
-        src:   "https://drive.google.com/file/d/1qnlLY0tvR5mSeEppEY_vzZejBSvmBsGy/preview"
+        src: "https://drive.google.com/file/d/1qnlLY0tvR5mSeEppEY_vzZejBSvmBsGy/preview"
       }
-   
+
     ],
 
     intention: [
       {
         type: "pdf",
         label: "Declaration of Intention form",
-        src:   "https://drive.google.com/file/d/1N6MlttAs4-3_TY2poQt7spd36-lc5qkg/preview"
+        src: "https://drive.google.com/file/d/1N6MlttAs4-3_TY2poQt7spd36-lc5qkg/preview"
       }
 
     ],
@@ -2598,8 +2604,8 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
-      },       
+        src: ""
+      },
 
     ],
 
@@ -2607,7 +2613,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -2617,56 +2623,56 @@ const meetings = {
         label: "",
         src: ""
       }
-  
+
     ],
-   
+
     focus: {
       title: "Archangel Muriel",
       items: [
         {
           type: "image",
-          src:  "archangel-images/202501-muriel.png"
+          src: "archangel-images/202501-muriel.png"
         },
         {
           type: "image",
-          src:  "archangel-images/202501-muriel-properties.png"
+          src: "archangel-images/202501-muriel-properties.png"
         },
         {
-          type:  "pdf",
+          type: "pdf",
           label: "Archangel Muriel",
-          src:   "https://drive.google.com/file/d/14t0fEcg9qpfkp3qqvgxeD6CaURh_-iwC/preview"
+          src: "https://drive.google.com/file/d/14t0fEcg9qpfkp3qqvgxeD6CaURh_-iwC/preview"
         }
-           
+
       ]
 
     },
-     
+
     practice: {
       title: "OM & Just Like Me",
       items: [
         {
-          type:  "image",
+          type: "image",
           label: "OM Card",
-          src:   "daily-practice-images/202501-om-card.jpg"
+          src: "daily-practice-images/202501-om-card.jpg"
         },
         {
-          type:  "pdf",
+          type: "pdf",
           label: "Just Like Me Practice",
-          src:   "https://drive.google.com/file/d/1IFzy_P0VN11Js1W_qVLlGgb-1bS-ydZo/preview"
+          src: "https://drive.google.com/file/d/1IFzy_P0VN11Js1W_qVLlGgb-1bS-ydZo/preview"
         },
         {
-          type:  "pdf",
+          type: "pdf",
           label: "Just Like Me Meditation",
-          src:   "https://drive.google.com/file/d/1rNKVmpxZnPCAjHOJfGsi22g0aqTfkKjq/preview"
+          src: "https://drive.google.com/file/d/1rNKVmpxZnPCAjHOJfGsi22g0aqTfkKjq/preview"
         }
       ]
     },
 
     affirmation: [
       {
-        type:  "image",
+        type: "image",
         label: "This Month's Affirmation",
-        src:   "affirmation-images/202501-affirmation.jpg"
+        src: "affirmation-images/202501-affirmation.jpg"
       }
     ],
 
@@ -2676,7 +2682,7 @@ const meetings = {
         {
           type: "video",
           label: "Denise Linn, Past-Life Regression",
-          src:   "https://www.youtube.com/embed/gsXCnW609OE?si=iOtwwwyRuoNk5XHu"
+          src: "https://www.youtube.com/embed/gsXCnW609OE?si=iOtwwwyRuoNk5XHu"
         }
       ]
     },
@@ -2693,7 +2699,7 @@ const meetings = {
       ]
     },
 
-    tags: ["releasing the past", "set intentions", "om", "just like me", 
+    tags: ["releasing the past", "set intentions", "om", "just like me",
       "burning bowl ceremony", "christmas"],
 
     topic: {
@@ -2712,8 +2718,8 @@ const meetings = {
 
 
 
-        
-  
+
+
       ]
     },
 
@@ -2721,10 +2727,10 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
- 
+
   "202412": {
     title: "December 2024",
     month: "December",
@@ -2748,28 +2754,28 @@ const meetings = {
     },
     announcements: [
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       }
-   
+
     ],
 
     intention: [
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -2778,8 +2784,8 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
-      },       
+        src: ""
+      },
 
     ],
 
@@ -2787,7 +2793,7 @@ const meetings = {
       {
         type: "",
         label: "",
-        src: "" 
+        src: ""
       }
     ],
 
@@ -2797,56 +2803,56 @@ const meetings = {
         label: "",
         src: ""
       }
-  
+
     ],
-   
+
     focus: {
       title: "",
       items: [
         {
           type: "",
-          src:  ""
+          src: ""
         },
         {
           type: "",
-          src:  ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         }
-           
+
       ]
 
     },
-     
+
     practice: {
       title: "",
       items: [
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         }
       ]
     },
 
     affirmation: [
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       }
     ],
 
@@ -2856,7 +2862,7 @@ const meetings = {
         {
           type: "",
           label: "",
-          src:   ""
+          src: ""
         }
       ]
     },
@@ -2878,7 +2884,7 @@ const meetings = {
     topic: {
       title: "",
       items: [
-     
+
         {
           type: "",
           label: "",
@@ -2887,8 +2893,8 @@ const meetings = {
 
 
 
-        
-  
+
+
       ]
     },
 
@@ -2896,7 +2902,7 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
 
@@ -2923,28 +2929,28 @@ const meetings = {
     },
     announcements: [
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       }
-   
+
     ],
 
     intention: [
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -2953,8 +2959,8 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
-      },       
+        src: ""
+      },
 
     ],
 
@@ -2962,7 +2968,7 @@ const meetings = {
       {
         type: "",
         label: "",
-        src: "" 
+        src: ""
       }
     ],
 
@@ -2972,56 +2978,56 @@ const meetings = {
         label: "",
         src: ""
       }
-  
+
     ],
-   
+
     focus: {
       title: "",
       items: [
         {
           type: "",
-          src:  ""
+          src: ""
         },
         {
           type: "",
-          src:  ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         }
-           
+
       ]
 
     },
-     
+
     practice: {
       title: "",
       items: [
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         }
       ]
     },
 
     affirmation: [
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       }
     ],
 
@@ -3031,7 +3037,7 @@ const meetings = {
         {
           type: "",
           label: "",
-          src:   ""
+          src: ""
         }
       ]
     },
@@ -3053,7 +3059,7 @@ const meetings = {
     topic: {
       title: "",
       items: [
-     
+
         {
           type: "",
           label: "",
@@ -3062,8 +3068,8 @@ const meetings = {
 
 
 
-        
-  
+
+
       ]
     },
 
@@ -3071,7 +3077,7 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
 
@@ -3098,28 +3104,28 @@ const meetings = {
     },
     announcements: [
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       }
-   
+
     ],
 
     intention: [
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -3128,8 +3134,8 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
-      },       
+        src: ""
+      },
 
     ],
 
@@ -3137,7 +3143,7 @@ const meetings = {
       {
         type: "",
         label: "",
-        src: "" 
+        src: ""
       }
     ],
 
@@ -3147,56 +3153,56 @@ const meetings = {
         label: "",
         src: ""
       }
-  
+
     ],
-   
+
     focus: {
       title: "",
       items: [
         {
           type: "",
-          src:  ""
+          src: ""
         },
         {
           type: "",
-          src:  ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         }
-           
+
       ]
 
     },
-     
+
     practice: {
       title: "",
       items: [
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         }
       ]
     },
 
     affirmation: [
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       }
     ],
 
@@ -3206,7 +3212,7 @@ const meetings = {
         {
           type: "",
           label: "",
-          src:   ""
+          src: ""
         }
       ]
     },
@@ -3228,13 +3234,13 @@ const meetings = {
     topic: {
       title: "",
       items: [
-     
+
         {
           type: "",
           label: "",
           src: ""
-        }     
-  
+        }
+
       ]
     },
 
@@ -3242,7 +3248,7 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
 
@@ -3269,28 +3275,28 @@ const meetings = {
     },
     announcements: [
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       }
-   
+
     ],
 
     intention: [
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -3299,8 +3305,8 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
-      },       
+        src: ""
+      },
 
     ],
 
@@ -3308,7 +3314,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -3318,65 +3324,65 @@ const meetings = {
         label: "",
         src: ""
       }
-  
+
     ],
-   
+
     focus: {
       title: "Obsidian & Blue Calcite",
       items: [
         {
           type: "image",
-          src:  "crystal-images/202409-blue-calcite2.png"
+          src: "crystal-images/202409-blue-calcite2.png"
         },
         {
           type: "image",
-          src:  "crystal-images/202409-blue-calcite2-properties.png"
-        },
-         {
-          type: "image",
-          src:  "crystal-images/202409-obsidian2.png"
+          src: "crystal-images/202409-blue-calcite2-properties.png"
         },
         {
           type: "image",
-          src:  "crystal-images/202409-obsidian2-properties.png"
+          src: "crystal-images/202409-obsidian2.png"
         },
         {
-          type:  "pdf",
+          type: "image",
+          src: "crystal-images/202409-obsidian2-properties.png"
+        },
+        {
+          type: "pdf",
           label: "Best Crystals for Mindfulness",
-          src:   "https://drive.google.com/file/d/1dDp997-ncGr6GmqfKHSBNxN0ACm2sDOk/preview"
+          src: "https://drive.google.com/file/d/1dDp997-ncGr6GmqfKHSBNxN0ACm2sDOk/preview"
         },
         {
           type: "image",
           label: "Blue calcite from Linda",
-          src:  "monthly-focus-images/202409-blue-calcite.jpg"
+          src: "monthly-focus-images/202409-blue-calcite.jpg"
         },
         {
           type: "image",
           label: "Obsidian bracelet from Linda",
-          src:  "monthly-focus-images/202409-obsidian-bracelet.jpg"
+          src: "monthly-focus-images/202409-obsidian-bracelet.jpg"
         },
-           
+
       ]
 
     },
-     
+
     practice: {
       title: "Be Mindful",
       items: [
-    
+
         {
-          type:  "image",
+          type: "image",
           label: "Little Book of Mindfulness",
-          src:   "daily-practice-images/202409-little-book-of-mindfulness.jpg"
+          src: "daily-practice-images/202409-little-book-of-mindfulness.jpg"
         }
       ]
     },
 
     affirmation: [
       {
-        type:  "image",
+        type: "image",
         label: "This Month's Affirmation",
-        src:   "affirmation-images/202409-affirmation.jpg"
+        src: "affirmation-images/202409-affirmation.jpg"
       }
     ],
 
@@ -3384,9 +3390,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type:  "image",
+          type: "image",
           label: "",
-          src:   "none-images/no-meditation.jpg"
+          src: "none-images/no-meditation.jpg"
         }
       ]
     },
@@ -3407,7 +3413,7 @@ const meetings = {
 
     topic: {
       title: "Mindfulness",
-      items: [     
+      items: [
         {
           type: "pdf",
           label: "Mindfulness vs Meditation",
@@ -3433,8 +3439,8 @@ const meetings = {
           label: "5 Benefits of Mindfulness",
           src: "https://drive.google.com/file/d/17j3MejS62N8yx05zDW62A4JSfAbpeA4W/preview"
         }
-        
-  
+
+
       ]
     },
 
@@ -3442,7 +3448,7 @@ const meetings = {
       {
         type: ""
 
-      } 
+      }
     ]
   },
 
@@ -3469,28 +3475,28 @@ const meetings = {
     },
     announcements: [
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       }
-   
+
     ],
 
     intention: [
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -3499,8 +3505,8 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
-      },       
+        src: ""
+      },
 
     ],
 
@@ -3508,7 +3514,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -3518,56 +3524,56 @@ const meetings = {
         label: "",
         src: ""
       }
-  
+
     ],
-   
+
     focus: {
       title: "",
       items: [
         {
           type: "image",
-          src:  "none-images/no-monthly-focus.png"
+          src: "none-images/no-monthly-focus.png"
         },
         {
           type: "",
-          src:  ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         }
-           
+
       ]
 
     },
-     
+
     practice: {
       title: "",
       items: [
         {
-          type:  "image",
+          type: "image",
           label: "",
-          src:   "none-images/no-daily-practice.png"
+          src: "none-images/no-daily-practice.png"
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         }
       ]
     },
 
     affirmation: [
       {
-        type:  "image",
+        type: "image",
         label: "This Month's Affirmation",
-        src:   "affirmation-images/202408-affirmation.jpg"
+        src: "affirmation-images/202408-affirmation.jpg"
       }
     ],
 
@@ -3577,7 +3583,7 @@ const meetings = {
         {
           type: "image",
           label: "",
-          src:   "none-images/no-meditation.jpg"
+          src: "none-images/no-meditation.jpg"
         }
       ]
     },
@@ -3599,14 +3605,14 @@ const meetings = {
     topic: {
       title: "",
       items: [
-     
+
         {
           type: "image",
           label: "",
           src: "none-images/no-topic.jpg"
         }
-        
-  
+
+
       ]
     },
 
@@ -3615,10 +3621,10 @@ const meetings = {
         type: "image",
         label: "Dragon from 3D Printer from Linda",
         src: "other-images/202408-dragon-from-3D-printer.jpg"
-      } 
+      }
     ]
   },
-  
+
   "202407": {
     title: "July 2024",
     month: "July",
@@ -3642,28 +3648,28 @@ const meetings = {
     },
     announcements: [
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       }
-   
+
     ],
 
     intention: [
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -3672,8 +3678,8 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
-      },       
+        src: ""
+      },
 
     ],
 
@@ -3681,7 +3687,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -3691,61 +3697,61 @@ const meetings = {
         label: "",
         src: ""
       }
-  
+
     ],
-   
+
     focus: {
       title: "Clear Quartz",
       items: [
         {
           type: "image",
-          src:  "crystal-images/202407-clear-quartz2.png"
+          src: "crystal-images/202407-clear-quartz2.png"
         },
         {
           type: "image",
-          src:  "crystal-images/202407-clear-quartz2-properties.png"
+          src: "crystal-images/202407-clear-quartz2-properties.png"
         },
         {
-          type:  "image",
+          type: "image",
           label: "Quartz Pendulum from Linda",
-          src:   "monthly-focus-images/202407-quartz-pendulum.jpg"
+          src: "monthly-focus-images/202407-quartz-pendulum.jpg"
         },
         {
-          type:  "pdf",
+          type: "pdf",
           label: "Clear Quartz Chart",
-          src:   "https://drive.google.com/file/d/10gIb5-ODenJHl3oAwyUF_BRnzxzf13ww/preview"
+          src: "https://drive.google.com/file/d/10gIb5-ODenJHl3oAwyUF_BRnzxzf13ww/preview"
         },
-           
+
       ]
 
     },
-     
+
     practice: {
       title: "Beautiful Words",
       items: [
         {
-          type:  "pdf",
+          type: "pdf",
           label: "A to Z Beautiful Words",
-          src:   "https://drive.google.com/file/d/11ExPXI9yj1fV2vfuntaRC5s9KhbOK8i7/preview"
+          src: "https://drive.google.com/file/d/11ExPXI9yj1fV2vfuntaRC5s9KhbOK8i7/preview"
         },
         {
-          type:  "pdf",
+          type: "pdf",
           label: "Power of Words",
-          src:   "https://drive.google.com/file/d/1NA2I3gK9fg_7NAyiFHpFSO_f7xkOuAHp/preview"
+          src: "https://drive.google.com/file/d/1NA2I3gK9fg_7NAyiFHpFSO_f7xkOuAHp/preview"
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         }
       ]
     },
 
     affirmation: [
       {
-        type:  "image",
+        type: "image",
         label: "This Month's Affirmation",
-        src:   "affirmation-images/202407-affirmation.jpg"
+        src: "affirmation-images/202407-affirmation.jpg"
       }
     ],
 
@@ -3755,7 +3761,7 @@ const meetings = {
         {
           type: "image",
           label: "",
-          src:   "none-images/no-meditation.jpg"
+          src: "none-images/no-meditation.jpg"
         }
       ]
     },
@@ -3777,14 +3783,14 @@ const meetings = {
     topic: {
       title: "Cliff Notes Update",
       items: [
-     
+
         {
           type: "",
           label: "",
           src: ""
         }
-        
-  
+
+
       ]
     },
 
@@ -3793,7 +3799,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      } 
+      }
     ]
   },
 
@@ -3820,38 +3826,38 @@ const meetings = {
     },
     announcements: [
       {
-        type:  "pdf",
+        type: "pdf",
         label: "Announcements",
-        src:   "https://drive.google.com/file/d/17U4iibtKkB4PfGQ9981wpS9DwX3MKxKi/preview"
+        src: "https://drive.google.com/file/d/17U4iibtKkB4PfGQ9981wpS9DwX3MKxKi/preview"
       },
       {
-        type:  "video",
+        type: "video",
         label: "How to Watch the News - Rikka Zimmerman",
-        src:   "https://www.youtube.com/embed/69YSMnlv9Nk?si=x5DN18TkNzdtXEYv" 
+        src: "https://www.youtube.com/embed/69YSMnlv9Nk?si=x5DN18TkNzdtXEYv"
       },
       {
-        type:  "pdf",
+        type: "pdf",
         label: "Chakra Guide",
-        src:   "https://drive.google.com/file/d/1LDELijHIozdoZ4zm5e4qjjNOdw9EvfWj/preview"
+        src: "https://drive.google.com/file/d/1LDELijHIozdoZ4zm5e4qjjNOdw9EvfWj/preview"
       },
       {
-        type:  "image",
+        type: "image",
         label: "Bookmark from Kenny - side 1",
-        src:   "announcement-images/202406-book-mark-side1-present-from-kenny.jpg"
+        src: "announcement-images/202406-book-mark-side1-present-from-kenny.jpg"
       },
       {
-        type:  "image",
+        type: "image",
         label: "Bookmark from Kenny - side 2",
-        src:   "announcement-images/202406-book-mark-side2-present-from-kenny.jpg"
+        src: "announcement-images/202406-book-mark-side2-present-from-kenny.jpg"
       }
-   
+
     ],
 
     intention: [
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -3860,8 +3866,8 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
-      },       
+        src: ""
+      },
 
     ],
 
@@ -3869,7 +3875,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -3879,42 +3885,42 @@ const meetings = {
         label: "",
         src: ""
       }
-  
+
     ],
-   
+
     focus: {
       title: "Lapis Lazuli",
       items: [
         {
           type: "image",
-          src:  "crystal-images/202406-lapis-lazuli-2.png"
+          src: "crystal-images/202406-lapis-lazuli-2.png"
         },
         {
           type: "image",
-          src:  "crystal-images/202406-lapis-lazuli-2-properties.png"
+          src: "crystal-images/202406-lapis-lazuli-2-properties.png"
         },
         {
-          type:  "pdf",
+          type: "pdf",
           label: "Crystals for Belief",
-          src:   "https://drive.google.com/file/d/1akCv_zQbPMz_EcMFoxPXnNRVv6BEKO18/preview"
+          src: "https://drive.google.com/file/d/1akCv_zQbPMz_EcMFoxPXnNRVv6BEKO18/preview"
         },
         {
-          type:  "image",
+          type: "image",
           label: "Three Lapis Hearts from Linda",
-          src:   "monthly-focus-images/202406-lapis-hearts.jpg"
+          src: "monthly-focus-images/202406-lapis-hearts.jpg"
         }
-           
+
       ]
 
     },
-     
+
     practice: {
       title: "Meditation",
       items: [
         {
-          type:  "video",
+          type: "video",
           label: "Picnic at the Park",
-          src:   "https://www.youtube.com/embed/8HuEsyEoAZk?si=dkLL9sY8T2RmX6bF"
+          src: "https://www.youtube.com/embed/8HuEsyEoAZk?si=dkLL9sY8T2RmX6bF"
         }
 
       ]
@@ -3922,9 +3928,9 @@ const meetings = {
 
     affirmation: [
       {
-        type:  "image",
+        type: "image",
         label: "This Month's Affirmation",
-        src:   "affirmation-images/202406-affirmation.jpg"
+        src: "affirmation-images/202406-affirmation.jpg"
       }
     ],
 
@@ -3934,7 +3940,7 @@ const meetings = {
         {
           type: "image",
           label: "",
-          src:   "none-images/no-meditation.jpg"
+          src: "none-images/no-meditation.jpg"
         }
       ]
     },
@@ -3951,13 +3957,13 @@ const meetings = {
       ]
     },
 
-    tags: ["beliefs", "lapis lazuli", "rikka zimmerman", "bruce lipton", 
-          "hermetic principles", "kenny", "denise linn", "chakra guide"],
+    tags: ["beliefs", "lapis lazuli", "rikka zimmerman", "bruce lipton",
+      "hermetic principles", "kenny", "denise linn", "chakra guide"],
 
     topic: {
       title: "Strengthen Beliefs",
       items: [
-     
+
         {
           type: "pdf",
           label: "Lion Goodman Email",
@@ -3998,9 +4004,9 @@ const meetings = {
           label: "7 Hermetic Principles - P2",
           src: "https://drive.google.com/file/d/1PHzrkwJQEweW8w1ezp3kBYNsfN0P83RI/preview"
         }
-        
-        
-  
+
+
+
       ]
     },
 
@@ -4009,7 +4015,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      } 
+      }
     ]
   },
 
@@ -4036,28 +4042,28 @@ const meetings = {
     },
     announcements: [
       {
-        type:  "image",
+        type: "image",
         label: "Book Mark from Kenny",
-        src:   "announcement-images/202405-vienna-book-mark-from-kenny.jpg"
+        src: "announcement-images/202405-vienna-book-mark-from-kenny.jpg"
       },
       {
-        type:  "image",
+        type: "image",
         label: "Small Purse from Linda",
-        src:   "announcement-images/202405-small-purse-present-from-linda.jpg"
+        src: "announcement-images/202405-small-purse-present-from-linda.jpg"
       },
       {
-        type:  "",
+        type: "",
         label: "",
-        src:   ""
+        src: ""
       }
-   
+
     ],
 
     intention: [
       {
         type: "",
         label: "",
-        src:   ""
+        src: ""
       }
 
     ],
@@ -4066,8 +4072,8 @@ const meetings = {
       {
         type: "",
         label: "",
-        src:   ""
-      },       
+        src: ""
+      },
 
     ],
 
@@ -4075,7 +4081,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview" 
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
       }
     ],
 
@@ -4085,61 +4091,61 @@ const meetings = {
         label: "",
         src: ""
       }
-  
+
     ],
-   
+
     focus: {
       title: "",
       items: [
         {
           type: "image",
-          src:  "none-images/no-monthly-focus.png"
+          src: "none-images/no-monthly-focus.png"
         },
         {
           type: "",
-          src:  ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         },
-           
+
       ]
 
     },
-     
+
     practice: {
       title: "Stop Drop Roll",
       items: [
         {
-          type:  "pdf",
+          type: "pdf",
           label: "Stop Drop Roll - Michelle Medrano",
-          src:   "https://drive.google.com/file/d/1WvWnJe_lxhzJCUZ8lt7ca3JsZs-SEmms/preview"
+          src: "https://drive.google.com/file/d/1WvWnJe_lxhzJCUZ8lt7ca3JsZs-SEmms/preview"
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         },
         {
-          type:  "",
+          type: "",
           label: "",
-          src:   ""
+          src: ""
         }
       ]
     },
 
     affirmation: [
       {
-        type:  "image",
+        type: "image",
         label: "This Month's Affirmation",
-        src:   "affirmation-images/202405-affirmation.jpg"
+        src: "affirmation-images/202405-affirmation.jpg"
       }
     ],
 
@@ -4149,7 +4155,7 @@ const meetings = {
         {
           type: "",
           label: "",
-          src:   ""
+          src: ""
         }
       ]
     },
@@ -4166,19 +4172,19 @@ const meetings = {
       ]
     },
 
-    tags: ["birthday", "stop", "drop", "roll", "atlantis" ],
+    tags: ["birthday", "stop", "drop", "roll", "atlantis"],
 
     topic: {
       title: "Celebrate Birthdays: Trudi, Pam, & PC",
       items: [
-     
+
         {
           type: "",
           label: "",
           src: ""
         }
-        
-  
+
+
       ]
     },
 
@@ -4187,7 +4193,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      } 
+      }
     ]
   },
 
@@ -4219,7 +4225,7 @@ const meetings = {
         type: "pdf",
         label: "Announcements",
         src: "https://drive.google.com/file/d/12em653q2oSqI8wyyj-RvOHRCg8L2GpGA/preview"
-      }, 
+      },
     ],
 
     intention: [
@@ -4297,13 +4303,13 @@ const meetings = {
           label: "Michelle Medrano - New Vision Center  March 2024",
           src: "https://www.youtube.com/embed/Diegm1Iw-Uk?si=RrQdym3DgdVm2gbH"
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -4321,7 +4327,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
   "202403": {
     title: "March 2024",
@@ -4351,7 +4357,7 @@ const meetings = {
         type: "pdf",
         label: "Bruce Lipton Email",
         src: "https://drive.google.com/file/d/1BM38UVfLg0h16oefnzD_2_GR6zPGwiEX/preview"
-      }, 
+      },
     ],
 
     intention: [
@@ -4419,7 +4425,7 @@ const meetings = {
           type: "pdf",
           label: "Quotes - Check-In",
           src: "https://drive.google.com/file/d/1_Ta-v23A9YqcxADu9--b7qd8VgXwNY4A/preview"
-        },    
+        },
         {
           type: "pdf",
           label: "Emotional Guidance Scale",
@@ -4481,13 +4487,13 @@ const meetings = {
           label: "",
           src: "none-images/no-topic.jpg"
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -4505,7 +4511,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
   "202402": {
     title: "February 2024",
@@ -4535,7 +4541,7 @@ const meetings = {
         type: "pdf",
         label: "I Can Do It",
         src: "https://drive.google.com/file/d/1uh182wSVsIsipy6wlDoOV1JlLxOzTMTv/preview"
-      }, 
+      },
     ],
 
     intention: [
@@ -4663,7 +4669,7 @@ const meetings = {
           label: "Setting My Intentions for 2024",
           src: "https://drive.google.com/file/d/1PXmdZxhRLSgq1rsft8QSUk3gx7zd9L2H/preview"
         },
-    
+
         {
           type: "pdf",
           label: "Intention Setting Worksheet",
@@ -4689,7 +4695,7 @@ const meetings = {
           label: "Intention Setting 101",
           src: "https://drive.google.com/file/d/1BVT2uHkCfmpYu9Ddn5x3xlhCjuFDPRs4/preview"
         },
-         {
+        {
           type: "pdf",
           label: "Setting Intentions - Quotes",
           src: "https://drive.google.com/file/d/1T7ozTdACpBxw3-yoKdHivO6iaFL2GHWO/preview"
@@ -4711,8 +4717,8 @@ const meetings = {
       }
 
     ]
-  }, 
- 
+  },
+
   "202401": {
     title: "January 2024",
     month: "January",
@@ -4741,7 +4747,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -4819,13 +4825,13 @@ const meetings = {
           label: "",
           src: ""
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -4843,7 +4849,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
   "202312": {
     title: "December 2023",
@@ -4873,7 +4879,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -4952,13 +4958,13 @@ const meetings = {
           label: "",
           src: "none-images/no-topic.jpg"
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -5006,7 +5012,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -5083,7 +5089,7 @@ const meetings = {
           type: "pdf",
           label: "Quotes - Atlas of the Heart",
           src: "https://drive.google.com/file/d/1Wm9MwXnS--G7mFzxc0wpcIazDKdVcL1J/preview"
-        },    
+        },
         {
           type: "pdf",
           label: "Empathy Misses",
@@ -5099,8 +5105,8 @@ const meetings = {
           label: "87 Emotions",
           src: "https://drive.google.com/file/d/1xBLLvxR30W40PN7IWOrdopzzPCPi71uW/preview"
         },
-   
-   
+
+
 
       ]
     },
@@ -5118,7 +5124,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
   "202310": {
     title: "October 2023",
@@ -5148,7 +5154,7 @@ const meetings = {
         type: "pdf",
         label: "You Need Three Bones - Reba",
         src: "https://drive.google.com/file/d/1KPOY49znc1DoNPdC1LodGKC-AcH9kZzH/preview"
-      }, 
+      },
     ],
 
     intention: [
@@ -5174,7 +5180,7 @@ const meetings = {
           type: "image",
           src: "animal-images/202310-unicorn.png"
         },
-        
+
         {
           type: "image",
           src: "animal-images/202310-unicorn-properties.png"
@@ -5204,7 +5210,7 @@ const meetings = {
           label: "Unicorn Symbolism & Meaning",
           src: "https://drive.google.com/file/d/1GgvTujBBRbg-9Gyq8HbSGuROZaOaiawJ/preview"
         }
-      
+
 
       ],
     },
@@ -5258,7 +5264,7 @@ const meetings = {
           type: "image",
           label: "Imagination CD 1 - Song List",
           src: "topic-images/202310-cd1-song-list.png"
-        },    
+        },
         {
           type: "image",
           label: "Imagination CD 2 - Song List",
@@ -5329,7 +5335,7 @@ const meetings = {
           label: "7 Steps to Unleashing Your Imagination!",
           src: "https://drive.google.com/file/d/1H0CmZ8ULvbPmrk5MJE3rp8B2pPM-HWtG/preview"
         }
-             
+
 
       ]
     },
@@ -5347,7 +5353,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
   "202309": {
     title: "September 2023",
@@ -5377,7 +5383,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -5456,13 +5462,13 @@ const meetings = {
           label: "Benefits of Writing Down Your Thoughts",
           src: "https://drive.google.com/file/d/1JVq8vxATzFzeW82A6452V3cRfJ-Suj8g/preview"
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -5480,7 +5486,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
   "202308": {
     title: "August 2023",
@@ -5510,7 +5516,7 @@ const meetings = {
         type: "text",
         label: "Unity World Day of Prayer Sept 13",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -5563,22 +5569,22 @@ const meetings = {
       items: [
         {
           type: "pdf",
-          label:  "Sweeten Your Senses",
+          label: "Sweeten Your Senses",
           src: "https://drive.google.com/file/d/1EdcqCZc-__ovJ_lU2O7QJTy17ttmqWj7/preview"
         },
         {
           type: "pdf",
-          label:  "Stress Relief Activities",
+          label: "Stress Relief Activities",
           src: "https://drive.google.com/file/d/1Yzh3F2CThIh_ttdMzx7-r0KHHRz9INvV/preview"
         },
         {
           type: "pdf",
-          label:  "Five Senses",
+          label: "Five Senses",
           src: "https://drive.google.com/file/d/17pJBC8l9eQmG1z3VT5sMVxMUGCKMaB_g/preview"
         },
         {
           type: "pdf",
-          label:  "Engage Your Senses",
+          label: "Engage Your Senses",
           src: "https://drive.google.com/file/d/1PVcdrH-J0aPbDlTpQ9mn28ieHuLB226a/preview"
         }
 
@@ -5623,7 +5629,7 @@ const meetings = {
           label: "87 Emotions",
           src: "https://drive.google.com/file/d/1cfQa37wV1qTKIVL5_Zq-LRZHCMEby_vM/preview"
         },
-    
+
         {
           type: "pdf",
           label: "Simple Step",
@@ -5684,7 +5690,7 @@ const meetings = {
           label: "Three Daily Practice",
           src: "https://drive.google.com/file/d/1oJ-D3mVeQm6BxJrc9zIlUcF0RuKNOQZN/preview"
         }
-   
+
 
       ]
     },
@@ -5702,7 +5708,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
   "202307": {
     title: "July 2023",
@@ -5732,7 +5738,7 @@ const meetings = {
         type: "pdf",
         label: "Drenched in Holiness - from Kathy",
         src: "https://drive.google.com/file/d/1G5M2I1jiFXF8pGYlHcfeQ1-QfW_B5FaI/preview"
-      }, 
+      },
       {
         type: "image",
         label: "Vienna pen - gift from Kenny & Vicky",
@@ -5855,7 +5861,7 @@ const meetings = {
           label: "Serenity Prayer Bookmark - from Linda",
           src: "topic-images/202307-serenity-prayer-bookmarks.jpg"
         }
-   
+
 
       ]
     },
@@ -5873,7 +5879,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
   "202306": {
     title: "June 2023",
@@ -5903,7 +5909,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -5981,13 +5987,13 @@ const meetings = {
           label: "",
           src: ""
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -6035,7 +6041,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -6079,7 +6085,7 @@ const meetings = {
           type: "pdf",
           label: "Giraffe Spirit Animal",
           src: "https://drive.google.com/file/d/1lliR0DFhwZhtXy9m83F18BYQZBKz1TkS/preview"
-        }       
+        }
 
       ],
     },
@@ -6139,13 +6145,13 @@ const meetings = {
           label: "",
           src: "none-images/no-topic.jpg"
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -6193,7 +6199,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -6232,7 +6238,7 @@ const meetings = {
           type: "pdf",
           label: "How to Care for Aloe Vera Plant",
           src: "https://drive.google.com/file/d/1TKcKjq_owAaNALL264WrC35uVwVVbpme/preview"
-        }    
+        }
 
       ]
     },
@@ -6287,12 +6293,12 @@ const meetings = {
           label: "How to Manage Your Mind in an Uncertain World - Cheryl Richardson",
           src: "https://drive.google.com/file/d/1cz53Ihh-cI9lJJilXqeJcEUF08ELnuLp/preview"
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
-        }  
+        }
 
       ]
     },
@@ -6311,7 +6317,7 @@ const meetings = {
 
     ]
   },
-  
+
   "202303": {
     title: "March 2023",
     month: "March",
@@ -6340,7 +6346,7 @@ const meetings = {
         type: "image",
         label: "St Patrick's Day Necklace",
         src: "announcement-images/202303-st-pat-necklace.jpg"
-      }, 
+      },
     ],
 
     intention: [
@@ -6379,7 +6385,7 @@ const meetings = {
           type: "pdf",
           label: "Indigo Gabbro",
           src: "https://drive.google.com/file/d/1hKOR-Bu5IjniOPb8BlQKfzYkv43COQ48/preview"
-        }       
+        }
 
       ],
     },
@@ -6433,13 +6439,13 @@ const meetings = {
           label: "",
           src: ""
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -6487,12 +6493,12 @@ const meetings = {
         type: "image",
         label: "Card - May All Be Healed",
         src: "announcement-images/202302-may-all-be-healed-card.png"
-      }, 
+      },
       {
         type: "pdf",
         label: "Change the Way You See - Cliff Notes",
         src: "https://drive.google.com/file/d/1i2cj09wsbheFUVbdY6KHRbXzKvsRfhFN/preview"
-      } 
+      }
     ],
 
     intention: [
@@ -6547,8 +6553,8 @@ const meetings = {
           label: "Rabbit Symbolism",
           src: "https://drive.google.com/file/d/1_gC7x5W5aBacMu-SX9rOHAtQd95-23W9/preview"
         }
-        
-        
+
+
       ],
     },
 
@@ -6557,12 +6563,12 @@ const meetings = {
       items: [
         {
           type: "pdf",
-          label:  "Quotes - Don't Sweat the Small Stuff",
+          label: "Quotes - Don't Sweat the Small Stuff",
           src: "https://drive.google.com/file/d/1j4XWBuz0CjegZDOL1KFVFENh307HBYNE/preview"
         },
         {
           type: "pdf",
-          label:  "List - Don't Sweat the Small Stuff",
+          label: "List - Don't Sweat the Small Stuff",
           src: "https://drive.google.com/file/d/1XwvVL5_WYpfrvzXlQb6UQsVkiFVGvVjU/preview"
         }
 
@@ -6612,13 +6618,13 @@ const meetings = {
           label: "Book Summary - You Can Be Happy No Matter What",
           src: "https://drive.google.com/file/d/1GtCxWe16iSZWvEjqNnqNdnnQGsmP2CDm/preview"
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -6636,7 +6642,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
   "202301": {
     title: "January 2023",
@@ -6664,7 +6670,7 @@ const meetings = {
           src: "https://drive.google.com/file/d/1Dg9sA2tGZ_v4iFqnAl02l3oJzVb63VqS/preview"
         }
 
-        
+
       ]
     },
 
@@ -6673,7 +6679,7 @@ const meetings = {
         type: "pdf",
         label: "Jean Houston Email",
         src: "https://drive.google.com/file/d/1BzqsX1FQrOOHIqW-Jamn6U8sC4kGR-XF/preview"
-      }, 
+      },
     ],
 
     intention: [
@@ -6712,7 +6718,7 @@ const meetings = {
         },
         {
           type: "pdf",
-          label:  "Crystals for Forgiveness - Rhodonite",
+          label: "Crystals for Forgiveness - Rhodonite",
           src: "https://drive.google.com/file/d/12IdtRlWWRFeYeYa9_Wmh6AsYceiWqh5W/preview"
         },
         {
@@ -6736,7 +6742,7 @@ const meetings = {
           label: "Ho'oponopono - Laminated",
           src: "https://drive.google.com/file/d/1GAUdy3cShbiSwrbnL18-ikv1jbYsuUQb/preview"
         }
-        
+
 
       ],
     },
@@ -6779,7 +6785,7 @@ const meetings = {
           label: "Set Your Vision",
           src: "https://drive.google.com/file/d/1jmXqiCJk7kG7IxTGg8Qe9hc8ei_6L_hP/preview"
         },
-    
+
         {
           type: "pdf",
           label: "Set Intentions for 2023",
@@ -6790,7 +6796,7 @@ const meetings = {
           label: "Declaration of Intention",
           src: "https://drive.google.com/file/d/1LTPhO1S6VdQB4Sm8wyrKAoBlheyArziU/preview"
         }
-   
+
 
       ]
     },
@@ -6808,7 +6814,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
   "202212": {
     title: "December 2022",
@@ -6839,7 +6845,7 @@ const meetings = {
         label: "Grinch To-Do List",
         src: "https://drive.google.com/file/d/1iYZIncyx-scr3UQtnCnODAwTCR6ZRYUH/preview"
       },
-       {
+      {
         type: "pdf",
         label: "If It Is To Be",
         src: "https://drive.google.com/file/d/1xcnCci6ctRg1w4Hq6wEaAkdWvFLYFcLm/preview"
@@ -6869,7 +6875,7 @@ const meetings = {
           type: "image",
           src: "archangel-images/202212-reflection.png"
         },
-         {
+        {
           type: "image",
           src: "202212-reflection-properties.png"
         },
@@ -6924,7 +6930,7 @@ const meetings = {
           label: "Journal - gift from Linda",
           src: "https://drive.google.com/file/d/18iDlYSMVxlCXcUG2mX4HEMyNLEJAFLWE/preview"
         },
-           
+
       ],
     },
 
@@ -6967,13 +6973,13 @@ const meetings = {
           label: "",
           src: "none-images/no-topic.jpg"
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -6991,10 +6997,10 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
-      
-"202211": {
+
+  "202211": {
     title: "November 2022",
     month: "November",
     year: 2022,
@@ -7022,7 +7028,7 @@ const meetings = {
         type: "",
         label: "",
         src: ""
-      }, 
+      },
     ],
 
     intention: [
@@ -7066,7 +7072,7 @@ const meetings = {
         {
           type: "text",
           label: "EFT guided meditation: 'Turn Your Day Around: Create a Great Day' from Tapping Solution"
-        },        
+        },
 
       ],
     },
@@ -7106,15 +7112,15 @@ const meetings = {
         {
           type: "text",
           label: "Planned to listen to Celebrate Your Life CD: 2010 Dr. Joe Dispenza Trk 25. Didn't listen to it"
-  
+
         },
-    
+
         {
           type: "",
           label: "",
           src: ""
         },
-   
+
 
       ]
     },
@@ -7132,7 +7138,7 @@ const meetings = {
       }
 
     ]
-  }, 
+  },
 
 }
 
