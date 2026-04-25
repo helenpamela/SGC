@@ -6775,16 +6775,21 @@ const meetings = {
       title: "Vision Boards",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Set Your Vision",
+          src: "https://drive.google.com/file/d/1jmXqiCJk7kG7IxTGg8Qe9hc8ei_6L_hP/preview"
         },
     
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Set Intentions for 2023",
+          src: "https://drive.google.com/file/d/1GNyJ3I1XAnRYQLi8Po91RhToHtrNnorG/preview"
         },
+        {
+          type: "pdf",
+          label: "Declaration of Intention",
+          src: "https://drive.google.com/file/d/1LTPhO1S6VdQB4Sm8wyrKAoBlheyArziU/preview"
+        }
    
 
       ]
