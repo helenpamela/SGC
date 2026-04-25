@@ -6810,5 +6810,329 @@ const meetings = {
     ]
   }, 
 
+  "202212": {
+    title: "December 2022",
+    month: "December",
+    year: 2022,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1_Pf2-1Qsj9ncFiRRpEMg9qESUqttjtx7/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1kiyHzQe2ZmWzkGiQlDmO9kBtNXApPhJ5/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Grinch To-Do List",
+        src: "https://drive.google.com/file/d/1iYZIncyx-scr3UQtnCnODAwTCR6ZRYUH/preview"
+      },
+       {
+        type: "pdf",
+        label: "If It Is To Be",
+        src: "https://drive.google.com/file/d/1xcnCci6ctRg1w4Hq6wEaAkdWvFLYFcLm/preview"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Angel of Reflection",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/202212-reflection.png"
+        },
+         {
+          type: "image",
+          src: "202212-reflection-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Angel of Reflection",
+          src: "https://drive.google.com/file/d/1w0hKRSjlSRUgJIqL--FdPHhEFP-oWA3Q/preview"
+        }
+      ],
+    },
+
+    practice: {
+      title: "Self-Reflection",
+      items: [
+        {
+          type: "pdf",
+          label: "Definitions",
+          src: "https://drive.google.com/file/d/1LHTtKsh4y6LleN9n4sHgbdwk2S-RuQzl/preview"
+        },
+        {
+          type: "pdf",
+          label: "Quotes",
+          src: "https://drive.google.com/file/d/18rbPNz1dsS38T7wzL8KA9hUMV3FmidGL/review"
+        },
+        {
+          type: "pdf",
+          label: "Questions for Self-Reflection",
+          src: "https://drive.google.com/file/d/1haa6Ar9minwAu2mdfEE2T7bUg4L7vdff/preview"
+        },
+        {
+          type: "pdf",
+          label: "Five Habits",
+          src: "https://drive.google.com/file/d/18sxaySGsxAb3-MzRq9XadgS960ZJ6b4N/review"
+        },
+        {
+          type: "pdf",
+          label: "Benefits of Self-Reflection",
+          src: "https://drive.google.com/file/d/1e1pqOvpqHDnaHL274GS3foVMIR-R3v9I/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Self-Reflection",
+          src: "https://drive.google.com/file/d/1jucAE6CUI9lqMePMkGCAKh_gRlv0oxfw/preview"
+        },
+        {
+          type: "pdf",
+          label: "15 Ways to Practice Self-Reflection",
+          src: "https://drive.google.com/file/d/14TEetxGAxT1s7-Rean_iBP393qCdbcPH/preview"
+        },
+        {
+          type: "pdf",
+          label: "Journal - gift from Linda",
+          src: "https://drive.google.com/file/d/18iDlYSMVxlCXcUG2mX4HEMyNLEJAFLWE/preview"
+        },
+           
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202212-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["self-reflection", "reflection", "burning", "bowl", "christmas", "grinch", "journal"],
+
+    topic: {
+      title: "Burning Bowl Ceremony & Christmas Celebration",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
+      
+"202211": {
+    title: "November 2022",
+    month: "November",
+    year: 2022,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1hb7QJShB2iIJn3ihuS-ARYcZEKv79RuP/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1uiqDM3eGAq5JU1xifQBR6xG5z0jVHpaI/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Pasithea",
+
+      items: [
+        {
+          type: "image",
+          src: "ascended-master-images/202211-pasithea.png"
+        },
+        {
+          type: "image",
+          src: "ascended-master-images/202211-pasithea-properties.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "Create Your Day",
+      items: [
+        {
+          type: "pdf",
+          label: "Create Your Day - Cliff Notes",
+          src: "https://drive.google.com/file/d/1kuovozr2rtaTT4KRURLLw0lmCc88mstJ/preview"
+        },
+        {
+          type: "text",
+          label: "EFT guided meditation: 'Turn Your Day Around: Create a Great Day' from Tapping Solution"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202211-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["create", "day", "pasithea", "eft", "joe dispenza"],
+
+    topic: {
+      title: "Celebrate Your Life CD - Joe Dispenza",
+      items: [
+        {
+          type: "text",
+          label: "Planned to listen to Celebrate Your Life CD: 2010 Dr. Joe Dispenza Trk 25. Didn't listen to it"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
 }
 
