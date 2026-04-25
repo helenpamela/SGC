@@ -6638,5 +6638,172 @@ const meetings = {
     ]
   }, 
 
+  "202301": {
+    title: "January 2023",
+    month: "January",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1oUmiFyNFfJ-AK9qiAxYxhe7znYprR8rM/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1PLkSlkYnUzoBmHhqhpX0XWReaC5epJ_J/preview"
+        },
+        {
+          type: "pdf",
+          label: "Spread LovingKindness - Teacher Version",
+          src: "https://drive.google.com/file/d/1Dg9sA2tGZ_v4iFqnAl02l3oJzVb63VqS/preview"
+        }
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Jean Houston Email",
+        src: "https://drive.google.com/file/d/1BzqsX1FQrOOHIqW-Jamn6U8sC4kGR-XF/preview"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rhodonite & Angel Jeremiel",
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202301-rhodonite2.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202301-rhodonite2.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/202301-jeremiel.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/202301-jeremiel-properties.png"
+        },
+        {
+          type: "pdf",
+          label:  "Crystals for Forgiveness - Rhodonite",
+          src: "https://drive.google.com/file/d/12IdtRlWWRFeYeYa9_Wmh6AsYceiWqh5W/preview"
+        },
+        {
+          type: "pdf",
+          label: "Who is Angel Jeremial - The Angel of Forgiveness",
+          src: "https://drive.google.com/file/d/1vdOTHzPsWad7_VesnQd10H9f6cVm80GA/preview"
+        }
+      ]
+    },
+
+    practice: {
+      title: "Ho'oponopono",
+      items: [
+        {
+          type: "pdf",
+          label: "Ho'oponopono - The 4 Mantras",
+          src: "https://drive.google.com/file/d/122UbGxbNHsnMeXGGvZ4diO2ekNXVJu6v/preview"
+        },
+        {
+          type: "pdf",
+          label: "Ho'oponopono - Laminated",
+          src: "https://drive.google.com/file/d/1GAUdy3cShbiSwrbnL18-ikv1jbYsuUQb/preview"
+        }
+        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202301-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["vision board", "forgiveness", "ho-oponopono", "rhodonite", "jeremiel"],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
 }
 
