@@ -6909,7 +6909,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "202212-reflection-properties.png"
+          src: "archangel-images/202212-reflection-properties.png"
         },
         {
           type: "pdf",
@@ -6930,7 +6930,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Quotes",
-          src: "https://drive.google.com/file/d/18rbPNz1dsS38T7wzL8KA9hUMV3FmidGL/review"
+          src: "https://drive.google.com/file/d/18rbPNz1dsS38T7wzL8KA9hUMV3FmidGL/preview"
         },
         {
           type: "pdf",
@@ -6940,7 +6940,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Five Habits",
-          src: "https://drive.google.com/file/d/18sxaySGsxAb3-MzRq9XadgS960ZJ6b4N/review"
+          src: "https://drive.google.com/file/d/18sxaySGsxAb3-MzRq9XadgS960ZJ6b4N/preview"
         },
         {
           type: "pdf",
@@ -7001,9 +7001,9 @@ const meetings = {
       title: "Burning Bowl Ceremony & Christmas Celebration",
       items: [
         {
-          type: "image",
+          type: "",
           label: "",
-          src: "none-images/no-topic.jpg"
+          src: ""
         },
 
         {
