@@ -1195,7 +1195,7 @@ const meetings = {
     year: 2025,
     meetingCancelled: true, // or false
     cancelReasonImage: "none-images/202509-no-mtg.png", // optional but lovely
-    cancelMessage: "We’ll Be Together Again Soon ✨",
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
     final_agenda: [
       {
@@ -2011,15 +2011,15 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1iSBb3K65N21__7ilBpK5NXq8ll-HKTTW/preview"
       }
     ],
     teacher_only: {
       working_agenda: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1xgecM2DVXLCR3zKzx12JEPTXSyCUFGpa/preview"
         }
       ]
     },
@@ -2051,11 +2051,25 @@ const meetings = {
 
 
     focus: {
-      title: "",
+      title: "Lavender",
       items: [
         {
-          type: "",
-          src: ""
+          type: "image",
+          src: "flower-images/202504-lavender.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202504-lavender-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Page from Flower Therapy book by Doreen Virtue",
+          src: "https://drive.google.com/file/d/10kjohMKLzijMK77WW7lwPNOt35_AjUMQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Spiritual Meaning of Lavender",
+          src: "https://drive.google.com/file/d/1dME44z-oCPIeBTGwp98NEeOPnkWfEr67/preview"
         }
 
       ]
@@ -2063,12 +2077,17 @@ const meetings = {
     },
 
     practice: {
-      title: "",
+      title: "Mindfulness",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Mindfulness - Cliff Notes",
+          src: "https://drive.google.com/file/d/14I30Clgn-m3_xPV3Lr3bz4YqxG9NkpBV/preview"
+        },
+        {
+          type: "pdf",
+          label: "Three Components of Mindfulness",
+          src: "https://drive.google.com/file/d/1jb1bCE4XVqqk0xVMCHI_AIRBdYwBA9UL/preview"
         }
 
       ]
@@ -2076,9 +2095,9 @@ const meetings = {
 
     affirmation: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202504-affirmation.png"
       }
     ],
 
@@ -2086,8 +2105,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
-          src: ""
+          type: "video",
+          label: "15 Minutes to Start Your Day With Clarity",
+          src: "https://www.youtube.com/embed/LpAzmyrUswg?si=u9TG473RwN5sBYQN"
         }
       ]
     },
@@ -2104,10 +2124,10 @@ const meetings = {
       ]
     },
 
-    tags: ["cancelled"],
+    tags: ["cliff", "notes", "update", "lavender", "mindfulness"],
 
     topic: {
-      title: "",
+      title: "Cliff Notes Update",
       items: [
         {
           type: "",
@@ -2913,6 +2933,9 @@ const meetings = {
     title: "November 2024",
     month: "November",
     year: 2024,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202411-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
     final_agenda: [
       {
@@ -3088,6 +3111,9 @@ const meetings = {
     title: "October 2024",
     month: "October",
     year: 2024,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202410-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
     final_agenda: [
       {
@@ -5888,6 +5914,9 @@ const meetings = {
     title: "June 2023",
     month: "June",
     year: 2023,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202306-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
     final_agenda: [
       {
