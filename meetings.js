@@ -7600,7 +7600,7 @@ const meetings = {
       items: [
         {
           type: "text",
-          src: "Atlantis by Doreen Virtue"
+          label: "Atlantis by Doreen Virtue"
         }
       ]
     },
