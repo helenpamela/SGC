@@ -250,8 +250,114 @@
       "text": "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.",
       "author": "Lao Tzu",
       "tags": ["content", "lack", "abundance"]
+    },
+    {
+      "text": "It is not the critic who counts; not the man who points out how the strong man stumbles or where the doer of deeds could have done them better.  The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood...",
+      "author": "Theodore Roosevelt",
+      "tags": ["arena", "critic", "dust", "sweat"]
+    },
+    {
+      "text": "You should sit in meditation for twenty minutes every day; Unless you are too busy; then you should sit for an hour.",
+      "author": "Old Zen Adage",
+      "tags": ["meditation", "busy"]
+    },
+    {
+      "text": "Journaling: Paying attention to the inside for the purpose of living well from the inside out.",
+      "author": "Lee Wise",
+      "tags": ["journaling"]
+    },
+    {
+      "text": "Keeping a journal will change your life in ways that you'd never imagine.",
+      "author": "Oprah Winfrey",
+      "tags": ["journaling", "change", "life"]
+    },
+    {
+      "text": "As the number of studies increased, it became clear that writing was a far more powerful tool for healing than anyone had ever imagined.",
+      "author": "James W. Pennebaker",
+      "tags": ["journaling", "tool", "healing"]
+    },
+    {
+      "text": "I can shake off everything as I write. My sorrows disappear. My courage is reborn.",
+      "author": "Anne Frank",
+      "tags": ["journaling", "sorrow", "courage"]
+    },
+    {
+      "text": "Fill your paper with the breathings of your heart.",
+      "author": "William Wordsworth",
+      "tags": ["journaling", "heart"]
+    },
+    {
+      "text": "Journal writing is a voyage to the interior.",
+      "author": "Christina Baldwin",
+      "tags": ["journaling", "voyage", "interior"]
+    },
+    {
+      "text": "If the only prayer you said in your whole life was 'Thank you', that would suffice.",
+      "author": "Master Eckhart",
+      "tags": ["prayer", "gratitude", "thank you"]
+    },
+    {
+      "text": "Gratitude can transform common days into thanksgiving, turn routine jobs into joy, and change ordinary opportunities into blessings.",
+      "author": "William Arthur Ward",
+      "tags": ["gratitude", "thanksgiving", "joy", "blessings"]
+    },
+    {
+      "text": "Gratitude is one of the sweet shortcuts to finding peace of mind and happiness inside. No matter what is going on outside of us, there's always something we could be grateful for. ",
+      "author": "Barry Neil Kaufman",
+      "tags": ["gratitude", "peace", "happiness", "grateful"]
+    },
+    {
+      "text": "Gratitude is the complete and full response of the heart to everything in the universe.",
+      "author": "Wayne Dyer",
+      "tags": ["gratitude", "heart", "universe", "response"]
+    },
+    {
+      "text": "Love is the only miracle there is.",
+      "author": "Osho",
+      "tags": ["love", "miracle"]
+    },
+    {
+      "text": "Every day in every way I’m getting better and better.",
+      "author": "Laura Silva",
+      "tags": ["day", "better"]
+    },
+    {
+      "text": "I change my thoughts, I change my world.",
+      "author": "Norman Vincent Peale",
+      "tags": ["change", "thoughts", "world"]
+    },
+    {
+      "text": "Living life without forgiveness is like drinking poison and waiting for the other person to die. Being able to forgive means you're also able to move forward.",
+      "author": "Unknown",
+      "tags": ["forgive", "poison", "forgiveness"]
+    },
+    {
+      "text": "Forgiveness is giving up the hope that the past could've been different.",
+      "author": "Oprah Winfrey",
+      "tags": ["forgiveness", "hope"]
+    },
+    {
+      "text": "To forgive is to set a prisoner free and discover that the prisoner was you.",
+      "author": "Lewis R. Smede",
+      "tags": ["forgive", "prisoner", "free"]
+    },
+    {
+      "text": "The practice of forgiveness is our most important contribution to the healing of the world.",
+      "author": "Marianne Williamson",
+      "tags": ["forgiveness", "healing", "world", "contribution"]
+    },
+    {
+      "text": "Forgiveness is the fragrance that the violet sheds on the heel that has crushed it.",
+      "author": "Mark Twain",
+      "tags": ["forgiveness", "fragrance", "violet", "heel", "crush"]
+    },
+    {
+      "text": "When I am able to resist the temptation to judge others, I can see them as teachers of forgiveness in my life, reminding me that I can only have peace of mind when I forgive rather than judge.",
+      "author": "Gerald Jampolsky",
+      "tags": ["temptation", "judge", "forgiveness", "teacher", "peace"]
     }
-
+    
+    
 
   ],
 
@@ -504,6 +610,16 @@
     "What went well today?",
     "What am I grateful for?",
     "What emotions did I experience most strongly today?",
-    "What is my intention today?"
+    "What is my intention today?",
+    "What do I want?  What do I really want?",
+    "What am I avoiding? What do I fear?",
+    "What am I the most grateful for in my life?",
+    "What am I afraid of?",
+    "What are my biggest strengths and my flaws/weaknesses?",
+    "What are areas in which I’m doing well and what are areas in which I could improve?",
+    "What are my values? In what ways do my words and actions reflect or fail to reflect my values?",
+    "How am I caring for myself so that I am mentally, physically, emotionally, & spiritually at my best?",
+    "What have I learned about myself today (this week, this month, this year)?"
+  
   ]
 }
