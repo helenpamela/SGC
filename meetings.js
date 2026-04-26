@@ -7577,7 +7577,7 @@ const meetings = {
     affirmation: [
       {
         type: "text",
-        src: "Meditation before affirmation: Micro Boost of Peace from Tapping Solution"
+        label: "Meditation before affirmation: Micro Boost of Peace from Tapping Solution"
       },
       {
         type: "image",
