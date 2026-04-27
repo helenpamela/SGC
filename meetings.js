@@ -8612,7 +8612,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "tiger-images/202202-tiger-properties.png"
+          src: "animal-images/202202-tiger-properties.png"
         },
         {
           type: "pdf",
