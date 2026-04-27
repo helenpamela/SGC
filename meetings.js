@@ -8085,11 +8085,16 @@ const meetings = {
     },
 
     tags: ["self", "compassion", "self-compassion", "sodalite", "vision for the new earth",
-            "queenager", "votive candle holder"],
+            "queenager", "votive candle holder", "kristin neff", "brene brown"],
 
     topic: {
       title: "Self-Compassion",
       items: [
+        {
+          type: "text",
+          label: "Watched Brene Brown/Kristin Neff class on Self-Compassion",
+          src: "" 
+        },
         {
           type: "pdf",
           label: "What Self-Compassion Is Not",
