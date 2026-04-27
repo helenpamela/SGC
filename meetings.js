@@ -8608,11 +8608,11 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "animal-images/tiger.png"
+          src: "animal-images/202202-tiger.png"
         },
         {
           type: "image",
-          src: "tiger-images/tiger-properties.png"
+          src: "tiger-images/202202-tiger-properties.png"
         },
         {
           type: "pdf",
