@@ -7940,6 +7940,241 @@ const meetings = {
     ]
   }, 
 
+  "202205": {
+    title: "May 2022",
+    month: "May",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1f0EZ5EpCW9D5j_SOrgm9WGFHoiFqodUW/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1NgMP8Xt2fsO8nDO15fjUg_ZUbTp7EJgI/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "image",
+        label: "Queenager Votive Candle Holder",
+        src: "announcement-images/202205-queenager-votive-candle-holder.jpg"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "pdf",
+        label: "Vision for the New Earth",
+        src: "https://drive.google.com/file/d/1G8IIUGsYzUCSnkxZN8PWQGiDFYSczQLP/preview"
+      },
+ 
+  
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202205-sodalite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202205-sodalite-properties.png"
+        },
+        {
+          type: "image",
+          label: "Sodalite Stones from Linda",
+          src: "monthly-focus-images/202205-sodalite-stones-from-linda.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Introduction to the Meaning and Uses of Sodalite",
+          src: "https://drive.google.com/file/d/1eE86ELAATuCzGAhs2ksc9GDeC5CEKAnv/preview"
+        }
+      ],
+    },
+
+    practice: {
+      title: "Self-Compassion Break",
+      items: [
+        {
+          type: "image",
+          label: "Self-Compassion Mantras",
+          src: "daily-practice-images/202205-self-compassion-mantras.png"
+        },
+        {
+          type: "pdf",
+          label: "Mindfulness Practices: Self-Compassion Break",
+          src: "https://drive.google.com/file/d/1PxZfUdArPG3IPLKwJPnanZFBDuHm7nI4/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Handout 4: Self-Compassion Break",
+          src: "https://drive.google.com/file/d/10HTplFvb-UOTiWZOKasorrulz1W9GQnD/preview"
+        },       
+        {
+          type: "pdf",
+          label: "Exercise 2: Self-Compassion Break",
+          src: "https://drive.google.com/file/d/1tm5EYuQmiefAtaAdUk0_o-ioc8pm2zt_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion Break - Cliff Notes",
+          src: "https://drive.google.com/file/d/1r6Xt6MlEitKAw7IwbwBP_GHzhvdOAGpk/preview"
+        }
+        
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202205-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["self", "compassion", "self-compassion", "sodalite", "vision for the new earth",
+            "queenager", "votive candle holder"],
+
+    topic: {
+      title: "Self-Compassion",
+      items: [
+        {
+          type: "pdf",
+          label: "What Self-Compassion Is Not",
+          src: "https://drive.google.com/file/d/17M_Q6i19WGtUEJfZgWu9-bemW_IDKTsc/preview" 
+        },
+  
+        {
+          type: "pdf",
+          label: "What is Self-Compassion?",
+          src: "https://drive.google.com/file/d/1IYO_Fr7pReaJ71ccpASwfkstKP-nOtLs/preview"
+        },
+        {
+          type: "pdf",
+          label: "Soften, Soothe, and Allow",
+          src: "https://drive.google.com/file/d/1G2u35c8COiHv4J0r04Li4j8MSNUGa77i/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion Quotes",
+          src: "https://drive.google.com/file/d/1CWr6SjG_uQefTHXS-nsrMtuNfdRE078g/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion Scale",
+          src: "https://drive.google.com/file/d/1PUk3FD4jwmTVfcD615n0KFZuMLiKwim3/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion Definitions",
+          src: "https://drive.google.com/file/d/1QUH5eSckgCrO1jLDonGPK6iykRlOXm5h/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion vs Self-Esteem",
+          src: "https://drive.google.com/file/d/1WXaUJtRzMlf9xrs9x6Jk2A3d2ZMAWxnQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Science of Self-Compassion",
+          src: "https://drive.google.com/file/d/1Tkq7_iwmXR1pM6M8rfNUAWf9Y6Ty1FsD/preview"
+        },
+        {
+          type: "pdf",
+          label: "3 Elements of Self-Compassion",
+          src: "https://drive.google.com/file/d/1uLn96vjc1ER2XEWLkERVc2GrTLxoUECY/preview"
+        },
+        {
+          type: "pdf",
+          label: "Maximizing Happiness",
+          src: "https://drive.google.com/file/d/1wUHovh8Nx7GULPWx4HaKgsYGxYTh8Xh-/preview"
+        },
+        {
+          type: "pdf",
+          label: "Fierce Self-Compassion",
+          src: "https://drive.google.com/file/d/1Jbv4CoHVdwb8xOBnEgzpxNZGqWJRf6rJ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Exercise 1 - How Would You Treat a Friend",
+          src: "https://drive.google.com/file/d/1PEFstAVndBv2y_LXY_dmGpn2ly02oELM/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion - Cliff Notes Concepts",
+          src: "https://drive.google.com/file/d/1bgp8nGL7wQJ5w7PydFkT-fz0sbGVYPk_/preview"
+        }   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Who is Quan Yin?",
+        src: "https://drive.google.com/file/d/14zg_JwYxUahqA2q74ht1S7KU3yG4FtpF/preview"
+      },
+      {
+        type: "image",
+        label: "Kwan Yin",
+        src: "other-images/202205-kwan-yin.png"
+      }
+
+    ]
+  },
+
 
 }
 
