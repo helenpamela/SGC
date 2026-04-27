@@ -8524,5 +8524,278 @@ const meetings = {
     ]
   },
 
+  "202202": {
+    title: "February 2022",
+    month: "February",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1hTKydiYLgx-VCJwae3UG2iMT32D8us07/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/18NTMr9diM-9dx3rVVCZsqBVUy4J0HHhs/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Radically Reframing Aging online event- Maria Shriver",
+        src: "https://drive.google.com/file/d/1RKz669FrWr-0hwnf3FGHMDeaQaNn-UJn/preview"
+      },
+      {
+        type: "pdf",
+        label: "7 Steps to Manifest Anything",
+        src: "https://drive.google.com/file/d/1ogSYg8WxJi8jN-h_b5tADhPL1vvgOX1Y/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Science of Healing Summit",
+        src: "https://drive.google.com/file/d/14VHizrB7JQ12nJBfkdhZsPcdtPvH_RYf/preview"
+      },
+      {
+        type: "pdf",
+        label: "Tapping World Summit P1",
+        src: "https://drive.google.com/file/d/14Hrew6R1Oh2SxfdaSrDpVpG93UbcLClj/preview"
+      },
+      {
+        type: "pdf",
+        label: "Tapping World Summit P2",
+        src: "https://drive.google.com/file/d/1vUXUBClPqIExBpn38OoQabU6s1CKlbaI/preview"
+      },   
+
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Tiger",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/tiger.png"
+        },
+        {
+          type: "image",
+          src: "tiger-images/tiger-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Tiger Images",
+          src: "https://drive.google.com/file/d/1uZmMI-JU62aZ7bZ1P-saiz0cPpzG3kss/preview"
+        },
+        {
+          type: "pdf",
+          label: "Tiger Symbolism",
+          src: "https://drive.google.com/file/d/16jsLkgIAxphPMwjeVtc3fOBBuSRN-lBj/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chinese New Year - Year of the Tiger",
+          src: "https://drive.google.com/file/d/1Ju4UX7MtprFnr2QJWAfba_iEvTFhkTHp/preview"
+        },
+
+    
+     
+      ]
+    },
+
+    practice: {
+      title: "Self-Care",
+      items: [
+        {
+          type: "pdf",
+          label: "Self-Love Workbook",
+          src: "https://drive.google.com/file/d/1vfPwkdskjSFq4uNY4YlaDmH1d2EXxsW4/preview"
+        },
+        {
+          type: "pdf",
+          label: "Foundations of Self-Love 1",
+          src: "https://drive.google.com/file/d/1_JJsA6QGZTFpr-5qlgYnNIbyB9mK64jL/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Foundations of Self-Love 2",
+          src: "https://drive.google.com/file/d/1wUfvD2CKOzKeDSZ8dE1piM0qP1smxonV/preview"
+        },       
+        {
+          type: "pdf",
+          label: "Foundations of Self-Love 3",
+          src: "https://drive.google.com/file/d/1A6xBH8AVbMZl1nV3QOSrfaNqDIwgMDy2/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "A to Z form",
+          src: "https://drive.google.com/file/d/1FlvHHgS-ONypBmM-PeMUfO_SzBKLSg5X/preview"
+        }, 
+
+        
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202202-affirmation.png"
+      },
+      {
+        type: "pdf",
+        label: "Affirmation handout",
+        src: "https://drive.google.com/file/d/1r8s7U3etju4k21ltAiGLqdXpOx5RVYKO/preview"
+      },
+      
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Meditation: Michael Beckwith, Life Visioning Meditation for Inner Peace & Inspiration "
+        }
+      ]
+    },
+
+    tags: ["self-care", "tiger", "tapping world summit", "archetypes"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "pdf",
+          label: "Archetype Definition",
+          src: "https://drive.google.com/file/d/1iAcClvneZgWwGdLIeFK5PO-5t5C1p2uU/preview" 
+        },
+        {
+          type: "pdf",
+          label: "My Archetypes form",
+          src: "https://drive.google.com/file/d/15Ob1eWnlSvR6a0X_LiCkjyEy1hTt8DIm/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Advocate Report",
+          src: "https://drive.google.com/file/d/1yQEkX6dl6Q8A9h5iPT2ElNjrQ8iM9cFH/preview"
+        },
+        {
+          type: "pdf",
+          label: "the Athlete Report",
+          src: "https://drive.google.com/file/d/1dfZzIXbdmp0CYTBr3zng9WRp7EATDPy8/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Caregiver Report",
+          src: "https://drive.google.com/file/d/1pZ3Gck4v6j8vmSpoIXoLlVo5fX414dmt/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Creative Report",
+          src: "https://drive.google.com/file/d/1CeAU4Urf9mv5xMreVF81eeBtRJgPxkm-/preview"
+        },
+        {
+          type: "pdf",
+          label: "the Explorer Report",
+          src: "https://drive.google.com/file/d/1OvhhdC5ZEsIqx72K117OM6wCVoC66RP-/preview"
+        },
+        {
+          type: "pdf",
+          label: "the Intellectual Report",
+          src: "https://drive.google.com/file/d/1k4TZZIQanOQc2ErgRcMnZDrd25-9vo6C/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Performer Report",
+          src: "https://drive.google.com/file/d/1TqMAsHHlIZGQd-SnBZu0xhkq4k3IS6Pi/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Rebel Report",
+          src: "https://drive.google.com/file/d/17RFqiFwkK80sUfeKcbpaJG2xjtSyh9OW/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Royal Report",
+          src: "https://drive.google.com/file/d/1cmyzk0MLF1Y6Yt9qjCpl5N-gD6suyq8Z/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Spiritual Report",
+          src: "https://drive.google.com/file/d/17PweZYdKM1D-yu5Tf6FCWU0Q2qCW53eG/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Tastemaker Report",
+          src: "https://drive.google.com/file/d/13ofBJESrDjjj7cyNYNiVAAWpCf-7D_rS/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Visionary Report",
+          src: "https://drive.google.com/file/d/1v1uCYXYBpvOiWJH8tnOoTG6_awAdhGbY/preview"
+        }
+
+   
+   
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
