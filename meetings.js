@@ -8179,7 +8179,176 @@ const meetings = {
 
     ]
   },
+"202204": {
+    title: "April 2022",
+    month: "April",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1_cwkWtXTptfMKuJcTrTqfsqeA5fZYmoe/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1yaMoVyYyTr2-rpzxi_-ei3lmPXKSPS9Y/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "pdf",
+        label: "Vision for the New Earth",
+        src: "https://drive.google.com/file/d/1DDNttWWrS9UIkZLfYxdSzw58DvwnlvYP/preview"
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rescue Remedy",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/2022-rescue-remedy.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/2022-rescue-remedy-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Rescue Remedy - Cliff Notes First aid",
+          src: "https://drive.google.com/file/d/1cJ1Y7lVKR-6szMVdU1RScqLYhS_LOY5G/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rescue Remedy Components",
+          src: "https://drive.google.com/file/d/1r8kD7y6LgeSfegctXLTSM6Wfu7rlYpH_/preview"
+        }
+
+        
+      ]
+    },
+
+    practice: {
+      title: "Blessing Water",
+      items: [
+        {
+          type: "pdf",
+          label: "Dr Emoto - Cliff Notes Concepts",
+          src: "https://drive.google.com/file/d/13x_rFR9pDOcFUZG0l5XKiSc2W7HwMOwp/preview"
+        },
+        {
+          type: "image",
+          label: "Water Blessing Labels",
+          src: "daily-practice-images/202204-water-blessing-label.jpg"
+        }, 
+        {
+          type: "pdf",
+          label: "In Remembrance of Masaru Emoto",
+          src: "https://drive.google.com/file/d/1rMZeOCOVmGls2FWUu2qjUipM3YTh2RuX/preview"
+        },      
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202204-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          src: "William Teller & John Hagelund from What the Bleep"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Denise Linn - Creating Your Perfect Day"
+        }
+      ]
+    },
+
+    tags: ["denise linn", "william teller", "john hagelund", "what the bleep", 
+           "rescue remedy", "water", "blessing"],
+
+    topic: {
+      title: "What the Bleep ",
+      items: [
+        {
+          type: "image",
+          label: "What the Bleep Do We Know",
+          src: "topic-images/202204-what-the-bleep-do-we-know.png"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 }
 
