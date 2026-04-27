@@ -8242,11 +8242,11 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "flower-images/2022-rescue-remedy.png"
+          src: "flower-images/202204-rescue-remedy.png"
         },
         {
           type: "image",
-          src: "flower-images/2022-rescue-remedy-properties.png"
+          src: "flower-images/202204-rescue-remedy-properties.png"
         },
         {
           type: "pdf",
@@ -8297,7 +8297,7 @@ const meetings = {
       items: [
         {
           type: "text",
-          src: "William Teller & John Hagelund from What the Bleep"
+          label: "William Teller & John Hagelund from What the Bleep"
         }
       ]
     },
