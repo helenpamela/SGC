@@ -8179,7 +8179,8 @@ const meetings = {
 
     ]
   },
-"202204": {
+
+  "202204": {
     title: "April 2022",
     month: "April",
     year: 2022,
@@ -8328,6 +8329,179 @@ const meetings = {
         {
           type: "",
           label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202203": {
+    title: "March 2022",
+    month: "March",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1hpi7LLGFMsV-Dhxe0Rb7pcCUmtbc77AV/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1HOS_pt-8qgWA3mukW-j-s6Bqe6LzDfq3/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Randy Rainbow is coming to Mesa May 4.  He has a new book:  Playing With Myself out April 19",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Lemurian Seed Crystal",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202203-lemurian-seed-crystal.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202203-lemurian-seed-crystal-properties.png"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202203-lemurian-seed-crystal-from-linda.jpg"
+        },
+        {
+          type: "pdf",
+          label: "The Meaning, Properties & Powers of Lemurian Seed Crystal",
+          src: "https://drive.google.com/file/d/1ZlZnUjlUmxo08_FhBvAGDix9uliwqZzY/preview"
+        },
+        {
+          type: "pdf",
+          label: "Lemurian Seed Crystal",
+          src: "https://drive.google.com/file/d/1T7ffCV8lmUT-ublaALD8j3EqSnnT8sb9/preview"
+        }
+            
+      ]
+    },
+
+    practice: {
+      title: "Shine Your Light",
+      items: [
+        {
+          type: "pdf",
+          label: "Shine Your Light Quotes",
+          src: "https://drive.google.com/file/d/1OOmgGIQnjoeCjMEl5OBHNB5z6sZ0M69v/preview"
+        },
+        {
+          type: "text",
+          label: "Shine Your Light: Played SGC CD: Shine Your Light CD 1.Handed out tote bag with coloring book and crayons",
+          src: ""
+        },        
+        {
+          type: "image",
+          label: "Shine Your Light Coloring Book",
+          src: "daily-practice-images/202203-coloring-book.jpg"
+        },
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202203-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "YouTube: 'Let Your Inner Light Shine 10 Minute Guided Medition for Positive...' posted by Great Meditation",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["shine your light", "lemurian seed crystal", "coloring", "vision", "about us"],
+
+    topic: {
+      title: "Our Vision and All About Us",
+      items: [
+        {
+          type: "pdf",
+          label: "Our Vision",
+          src: "https://drive.google.com/file/d/1MMHcqXsvxf0JcnawgKYTXgy3we4Lq2cM/preview"
+  
+        },
+    
+        {
+          type: "text",
+          label: "All About Me: Review Lovable Attributes; Review/Complete All About Me pages",
           src: ""
         },
    
