@@ -104,7 +104,7 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["cancelled"],
 
     topic: {
       title: "",
@@ -6009,7 +6009,7 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["cancelled"],
 
     topic: {
       title: "",
@@ -7750,7 +7750,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["cancelled"],
 
     topic: {
       title: "",
