@@ -8797,5 +8797,225 @@ const meetings = {
     ]
   },
 
+  "202201": {
+    title: "January 2022",
+    month: "January",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/13UBsuGFfVszYvPH7DuUTuiM6XqYX4mGu/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1czw7fiprmaC-HvCQqV_oO4A6Het-1V-x/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Trudi is out sick with COVID",
+        src: ""
+      }, 
+      {
+        type: "pdf",
+        label: "Intuition Class at SWIHA",
+        src: "https://drive.google.com/file/d/1VdQUGUksmfWdGPC1oQdcCPTNFIUUq30x/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Free Workshop - Make Sense of Life",
+        src: "https://drive.google.com/file/d/1AsAxxLSQG8Q_NBA90eWAtHbMiBkUlzoP/preview"
+      },
+      {
+        type: "pdf",
+        label: "Lovable Attributes - for next meeting",
+        src: "https://drive.google.com/file/d/14InYPuDEdR0O2SPjev7TzRUQffnNx5ds/preview"
+      } 
+
+
+      
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Money Frog",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202201-money-frog.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202201-money-frog-properties.png"
+        },
+        {
+          type: "pdf",
+          label:  "Money Frog FengShui",
+          src: "https://drive.google.com/file/d/11px6flHBArSTZYqJus2sqHaX6kdyHTGw/preview"
+        },
+        {
+          type: "pdf",
+          label:  "Money Frog article",
+          src: "https://drive.google.com/file/d/1j6EqLt8VRYoQOlJ_IXZPyCfbC2ucjx8h/preview"
+        } 
+
+      ]
+    },
+
+    practice: {
+      title: "Setting Intentions",
+      items: [
+        {
+          type: "text",
+          label: "Tapping Meditation:theTappingSolution.com - Release New Year Stress in 5 Minutes with Jessica Ortner",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "SGC Intentions - Cliff Notes",
+          src: "https://drive.google.com/file/d/1d4ctUPMtJY2NapKhYmv9JqT9ExM28bX0/preview"
+        },
+        {
+          type: "pdf",
+          label: "Setting My Intentions for 2022 - form",
+          src: "https://drive.google.com/file/d/1R0gT4PbV0go7kmMxsYxtsBPdPVNvQoKm/preview"
+        },
+        {
+          type: "pdf",
+          label: "Declaration Intention - form",
+          src: "https://drive.google.com/file/d/1K6_uy6uAmt3PZoknmCJBwbbd4DCQeJqK/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Alphabet of Manifesting - form",
+          src: "https://drive.google.com/file/d/1Z2nfbkBiVB-61piKIqcN7iiMuTyT4IYs/preview"
+        },  
+        {
+          type: "video",
+          label: "Jessica Ortner -Tapping Meditation for New Year Possibilities",
+          src: "https://www.youtube.com/embed/zugUQ_Av9Ao?si=rtTe6sC0V65t4HHf" 
+        }  
+        
+        
+        
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202201-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Planned: Michael B Bechworth - YouTube.com: Life Visioning Meditation for Inner Peace & Inspiration posted by Mindvalley"
+        }
+      ]
+    },
+
+    tags: ["intentions", "visioning", "money frog", "frog", "tapping", "vision boards"],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "All About Me 1",
+        src: "https://drive.google.com/file/d/1X683x6RzrKWMtjQ-xFOcX1wwD2urcahS/preview"
+      },
+      {
+        type: "pdf",
+        label: "All About Me 2",
+        src: "https://drive.google.com/file/d/1MKenJslI0ONHd2Sj0Ybq0O3V3ygtUwWh/preview"
+      },
+      {
+        type: "pdf",
+        label: "All About Me 3",
+        src: "https://drive.google.com/file/d/1AVGrPxMsog9AeXLYOZqjqERyh4wzMfOE/preview"
+      },
+      {
+        type: "pdf",
+        label: "All About Me 4",
+        src: "https://drive.google.com/file/d/1Qm_vIcv_Ku5daRURTR34XQY6bC4bQgLI/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
