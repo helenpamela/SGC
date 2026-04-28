@@ -8965,7 +8965,8 @@ const meetings = {
       ]
     },
 
-    tags: ["intentions", "visioning", "money frog", "frog", "tapping", "vision boards"],
+    tags: ["intentions", "new year", "visioning", "money frog", "frog", "tapping", 
+           "vision boards", "all about me"],
 
     topic: {
       title: "Vision Boards",
