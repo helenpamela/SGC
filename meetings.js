@@ -9,15 +9,15 @@ const meetings = {
     title: "May 2026",
     month: "May",
     year: 2026,
-    meetingCancelled: false, // or false
-    cancelReasonImage: "", // optional but lovely
-    cancelMessage: "",
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202605-no-mtg.png", // optional but lovely
+    cancelMessage: "See you in June!",
 
     final_agenda: [
       {
-        type: "pdf",
-        label: "Agenda",
-        src: "https://drive.google.com/file/d/1hH-MF-wzrJzhRMyH-SMW-LS8Yw5rcG5u/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
