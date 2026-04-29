@@ -7,7 +7,6 @@
   <link rel="stylesheet" href="header-styles.css">
 
   <style>
-
     .banner-title {
       color: #5c4b7d;
       font-weight: 600;
@@ -109,15 +108,15 @@
 </head>
 
 <body>
-  <div id="header-placeholder"></div> 
+  <div id="header-placeholder"></div>
 
   <div class="container">
-    
-     <div class="banner" style="background-image: 
+
+    <div class="banner" style="background-image: 
       url('inspiration-images/inspiration-header.jpg');">
 
-        <h1 class="banner-title">Daily Inspiration</h1>
-     </div>
+      <h1 class="banner-title">Daily Inspiration</h1>
+    </div>
 
     <div id="ceremony"
       style="text-align:center; opacity:0; transition: opacity 1s ease; font-style:italic; color:#8a7fb0;">
@@ -142,10 +141,6 @@
 
   <script>
 
-    let lastQuoteIndex = -1;
-    let lastAffirmationIndex = -1;
-    let lastReflectionIndex = -1;
-
     fetch('header.html')
       .then(response => response.text())
       .then(data => {
@@ -161,6 +156,7 @@
         showInspiration();
       });
 
+    /*  
     function getRandomIndex(arrayLength, lastIndex) {
       let newIndex;
 
@@ -170,9 +166,41 @@
 
       return newIndex;
     }
+    */
+
+    function getLeastRecentlyUsedIndex(items, key) {
+      const usage = JSON.parse(localStorage.getItem(key) || "{}");
+      const now = Date.now();
+
+      // Find oldest timestamp
+      let oldestTime = Infinity;
+      let candidates = [];
+
+      items.forEach((_, index) => {
+        const lastUsed = usage[index] || 0;
+
+        if (lastUsed < oldestTime) {
+          oldestTime = lastUsed;
+          candidates = [index];
+        } else if (lastUsed === oldestTime) {
+          candidates.push(index);
+        }
+      });
+
+      // Random pick among least recently used
+      const chosenIndex = candidates[Math.floor(Math.random() * candidates.length)];
+
+      // Update usage
+      usage[chosenIndex] = now;
+      localStorage.setItem(key, JSON.stringify(usage));
+
+      return chosenIndex;
+    }
 
     function showInspiration() {
+
       const quoteDiv = document.getElementById("quote");
+      const affirmationDiv = document.getElementById("affirmation");
       const reflectionDiv = document.getElementById("reflection");
 
       // fade out
@@ -180,7 +208,23 @@
       reflectionDiv.classList.remove("show");
 
       setTimeout(() => {
+        const quoteIndex = getLeastRecentlyUsedIndex(data.quotes, "quotesUsage");
+        const quote = data.quotes[quoteIndex];
 
+        const affirmationArray = data.affirmations || [];
+        let affirmation = null;
+
+        if (affirmationArray.length > 0) {
+          const affirmationIndex = getLeastRecentlyUsedIndex(affirmationArray, "affirmationsUsage");
+          affirmation = affirmationArray[affirmationIndex];
+        }
+
+        const reflectionIndex = getLeastRecentlyUsedIndex(data.reflections, "reflectionsUsage");
+        const reflection = data.reflections[reflectionIndex];
+
+
+
+        /*
         const quoteIndex = getRandomIndex(data.quotes.length, lastQuoteIndex);
         lastQuoteIndex = quoteIndex;
         const quote = data.quotes[quoteIndex];
@@ -205,6 +249,7 @@
         } else {
           affirmationDiv.innerHTML = "";
         }
+        */
 
         quoteDiv.innerHTML = `
           <p>${quote.text}</p>
