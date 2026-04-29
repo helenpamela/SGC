@@ -9356,5 +9356,217 @@ const meetings = {
     ]
   },
 
+    "202110": {
+    title: "October 2021",
+    month: "October",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1giiwLxXgR3usYTsQS51ijrlHFgdb4Kqh/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1BdFN0S939itS5lt3TNdupHDsofDVBT1d/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Colin Powell died.",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Sandalphon",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/202110-sandalphon.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/202110-sandalphon-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Sandalphon",
+          src: "https://drive.google.com/file/d/1xPQPYy-x0nGo2JTuJ1XKnoBfugxt9KAO/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Listen to Music",
+      items: [
+        {
+          type: "image",
+          label: "Raise Your Spirits CD",
+          src: "daily-practice-images/202110-cd-raise-your-spirits.png"
+        },
+        {
+          type: "pdf",
+          label: "Raise Your Spirits CD Song List",
+          src: "https://drive.google.com/file/d/1ORsIp4YVJpFKhIut0Mr1HeoklGeowfOQ/view?usp=drive_link"
+        }, 
+        {
+          type: "pdf",
+          label: "Use Music to Raise Your Vibration",
+          src: "https://drive.google.com/file/d/1FobNeIznX1t8NZ8sEeDgDYGbraO43RVO/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "The Power of Music",
+          src: "https://drive.google.com/file/d/1QaCxPoo62ur0vWUhd6oabALUlTAtFGbc/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "15 Benefits of Music",
+          src: "https://drive.google.com/file/d/1d-bi0WXdHer5J76b3IiPe0wwEVC7nJt5/preview"
+        },        
+
+
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202110-affirmation.png"
+      },
+      {
+        type: "pdf",
+        label: "35 Affirmations to Raise Your Vibration",
+        src: "https://drive.google.com/file/d/1O-O3eeA3YrakTk3TyNIBnU_k53Bczfrg/preview"
+      },
+
+    ],
+
+    luminary: {
+      title: "Alan Cohen & Kyle Gray",
+      items: [
+        {
+          type: "image",
+          label: "Alan Cohen",
+          src: "luminary-images/202110-alan-cohen.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Alan Cohen email on Faithkeepers",
+          src: "https://drive.google.com/file/d/1JsrZgmCsUil6IE7_iEDAgN5zmYht_y1A/preview"
+        },
+        {
+          type: "image",
+          label: "Kyle Gray",
+          src: "luminary-images/202110-kyle-gray.jpg"
+        },
+        {
+          type: "image",
+          label: "Kyle Gray book - Raise Your Vibration",
+          src: "luminary-images/202110-kyle-gray-book-raise-your-vibration.png"
+        },
+
+       
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "pdf",
+          label: "Meditation Info",
+          src: "https://drive.google.com/file/d/1hKAqtakdhB9c2kkVZTto-4I3CqpSVnvx/preview"
+        }
+      ]
+    },
+
+    tags: ["alan cohen", "kyle gray", "denise linn", "patricia cota-robles", 
+           "raise your vibration", "sandalphon", "music", "cd", "affirmation"],
+
+    topic: {
+      title: "Raise Your Vibration",
+      items: [
+        {
+          type: "pdf",
+          label: "How to Raise Your Emotional & Spiritual Vibration - Deepak Chopra",
+          src: "https://drive.google.com/file/d/1OKzx9JA-8ErazcjrsqS8utsvRTcd-lAj/preview"
+        },    
+        {
+          type: "pdf",
+          label: "8 Ways to Raise Your Vibration",
+          src: "https://drive.google.com/file/d/18xpA0KPWd-HYAi6Rv-TxpK06lACvoB_K/preview"
+        },
+        {
+          type: "pdf",
+          label: "17 Things to Raise Your Vibration",
+          src: "https://drive.google.com/file/d/1YKqkM52P3BooRTSuKY0Mkv5DY3vl8ANP/preview"
+        },
+        {
+          type: "pdf",
+          label: "6 Affirmation Cards",
+          src: "https://drive.google.com/file/d/1i9zutLRUhh2aeiEj15W1-VQHMk_mbAqR/preview"
+        },
+        
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Invocation",
+        src: "https://drive.google.com/file/d/1sXAvIy96FJVNoTJktqIJjzQJdn1cHmyK/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
