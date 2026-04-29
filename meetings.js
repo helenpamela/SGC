@@ -9446,7 +9446,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Raise Your Spirits CD Song List",
-          src: "https://drive.google.com/file/d/1ORsIp4YVJpFKhIut0Mr1HeoklGeowfOQ/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1ORsIp4YVJpFKhIut0Mr1HeoklGeowfOQ/preview"
         }, 
         {
           type: "pdf",
@@ -9493,7 +9493,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Alan Cohen email on Faithkeepers",
-          src: "https://drive.google.com/file/d/1JsrZgmCsUil6IE7_iEDAgN5zmYht_y1A/preview"
+          src: "https://drive.google.com/file/d/1mwwF72uP8FGlu0U-M_VC74oYALXr1bab/preview"
         },
         {
           type: "image",
@@ -9529,7 +9529,7 @@ const meetings = {
       items: [
         {
           type: "pdf",
-          label: "How to Raise Your Emotional & Spiritual Vibration - Deepak Chopra",
+          label: "How to Raise Your Emotional & Spiritual Vibration",
           src: "https://drive.google.com/file/d/1OKzx9JA-8ErazcjrsqS8utsvRTcd-lAj/preview"
         },    
         {
