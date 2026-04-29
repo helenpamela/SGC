@@ -9254,7 +9254,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Auralite 23",
-          src: "https://drive.google.com/file/d/1TQlvFsv4Hfpzb-WW3ckYdVPomdgNV2uc/previewg"
+          src: "https://drive.google.com/file/d/1TQlvFsv4Hfpzb-WW3ckYdVPomdgNV2uc/preview"
         },
         {
           type: "pdf",
@@ -9264,7 +9264,7 @@ const meetings = {
         {
           type: "pdf",
           label: "23 Minerals of Auralite",
-          src: "https://drive.google.com/file/d/1Z3bfq9Bgp9O_1MWVo5dOPvnEo9LFvJDc/preview"
+          src: "https://drive.google.com/file/d/1wWn249XdkktvE1njmlj-oKSRSNwvdZ6F/preview"
         }    
 
       ]
