@@ -9018,5 +9018,343 @@ const meetings = {
     ]
   },
 
+  "202112": {
+    title: "December 2021",
+    month: "December",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1lzPdc0lHRMO8Ovd-pOKbqedzoL2za-Wr/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1Auem5oS_6OvL9QrqvZrEghJnwRbGu8cd/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Red Fox",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202112-red-fox.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202112-red-fox-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "the Meaning of a Fox",
+          src: "https://drive.google.com/file/d/1RBlNVRYYY9JpsVT-CtqXzIJPI5R8nvsr/preview"
+        },
+        {
+          type: "pdf",
+          label: "Stuffed Red Fox",
+          src: "https://drive.google.com/file/d/1b-DL7bG6mnpeRZ4mlFDcdO0M0MfRKRD2/preview"
+        }
+    
+      ]
+    },
+
+    practice: {
+      title: "Celebrate",
+      items: [
+        {
+          type: "pdf",
+          label: "Celebrate - Cliff Notes Concepts",
+          src: "https://drive.google.com/file/d/1eLss9SVOPX2qYorSdBoFWxnj_Gt8AEmX/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202112-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "video",
+          label: "Denise Linn - Serene Inner Peace",
+          src: "https://www.youtube.com/embed/53E4ExkkBD8?si=2IwQYuhYMlsKHnZm"
+        }
+      ]
+    },
+
+    tags: ["burning", "bowl", "christmas", "denise linn", "celebrate", "fox"],
+
+    topic: {
+      title: "Burning Bowl Ceremony & Christmas Party",
+      items: [
+        {
+          type: "pdf",
+          label: "Burning Bowl Ceremony - Cliff Notes Tools",
+          src: "https://drive.google.com/file/d/1vg1IXQeDpNXXDwwQmLoM-x_ealnuEqIR/preview"
+        },
+    
+        {
+          type: "pdf",
+          label: "Release form",
+          src: "https://drive.google.com/file/d/1a4Py0Ea30dq_31r0CmMewOsenvKPt32M/preview"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Friends are like Fruitcake",
+        src: "https://drive.google.com/file/d/13qohvHXcwsajMWuUKWhDCCWOjQAFymID/preview"
+      },
+      {
+        type: "pdf",
+        label: "Invocation of the Holy Order",
+        src: "https://drive.google.com/file/d/1OofX_W2SUjAc7NhznhurRsjtsgcVodGU/preview"
+      }
+
+    ]
+  },
+  
+  "202111": {
+    title: "November 2021",
+    month: "November",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1FEkz3SJXg4V8-Nv-551r-HdZLk16cGY3/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1NqZbjaIl82ln-JEO_dcBR0VkaLpAHj7F/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Auralite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202111-auralite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202111-auralite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Auralite 23",
+          src: "https://drive.google.com/file/d/1TQlvFsv4Hfpzb-WW3ckYdVPomdgNV2uc/previewg"
+        },
+        {
+          type: "pdf",
+          label: "Auralite 23 Meaning",
+          src: "https://drive.google.com/file/d/1mur8iHOTNL-5E6ya0P2lxR6kCGfjw4uw/preview"
+        },
+        {
+          type: "pdf",
+          label: "23 Minerals of Auralite",
+          src: "https://drive.google.com/file/d/1Z3bfq9Bgp9O_1MWVo5dOPvnEo9LFvJDc/preview"
+        }    
+
+      ]
+    },
+
+    practice: {
+      title: "Gratitude",
+      items: [
+        {
+          type: "pdf",
+          label: "30 Days of Journal Prompts for Gratitude",
+          src: "https://drive.google.com/file/d/16JOIi0k5nOJILSQvvIFls0o-olYtA7lX/preview"
+        },
+        {
+          type: "pdf",
+          label: "9 Gratitude Journaling Tips",
+          src: "https://drive.google.com/file/d/1aF8D54yYDl9JQIvqU3ygGhgeTAfRJrn5/preview"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202111-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "video",
+          label: "Denise Linn - Exuberant Self-Esteem",
+          src: "https://www.youtube.com/embed/5TKxGm07xIw?si=e_oVJQ3a455KK0ZC"
+        }
+      ]
+    },
+
+    tags: ["wholehearted", "brene brown", "denise linn", "auralite", "gratitude"],
+
+    topic: {
+      title: "Wholehearted Living",
+      items: [
+        {
+          type: "pdf",
+          label: "10 Guideposts",
+          src: "https://drive.google.com/file/d/1h53rTAEYOseiL-KGaT5UX8OA6Rg7EVZ_/preview" 
+        },
+        {
+          type: "pdf",
+          label: "Gifts of Imperfection - Quotes",
+          src: "https://drive.google.com/file/d/1WbslWC1TuFbHo9f3POqox1bLDMXyTeQY/preview"
+        },
+        {
+          type: "pdf",
+          label: "A Simple Guide to Wholehearted Living",
+          src: "https://drive.google.com/file/d/17tzYMiKd472-vMYBYNqoUbggudJEYvry/preview"
+        },
+   
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
