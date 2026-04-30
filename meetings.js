@@ -9793,13 +9793,13 @@ const meetings = {
     announcements: [
       {
         type: "text",
-        label: "label",
-        src: "Unity Day of Prayer 9/8-9/9/21"
+        label: "Unity Day of Prayer 9/8-9/9/21",
+        src: ""
       }, 
       {
         type: "text",
-        label: "label",
-        src: "Fantastic Fungi Global Summit 10/15/21"
+        label: "Fantastic Fungi Global Summit 10/15/21",
+        src: ""
       },
       {
         type: "image",
@@ -9930,7 +9930,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["mushroom", "mindful", "eating", "louie schwartzberg", "paul stamets", "fantastic fungi"],
 
     topic: {
       title: "Movie - Fantastic Fungi",
