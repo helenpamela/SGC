@@ -9851,7 +9851,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Reishi Mushroom Powder",
-          src: "https://drive.google.com/file/d/1jHLLqZ6epmKDGLcz-4MEFI1b_ajO-8zO/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1jHLLqZ6epmKDGLcz-4MEFI1b_ajO-8zO/preview"
         },
         {
           type: "pdf",
