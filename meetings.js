@@ -9639,11 +9639,11 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "flower-images/202109-peppermint.png"
+          src: "flower-images/202109-peppermint-eo.png"
         },
         {
           type: "image",
-          src: "flower-images/202109-peppermint-properties.png"
+          src: "flower-images/202109-peppermint-eo-properties.png"
         },
         {
           type: "pdf",
