@@ -9568,5 +9568,200 @@ const meetings = {
     ]
   },
 
+    "202109": {
+    title: "September 2021",
+    month: "September",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1W-SqP_L4BtK_YtM9PNNaLCekz3wtxD2_/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1DCT0jDiEMvMNhg3Yn5Ez7kEJhXLSMF00/preview"
+        },
+        {
+          type: "pdf",
+          label: "Abraham Worksheet - Teacher Copy - Answers",
+          src: "https://drive.google.com/file/d/1jW2UWmndOdzewGG8GYV5P0krqe0EFl8H/preview"
+        },
+
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Peppermint Essential Oil",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202109-peppermint.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202109-peppermint-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Patricia Cota-Robles roller ball",
+          src: "https://drive.google.com/file/d/125Tv2YYR8v4tnUm-_kI8rfEO4npLrBJt/preview"
+        },
+        {
+          type: "pdf",
+          label: "Peppermint Essential Oil",
+          src: "https://drive.google.com/file/d/1-vtY4iCIjCFN9vTGC7ayxYENLL_Pn65Y/preview"
+        }
+       
+      ]
+    },
+
+    practice: {
+      title: "Focus on What You Want",
+      items: [
+        {
+          type: "pdf",
+          label: "Things that Bring Me Joy form",
+          src: "https://drive.google.com/file/d/1scb9yq6Obvg2aHQ-7pNFHxZOJ6FkeThT/preview"
+        },
+        {
+          type: "pdf",
+          label: "Abraham's Law of Attraction Synopsis",
+          src: "https://drive.google.com/file/d/1G_IejNfmTv3TLp82cO0m6HfvngNYn3kB/preview"
+        },
+        {
+          type: "pdf",
+          label: "Sunny Dawn Johnston email - Fear vs Focus",
+          src: "https://drive.google.com/file/d/1s32IktLy9Nx1GskDpspIbJlvg6zaje5T/preview"
+        },
+        {
+          type: "pdf",
+          label: "Abraham Quotes",
+          src: "https://drive.google.com/file/d/1ATFEy9OD3IY1Skrmtxjacc-lk2mkyoJa/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Abraham's Emotional Guidance System",
+          src: "https://drive.google.com/file/d/1Rs5TBuXckR6A3USpSulgUnojPhGPytG8/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Abraham's Creative Workshop",
+          src: "https://drive.google.com/file/d/1llK_dC-Oko5hpDVosHcW4XeFYrXLK5mf/preview"
+        }          
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202109-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/202109-affirmation2.png"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Jerry & Esther Hicks - Abraham"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [],
+
+    topic: {
+      title: "Abraham",
+      items: [
+        {
+          type: "pdf",
+          label: "Abraham Worksheet",
+          src: "https://drive.google.com/file/d/1dIRm0t_csrz2xP_ZhHRnYkGRqp6kcDcf/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 }
 
