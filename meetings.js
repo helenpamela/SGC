@@ -9356,7 +9356,7 @@ const meetings = {
     ]
   },
 
-    "202110": {
+  "202110": {
     title: "October 2021",
     month: "October",
     year: 2021,
@@ -9568,7 +9568,7 @@ const meetings = {
     ]
   },
 
-    "202109": {
+  "202109": {
     title: "September 2021",
     month: "September",
     year: 2021,
@@ -9736,6 +9736,209 @@ const meetings = {
           type: "pdf",
           label: "Abraham Worksheet",
           src: "https://drive.google.com/file/d/1dIRm0t_csrz2xP_ZhHRnYkGRqp6kcDcf/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+    "202108": {
+    title: "August 2021",
+    month: "August",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1oKsGQNC324dpb4Q1duO-n905LtfLcONW/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1hs2b8WRW6PL2_YgUhd_v3cS2HaxphWzi/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "label",
+        src: "Unity Day of Prayer 9/8-9/9/21"
+      }, 
+      {
+        type: "text",
+        label: "label",
+        src: "Fantastic Fungi Global Summit 10/15/21"
+      },
+      {
+        type: "image",
+        label: "Unity World Day of Prayer",
+        src: "announcement-images/202108-unity-day-of-prayer.jpg"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Mushroom",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202108-mushroom.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202108-mushroom-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "The Healing Power of Mushrooms",
+          src: "https://drive.google.com/file/d/1h0Lvtmw50Mvp8YwpM2NqhhHH35oCp7PB/preview"
+        },
+        {
+          type: "pdf",
+          label: "Reishi Mushroom Powder",
+          src: "https://drive.google.com/file/d/1jHLLqZ6epmKDGLcz-4MEFI1b_ajO-8zO/view?usp=drive_link"
+        },
+        {
+          type: "pdf",
+          label: "Health Benefits of Mushroom",
+          src: "https://drive.google.com/file/d/1uXtDDr3HuQr7VWHnMfz5t1mUpRw0oDmF/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mushroom Notes",
+          src: "https://drive.google.com/file/d/1wR3j7JREBnBGg4q804PWGtc3fudUpoXm/preview"
+        },
+        {
+          type: "pdf",
+          label: "Top 10 Powerful Mushrooms",
+          src: "https://drive.google.com/file/d/1FL1E_y1YE7OJHwm4MrqthxKp3rQx5JmA/preview"
+        },
+        {
+          type: "pdf",
+          label: "Health Benefits of Eating Mushrooms",
+          src: "https://drive.google.com/file/d/1O8zgpvzS7jUx5OuQ0ycCKHcR9eYYc82x/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mushrooms Have Stunning Powers",
+          src: "https://drive.google.com/file/d/1dhVZ49XAC-JswoSygmOl1EUObZ6N7iEx/preview"
+        
+        }
+
+        
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Mindful Eating",
+      items: [
+        {
+          type: "pdf",
+          label: "Mindful Eating",
+          src: "https://drive.google.com/file/d/1chZ5fOae20bhhKecMW2o7YOzo56lj2Q-/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }        
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202108-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "Louie Schwartzberg & Paul Stamets",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [],
+
+    topic: {
+      title: "Movie - Fantastic Fungi",
+      items: [
+        {
+          type: "image",
+          label: "Fantastic Fungi",
+          src: "topic-images/202108-fantastic-fungi.png"
   
         },
     
