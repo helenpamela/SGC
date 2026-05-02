@@ -460,6 +460,9 @@
   */
 
   function goToMeeting() {
+    localStorage.setItem("isSearchMode", "false");
+    localStorage.removeItem("searchResults");
+    
     const month = document.getElementById("month").value;
     const year = document.getElementById("year").value;
 
@@ -475,8 +478,7 @@
 
     // ✅ Store list
     localStorage.setItem("meetingList", JSON.stringify(filteredMeetings));
-    localStorage.setItem("isSearchMode", "false");
-    localStorage.removeItem("searchResults");
+   
 
     // ✅ IMPORTANT: use a REAL ID
     const firstMeetingId = filteredMeetings[0];
