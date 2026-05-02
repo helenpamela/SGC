@@ -628,6 +628,12 @@
 
     function nextResult() {
       let list = getMeetingList();
+
+      console.log("----- NAV DEBUG -----");
+      console.log("LIST:", list);
+      console.log("CURRENT ID:", id);
+      console.log("INDEX:", list.findIndex(x => String(x) === String(id)));
+
       let currentIndex = list.findIndex(x => String(x) === String(id));
 
       if (currentIndex === -1) currentIndex = 0;
@@ -638,6 +644,12 @@
 
     function prevResult() {
       let list = getMeetingList();
+
+      console.log("----- NAV DEBUG -----");
+      console.log("LIST:", list);
+      console.log("CURRENT ID:", id);
+      console.log("INDEX:", list.findIndex(x => String(x) === String(id)));
+
       let currentIndex = list.findIndex(x => String(x) === String(id));
 
       if (currentIndex === -1) currentIndex = 0;
