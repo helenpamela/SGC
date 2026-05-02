@@ -423,6 +423,11 @@
   });
 
   function goToMeeting() {
+    localStorage.setItem("meetingList", JSON.stringify(filteredMeetings));
+    localStorage.setItem("isSearchMode", "false");
+    localStorage.removeItem("searchResults"); // optional but clean
+   
+    
     const month = document.getElementById("month").value;
     const year = document.getElementById("year").value;
 
