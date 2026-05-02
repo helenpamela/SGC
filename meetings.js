@@ -10467,7 +10467,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Working Agenda",
-          src: "https://drive.google.com/file/d/1PhJe3lceJflAyoEUhOEjkPD7U5zZ7MRn/preview"
+          src: "https://drive.google.com/file/d/1UD1pIvAy9S89TnBPuv72dOHhXbp8hcMK/preview"
         }
       ]
     },
@@ -10537,11 +10537,11 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "ascended-master-images/buddha.png"
+          src: "ascended-master-images/202104-buddha.png"
         },
         {
           type: "image",
-          src: "ascended-master-images/buddha-properties.png"
+          src: "ascended-master-images/202104-buddha-properties.png"
         },
         {
           type: "pdf",
