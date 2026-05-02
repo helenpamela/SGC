@@ -436,8 +436,9 @@
 
     window.location.href = `meetings.html?id=${id}`;
   }
-  */
-  /*
+  */ 
+
+  
   function goToMeeting() {
     const month = document.getElementById("month").value;
     const year = document.getElementById("year").value;
@@ -457,8 +458,10 @@
 
     window.location.href = `meetings.html?id=${id}`;
   }
-  */
-
+  
+ 
+ 
+  /* Most recent one 5/2 2 pm didn't work
   function goToMeeting() {
     localStorage.setItem("isSearchMode", "false");
     localStorage.removeItem("searchResults");
@@ -485,6 +488,7 @@
 
     window.location.href = `meetings.html?id=${firstMeetingId}`;
   }
+  */
 
   function searchMeetings() {
     const input = document.getElementById("searchInput").value.toLowerCase();
