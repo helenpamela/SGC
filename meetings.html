@@ -626,7 +626,8 @@
     }
 
 
-    function nextResult() {
+    //function nextResult() {
+    window.nextResult = function() {
       let list = getMeetingList();
 
       console.log("----- NAV DEBUG -----");
@@ -642,7 +643,8 @@
       window.location.href = `meetings.html?id=${nextId}`;
     }
 
-    function prevResult() {
+    //function prevResult() {
+    window.prevResult = function() {
       let list = getMeetingList();
 
       console.log("----- NAV DEBUG -----");
