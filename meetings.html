@@ -595,7 +595,9 @@
       const isSearchMode = localStorage.getItem("isSearchMode") === "true";
 
       if (isSearchMode) {
-        return searchResults;
+        if (searchResults && searchResults.length > 1) {
+          return searchResults;
+        }
       }
 
       const storedList = JSON.parse(localStorage.getItem("meetingList") || "[]");
