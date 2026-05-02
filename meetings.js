@@ -1378,12 +1378,12 @@ const meetings = {
     },
 
     practice: {
-      title: "",
+      title: "Shine Your Light",
       items: [
         {
-          type: "image",
-          label: "",
-          src: "none-images/no-daily-practice.png"
+          type: "pdf",
+          label: "Shine Your Light A-Z form",
+          src: "https://drive.google.com/file/d/1YDBiU4khRDl5uAhaCLOVnqIcNv7Bwu7W/preview"
         }
 
       ]
@@ -1402,14 +1402,15 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "image",
-          src: "none-images/no-meditation.jpg"
+          type: "video",
+          label: "Denise Linn - Who You Are is Enough",
+          src: "https://www.youtube.com/embed/sMrb-itIjxY?si=Fnb4kk0GYhWrtsAK"
         }
       ]
     },
 
     luminary: {
-      title: "",
+      title: "Brene Brown",
       items: [
         {
           type: "image",
@@ -1420,23 +1421,92 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["dragon", "3D printer", "denise linn", "brene brown", "shine your light",
+           "wholehearted", "living"],
 
     topic: {
-      title: "",
+      title: "Wholehearted Living",
       items: [
         {
-          type: "image",
-          label: "",
-          src: "none-images/no-topic.jpg"
+          type: "pdf",
+          label: "Guideposts for Wholehearted Living - Cliff Notes Concepts",
+          src: "https://drive.google.com/file/d/138dA7gS1-0vR9emrb8VOeHXEY3Mv_Lbq/preview"
         },
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Wholehearted Living - Cliff Notes Concepts",
+          src: "https://drive.google.com/file/d/1y7BVc2r1l01aI_rrJ-s0g8hHgigHj8d_/preview"
         },
-
-
+        {
+          type: "pdf",
+          label: "A Simple Guide to Wholehearted Living",
+          src: "https://drive.google.com/file/d/1U0K6ebBgG8e1pHAryJ4zp6flLE5crXOg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Wholehearted Living Images",
+          src: "https://drive.google.com/file/d/1reEgtCDkwKSda4dXhfWgEV4RFp1YfNVi/preview"
+        },
+        {
+          type: "pdf",
+          label: "Wholehearted Living Affirmations",
+          src: "https://drive.google.com/file/d/1OHhDEGlHh2FxnkAuQFR_Fa9gS1btz8h5/preview"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 1",
+          src: "affirmation-images/202508-wholehearted-affirmation-1.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 2",
+          src: "affirmation-images/202508-wholehearted-affirmation-2.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 3",
+          src: "affirmation-images/202508-wholehearted-affirmation-3.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 4",
+          src: "affirmation-images/202508-wholehearted-affirmation-4.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 5",
+          src: "affirmation-images/202508-wholehearted-affirmation-5.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 6",
+          src: "affirmation-images/202508-wholehearted-affirmation-6.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 7",
+          src: "affirmation-images/202508-wholehearted-affirmation-7.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 8",
+          src: "affirmation-images/202508-wholehearted-affirmation-8.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 9",
+          src: "affirmation-images/202508-wholehearted-affirmation-9.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 10",
+          src: "affirmation-images/202508-wholehearted-affirmation-10.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 11",
+          src: "affirmation-images/202508-wholehearted-affirmation-11.png"
+        }
 
       ]
     },
@@ -3504,20 +3574,25 @@ const meetings = {
     },
     announcements: [
       {
-        type: "",
-        label: "",
+        type: "text",
+        label: "Unity's World Day of Prayer",
         src: ""
       },
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Shamrock from Kenny",
+        src: "announcement-images/202408-shamrock-from-kenny.jpg"
       },
       {
-        type: "",
-        label: "",
-        src: ""
-      }
+        type: "image",
+        label: "Norway bookmark from Kenny",
+        src: "announcement-images/202408-norway-bookmark-from-kenny.jpg"
+      },
+      {
+        type: "image",
+        label: "Paris bookmark from Kenny",
+        src: "announcement-images/202408-paris-bookmark-from-kenny.jpg"
+      },
 
     ],
 
@@ -3629,7 +3704,7 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["birthday", "kenny"],
 
     topic: {
       title: "",
@@ -4633,7 +4708,7 @@ const meetings = {
     },
 
     practice: {
-      title: "",
+      title: "Open Your Heart",
       items: [
         {
           type: "pdf",
@@ -4688,7 +4763,8 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["intentions", "setting intentions", "denise linn", "open", "heart", "dragon",
+            "year of the dragon", "open your heart"],
 
     topic: {
       title: "Setting Intentions",
@@ -4977,7 +5053,7 @@ const meetings = {
       ]
     },
 
-    tags: ["burn", "bowl", "ceremony"],
+    tags: ["burn", "bowl", "ceremony", "burning bowl"],
 
     topic: {
       title: "Burning Bowl Ceremony",
@@ -5109,7 +5185,7 @@ const meetings = {
       ]
     },
 
-    tags: ["atlas of the heart"],
+    tags: ["atlas of the heart", "atlas", "heart"],
 
     topic: {
       title: "Atlas of the Heart",
@@ -5284,7 +5360,8 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["imaginagion", "denise linn", "cd", "amy purdy", "barbra streisand", "reba",
+           "three bones", "unicorn"],
 
     topic: {
       title: "Imagination",
@@ -5481,7 +5558,7 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["calm", "emotions", "teddy bear", "desires", "what do i want"],
 
     topic: {
       title: "Calm Your Emotions (Continued)",
@@ -7176,9 +7253,9 @@ const meetings = {
     title: "October 2022",
     month: "October",
     year: 2022,
-    meetingCancelled: false, // or false
-    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
-    cancelMessage: "We'll Be Together Again Soon ✨",
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202210-no-mtg.png", 
+    cancelMessage: "Sometimes we just need a break ✨",
 
     final_agenda: [
       {
@@ -7280,7 +7357,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["csncelled"],
 
     topic: {
       title: "",
@@ -9727,7 +9804,8 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["abraham", "esther hicks", "jerry hicks", "law of attraction", "creative", "workshop",
+           "peppermint", "essential oil", "eo", "worksheet"],
 
     topic: {
       title: "Abraham",
@@ -9967,7 +10045,7 @@ const meetings = {
     ]
   },
 
-    "202107": {
+  "202107": {
     title: "July 2021",
     month: "July",
     year: 2021,
@@ -10099,7 +10177,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["atlantis", "as if", "dolphin", "power", "gratitude", "happier", "life"],
 
     topic: {
       title: "Atlantis Meditation",
@@ -10254,7 +10332,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["cancelled"],
 
     topic: {
       title: "",
@@ -10409,7 +10487,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["cannabis", "trudi's house"],
 
     topic: {
       title: "",
@@ -10446,7 +10524,7 @@ const meetings = {
     ]
   },
 
-    "202104": {
+  "202104": {
     title: "April 2021",
     month: "April",
     year: 2021,
@@ -10633,7 +10711,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["buddha", "heartmath", "coherence", "movie", "lock-in", "heart"],
 
     topic: {
       title: "Watch Movie",
@@ -10642,6 +10720,184 @@ const meetings = {
           type: "",
           label: "",
           src: "none-images/no-topic.jpg"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202103": {
+    title: "March 2021",
+    month: "March",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1et1XP1QP7HUMrH0kOxYnFcqhuuUJTu7B/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/12v3y9DqMLTPlMylaHkU-6RMFhha4sFRz/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Ox",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202103-ox.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202103-ox-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Ox or Bull Symbolism",
+          src: "https://drive.google.com/file/d/1Q8PFU9ZpOlCtL_Ye6Xzie2u5GUXDCxtV/preview"
+        },
+        {
+          type: "pdf",
+          label: "Set Your Vision form",
+          src: "https://drive.google.com/file/d/1_4q5SC02ekb9KKXcftGnIiLmFrX_V_yt/preview"
+        },
+        {
+          type: "pdf",
+          label: "Set Your Vision for 2021",
+          src: "https://drive.google.com/file/d/1I2NOxNeC58dDdGFUXLQbAIz6yQoMpAty/preview"
+        },
+        {
+          type: "pdf",
+          label: "Stuffed Ox from Linda",
+          src: "https://drive.google.com/file/d/1EuPPa6EeZeIFaepsV8UyUfnyQnrunxCk/preview"
+        }
+
+
+
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Centering",
+      items: [
+        {
+          type: "pdf",
+          label: "Centering",
+          src: "https://drive.google.com/file/d/10uSI2ZOEZSC5jKS2iAnqm7YA6kMPBpZ5/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202103-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cliff notes", "vision boards", "ox", "centering"],
+
+    topic: {
+      title: "Cliff Notes & Vision Boards",
+      items: [
+        {
+          type: "pdf",
+          label: "New/Updated Pages for Cliff Notes",
+          src: "https://drive.google.com/file/d/1e7_9MzVsGo_al5RCPg1Rzy3tfwFT2H3R/preview"
   
         },
     
