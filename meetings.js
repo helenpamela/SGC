@@ -10444,7 +10444,225 @@ const meetings = {
       }
 
     ]
-  }
+  },
+
+    "202104": {
+    title: "April 2021",
+    month: "April",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1584TOEuA8ZB5aEu3xSAznvocClZFjfgT/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1PhJe3lceJflAyoEUhOEjkPD7U5zZ7MRn/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Gerry Jampolsky died.",
+        src: ""
+      }, 
+      {
+        type: "pdf",
+        label: "Serenity Bookmark",
+        src: "https://drive.google.com/file/d/1tGOLLRGnRYIE4xpHUaceNcHRDoN6ZCqP/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "A Way of Starting the Day",
+        src: "https://drive.google.com/file/d/1PRR-9VEJnvzwToW7x9CtW6MkSinZQ6fB/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Quick Coherence Log",
+        src: "https://drive.google.com/file/d/1ulfnWA6SMQbuhyAEAnKanC3JUEI4kecs/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Aging Guidelines",
+        src: "https://drive.google.com/file/d/1evtAYviQBxOZvvj3UItcr3aGLvNCqTS5/preview"
+      },
+      {
+        type: "pdf",
+        label: "12 Attitudinal Principles",
+        src: "https://drive.google.com/file/d/1Tc_fzOmNO0W8X9GW3ZEfRVXGVriZ_mK0/preview"
+      },  
+
+
+      
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Buddha",
+
+      items: [
+        {
+          type: "image",
+          src: "ascended-master-images/buddha.png"
+        },
+        {
+          type: "image",
+          src: "ascended-master-images/buddha-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Buddha Facts",
+          src: "https://drive.google.com/file/d/15cnc1-sMnr37dGB8EUZ4AvnBabYzw0z7/preview"
+        },
+        {
+          type: "pdf",
+          label: "Buddha Quotes 1",
+          src: "https://drive.google.com/file/d/1UT4a0KUi2bGy9KnfcNjzuX9ClXZrzVrs/preview"
+        },
+        {
+          type: "pdf",
+          label: "Buddha Garden from Linda",
+          src: "https://drive.google.com/file/d/1hnwh1glw-bdCE7W5_n-HZ6R_4vQHAFv8/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "HeartMath",
+      items: [
+        {
+          type: "pdf",
+          label: "Quick Coherence Technique Basics",
+          src: "https://drive.google.com/file/d/1b8_cLG_uLj0Uai3KJrISy59mbuhJsjGH/preview"
+        },
+        {
+          type: "pdf",
+          label: "Quick Coherence Technique",
+          src: "https://drive.google.com/file/d/1c9aBR8CasAvDrytXa5YtZHV9t2uJ4QMn/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "HeartMath Quotes",
+          src: "https://drive.google.com/file/d/1NoFNhwbSNwgN2hFCGrxhAR57DC3dwKMY/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Heart Lock-in Techniqe",
+          src: "https://drive.google.com/file/d/1iilVXHq7BXgzZ19TLiN1XK1xh4jNBWzI/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Heart Lock-in Log",
+          src: "https://drive.google.com/file/d/13V4EcY_KrKhBk3HZ4qJAxuMJ8SR2gESg/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "12 HeartMath Tools",
+          src: "https://drive.google.com/file/d/1ryoPlyEGMWghHDbWl5ax3unAPij00MDl/preview"
+        }       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202104-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [],
+
+    topic: {
+      title: "Watch Movie",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: "none-images/no-topic.jpg"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 
 }
