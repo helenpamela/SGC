@@ -468,10 +468,10 @@
 
     // ✅ Build filtered list of REAL meeting IDs
     const filteredMeetings = Object.keys(meetings)
-      .filter(id => id.startsWith(year + month))
       .sort(); // optional but nice
-
-    if (filteredMeetings.length === 0) {
+    
+   
+      if (filteredMeetings.length === 0) {
       alert("No meetings found for that month.");
       return;
     }
