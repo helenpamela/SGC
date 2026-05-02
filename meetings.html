@@ -418,6 +418,8 @@
       // console.log("Search results:", searchResults);
 
       document.getElementById("search-nav").style.display = "block";
+      document.getElementById("nextBtn").addEventListener("click", window.nextResult);
+      document.getElementById("prevBtn").addEventListener("click", window.prevResult);
 
       // Delay permissions slightly so DOM is fully ready
       setTimeout(() => {
@@ -730,11 +732,6 @@
       let prevId = list[(currentIndex - 1 + list.length) % list.length];
       window.location.href = `meetings.html?id=${prevId}`;
     };
-
-    window.addEventListener("load", () => {
-      document.getElementById("nextBtn").addEventListener("click", window.nextResult);
-      document.getElementById("prevBtn").addEventListener("click", window.prevResult);
-    });
 
 
 
