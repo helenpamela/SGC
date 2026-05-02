@@ -422,6 +422,7 @@
     yearSelect.appendChild(option);
   });
 
+  /*
   function goToMeeting() {
     localStorage.setItem("meetingList", JSON.stringify(filteredMeetings));
     localStorage.setItem("isSearchMode", "false");
@@ -431,6 +432,27 @@
     const month = document.getElementById("month").value;
     const year = document.getElementById("year").value;
 
+    const id = `${year}${month}`;
+
+    window.location.href = `meetings.html?id=${id}`;
+  }
+  */
+
+  function goToMeeting() {
+    const month = document.getElementById("month").value;
+    const year = document.getElementById("year").value;
+
+    // ✅ Build filtered list of IDs
+    const filteredMeetings = Object.entries(meetings)
+      .filter(([id, m]) => m.year == year && id.slice(4, 6) === month)
+      .map(([id]) => id);
+
+    // ✅ Store it properly
+    localStorage.setItem("meetingList", JSON.stringify(filteredMeetings));
+    localStorage.setItem("isSearchMode", "false");
+    localStorage.removeItem("searchResults");
+
+    // ✅ Go to first meeting (or selected one)
     const id = `${year}${month}`;
 
     window.location.href = `meetings.html?id=${id}`;
@@ -644,9 +666,9 @@
           <div class="feature-title">${item.label}</div>
           </div>
         `;
-        
+
         if (item.src2) {
-          html += `<img src="${item.src2}">`;       
+          html += `<img src="${item.src2}">`;
         }
         modalBody.innerHTML = html;
       }
@@ -703,14 +725,14 @@
   }
 
   function nextItem() {
-  currentIndex = (currentIndex + 1) % filteredItems.length;
-  showPage();
-}
+    currentIndex = (currentIndex + 1) % filteredItems.length;
+    showPage();
+  }
 
-function prevItem() {
-  currentIndex = (currentIndex - 1 + filteredItems.length) % filteredItems.length;
-  showPage();
-}
+  function prevItem() {
+    currentIndex = (currentIndex - 1 + filteredItems.length) % filteredItems.length;
+    showPage();
+  }
 
 
 </script>
