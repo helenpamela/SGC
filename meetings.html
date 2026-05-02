@@ -406,8 +406,6 @@
     } else {
       render();
 
-      // 👇 ADD THIS RIGHT HERE
-      // searchResults = JSON.parse(localStorage.getItem("searchResults") || "[]");
       const isSearchMode = localStorage.getItem("isSearchMode") === "true";
 
       if (isSearchMode) {
@@ -584,12 +582,32 @@
       }
     });
 
+    /*
     function getMeetingList() {
       if (searchResults && searchResults.length > 1) {
         return searchResults;
       }
       return Object.keys(meetings);
     }
+    */
+
+    function getMeetingList() {
+      const isSearchMode = localStorage.getItem("isSearchMode") === "true";
+
+      if (isSearchMode) {
+        return searchResults;
+      }
+
+      const storedList = JSON.parse(localStorage.getItem("meetingList") || "[]");
+
+      if (storedList.length > 0) {
+        return storedList;
+      }
+
+      return Object.keys(meetings);
+    }
+
+
 
     function nextResult() {
       let list = getMeetingList();
