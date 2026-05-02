@@ -660,7 +660,7 @@
       window.location.href = `meetings.html?id=${prevId}`;
     }
       */
-
+    /*
     document.addEventListener("DOMContentLoaded", () => {
 
       window.nextResult = function () {
@@ -696,6 +696,39 @@
       };
 
     });
+    */
+
+    window.nextResult = function () {
+      let list = getMeetingList();
+
+      console.log("----- NAV DEBUG -----");
+      console.log("LIST:", list);
+      console.log("CURRENT ID:", id);
+      console.log("INDEX:", list.findIndex(x => String(x) === String(id)));
+
+      let currentIndex = list.findIndex(x => String(x) === String(id));
+
+      if (currentIndex === -1) currentIndex = 0;
+
+      let nextId = list[(currentIndex + 1) % list.length];
+      window.location.href = `meetings.html?id=${nextId}`;
+    };
+
+    window.prevResult = function () {
+      let list = getMeetingList();
+
+      console.log("----- NAV DEBUG -----");
+      console.log("LIST:", list);
+      console.log("CURRENT ID:", id);
+      console.log("INDEX:", list.findIndex(x => String(x) === String(id)));
+
+      let currentIndex = list.findIndex(x => String(x) === String(id));
+
+      if (currentIndex === -1) currentIndex = 0;
+
+      let prevId = list[(currentIndex - 1 + list.length) % list.length];
+      window.location.href = `meetings.html?id=${prevId}`;
+    };
 
 
 
