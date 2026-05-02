@@ -10555,6 +10555,12 @@ const meetings = {
         },
         {
           type: "pdf",
+          label: "Buddha Quotes 2",
+          src: "https://drive.google.com/file/d/1NTmlFyWlsxAtKtP5LRA2z3-ilsqPx35d/preview"
+        },
+        
+        {
+          type: "pdf",
           label: "Buddha Garden from Linda",
           src: "https://drive.google.com/file/d/1hnwh1glw-bdCE7W5_n-HZ6R_4vQHAFv8/preview"
         }
