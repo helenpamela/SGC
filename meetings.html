@@ -497,7 +497,7 @@
     function setTitle(id, main, sub) {
       const el = document.getElementById(id);
 
-      console.log("in setTitle function, id and el:", id, el);
+      // console.log("in setTitle function, id and el:", id, el);
 
       if (!el) return;
 
@@ -728,9 +728,20 @@
       console.log("CURRENT ID:", id);
       console.log("INDEX:", list.findIndex(x => String(x) === String(id)));
 
-      let currentIndex = list.findIndex(x => String(x) === String(id));
+      //let currentIndex = list.findIndex(x => String(x) === String(id));
 
-      if (currentIndex === -1) currentIndex = 0;
+      //if (currentIndex === -1) currentIndex = 0;
+
+      // 🔥 Force starting position if id exists
+      if (list.includes(id)) {
+        currentIndex = list.indexOf(id);
+      } else {
+        console.warn("ID not found in list:", id);
+        currentIndex = 0;
+      }
+      console.log("URL ID:", id);
+      console.log("LIST:", list);
+      console.log("MATCH FOUND:", list.includes(id));
 
       let prevId = list[(currentIndex - 1 + list.length) % list.length];
       window.location.href = `meetings.html?id=${prevId}`;
