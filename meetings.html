@@ -709,8 +709,8 @@
       let currentIndex = list.findIndex(x => String(x) === String(id));
 
       if (currentIndex === -1) currentIndex = 0;
-
       let nextId = list[(currentIndex + 1) % list.length];
+      console.log("NEXT ID:", nextId);
       window.location.href = `meetings.html?id=${nextId}`;
     };
 
