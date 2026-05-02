@@ -9764,7 +9764,7 @@ const meetings = {
     ]
   },
 
-    "202108": {
+  "202108": {
     title: "August 2021",
     month: "August",
     year: 2021,
@@ -9966,5 +9966,175 @@ const meetings = {
 
     ]
   },
+
+    "202107": {
+    title: "July 2021",
+    month: "July",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1CmI9rlPU1siCFndFpkVZ6vPsmgacnhmJ/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1jyAdoVdg4uR2nK6SUUAxesKgJF6JSB_D/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "The Power of Gratitude",
+        src: "https://drive.google.com/file/d/192rixFymGKK-aj0U4raDbDyWn6-adoE-/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Happier Life",
+        src: "https://drive.google.com/file/d/1sumnNJM3iAf0kiXqKII1q3Y2MEhEt7kU/preview"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Dolphin",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202107-dolphin.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202107-dolphin-propertiess.png"
+        },   
+        {
+          type: "pdf",
+          label: "Dolphin Symbolism",
+          src: "https://drive.google.com/file/d/1RFujVtWdQQxDhrYyX9yU7OF1C8gP5iZT/preview"
+        },
+        {
+          type: "pdf",
+          label: "Stuffed Dolphin",
+          src: "https://drive.google.com/file/d/1RgklRarCuYexl8gztv-Yi0-GOBa_lgTq/preview"
+        }
+
+      ]
+    },
+
+    practice: {
+      title: "As If",
+      items: [
+        {
+          type: "pdf",
+          label: "As If Technique",
+          src: "https://drive.google.com/file/d/1LPXQscJNP_JAvTBBxx4WRVRavKziMXAh/preview"
+        },
+        {
+          type: "pdf",
+          label: "Aristotle Quotes",
+          src: "https://drive.google.com/file/d/1EOGMjdKgMi0LsvPUoAKEi_bOnwVD6kvN/preview"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202107-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: [],
+
+    topic: {
+      title: "Atlantis Meditation",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
