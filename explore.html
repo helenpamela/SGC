@@ -422,73 +422,25 @@
     yearSelect.appendChild(option);
   });
 
-  /*
+
   function goToMeeting() {
-    localStorage.setItem("meetingList", JSON.stringify(filteredMeetings));
-    localStorage.setItem("isSearchMode", "false");
-    localStorage.removeItem("searchResults"); // optional but clean
-   
-    
     const month = document.getElementById("month").value;
     const year = document.getElementById("year").value;
 
+    // ✅ ALL meetings (not filtered to one)
+    const allMeetings = Object.keys(meetings).sort();
+
+    // ✅ store full list
+    localStorage.setItem("meetingList", JSON.stringify(allMeetings));
+    localStorage.setItem("isSearchMode", "false");
+    localStorage.removeItem("searchResults");
+
+    // ✅ go to selected month
     const id = `${year}${month}`;
 
     window.location.href = `meetings.html?id=${id}`;
   }
-  */ 
 
-  
-  function goToMeeting() {
-    const month = document.getElementById("month").value;
-    const year = document.getElementById("year").value;
-
-    // ✅ Build filtered list of IDs
-    const filteredMeetings = Object.entries(meetings)
-      .filter(([id, m]) => m.year == year && id.slice(4, 6) === month)
-      .map(([id]) => id);
-
-    // ✅ Store it properly
-    localStorage.setItem("meetingList", JSON.stringify(filteredMeetings));
-    localStorage.setItem("isSearchMode", "false");
-    localStorage.removeItem("searchResults");
-
-    // ✅ Go to first meeting (or selected one)
-    const id = `${year}${month}`;
-
-    window.location.href = `meetings.html?id=${id}`;
-  }
-  
- 
- 
-  /* Most recent one 5/2 2 pm didn't work
-  function goToMeeting() {
-    localStorage.setItem("isSearchMode", "false");
-    localStorage.removeItem("searchResults");
-    
-    const month = document.getElementById("month").value;
-    const year = document.getElementById("year").value;
-
-    // ✅ Build filtered list of REAL meeting IDs
-    const filteredMeetings = Object.keys(meetings)
-      .sort(); // optional but nice
-    
-   
-      if (filteredMeetings.length === 0) {
-      alert("No meeting found for that month.");
-      return;
-    }
-
-    // ✅ Store list
-    localStorage.setItem("meetingList", JSON.stringify(filteredMeetings));
-   
-
-    // ✅ IMPORTANT: use a REAL ID
-    const firstMeetingId = filteredMeetings[0];
-
-    window.location.href = `meetings.html?id=${firstMeetingId}`;
-  }
-  */
 
   function searchMeetings() {
     const input = document.getElementById("searchInput").value.toLowerCase();
