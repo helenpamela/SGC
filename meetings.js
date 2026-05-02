@@ -9988,7 +9988,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Working Agenda",
-          src: "https://drive.google.com/file/d/1jyAdoVdg4uR2nK6SUUAxesKgJF6JSB_D/preview"
+          src: "https://drive.google.com/file/d/19WtJth7DIULtoVFuGeaFJLGqZjsOCnoL/preview"
         }
       ]
     },
@@ -10039,7 +10039,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "animal-images/202107-dolphin-propertiess.png"
+          src: "animal-images/202107-dolphin-properties.png"
         },   
         {
           type: "pdf",
@@ -10047,9 +10047,9 @@ const meetings = {
           src: "https://drive.google.com/file/d/1RFujVtWdQQxDhrYyX9yU7OF1C8gP5iZT/preview"
         },
         {
-          type: "pdf",
+          type: "image",
           label: "Stuffed Dolphin",
-          src: "https://drive.google.com/file/d/1RgklRarCuYexl8gztv-Yi0-GOBa_lgTq/preview"
+          src: "monthly-focus-images/202107-stuffed-dolphin.png"
         }
 
       ]
