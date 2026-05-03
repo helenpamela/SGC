@@ -7357,7 +7357,7 @@ const meetings = {
       ]
     },
 
-    tags: ["csncelled"],
+    tags: ["cancelled"],
 
     topic: {
       title: "",
