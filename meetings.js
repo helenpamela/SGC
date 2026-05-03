@@ -10926,7 +10926,7 @@ const meetings = {
     ]
   },
 
-    "202102": {
+  "202102": {
     title: "February 2021",
     month: "February",
     year: 2021,
@@ -11377,7 +11377,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["cancelled"],
 
     topic: {
       title: "",
