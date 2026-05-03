@@ -11019,14 +11019,14 @@ const meetings = {
       title: "Chanting",
       items: [
         {
-          type: "pdf",
-          label: "Chants CD Label",
-          src: "https://drive.google.com/file/d/102FpL2qBM9FXjgGWY1E1D0t3vUTmMZn_/preview"
+          type: "image",
+          label: "Chants CD Cover",
+          src: "daily-practices-images/202102-chants-cd-cover.png"
         },
         {
-          type: "pdf",
+          type: "image",
           label: "Chants CD Song List",
-          src: "https://drive.google.com/file/d/1IuBcpIUY54XZmWCcVmKTAcNOwsXqwwUD/preview"
+          src: "daily-practices-images/202102-chants-cd-song-list.png"
         },
         {
           type: "pdf",
@@ -11070,21 +11070,486 @@ const meetings = {
       title: "Celebrate Christmas & Burning Bowl Ceremony",
       items: [
         {
-          type: "pdf",
+          type: "image",
           label: "Burning Bowl Instructions",
-          src: "https://drive.google.com/file/d/1in-rntkg4FfOu4vp4GctRO6RAmRLwB-O/preview"
+          src: "topic-images/202102-burning-bowl-instructions.png"
   
         }, 
         {
-          type: "pdf",
+          type: "image",
           label: "Burning Bowl Statements",
-          src: "https://drive.google.com/file/d/1yy2iZVFoFUcVypXlzr_AcjbZu4sDXzsA/preview"
+          src: "topic-images/202102-burning-bowl-statements.png"
         },
         {
           type: "pdf",
           label: "Bountiful Blessings",
           src: "https://drive.google.com/file/d/1LWrne2bEWkIi5OMgHN2saO3eSm0_aibM/preview"
         },  
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202101": {
+    title: "January 2021",
+    month: "January",
+    year: 2021,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202101-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: [],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202012": {
+    title: "December 2020",
+    month: "December",
+    year: 2020,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202012-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: [],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202011": {
+    title: "November 2020",
+    month: "November",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/202101-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
 
       ]
     },
