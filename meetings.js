@@ -11426,7 +11426,7 @@ const meetings = {
       {
         type: "",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1oL1NBbkCHJBVoGxz2nHiI3xjRNiLMPjl/preview"
       }
     ],
 
@@ -11435,17 +11435,28 @@ const meetings = {
         {
           type: "pdf",
           label: "Working Agenda",
-          src: ""
+          src: "https://drive.google.com/file/d/1g-oNJN-5k915Z6MaBz13azSOqZfmgE7a/preview"
         }
       ]
     },
 
     announcements: [
       {
-        type: "",
-        label: "",
+        type: "text",
+        label: "Handed out Unity Nurture booklet",
         src: ""
-      }, 
+      },
+      {
+        type: "text",
+        label: "Palouse 8-Week Mindfulness Course",
+        src: ""
+      },
+      {
+        type: "text",
+        label: "PSGC Field Trip Nov 18",
+        src: ""
+      }
+       
     ],
 
     intention: [
@@ -11472,43 +11483,61 @@ const meetings = {
     ],
 
     focus: {
-      title: "",
+      title: "White Poppy",
 
       items: [
         {
           type: "image",
-          src: "none-images/no-monthly-focus.png"
+          src: "flower-images/202011-white-poppy.png"
         },
         {
-          type: "",
-          src: ""
+          type: "image",
+          src: "flower-images/202011-white-poppy-properties.png"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202011-white-poppy-from-linda.jpg"
+        },
+        {
+          type: "pdf",
+          label: "White Poppy Meaning",
+          src: "https://drive.google.com/file/d/1j7PwZZ9ObKoGtCWHO5aB3v4HhoUqkXzz/preview"
         }
-    
+       
 
       ]
     },
 
     practice: {
-      title: "",
+      title: "Gratitude",
       items: [
         {
-          type: "image",
-          label: "",
-          src: "none-images/no-daily-practice.png"
+          type: "pdf",
+          label: "Top 3 Gratitude Meditations",
+          src: "https://drive.google.com/file/d/1wrvQd-9whkluI44ZEyxVkN8zpCuBjliX/preview"
         },
         {
-          type: "",
-          label: "",
-          src: ""
-        },        
+          type: "pdf",
+          label: "I am Grateful for",
+          src: "https://drive.google.com/file/d/1UeteTqnDf7SKnU99PXrm0w4kwlLsxVVV/preview"
+        },
+        {
+          type: "video",
+          label: "Gratitude Meditation Strengthen Happiness",
+          src: "https://www.youtube.com/embed/eMu3njVOt6U?si=qJT9SJy_H_6OktG4"
+        }, 
+
+
+
+ 
 
       ],
     },
 
     affirmation: [
       {
-        type: "",
-        src: ""
+        type: "image",
+        src: "affirmation-images/202011-affirmation.png"
       }
     ],
 
@@ -11535,30 +11564,32 @@ const meetings = {
     tags: [],
 
     topic: {
-      title: "",
+      title: "Becoming Metahuman",
       items: [
         {
-          type: "image",
-          label: "",
-          src: "none-images/no-topic.jpg"
-  
-        },
-    
+          type: "video",
+          label: "Becoming Metahuman - Deepak Chopra",
+          src: "https://www.youtube.com/embed/_g7CPhLcqR0?si=Nls3t2oFa3wDkQd7" 
+        },   
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "A More Meaningul Life",
+          src: "https://drive.google.com/file/d/1PX9hJgIkz75hfAJxnyhju_5iG-dzzWG8/preview"
         },
-   
+        {
+          type: "pdf",
+          label: "Becoming Metahuman - Notes",
+          src: "https://drive.google.com/file/d/1k79m-J5HsrrhFSj0awjLPpeFTvrwtsTl/preview"
+        }
 
       ]
     },
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Present from Kathy - Gratitude Card",
+        src: "other-images/202011-present-from-kathy-gratitude-card.jpg"
       },
       {
         type: "",
