@@ -11222,7 +11222,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["cancelled"],
 
     topic: {
       title: "",
