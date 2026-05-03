@@ -10926,6 +10926,183 @@ const meetings = {
     ]
   },
 
+    "202102": {
+    title: "February 2021",
+    month: "February",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Jl21aY4j-xsB-QM5fsSmxn4h2SAzhcSr/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1co6US_c89IQuj8Agd_q-rWYpXAULJ1BW/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Prepare for Vision Boards",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Christmas Tree",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202102-christmas-tree.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202102-christmas-tree-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Christmas Tree Meaning",
+          src: "https://drive.google.com/file/d/1Z0J71BiGBy5Gq9EAibaHJ7ywkY9eeIIw/preview"
+        },
+        {
+          type: "pdf",
+          label: "Meaning of Christmas Symbols",
+          src: "https://drive.google.com/file/d/1aYuNkIiuxqnXStIuBDFPFbxx8KGcZC9d/preview"
+        },
+        {
+          type: "pdf",
+          label: "Christmas Symbolism",
+          src: "https://drive.google.com/file/d/1Cs-BwjNHnZqLaUnhCfpRTRZaLEjfhjdP/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Chanting",
+      items: [
+        {
+          type: "pdf",
+          label: "Chants CD Label",
+          src: "https://drive.google.com/file/d/102FpL2qBM9FXjgGWY1E1D0t3vUTmMZn_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chants CD Song List",
+          src: "https://drive.google.com/file/d/1IuBcpIUY54XZmWCcVmKTAcNOwsXqwwUD/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chanting Definitions",
+          src: "https://drive.google.com/file/d/15giCqeEI0hx_cdg1B_vJpe6BGP0DhW6B/preview"
+        }        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202102-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["christmas", "tree", "burning", "bowl", "ceremony", "chanting"],
+
+    topic: {
+      title: "Celebrate Christmas & Burning Bowl Ceremony",
+      items: [
+        {
+          type: "pdf",
+          label: "Burning Bowl Instructions",
+          src: "https://drive.google.com/file/d/1in-rntkg4FfOu4vp4GctRO6RAmRLwB-O/preview"
+  
+        }, 
+        {
+          type: "pdf",
+          label: "Burning Bowl Statements",
+          src: "https://drive.google.com/file/d/1yy2iZVFoFUcVypXlzr_AcjbZu4sDXzsA/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bountiful Blessings",
+          src: "https://drive.google.com/file/d/1LWrne2bEWkIi5OMgHN2saO3eSm0_aibM/preview"
+        },  
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 }
 
