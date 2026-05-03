@@ -11453,7 +11453,7 @@ const meetings = {
       },
       {
         type: "text",
-        label: "PSGC Field Trip Nov 18",
+        label: "SGC Field Trip Nov 18",
         src: ""
       }
        
@@ -11561,7 +11561,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["metahuman", "deepak chopra", "gratitude", "white poppy", "poppy", "unity", "video"],
 
     topic: {
       title: "Becoming Metahuman",
@@ -11573,7 +11573,7 @@ const meetings = {
         },   
         {
           type: "pdf",
-          label: "A More Meaningul Life",
+          label: "A More Meaningful Life",
           src: "https://drive.google.com/file/d/1PX9hJgIkz75hfAJxnyhju_5iG-dzzWG8/preview"
         },
         {
