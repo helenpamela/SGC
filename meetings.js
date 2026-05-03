@@ -11021,12 +11021,12 @@ const meetings = {
         {
           type: "image",
           label: "Chants CD Cover",
-          src: "daily-practices-images/202102-chants-cd-cover.png"
+          src: "daily-practice-images/202102-chants-cd-cover.png"
         },
         {
           type: "image",
           label: "Chants CD Song List",
-          src: "daily-practices-images/202102-chants-cd-song-list.png"
+          src: "daily-practice-images/202102-chants-cd-song-list.png"
         },
         {
           type: "pdf",
