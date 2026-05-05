@@ -11843,6 +11843,7 @@ const meetings = {
         },
         {
           type: "image",
+          label: "Stuffed Rhino from Linda",
           src: "monthly-focus-images/202009-stuffed-rhino-from-linda.jpg"
         },
         {
