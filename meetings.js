@@ -11843,7 +11843,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "monthly-focus-images/202009-stuffed-rhino-from-linda.png"
+          src: "monthly-focus-images/202009-stuffed-rhino-from-linda.jpg"
         },
         {
           type: "pdf",
@@ -11894,7 +11894,7 @@ const meetings = {
           src: "https://drive.google.com/file/d/18ni05SqsO6gCmd1tID8Vf1FIhhCxw2jX/preview"
         },
         {
-          type: "pdf",
+          type: "",
           label: "",
           src: ""
         },          
