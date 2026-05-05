@@ -11600,5 +11600,378 @@ const meetings = {
     ]
   },
 
+  "202010": {
+    title: "October 2020",
+    month: "October",
+    year: 2020,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202010-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202009": {
+    title: "September 2020",
+    month: "September",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/202101-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1i0P4bxY00G46fWqx-tUnOuQY83iXEGT6/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1JZNFdPenVznjNoGvBGalPin2bhlP1sVc/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Field Trip Oct 7 - Hanging Art",
+        src: ""
+      },
+      {
+        type: "image",
+        label: "Timothy Snyder book - Our Malady",
+        src: "announcement-images/202009-our-malady-timothy-snyder-book.png"
+      },
+      {
+        type: "image",
+        label: "Feel the Fear book - still relevant since 1987",
+        src: "announcement-images/202009-feel-the-fear-book-by-susan-jeffers.png"
+      },
+
+      
+      {
+        type: "image",
+        label: "Courage Bookmark from Linda",
+        src: "announcement-images/202009-courage-bookmark.jpg"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rhinoceros",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202009-rhino.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202009-rhino-properties.png"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202009-stuffed-rhino-from-linda.png"
+        },
+        {
+          type: "pdf",
+          label: "World Rhino Day poster",
+          src: "https://drive.google.com/file/d/1FmQc3LSfT98MJqInV1RE-xNtlsBoF-r8/preview"
+        },
+        {
+          type: "pdf",
+          label: "World Rhino Day info",
+          src: "https://drive.google.com/file/d/1S1PzTzWBP1AZ3WwKM4zIbaQarybmqjNh/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rhino Quotes",
+          src: "https://drive.google.com/file/d/12_8loNryB74Ybt-1k6tYUksvS5157KGP/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rhinoceros Symbolism",
+          src: "https://drive.google.com/file/d/1GqXYaLAD-40pSKqQoZ98JNCUkzNXqM6g/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Rhinoceros",
+          src: "https://drive.google.com/file/d/1NRLpEa2nEaeyUk1gxCVOo4Y17iA_nqB4/preview"
+        },
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Get on Your Bird",
+      items: [
+         {
+          type: "text",
+          label: "Listen to 11-minute meditation 'Get on Your Bird'",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "Get on Your Bird Lesson 1 - Neutral Observation",
+          src: "https://drive.google.com/file/d/1aOaEe87YdugQgStySY1oErrvLtSCMtNr/preview"
+        },
+        {
+          type: "pdf",
+          label: "Get on Your Bird Lesson 2 - Empowered Choice",
+          src: "https://drive.google.com/file/d/18ni05SqsO6gCmd1tID8Vf1FIhhCxw2jX/preview"
+        },
+        {
+          type: "pdf",
+          label: "",
+          src: ""
+        },          
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202009-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Meditation Tips",
+      items: [
+        {
+          type: "pdf",
+          label: "7 Tips for a Thriving Meditation Practice",
+          src: "https://drive.google.com/file/d/1ddXdw6a31PFtVb100OnPj1bBezpp4mfC/preview"
+        }
+      ]
+    },
+
+    tags: ["get on your bird", "perspective", "rhino", "rhinoceros", "timothy snyder",
+           "susan jeffers", "colette baron-reid", "meditation", "tips"],
+
+    topic: {
+      title: "Perspective",
+      items: [
+        {
+          type: "pdf",
+          label: "How to Change Your Perspective",
+          src: "https://drive.google.com/file/d/13EWdDwfYDfcz1Q5n9afCLoVYUZwMk8UP/preview"
+  
+        },
+        {
+          type: "pdf",
+          label: "Perspective Quotes",
+          src: "https://drive.google.com/file/d/1EPi_lGUOKCh47BvNHQLqxMcAJ0aw1oPj/preview"
+  
+        },  
+        {
+          type: "image",
+          label: "Which One Do You See?",
+          src: "topic-images/202009-which-one-do-you-see.jpg"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
