@@ -12962,7 +12962,186 @@ const meetings = {
       }
 
     ]
-  }
+  },
+
+
+  "202002": {
+    title: "February 2020",
+    month: "February",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1aL1U814dqfka-LWD8i_yM8wimL96fSw1/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/19XX1VoFEilRkKLF4ePCjqCdDq9ORHnn-/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "pdf",
+        label: "Declaration of Intention",
+        src: "https://drive.google.com/file/d/144Kk4P_DDRPoaDbdTklWtPmUcbzF781U/preview"
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Rat",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202002-rat.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202002-rat-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Rat Quotes",
+          src: "https://drive.google.com/file/d/11Wo1DADX5m_KuZiu0-_PuybA5Lo6C329/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rat Symbolism",
+          src: "https://drive.google.com/file/d/1P7Mi2T0TUKwGQxrhxA9ullPM0763Lte0/preview"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Rat Quotes",
+          src: "https://drive.google.com/file/d/1B0sBJuoqSOoO5VMgtZU09HWZ4oNsgiSC/preview"
+        },  
+
+      ]
+    },
+
+    practice: {
+      title: "LovingKindness Meditation",
+      items: [
+        {
+          type: "image",
+          label: "LovingKindness Meditation",
+          src: "daily-practice-images/202002-loving-kindness-meditation.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202002-affirmation.png"
+      },
+      {
+        type: "pdf",
+        label: "Law of Attraction Affirmations",
+        src: "https://drive.google.com/file/d/1DpCyQWZ96VTVF754O5AEY9xjWU362QFF/preview"
+      },
+
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Movie",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["movie", "LOA", "law of attraction", "rat", "year of the", "intention", "lovingkindness"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "QiGong Exercise",
+        src: "https://drive.google.com/file/d/1MBFFjwu2j2Jn4hZPajDpUzgeCe1WtSwV/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 
 }
 
