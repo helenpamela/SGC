@@ -11974,5 +11974,210 @@ const meetings = {
     ]
   },
 
+  "202008": {
+    title: "August 2020",
+    month: "August",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/202101-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1LaEf2uVMxb5IwPuATWA9qZ6hOTlqmF3A/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1zdMxSaV386fts0SifhV7FK2p0FHBabrA/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Unity World Day of Prayer",
+        src: "https://drive.google.com/file/d/1bSlw6MBZrHzuHeJk3UX056wAgABqSDUQ/preview"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Protea",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202008-protea.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202008-protea-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "King Protea",
+          src: "https://drive.google.com/file/d/1ShRDf1UmsHW5bRdnzD_U58refhJ9_NmV/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Abraham: Reach for a Better Feeling",
+      items: [
+        {
+          type: "text",
+          label: "Linda read example from book 'Ask and It Is Given'",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "Emotional Scale 3",
+          src: "https://drive.google.com/file/d/1xXmbaAUBssITDCyRT_rziDOx2jTU-UYI/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emotional Scale 2",
+          src: "https://drive.google.com/file/d/1jeKt_uMzgvQh8b6JrWa6RLE5IB71pIiN/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Emotional Scale 1",
+          src: "https://drive.google.com/file/d/1MR7cqmv-FdC-tialM6ZcxKabx_KLaOPg/preview"
+        }        
+       
+
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202008-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/202008-affirmation2.png"
+      },
+
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["protea", "fear", "courage", "abraham", "emotion", "scale", "reach for a better feeling"],
+
+    topic: {
+      title: "Fear/Courage",
+      items: [
+        {
+          type: "pdf",
+          label: "4 Keys to Developing Courage",
+          src: "https://drive.google.com/file/d/1zsDbjI755YpQRA5Mw5pSkoLwJx14sg59/preview"
+        },    
+        {
+          type: "pdf",
+          label: "The 6 Attributes of Courage",
+          src: "https://drive.google.com/file/d/1H3CBYmDpCg6SBgA-N6zs21so_OrdwLRz/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Overcome Fear",
+          src: "https://drive.google.com/file/d/1GvRMgi9LWy-9digb4XWcFDmrAM2GAArx/preview"
+        },
+        {
+          type: "pdf",
+          label: "Courage Quotes",
+          src: "https://drive.google.com/file/d/1zIzLSacAMMDiLp85lJmuKGJ69PQ8eabK/preview"
+        },
+        {
+          type: "pdf",
+          label: "Courageous Steps",
+          src: "https://drive.google.com/file/d/12-Y-u4tCWyNawsaMVBppi6wO-n2qoP7_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emmanuel Dagher on Fear",
+          src: "https://drive.google.com/file/d/1JqHyibGuD12a9tPD9n_9Vg7h_7VHzMTe/preview"
+        },
+        {
+          type: "pdf",
+          label: "Fear Quotes",
+          src: "https://drive.google.com/file/d/167hGAgBUoQQ125L50dm37XWJo0nZ9rTR/preview"
+        },
+        {
+          type: "pdf",
+          label: "Sunny Dawn Johnston on Fear",
+          src: "https://drive.google.com/file/d/16uz-RSm3o_yM_mvYsIWu4lzdFt2tsZ3K/preview"
+        }
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
