@@ -12178,6 +12178,327 @@ const meetings = {
 
     ]
   },
+ 
+  "202007": {
+    title: "July 2020",
+    month: "July",
+    year: 2020,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202007-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
+  "202006": {
+    title: "June 2020",
+    month: "June",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/202101-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1omfSf2u5BPASH3dl0LqlwMC2AFt8D5FY/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1naktrof8DWDgN8TFNmamu_ZFWv2jTzh5/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Happy Color picture",
+        src: "https://drive.google.com/file/d/1H0jFF9xtQOhYjYQK0bIbOxsgcdGFlnAS/preview"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Archangel Jophiel",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/202006-jophiel.png"
+        },    
+        {
+          type: "pdf",
+          src: "archangel-images/202006-jophiel-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Jophiel",
+          src: "https://drive.google.com/file/d/1_8jz6-v8FQt4jYIxE5d6xAiNGpNeZD7c/preview"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Jophiel Attributes",
+          src: "https://drive.google.com/file/d/1YmV2H01yAjT7x2bOw3jSs8t6GjeciUKM/preview"
+        },
+  
+
+      ]
+    },
+
+    practice: {
+      title: "Read Inspirational Material",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202006-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cliff notes", "jophiel", "happy color", "read", "inspiration"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+        {
+          type: "pdf",
+          label: "New/Updated Pages for Cliff Notes",
+          src: "https://drive.google.com/file/d/1FMVx-BesD7g1QD6h9p0uwQ4dM5eQ9e-D/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 
 }
 
