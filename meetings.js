@@ -12400,7 +12400,7 @@ const meetings = {
           src: "archangel-images/202006-jophiel.png"
         },    
         {
-          type: "pdf",
+          type: "image",
           src: "archangel-images/202006-jophiel-properties.png"
         },
         {
