@@ -13307,7 +13307,391 @@ const meetings = {
       }
 
     ]
-  }
+  },
+
+  "201912": {
+    title: "December 2019",
+    month: "December",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1V3sc5_GP-dBjwuYm_HuacUXZ9Nm1zocW/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1EiwLRa3YbJSlIZCNrh7PR9JX1sFjZEGN/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Brene Brown - Spiritual Hero of the Year",
+        src: ""
+      },
+      {
+        type: "pdf",
+        label: "10 Guideposts",
+        src: "https://drive.google.com/file/d/1pTSVZUF8ZBqEZHKgnYW88iH7ZHK6VSeO/preview"
+      },
+      {
+        type: "pdf",
+        label: "A Simple Guide to Wholehearted Living",
+        src: "https://drive.google.com/file/d/1BLrAOGDS0_vHkQ2LBqLc6BP6_loajKL5/preview"
+      },
+      {
+        type: "pdf",
+        label: "10 Guideposts article",
+        src: "https://drive.google.com/file/d/1w4ItwM54sVsuJGnNt8EH_w5xYjKYoHtT/preview"
+      },
+      
+      
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Holly",
+
+      items: [
+        {
+          type: "image",
+          src: "affirmation-images/201912-holly.png"
+        },
+        {
+          type: "image",
+          src: "affirmation-images/201912-holly-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Holly",
+          src: "affirmation-images/201912-holly-properties.png"
+        },
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Affirmations",
+      items: [
+        {
+          type: "pdf",
+          label: "Reiki Affirmations",
+          src: "https://drive.google.com/file/d/1txQMi1Z_TEWudO3zbfHXxL5TNdSoi35S/preview"
+        },
+        {
+          type: "pdf",
+          label: "Overcoming Holiday Stress with Chakras",
+          src: "https://drive.google.com/file/d/1otFoPdPUjh_gNFuhmSjNHYQ7Cc9E6x_0/preview"
+        },
+        {
+          type: "pdf",
+          label: "Holiday Affirmations",
+          src: "https://drive.google.com/file/d/13SEEZpVKfbKxMl0r4yTA_yp9b6Qg-DZR/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Holiday Affirmation",
+          src: "https://drive.google.com/file/d/1LJZD4HR1R_REArVdN5quogAASCh3PbG8/preview"
+        },         
+        
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201912-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["holly", "christmas", "affirmation", "burn", "bowl"],
+
+    topic: {
+      title: "Christmas Celebration & Burning Bowl Ceremony",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201911": {
+    title: "November 2019",
+    month: "November",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1aoP7AUj2byx523MODBppRNg59zjZPRj0/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1bWwOUdKoj6LSL9UhtsX-VD9nTpAroJZm/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Archangel Chamuel",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/201911-chamuel-.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/201911-chamuel-properties.png"
+        },
+        {
+          type: "image",
+          label: "Archangel Chamuel",
+          src: "https://drive.google.com/file/d/1GQrwlfnOZMcOnZf65uICFVr5dGhtT8uV/preview"
+        },
+        {
+          type: "image",
+          label: "Archangel Chamuel Quotes",
+          src: "https://drive.google.com/file/d/1-F8Wl_wmKQKa7wmcnYcPw7kY7sC4-aX1/preview"
+        },
+
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Kindness",
+      items: [
+        {
+          type: "pdf",
+          label: "Choose Kindness Quotes",
+          src: "https://drive.google.com/file/d/1MCSyEn9mDibBVSgFX9uNkeKU1Ho3CIHs/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Little Book of Kindness",
+          src: "https://drive.google.com/file/d/141DXrwAjrY5jLnS0WAB3jT8Oh1s0uv34/preview"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201911-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "Dr. David Hawkins",
+      items: [
+        {
+          type: "pdf",
+          label: "Map of Consciousness",
+          src: "https://drive.google.com/file/d/1HaciZfPEEGWPduQkPASAA3qSFWVNetxr/preview"
+        },
+        {
+          type: "pdf",
+          label: "Power vs Force Chart",
+          src: "https://drive.google.com/file/d/1QI5zhR6r8iXA3elKtMCoOvx2LENXf2bK/preview"
+        },
+        {
+          type: "pdf",
+          label: "Where are You on the Chart?",
+          src: "https://drive.google.com/file/d/13ZUH7_9zlpIM8d84cGK7qsq4WB7BDWz-/preview"
+        },
+        {
+          type: "pdf",
+          label: "Two Critical Points on the Scale",
+          src: "https://drive.google.com/file/d/1atPWQqACVWOud63di61F4CFG5eFmc0S_/preview"
+        },
+
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["david Hawkins", "kindness", "chamuel", "archangel", "raise your vibration", "vibration" ],
+
+    topic: {
+      title: "Raise Your Vibration",
+      items: [
+        {
+          type: "pdf",
+          label: "25 Easy Ways",
+          src: "https://drive.google.com/file/d/1DYkBp_cZbhP-gO3ZVqnD7ybVZuEsjXrE/preview"
+        },    
+        {
+          type: "pdf",
+          label: "9 Ways to Increase Your Frequency",
+          src: "https://drive.google.com/file/d/1Oq5iJ7tsMaVzcePdfCrqGMX113bT4-rQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Raise Your Vibration Quotes",
+          src: "https://drive.google.com/file/d/1E0gpmZ812L5GwRPmy4Zijo_pRVwhBZcg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Activity cards",
+          src: "https://drive.google.com/file/d/1UH_WdEZJy3zaGrmNsmZbzB3zrQ9UOPeS/preview"
+        },
+        {
+          type: "pdf",
+          label: "Activity - blowing bubble",
+          src: "https://drive.google.com/file/d/1tr-DVPu8TswJZ_7jydM0krKJGxnnbu7u/preview"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 
 }
