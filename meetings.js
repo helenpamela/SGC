@@ -13204,11 +13204,11 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "crystals-images/202001_hemi-morphite.png"
+          src: "crystals-images/202001-hemi-morphite.png"
         },
         {
           type: "image",
-          src: "crystals-images/202001_hemi-morphite-properties.png"
+          src: "crystals-images/202001-hemi-morphite-properties.png"
         },
         {
           type: "pdf",
