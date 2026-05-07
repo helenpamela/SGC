@@ -12964,7 +12964,6 @@ const meetings = {
     ]
   },
 
-
   "202002": {
     title: "February 2020",
     month: "February",
@@ -13141,6 +13140,174 @@ const meetings = {
 
     ]
   },
+
+  "202001": {
+    title: "January 2020",
+    month: "January",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1oBsjgfY1DKM5h9cposm_5m2o8Sw5Xlq9/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/12HUbb4kw0kI8akr6pQua-SbOxzvWVdyb/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Linda's surgery Jan 15",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Hemi-Morphite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystals-images/202001_hemi-morphite.png"
+        },
+        {
+          type: "image",
+          src: "crystals-images/202001_hemi-morphite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Hemi-morphite",
+          src: "https://drive.google.com/file/d/1i0U9tEdt4iwp3Nc-H-n_z7a9g5ZtBsh-/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Self-Care",
+      items: [
+        {
+          type: "pdf",
+          label: "Art of Self-Care",
+          src: "https://drive.google.com/file/d/1s24q2amfYMXe4Cm62qeMDu4meQ7yMHmH/preview"
+        },
+        {
+          type: "pdf",
+          label: "12 Things Happy People Do",
+          src: "https://drive.google.com/file/d/1ozkxc1KQDN8dQ--SK6XxPJ8dvfzjXE2r/preview"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202001-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/202001-affirmation2.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/202001-affirmation3.png"
+      }
+    ],
+
+    luminary: {
+      title: "Ram Dass",
+      items: [
+        {
+          type: "pdf",
+          label: "Ram Dass",
+          src: "https://drive.google.com/file/d/1fl-FZjLJGRlo5kvy7MhHqsLSaf6ctM4N/preview"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["hemi-morphite", "crystal", "vision board", "self-care", "ram dass"],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "pdf",
+          label: "Vision Board Tips",
+          src: "https://drive.google.com/file/d/1saW0EMEEyO8zDI_QEkJu-d3rlLQ4REM5/preview"
+  
+        },
+    
+        {
+          type: "pdf",
+          label: "Vision Board Benefits",
+          src: "https://drive.google.com/file/d/1W4e7JTLz9d8-ucaJswNyHKfVh3866UvG/preview"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }
 
 
 }
