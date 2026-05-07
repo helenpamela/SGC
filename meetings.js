@@ -13398,7 +13398,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Holly",
-          src: "affirmation-images/201912-holly-properties.png"
+          src: "https://drive.google.com/file/d/1hKvEpkQLhvRgWfcG8OcTzA7rVXiub7Ph/preview"
         },
     
 
@@ -13465,9 +13465,9 @@ const meetings = {
       title: "Christmas Celebration & Burning Bowl Ceremony",
       items: [
         {
-          type: "image",
+          type: "",
           label: "",
-          src: "none-images/no-topic.jpg"
+          src: ""
   
         },
     
@@ -13559,19 +13559,19 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "archangel-images/201911-chamuel-.png"
+          src: "archangel-images/201911-chamuel.png"
         },
         {
           type: "image",
           src: "archangel-images/201911-chamuel-properties.png"
         },
         {
-          type: "image",
+          type: "pdf",
           label: "Archangel Chamuel",
           src: "https://drive.google.com/file/d/1GQrwlfnOZMcOnZf65uICFVr5dGhtT8uV/preview"
         },
         {
-          type: "image",
+          type: "pdf",
           label: "Archangel Chamuel Quotes",
           src: "https://drive.google.com/file/d/1-F8Wl_wmKQKa7wmcnYcPw7kY7sC4-aX1/preview"
         },
@@ -13591,7 +13591,7 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "The Little Book of Kindness",
+          label: "The Little Book of Kindness - gift from Linda",
           src: "https://drive.google.com/file/d/141DXrwAjrY5jLnS0WAB3jT8Oh1s0uv34/preview"
         },        
 
