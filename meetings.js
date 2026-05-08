@@ -13848,5 +13848,336 @@ const meetings = {
     ]
   },
 
+  "201909": {
+    title: "October 2019",
+    month: "October",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/178_OdbTVwjnJpOjO7gLS4dGBe_1f1zsY/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1mTUO46FxCu9VnEorA2MlEZTni7y1v0VO/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Walter’s birthday party Oct 5",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Turtle",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201909-turtle.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201909-turtle-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Turtle Quotes",
+          src: "https://drive.google.com/file/d/1teCWe8lWBROWU-Tp14iQ6Mzfdkg4U--L/preview"
+        },
+        {
+          type: "pdf",
+          label: "Turtle Symbolism",
+          src: "https://drive.google.com/file/d/1WbgKIKEdeZV9kyG8SzEvJbA-HgvKR8jB/preview"
+        },
+
+        
+      ]
+    },
+
+    practice: {
+      title: "I Am Calm",
+      items: [
+        {
+          type: "pdf",
+          label: "I am Calm by Sonia Choquette",
+          src: "https://drive.google.com/file/d/1IRMD5Nzom4bV9nad9uR5AAAQ-x-CAHvX/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201909-affirmation.png"
+      },
+      {
+        type: "image",
+        label: "Sunny Dawn Johnston",
+        src: "affirmation-images/201909-affirmation-back.png"
+      },
+
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [],
+
+    topic: {
+      title: "Happiness Video",
+      items: [
+        {
+          type: "pdf",
+          label: "Pathway to Joy by Sonia Choquette",
+          src: "https://drive.google.com/file/d/1iocH_vei5vgprRvHaeeuGI-0Xwz2lrhk/viewpre"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Radical Kindness Workbook",
+        src: "https://drive.google.com/file/d/1F6c2J4Bzc9yrCPg80GLxtqQWOp-AI1rB/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201908": {
+    title: "August 2019",
+    month: "August",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1BiPWy7xmYHJDosqo3C2hRE1h3a6AN33g/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1wyULz4mLpSG73LzfrGiYVTCGMsYdT2wL/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "🎂 Walter's birthday party Oct 5",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Turritella Agate",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201908-turritella.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201908-turritella-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Turritella article",
+          src: "https://drive.google.com/file/d/1onFOvUo4sl7dUBqoMCFwI8z9bWV2b6Lk/preview"
+        },
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Meditation",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201908-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["turitella", "meditation"],
+
+    topic: {
+      title: "More/Less, TGIF",
+      items: [
+        {
+          type: "pdf",
+          label: "More or Less form",
+          src: "https://drive.google.com/file/d/1kdWkPg_l2ggWJ7fMNDN_ROkbLREItpR9/preview"
+  
+        },
+    
+        {
+          type: "pdf",
+          label: "TGIF form",
+          src: "https://drive.google.com/file/d/1a1K8jYI4HxJo8KsOAel802RV4mkbq6Bq/preview"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
