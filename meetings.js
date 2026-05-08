@@ -13982,7 +13982,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["walter", "calm", "turtle", "sunny dawn johnston", "happiness"],
 
     topic: {
       title: "Happiness Video",
@@ -14142,7 +14142,7 @@ const meetings = {
       ]
     },
 
-    tags: ["turitella", "meditation"],
+    tags: ["turitella", "meditation", "walter", "birthday", "more", "less", "tgif"],
 
     topic: {
       title: "More/Less, TGIF",
@@ -14158,6 +14158,161 @@ const meetings = {
           type: "pdf",
           label: "TGIF form",
           src: "https://drive.google.com/file/d/1a1K8jYI4HxJo8KsOAel802RV4mkbq6Bq/preview"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201907": {
+    title: "July 2019",
+    month: "July",
+    year: 2019,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201907-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
         },
    
 
