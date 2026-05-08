@@ -14597,11 +14597,11 @@ const meetings = {
     affirmation: [
       {
         type: "image",
-        src: "affirmation-images/201905-affirmation1.png"
+        src: "affirmation-images/201905-affirmation.png"
       },
       {
-        type: "image",
-        src: "affirmation-images/201905-affirmation2.png"
+        type: "",
+        src: ""
       },
     ],
 
@@ -14677,7 +14677,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: "https://drive.google.com/file/d/1-SuSqJ15UDRYbaAIacQvVfMfpd7mLVyU/preview"
+        src: "https://drive.google.com/file/d/1x-MC6zDA8O5TQHW72c0oggr_J86KdYnl/preview"
       }
     ],
 
@@ -14686,7 +14686,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Working Agenda",
-          src: "https://drive.google.com/file/d/1awWre63weALiepARI8aC0YQbKWwXuvdW/preview"
+          src: "https://drive.google.com/file/d/1Po3sObEvxiAST9hWEe_V9OwmzC6e0g_3/preview"
         }
       ]
     },
@@ -14729,7 +14729,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Rose Quartz Quotes",
-          src: "https://drive.google.com/file/d/1uUZE9SzCAGUnQ4fZpqNHqomuMj2ATcGR/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1uUZE9SzCAGUnQ4fZpqNHqomuMj2ATcGR/preview"
         },
         {
           type: "",
@@ -14745,8 +14745,8 @@ const meetings = {
       items: [
         {
           type: "image",
-          label: "daily-practice-images/201904-water-labels.jpg",
-          src: ""
+          label: "",
+          src: "daily-practice-images/201904-water-labels.jpg"
         },
         {
           type: "pdf",
@@ -14834,6 +14834,193 @@ const meetings = {
           label: "10 Steps to Help You Realize True Happiness and Inner Peace",
           src: "https://drive.google.com/file/d/1FVFKEXSt7bdoWiouzvctYc1D2Y2aqh1E/preview"
         },
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201903": {
+    title: "March 2019",
+    month: "March",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1phsug8XPAHTQug_nFGThiyTC8v6RkqWs/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1xgNR32ZHbO1_1UD0DvAKoyfFyo0QrNXB/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "March 31 - National Backup Day",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Pig",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201903-pig.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201903-pig-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Pig",
+          src: "https://drive.google.com/file/d/1wFCYKeWX74Z2seN6ZfPlsGBYp5ivZXdE/preview"
+        },
+        {
+          type: "pdf",
+          label: "Pig Quotes",
+          src: "https://drive.google.com/file/d/1TgIGJZ6uhwNpVgsRVuE3NTgXE6wBH3Ay/preview"
+        },
+        {
+          type: "pdf",
+          label: "Pig Symbolism",
+          src: "https://drive.google.com/file/d/1nb5Kde3XhJ26Wyn6qpvcNj5JRvnyi8rG/preview"
+        },
+        {
+          type: "pdf",
+          label: "",
+          src: "animal-images/201903-pig-properties.png"
+        },
+
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "pdf",
+          label: "Prayer of St. Francis",
+          src: "https://drive.google.com/file/d/1pzACVM5_sGtnLk9GLgjOIyIkO_5XlcaT/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201903-affirmation.png"
+      },
+      {
+        type: "pdf",
+        label: "Prosperity",
+        src: "https://drive.google.com/file/d/1Df4TREW-pW0iF1s0pniF0swHigrb8ALW/preview"
+      },
+      {
+        type: "pdf",
+        label: "Abundance Quotes",
+        src: "https://drive.google.com/file/d/1WOfpvoV12B7I-yVMKU3zmmTyVL2bi4P8/preview"
+      },
+
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["movie", "pig", "year of the", "prosperity", "abundance", "prayer", "st. francis"],
+
+    topic: {
+      title: "Movie",
+      items: [
+        {
+          type: "image",
+          label: "none-images/no-topic.jpg",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
 
       ]
     },
