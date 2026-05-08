@@ -14665,5 +14665,193 @@ const meetings = {
     ]
   },
 
+  "201904": {
+    title: "April 2019",
+    month: "April",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1-SuSqJ15UDRYbaAIacQvVfMfpd7mLVyU/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1awWre63weALiepARI8aC0YQbKWwXuvdW/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rose Quartz",
+
+      items: [
+        {
+          type: "pdf",
+          label: "Rose Quartz Quotes",
+          src: "https://drive.google.com/file/d/1uUZE9SzCAGUnQ4fZpqNHqomuMj2ATcGR/view?usp=drive_link"
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Water Blessing",
+      items: [
+        {
+          type: "image",
+          label: "daily-practice-images/201904-water-labels.jpg",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "Masaru Emoto and His Experiments",
+          src: "https://drive.google.com/file/d/1rJUDJLgizjnDBVVXLBpoeZKc4_Z2t7E-/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },  
+        {
+          type: "",
+          label: "",
+          src: ""
+        },          
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201904-affirmation.png"
+      },
+      {
+        type: "image",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["rose quartz", "masaru emoto", "water", "blessings", "inner peace", "peace"],
+
+    topic: {
+      title: "Inner Peace",
+      items: [
+        {
+          type: "pdf",
+          label: "Inner Peace Quotes",
+          src: "https://drive.google.com/file/d/1gSZuCdSBQsAP7wjn8fgaptdNtkjEirnN/preview"
+  
+        }, 
+        {
+          type: "pdf",
+          label: "Creating an Inner Peace that Endures",
+          src: "https://drive.google.com/file/d/1kYi5bJvi6wwm1Oi4ybvGlycKiuh1RbnE/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Bring Inner Peace into Your Life",
+          src: "https://drive.google.com/file/d/1LVlxzURnOCgIYrFkl3yESmTlBGnB00ij/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Practical Steps to Inner Peace",
+          src: "https://drive.google.com/file/d/1HN664r8HkCHUiFZv1NksE1zd03k53jwt/preview"
+        },
+        {
+          type: "pdf",
+          label: "Inner Peace Checklist",
+          src: "https://drive.google.com/file/d/1R8890a9uGO_KzqcFoGq2pcz1MMBKo4cn/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Steps to Help You Realize True Happiness and Inner Peace",
+          src: "https://drive.google.com/file/d/1FVFKEXSt7bdoWiouzvctYc1D2Y2aqh1E/preview"
+        },
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
