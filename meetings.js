@@ -14633,7 +14633,7 @@ const meetings = {
         {
           type: "image",
           label: "7 Steps to Kindness",
-          src: "topic/images/201905-7-steps-to-kindness.png" 
+          src: "topic-images/201905-7-steps-to-kindness.png" 
         },    
         {
           type: "pdf",
