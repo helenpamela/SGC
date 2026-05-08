@@ -13877,7 +13877,7 @@ const meetings = {
     announcements: [
       {
         type: "text",
-        label: "Walter’s birthday party Oct 5",
+        label: "🎂 Walter's birthday party Oct 5",
         src: ""
       }, 
     ],
@@ -13990,7 +13990,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Pathway to Joy by Sonia Choquette",
-          src: "https://drive.google.com/file/d/1iocH_vei5vgprRvHaeeuGI-0Xwz2lrhk/viewpre"
+          src: "https://drive.google.com/file/d/1iocH_vei5vgprRvHaeeuGI-0Xwz2lrhk/preview"
   
         },
     
