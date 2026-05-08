@@ -14355,7 +14355,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Working Agenda",
-          src: "https://drive.google.com/file/d/1jNnT6hd_BqxX5nNuhK9V_IJdtkdAnfLr/preview"
+          src: "https://drive.google.com/file/d/1x9KscHuPwvDXjcLbf-KuBzR2EwlxzGz2/preview"
         }
       ]
     },
@@ -14472,6 +14472,178 @@ const meetings = {
           type: "",
           label: "",
           src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201905": {
+    title: "May 2019",
+    month: "May",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/14WXuAqOQ19GnY5dDWtMhIS3xtLyi6lWD/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1OBUTVj2lzvBg8olWYGr87_5mJMz9JPi1/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Lion",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201905-lion.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201905-lion-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Lion Images",
+          src: "https://drive.google.com/file/d/1dri4SVx5Xq-REY6sDINgwDv9HvszZtrc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Symbolic Meaning of Lions",
+          src: "https://drive.google.com/file/d/1gX5eSxruSRvaO0cULg-wfKirX8UjHJ7N/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Choose Kindness",
+      items: [
+        {
+          type: "pdf",
+          label: "Choose Kindness Quotes",
+          src: "https://drive.google.com/file/d/17TAqg_QVGM52ekmAwZleoxs-BPU0J9Gd/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201905-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/201905-affirmation2.png"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["radical", "kindness", "lion", "workbook"],
+
+    topic: {
+      title: "Radical Kindness",
+      items: [
+        {
+          type: "image",
+          label: "7 Steps to Kindness",
+          src: "topic/images/201905-7-steps-to-kindness.png" 
+        },    
+        {
+          type: "pdf",
+          label: "Radical Kindness Workbook",
+          src: "https://drive.google.com/file/d/1PyE9JcT-7gtx6pOBGRjh8aZrS1yI2w2L/preview"
+        },
+        {
+          type: "pdf",
+          label: "Radical Kindness Book Excerpts",
+          src: "https://drive.google.com/file/d/1pdxM3RBXF59435RKmmKoKukLtXnILFaQ/preview"
         },
    
 
