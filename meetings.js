@@ -15013,8 +15013,8 @@ const meetings = {
       title: "Movie",
       items: [
         {
-          type: "image",
-          label: "none-images/no-topic.jpg",
+          type: "",
+          label: "",
           src: ""
   
         },
