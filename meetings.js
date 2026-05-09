@@ -15044,5 +15044,241 @@ const meetings = {
     ]
   },
 
+  "201902": {
+    title: "February 2019",
+    month: "February",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1obBx04NiFbor9lwc7oZ7o22PfWmXDT1u/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1WJXXJQjacMxd7UGIOnkOMPXXVeTuPXAD/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Spiritual Checklist",
+        src: "https://drive.google.com/file/d/1P_RIqrtMGG3xu9PjgsQRF3OeSahIkNAX/preview"
+      },
+      {
+        type: "pdf",
+        label: "Hay House Summit",
+        src: "https://drive.google.com/file/d/1gyFLVwmknJHiqE0HooFIfzdXUdBpsl-6/preview"
+      },
+      {
+        type: "pdf",
+        label: "Random Acts of Kindness",
+        src: "https://drive.google.com/file/d/10LebUWDnOCHMATcdYmHMUb7RKLowjFLB/preview"
+      },  
+      {
+        type: "pdf",
+        label: "7 Ways to Start Making Kindness the Norm",
+        src: "https://drive.google.com/file/d/1yvD-1du9AihFyulZWlvXDMfd9t3umdsW/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "50 Ways to be Kind",
+        src: "https://drive.google.com/file/d/1LUvwON-lIDZ0d716YkWhTMptYCLYILtG/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Kindness - Pass it On",
+        src: "https://drive.google.com/file/d/1UjGDR0STAC4-tfAi6I1QRwZXBNispF-Q/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Kindness Quotes",
+        src: "https://drive.google.com/file/d/1bSHn0vUclxqcIEB9rxF_2LL2Go427rwm/preview"
+      },  
+      {
+        type: "image",
+        label: "Archangel Haniel",
+        src: "archangel-images/201902-haniel-properties.png"
+      },  
+      {
+        type: "image",
+        label: "Archangel Haniel - properties",
+        src: "archangel-images/201902-haniel-properties.png"
+      },
+      {
+        type: "pdf",
+        label: "Haniel - article",
+        src: "https://drive.google.com/file/d/1o_Lu0Kxse4FLkSo3HC2o2y7JEedsFby1/preview"
+      },  
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Butterfly",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201902-butterfly.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201902-butterfly-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Butterfly Quotes",
+          src: "https://drive.google.com/file/d/1v20P4kpmgqQOTficUbDiEyTz4MMqQMRg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Butterfly Spirit Animal",
+          src: "https://drive.google.com/file/d/18-ynuV9iF36Szikq1kpDGybjMh9ODruN/preview"
+        },
+        {
+          type: "pdf",
+          label: "Butterfly Quotes",
+          src: "https://drive.google.com/file/d/1v20P4kpmgqQOTficUbDiEyTz4MMqQMRg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Spread Your Wings",
+          src: "https://drive.google.com/file/d/1czW-W5x0_TS22H5yJZpxaUtoYCngeTrL/preview"
+        },
+        {
+          type: "image",
+          label: "Butterfly Charms from Linda",
+          src: "monthly-focus-images/201902-butterfly-charms-from-linda.jpg"
+        },
+        {
+          type: "image",
+          label: "Colored Butterflies from Linda",
+          src: "monthly-focus-images/201902-colored-butterflies-from-linda.jpg"
+        },
+
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Create My Day",
+      items: [
+        {
+          type: "pdf",
+          label: "I Create My Day by Dr. Joe Dispenza",
+          src: "https://drive.google.com/file/d/1Q6ZCgCKaAdhNjovTauWmIAN5tciPCoic/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201902-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/201902-affirmation2.png"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cliff notes", "create my day", "day", "create", "butterfly", "random acts of kindness",
+         "kindness", "joe dispenza"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+        {
+          type: "pdf",
+          label: "New/Updated Pages",
+          src: "https://drive.google.com/file/d/1PU8whYBNXyMvkaul0LMVcb3e8OxtFWsc/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Kenny - Present from Ireland",
+        src: "other-images/201902-kenny-present-from-ireland.jpg"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
