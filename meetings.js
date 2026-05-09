@@ -15109,7 +15109,7 @@ const meetings = {
       {
         type: "image",
         label: "Archangel Haniel",
-        src: "archangel-images/201902-haniel-properties.png"
+        src: "archangel-images/201902-haniel.png"
       },  
       {
         type: "image",
