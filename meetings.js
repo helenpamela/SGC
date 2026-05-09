@@ -14885,6 +14885,7 @@ const meetings = {
         label: "March 31 - National Backup Day",
         src: ""
       }, 
+
     ],
 
     intention: [
@@ -14938,18 +14939,21 @@ const meetings = {
           src: "https://drive.google.com/file/d/1nb5Kde3XhJ26Wyn6qpvcNj5JRvnyi8rG/preview"
         },
         {
-          type: "pdf",
-          label: "",
-          src: "animal-images/201903-pig-properties.png"
+          type: "image",
+          label: "Piggy Bank from Linda",
+          src: "monthly-focus-images/201903-piggy-bank-from-linda.jpg"
         },
-
+        {
+          type: "image",
+          label: "Stuffed Piggy from Linda",
+          src: "monthly-focus-images/201903-stuffed-piggy-from-linda.jpg"
+        },
     
-
       ]
     },
 
     practice: {
-      title: "",
+      title: "Prayer",
       items: [
         {
           type: "pdf",
@@ -15027,9 +15031,9 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Present from Kenny",
+        src: "other-images/201903-present-from-kenny.jpg"
       },
       {
         type: "",
