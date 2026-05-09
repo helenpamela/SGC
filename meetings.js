@@ -15276,6 +15276,193 @@ const meetings = {
         label: "",
         src: ""
       }
+    ]
+  },
+
+  "201901": {
+    title: "January 2019",
+    month: "January",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1DRU3wxyqPvcd9AC8RAZczGrSrueF-Wv1/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1EJ_W__Yrbveu8O_-C-kHtUKnZyzp4IbC/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Bluebird of Happiness",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201901-bluebird.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201901-bluebird-properties.png"
+        }, 
+        {
+          type: "pdf",
+          label: "Bluebird Symbolism",
+          src: "https://drive.google.com/file/d/1800zrS2NmXHWr908jwiA5ZTZKTDEzyaM/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Days of Happiness Affirmations",
+          src: "https://drive.google.com/file/d/1o1N3KvBUMy5XroqoQzvasBB-icXfJZMS/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bluebird Meaning",
+          src: "https://drive.google.com/file/d/1iUq6NStAC1v9hBFdLDHjM0Xrx5F3K3_5/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bluebird Quotes",
+          src: "https://drive.google.com/file/d/1TkTXrAH4enQ7wzRcAOBkGaxvDXEb_Ivv/preview"
+        },
+        {
+          type: "pdf",
+          label: "Happiness Quote",
+          src: "https://drive.google.com/file/d/1duT63of9YZeSPPBl5G6yq2SKu7XaRkbg/preview"
+        },        
+
+      ]
+    },
+
+    practice: {
+      title: "Set Intentions",
+      items: [
+        {
+          type: "pdf",
+          label: "Deepak Quote",
+          src: "https://drive.google.com/file/d/1VAaqhEr98Zo0UwZr_O-xQ7JeHazJ1XPc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Setting Intentions for 2019",
+          src: "https://drive.google.com/file/d/1CCUG8StWIsJ6m-e6LxNPy2JF9Z2rcnwV/preview"
+        },
+        {
+          type: "pdf",
+          label: "Declaration of Intention",
+          src: "https://drive.google.com/file/d/1-pDc1SQCKWrLjhsscWvGDA9BJtuVztD8/preview"
+        },         
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201901-affirmation.png"
+      },
+      {
+        type: "image",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["vision board", "bluebird", "happiness", "intentions"],
+
+    topic: {
+      title: "Vision Board",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Alaska Bookmark from Linda",
+        src: "other-images/201901-alaska-bookmark.jpg"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
 
     ]
   },
