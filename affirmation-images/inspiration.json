@@ -1,0 +1,1268 @@
+{
+  "quotes": [
+    {
+      "text": "For every minute you are angry you lose sixty seconds of happiness.",
+      "author": "Ralph Waldo Emerson",
+      "tags": ["anger", "happiness"]
+    },
+    
+    {
+      "text": "Peace comes from within.",
+      "author": "Buddha",
+      "tags": ["peace"]
+    },
+    {
+      "text": "The way to gain a good reputation is to endeavor to be what you desire to appear.",
+      "author": "Socrates",
+      "tags": ["reputation", "being"]
+    },
+    {
+      "text": "How good can it get?",
+      "author": "Cynthia Sue Larson",
+      "tags": ["quantum jumping", "shifting reality" ]
+    },
+    {
+      "text": "Everything we call real is made of things that cannot be regarded as real. If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.",
+      "author": "Niels Bohr",
+      "tags": ["quantum jumping", "quantum mechanics"]
+    },
+    {
+      "text": "Perseverance - the greater the obstacle, the greater the glory in overcoming it.",
+      "author": "Unknown",
+      "tags": ["perseverance", "obstacle", "glory"]
+    },
+    {
+      "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "tags": ["perseverance", "success", "failure", "courage"]
+    },
+    {
+      "text": "Perseverance, secret of triumphs.",
+      "author": "Victor Hugo",
+      "tags": ["perseverance"]
+    },
+    {
+      "text": "Great works are performed not by strength but by perseverance.",
+      "author": "Samuel Johnson",
+      "tags": ["perseverance", "strength"]
+    },
+    {
+      "text": "Energy and persistence conquer all things.",
+      "author": "Benjamin Franklin",
+      "tags": ["reputation", "energy"]
+    },
+    {
+      "text": "Success is almost totally dependent upon drive and persistence.",
+      "author": "Thomas Edison",
+      "tags": ["perseverance", "success"]
+    },
+    {
+      "text": "Fall down seven times, stand up eight",
+      "author": "Japanese Proverb",
+      "tags": ["perseverance", "failure"]
+    },
+    {
+      "text": "You may encounter many defeats, but you must not be defeated.",
+      "author": "Maya Angelou",
+      "tags": ["perseverance", "defeat"]
+    },
+    {
+      "text": "The brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
+      "author": "Randy Pausch",
+      "tags": ["perseverance", "obstacle", "desire"]
+    },
+    {
+      "text": "Courage is not having the strength to go on; it is going on when you don’t have the strength.",
+      "author": "Theodore Roosevelt",
+      "tags": ["perseverance", "courage", "strength"]
+    },
+    {
+      "text": "If you are going through hell, keep going.",
+      "author": "Winston Churchill",
+      "tags": ["perseverance"]
+    },
+    {
+      "text": "If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.",
+      "author": "Martin Luther King Jr.",
+      "tags": ["perseverance", "moving forward"]
+    },
+    {
+      "text": "The man who moves a mountain begins by carrying away small stones.",
+      "author": "Confucius",
+      "tags": ["perseverance", "small steps", "tiny steps", "steps"]
+    },
+    {
+      "text": "By perseverance the snail reached the ark.",
+      "author": "Charles Spurgeon",
+      "tags": ["perseverance"]
+    },
+    {
+      "text": "Enlightenment isn't a change into something better or more. It's a simple recognition of who we truly are.",
+      "author": "Unknown",
+      "tags": ["enlightenment"]
+    },
+    {
+      "text": "The path to enlightenment is not a path at all, it's actually a metaphor for the time it takes for you to allow yourself to be happy with you already are, where you're already at, and what you already have - no matter what.",
+      "author": "Mike Dooley",
+      "tags": ["enlightenment", "path", "happiness"]
+    },
+    {
+      "text": "Don't you know yet?  It is your light that lights the worlds.",
+      "author": "Rumi",
+      "tags": ["light"]
+    },
+    {
+      "text": "You were born with wings, why prefer to crawl through life?",
+      "author": "Rumi",
+      "tags": ["enlightenment", "flying", "wings"]
+    },
+    {
+      "text": "Do not feel lonely.  The entire universe is inside you.",
+      "author": "Rumi",
+      "tags": ["enlightenment", "universe", "within"]
+    },
+    {
+      "text": "You are not a drop in the ocean.  You are the entire ocean, in a drop.",
+      "author": "Rumi",
+      "tags": ["enlightenment", "ocean"]
+    },
+    {
+      "text": "Happiness is there for the taking - and the making.",
+      "author": "Oprah",
+      "tags": ["happiness"]
+    },
+    {
+      "text": "To experience peace does not mean that your life is always blissful.  It means that you are capable of tapping into a blissful state of mind amidst the chaos of a normal hectic life.",
+      "author": "Jill Bolte Taylor",
+      "tags": ["peace", "bliss"]
+    },
+    {
+      "text": "The best way to get rid of the pain is to feel the pain. And when you feel the pain and go beyond it, you'll see there's a very intense love that is wanting to awaken itself.",
+      "author": "Deepak Chopra",
+      "tags": ["pain", "love"]
+    },
+    {
+      "text": "So many conditions of happiness are available; more than enough for you to be happy right now. You don't have to run into the future to get more.",
+      "author": "Thich Nhat Nanh",
+      "tags": ["happiness"]
+    },
+    {
+      "text": "When we are unable to find tranquility within ourselves, it is useless to seek it elsewhere.",
+      "author": "La Rochefoucauld",
+      "tags": ["tranquility", "seek"]
+    },
+    {
+      "text": "The greatest weapon against stress is our ability to choose one thought over another.",
+      "author": "William James",
+      "tags": ["stress", "choose", "thought"]
+    },
+    {
+      "text": "Never doubt that a small group of thoughtful, committed citizens can change the world.  Indeed, it is the only thing that ever has.",
+      "author": "Margaret Mead",
+      "tags": ["change the world", "making a difference"]
+    },
+    {
+      "text": "Instead of thinking outside the box, get rid of the box",
+      "author": "Deepak Chopra",
+      "tags": ["box", "thinking"]
+    },
+    {
+      "text": "Be who you are and say what you feel because those who mind don't matter and those who matter don't mind",
+      "author": "Dr Seuss",
+      "tags": ["authentic"]
+    },
+    {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "tags": ["past", "future", "go within"]
+    },
+    {
+      "text": "Be happy for no reason, like a child. If you're happy for a reason, you're in trouble, because that reason can be taken from you.",
+      "author": "Deepak Chopra",
+      "tags": ["happiness"]
+    },
+    {
+      "text": "Begin challenging your own assumptions. Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.",
+      "author": "Alan Alda",
+      "tags": ["assumptions", "perspective", "beliefs"]
+    },
+    {
+      "text": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "tags": ["change the world", "making a difference"]
+    },
+    {
+      "text": "Life loves to be taken by the lapels and told, I am with you kid, let's go.",
+      "author": "Maya Angelou",
+      "tags": ["life", "let's go", "inspiration"]
+    },
+    {
+      "text": "When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bonds: your mind transcends limitations, your consciousness expands in every direction, and you find yourself in a new, great, and wonderful world. Dormant forces, faculties, and talents become alive, and you discover yourself to be a greater person by far than you ever dreamed yourself to be.",
+      "author": "Patanjali",
+      "tags": ["inspiration", "consciousness", "limitations", "talent"]
+    },
+    {
+      "text": "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
+      "author": "Lao Tzu",
+      "tags": ["simplicity", "patience", "compassion"]
+    },
+    {
+      "text": "If you are depressed, you live in the past...If you are anxious, you live in the future...But, if you are at peace, you live in the present.",
+      "author": "Lao Tzu",
+      "tags": ["past", "future", "present", "depressed", "anxious", "peace"]
+    },
+    {
+      "text": "A journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu",
+      "tags": ["step"]
+    },
+    {
+      "text": "Doing nothing is better than being busy doing nothing.",
+      "author": "Lao Tzu",
+      "tags": ["busy", "doing nothing"]
+    },
+    {
+      "text": "Watch your thoughts; they become words. Watch your words; they become actions. Watch your actions; they become habits. Watch your habits; they become character. Watch your character; it becomes your destiny",
+      "author": "Lao Tzu",
+      "tags": ["words", "actions", "habits", "character", "destiny", "watch"]
+    },
+    {
+      "text": "If you do not change direction, you may end up where you are heading.",
+      "author": "Lao Tzu",
+      "tags": ["direction", "change", "end up"]
+    },
+    {
+      "text": "Care about what other people think and you will always be their prisoner.",
+      "author": "Lao Tzu",
+      "tags": ["prisoner", "other people", "think"]
+    },
+    {
+      "text": "New beginnings are often disguised as painful endings.",
+      "author": "Lao Tzu",
+      "tags": ["beginning", "ending"]
+    },
+    {
+      "text": "If you want to awaken all of humanity, then awaken all of yourself. If you want to eliminate suffering in the world, then eliminate all that is dark and negative in yourself. Truly, the greatest gift you have to give is that of your own self-transformation.",
+      "author": "Lao Tzu",
+      "tags": ["awaken", "suffering", "gift", "self-transformation", "negative"]
+    },
+    {
+      "text": "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.",
+      "author": "Lao Tzu",
+      "tags": ["content", "lack", "abundance"]
+    },
+    {
+      "text": "It is not the critic who counts; not the man who points out how the strong man stumbles or where the doer of deeds could have done them better.  The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood...",
+      "author": "Theodore Roosevelt",
+      "tags": ["arena", "critic", "dust", "sweat"]
+    },
+    {
+      "text": "You should sit in meditation for twenty minutes every day; Unless you are too busy; then you should sit for an hour.",
+      "author": "Old Zen Adage",
+      "tags": ["meditation", "busy"]
+    },
+    {
+      "text": "Journaling: Paying attention to the inside for the purpose of living well from the inside out.",
+      "author": "Lee Wise",
+      "tags": ["journaling"]
+    },
+    {
+      "text": "Keeping a journal will change your life in ways that you'd never imagine.",
+      "author": "Oprah Winfrey",
+      "tags": ["journaling", "change", "life"]
+    },
+    {
+      "text": "As the number of studies increased, it became clear that writing was a far more powerful tool for healing than anyone had ever imagined.",
+      "author": "James W. Pennebaker",
+      "tags": ["journaling", "tool", "healing"]
+    },
+    {
+      "text": "I can shake off everything as I write. My sorrows disappear. My courage is reborn.",
+      "author": "Anne Frank",
+      "tags": ["journaling", "sorrow", "courage"]
+    },
+    {
+      "text": "Fill your paper with the breathings of your heart.",
+      "author": "William Wordsworth",
+      "tags": ["journaling", "heart"]
+    },
+    {
+      "text": "Journal writing is a voyage to the interior.",
+      "author": "Christina Baldwin",
+      "tags": ["journaling", "voyage", "interior"]
+    },
+    {
+      "text": "If the only prayer you said in your whole life was 'Thank you', that would suffice.",
+      "author": "Master Eckhart",
+      "tags": ["prayer", "gratitude", "thank you"]
+    },
+    {
+      "text": "Gratitude can transform common days into thanksgiving, turn routine jobs into joy, and change ordinary opportunities into blessings.",
+      "author": "William Arthur Ward",
+      "tags": ["gratitude", "thanksgiving", "joy", "blessings"]
+    },
+    {
+      "text": "Gratitude is one of the sweet shortcuts to finding peace of mind and happiness inside. No matter what is going on outside of us, there's always something we could be grateful for. ",
+      "author": "Barry Neil Kaufman",
+      "tags": ["gratitude", "peace", "happiness", "grateful"]
+    },
+    {
+      "text": "Gratitude is the complete and full response of the heart to everything in the universe.",
+      "author": "Wayne Dyer",
+      "tags": ["gratitude", "heart", "universe", "response"]
+    },
+    {
+      "text": "Love is the only miracle there is.",
+      "author": "Osho",
+      "tags": ["love", "miracle"]
+    },
+    {
+      "text": "Every day in every way I’m getting better and better.",
+      "author": "Laura Silva",
+      "tags": ["day", "better"]
+    },
+    {
+      "text": "I change my thoughts, I change my world.",
+      "author": "Norman Vincent Peale",
+      "tags": ["change", "thoughts", "world"]
+    },
+    {
+      "text": "Living life without forgiveness is like drinking poison and waiting for the other person to die. Being able to forgive means you're also able to move forward.",
+      "author": "Unknown",
+      "tags": ["forgive", "poison", "forgiveness"]
+    },
+    {
+      "text": "Forgiveness is giving up the hope that the past could've been different.",
+      "author": "Oprah Winfrey",
+      "tags": ["forgiveness", "hope"]
+    },
+    {
+      "text": "To forgive is to set a prisoner free and discover that the prisoner was you.",
+      "author": "Lewis R. Smede",
+      "tags": ["forgive", "prisoner", "free"]
+    },
+    {
+      "text": "The practice of forgiveness is our most important contribution to the healing of the world.",
+      "author": "Marianne Williamson",
+      "tags": ["forgiveness", "healing", "world", "contribution"]
+    },
+    {
+      "text": "Forgiveness is the fragrance that the violet sheds on the heel that has crushed it.",
+      "author": "Mark Twain",
+      "tags": ["forgiveness", "fragrance", "violet", "heel", "crush"]
+    },
+    {
+      "text": "When I am able to resist the temptation to judge others, I can see them as teachers of forgiveness in my life, reminding me that I can only have peace of mind when I forgive rather than judge.",
+      "author": "Gerald Jampolsky",
+      "tags": ["temptation", "judge", "forgiveness", "teacher", "peace"]
+    },
+    {
+      "text": "Nothing is more contagious than your example.",
+      "author": "John C. Maxwell",
+      "tags": ["example", "contagious"]
+    },
+    {
+      "text": "How much we know and understand ourselves is critically important, but there is something that is even more essential to living a wholehearted life: loving ourselves.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "love"]
+    },
+    {
+      "text": "Wholehearted living is about engaging in our lives from a place of worthiness. ",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "worthy", "worthiness"]
+    },
+    {
+      "text": "Let go of who you're supposed to be; embrace who you are.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "authenticity"]
+    },
+    {
+      "text": "We can't practice compassion with other people if we can't treat ourselves kindly.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "self-compassion"]
+    },
+    {
+      "text": "Self-compassion is key because when we're able to be gentle with ourselves in the midst of shame, we're more likely to reach out, connect, and experience empathy.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "self-compassion", "shame", "empathy"]
+    },
+    {
+      "text": "We need resilience and hope, and a spirit that can carry us through doubt and fear. We need to believe we can effect change if we want to live and love with our whole hearts.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "resilience", "hope", "fear", "doubt"]
+    },
+    {
+      "text": "Gratitude is a practice that shifts your focus from what your life lacks to the abundance that is already present.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "gratitude", "focus", "abundance"]
+    },
+    {
+      "text": "Joy - a spiritual way of connecting to the world that's connected to practicing gratitude.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "joy", "gratitude"]
+    },
+    {
+      "text": "Practicing gratitude is how we acknowledge that there's enough and that we're enough.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "gratitude"]
+    },
+    {
+      "text": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "gratitude", "peace", "vision"]
+    },
+    {
+      "text": "I don't have to chase extraordinary moments to find happiness -- it's right in front of me if I'm paying attention and practicing gratitude.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "gratitude", "happiness"]
+    },
+    {
+      "text": "I have never interviewed a single person who talks about the capacity to really experience and soften into joy who does not actively practice gratitude.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "joy", "gratitude"]
+    },
+    {
+      "text": "Twinkle lights are the perfect metaphor for joy. Joy is not a constant. It comes to us in moments -- often ordinary moments. Sometimes we miss out on the bursts of joy because we're too busy chasing down extraordinary moments. Other times we're so afraid of the dark that we don't dare let ourselves enjoy the light. I believe a joyful life is made up of joyful moments gracefully strung together by trust, gratitude, inspiration, and faith.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "trust", "gratitude", "inspiration", "faith"]
+    },
+    {
+      "text": "Intuition is not a single way of knowing -- it's our ability to hold space for uncertainty and our willingness to trust the many ways we've developed knowledge and insight, including instinct, experience, faith, and reason.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "instinct", "experience", "faith", "reason", "intuition"]
+    },
+    {
+      "text": "Faith is a place of mystery, where we find the courage to believe in what we cannot see and the strength to let go of our fear of uncertainty.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "faith", "mystery", "courage", "strength", "uncertainty"]
+    },
+    {
+      "text": "Creativity, which is the expression of our originality, helps us stay mindful that what we bring to the world is completely original and cannot be compared.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "creativity", "comparison", "original"]
+    },
+    {
+      "text": "Creativity is the way I share my soul with the world.",
+      "author": "Brene Brown",
+      "tags": ["creativity", "wholehearted"]
+    },
+    {
+      "text": "If we want to live a wholehearted life, we have to become intentional about cultivating rest and play, and we must work  to let go of exhaustion as a status symbol and productivity as self-worth.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "rest", "play", "courage", "exhaustion"]
+    },
+    {
+      "text": "It takes courage to say yes to rest and play in a culture where exhaustion is seen as a status symbol.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "rest", "play", "courage", "exhaustion"]
+    },
+    {
+      "text": "Rest and play are as vital to our health as nutrition and exercise.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "rest", "play"]
+    },
+    {
+      "text": "Stillness is not about focusing on nothingness; it's about creating an emotional clearing to allow ourselves to feel, think, dream, and question.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "stillness", "feel", "think", "question", "dream"]
+    },
+    {
+      "text": "We all have gifts and talents. When we cultivate those gifts and share them with the world, we create a sense of meaning and purpose in our lives.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "gifts", "talents", "meaning", "purpose"]
+    },
+    {
+      "text": "Laughter, song, and dance create emotional and spiritual connection; they remind us of the one thing that truly matters when we are searching for comfort, celebration, inspiration, or healing: we are not alone.",
+      "author": "Brene Brown",
+      "tags": ["wholehearted", "laughter", "song", "dance", "connection", "comfort", "inspiration", "healing", "alone"]
+    },
+    {
+      "text": "Wholehearted living is not like trying to reach a destination. It's like walking toward a star in the sky. We never really 'arrive', but we certainly know that we're heading in the right direction.",
+      "author": "Brene Brown",
+      "tags": ["destination", "wholehearted"]
+    },
+    {
+      "text": "A smile is a curve that sets everything straight.",
+      "author": "Phyllis Diller",
+      "tags": ["smile", "smiling"]
+    },
+    {
+      "text": "Don't cry because it's over; smile because it happened.",
+      "author": "Dr. Seuss",
+      "tags": ["smile", "smiling"]
+    },{
+      "text": "Because of your smile, you make life more beautiful.",
+      "author": "Thich Nhat Hanh",
+      "tags": ["smile", "smiling"]
+    },{
+      "text": "A simple smile. That's the start of opening your heart and being compassionate to others.",
+      "author": "Dalai Lama",
+      "tags": ["smile", "smiling", "compassion", "dalai lama", "open", "heart"]
+    },
+    {
+      "text": "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
+      "author": "Marilyn Monroe",
+      "tags": ["smile", "smiling"]
+    },
+    {
+      "text": "Smiling is the best way to face every problem, to crush every fear and to hide every pain.",
+      "author": "Unknown",
+      "tags": ["smile", "smiling"]
+    },
+    {
+      "text": "And so let us always meet each other with a smile, for the smile is the beginning of love.",
+      "author": "Mother Teresa",
+      "tags": ["smile", "smiling"]
+    },
+    {
+      "text": "It is a Simple, Mind touching, Interactive, Long lasting Effect which wins the hearts..yes it's your sweet smile, so keep smiling always.",
+      "author": "BoyBanat.com",
+      "tags": ["smile", "smiling"]
+    },
+    {
+      "text": "I love people who make me laugh.  I honestly think it's the thing I like most, to laugh. It cures a multitude of ills. It's probably the most important thing in a person.",
+      "author": "Audrey Hepburn",
+      "tags": ["laugh", "laughter"]
+    },
+    {
+      "text": "Be happy..Enjoy every moment of your life..Life is too short to waste in grudges..Laugh when you can..Apologize when you should..and let go of what you can't change.",
+      "author": "www.rishikajain.com",
+      "tags": ["laugh", "laughter"]
+    },
+    {
+      "text": "It is impossible for you to be angry and laugh at the same time. Anger and laughter are mutually exclusive and you have the power to choose either.",
+      "author": "Wayne Dyer",
+      "tags": ["laugh", "laughter"]
+    },
+    {
+      "text": "Life is short, break the rules, forgive quickly, kiss slowly, love truly, laugh uncontrollably, and never regret anything that makes you smile.",
+      "author": "Mark Twain",
+      "tags": ["laugh", "laughter"]
+    }
+
+  ],
+
+  "affirmations": [
+    {
+      "image": "affirmation-images/202604-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202603-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202602-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202601-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202512-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202511-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202510-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-1.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-2.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-3.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-4.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-5.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-6.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-7.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-8.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-9.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-10.png"
+    },
+    {
+      "image": "affirmation-images/202508-wholehearted-affirmation-11.png"
+    },
+    {
+      "image": "affirmation-images/202507-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202506-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202505-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202504-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202503-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202502-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202501-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202409-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202408-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202407-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202406-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202405-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202404-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/202403-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202402-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202401-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202312-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202311-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202310-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202308-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202307-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202305-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202304-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202303-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202302-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/202302-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/202301-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202301-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202212-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202211-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202209-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202208-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202206-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202205-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202204-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202203-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202202-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202201-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202112-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202111-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202110-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202110-affirmation-1-to-raise-your-vibration.png"
+    },
+    {
+      "image": "affirmation-images/202110-affirmation-2-to-raise-your-vibration.png"
+    },
+    {
+      "image": "affirmation-images/202110-affirmation-3-to-raise-your-vibration.png"
+    },
+    {
+      "image": "affirmation-images/202110-affirmation-4-to-raise-your-vibration.png"
+    },
+    {
+      "image": "affirmation-images/202110-affirmation-5-to-raise-your-vibration.png"
+    },
+    {
+      "image": "affirmation-images/202110-affirmation-6-to-raise-your-vibration.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-1.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-2.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-3.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-4.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-5.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-6.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-7.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-8.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-9.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-10.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-11.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-12.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-13.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-14.png"
+    },{
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-15.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-16.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-17.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-18.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-19.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-20.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-21.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-22.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-23.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-24.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-25.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-26.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-27.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-28.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-29.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-30.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-31.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-32.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-33.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-34.png"
+    },
+    {
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-35.png"
+    },
+    {
+      "image": "affirmation-images/202109-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/202109-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/202107-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202104-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202103-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202102-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202011-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202009-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202008-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/202008-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/202006-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202002-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/202002-loa-affirmation-1.png"
+    },
+    {
+      "image": "affirmation-images/202002-loa-affirmation-2.png"
+    },
+    {
+      "image": "affirmation-images/202002-loa-affirmation-3.png"
+    },
+    {
+      "image": "affirmation-images/202002-loa-affirmation-4.png"
+    },
+    {
+      "image": "affirmation-images/202002-loa-affirmation-5.png"
+    },
+    {
+      "image": "affirmation-images/202002-loa-affirmation-6.png"
+    },
+    {
+      "image": "affirmation-images/202002-loa-affirmation-7.png"
+    },
+    {
+      "image": "affirmation-images/202002-loa-affirmation-8.png"
+    },
+    {
+      "image": "affirmation-images/202001-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/202001-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/202001-affirmation3.png"
+    },
+    {
+      "image": "affirmation-images/201912-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/201911-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/201909-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/201908-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/201906-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/201906-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/201905-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/201904-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/201903-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/201902-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/201902-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/201901-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/201812-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/201811-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/1st-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/2nd-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/3rd-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/4th-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/5th-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/6th-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/7th-chakra-affirmation.jpg"
+    },
+    {
+      "image": "affirmation-images/cn-fa05-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05-affirmation3.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05-affirmation4.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05-affirmation5.png"
+    },  
+    {
+      "image": "affirmation-images/cn-fa05-affirmation6.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05-affirmation7.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05a-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05a-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05a-affirmation3.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05a-affirmation4.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05a-affirmation5.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05a-affirmation6.png"
+    },
+    {
+      "image": "affirmation-images/cn-fa05a-affirmation7.png"
+    },
+    {
+      "image": "affirmation-images/dp09a-happiness-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/dp09a-happiness-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/dp09a-happiness-affirmation3.png"
+    },
+    {
+      "image": "affirmation-images/dp09a-happiness-affirmation4.png"
+    },
+    {
+      "image": "affirmation-images/dp09a-happiness-affirmation5.png"
+    },
+    {
+      "image": "affirmation-images/dp09a-happiness-affirmation6.png"
+    },
+    {
+      "image": "affirmation-images/dp09a-happiness-affirmation7.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation3.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation4.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation5.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation6.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation7.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation8.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation9.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation10.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation11.png"
+    },
+    {
+      "image": "affirmation-images/dp09b-morning-affirmation12.png"
+    },
+    {
+      "image": "affirmation-images/dp09d-reiki-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/dp09d-reiki-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/dp09d-reiki-affirmation3.png"
+    },
+    {
+      "image": "affirmation-images/dp09d-reiki-affirmation4.png"
+    },
+    {
+      "image": "affirmation-images/dp09d-reiki-affirmation5.png"
+    },
+    {
+      "image": "affirmation-images/dp09d-reiki-affirmation6.png"
+    },
+    {
+      "image": "affirmation-images/dp09d-reiki-affirmation7.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation3.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation4.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation5.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation6.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation7.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation8.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation9.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation10.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation11.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation12.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation13.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation14.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation15.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation16.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation17.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation18.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation19.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation20.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation21.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation22.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation23.png"
+    },
+    {
+      "image": "affirmation-images/dp09e-abundance-affirmation24.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation1.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation2.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation3.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation4.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation5.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation6.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation7.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation8.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation9.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation10.png"
+    },
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation11.png"
+    },
+
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation12.png"
+    },
+
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation13.png"
+    },
+
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation14.png"
+    },
+
+    {
+      "image": "affirmation-images/dp09f-acceptance-affirmation15.png"
+    }
+
+
+
+    
+  ],
+  
+  "reflections": [
+    "What part of this speaks to me right now?",
+    "Where could I apply this today?",
+    "What would it feel like to live this fully?",
+    "What is one small step I can take from this?",
+    "How can I make my daily life easier and nicer for myself?",
+    "What thoughts, beliefs or patterns can I let go of?",
+    "What do I want less of in my life?",
+    "What do I want more of in my life?",
+    "What gave me energy over the past week?",
+    "What took away my energy over the past week?",
+    "What do I want to learn?",
+    "Am I spending my time the way I want to spend it?",
+    "What is holding me back from living the life I want to live?",
+    "In what areas am I underestimating myself?",
+    "What were my greatest moments this week?",
+    "What is missing in my life and how can I get that?",
+    "What mistakes have I made? What have I learned from them?",
+    "How will I approach things differently in the future?",
+    "What is important to me in life? Am I organizing my life accordingly?",
+    "What is the best advice I've received?",
+    "What do I want to do differently?",
+    "What advice would I give someone younger?",
+    "What makes me smile?",
+    "What makes life meaningful for me?",
+    "Are there any beliefs I've outgrown but still hold onto out of habit?",
+    "What went well today?",
+    "What am I grateful for?",
+    "What emotions did I experience most strongly today?",
+    "What is my intention today?",
+    "What do I want?  What do I really want?",
+    "What am I avoiding? What do I fear?",
+    "What am I the most grateful for in my life?",
+    "What am I afraid of?",
+    "What are my biggest strengths and my flaws/weaknesses?",
+    "What are areas in which I’m doing well and what are areas in which I could improve?",
+    "What are my values? In what ways do my words and actions reflect or fail to reflect my values?",
+    "How am I caring for myself so that I am mentally, physically, emotionally, & spiritually at my best?",
+    "What have I learned about myself today (this week, this month, this year)?"
+  
+  ]
+}

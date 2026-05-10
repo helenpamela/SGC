@@ -1,0 +1,15841 @@
+
+
+const meetings = {
+
+
+
+
+  "202605": {
+    title: "May 2026",
+    month: "May",
+    year: 2026,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202605-no-mtg.png", // optional but lovely
+    cancelMessage: "See you in June!",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202604": {
+    title: "April 2026",
+    month: "April",
+    year: 2026,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1YrxpFu5rTtQmLhuzDOg4_w00o51PjUtj/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda -- Teacher Only",
+          src: "https://drive.google.com/file/d/1a0-7h1Y35X_d9NAMRTHvDSEQ6VqVtx62/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "New SGC App 🪷",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This month's affirmation",
+        src: "affirmation-images/202604-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "video",
+          src: "https://www.youtube.com/embed/Mwa5jZ0UCow?si=b9oKayLdrrb0KtrE"
+        }
+      ]
+    },
+
+    tags: ["cliff notes"],
+
+    topic: {
+      title: "🎂 Birthdays & Cliff Notes Review",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202603": {
+    title: "March 2026",
+    month: "March",
+    year: 2026,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1lWMwPNM3WqYMmzQS9vaF_wzT6ckCigXu/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda -- Teacher Only",
+          src: "https://drive.google.com/file/d/1lWMwPNM3WqYMmzQS9vaF_wzT6ckCigXu/preview"
+        }
+      ]
+    },
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This month's affirmation",
+        src: "affirmation-images/202603-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cliff notes", "happiness", "equinox", "positive energy"],
+
+    topic: {
+      title: "Cliff Notes Update and Happiness",
+      items: [
+        {
+          type: "pdf",
+          label: "Happiness Quotes & Images",
+          src: "https://drive.google.com/file/d/1nulupAquRqgdX7LbaRUBDSorD-IW8iJH/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Be Happy: 12 Habits to Add to Your Routine",
+          src: "https://drive.google.com/file/d/1L6Oxhw95iH9rnbwiNR41489Y2SKlLB-l/preview"
+        },
+        {
+          type: "pdf",
+          label: "Happiness Is a Choice: 8 Ways to Choose It Today",
+          src: "https://drive.google.com/file/d/1CGF8kmAa7aNEhiEIT0IY3HVdiE0-BrTY/preview"
+        },
+        {
+          type: "pdf",
+          label: "Happiness - AI Overview",
+          src: "https://drive.google.com/file/d/1e_l2ixESOT3CJYDM7XuAm744z10mbATs/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 THINGS TO SAY YES TO STARTING TODAY",
+          src: "https://drive.google.com/file/d/1rryhoM6vKHPWoWKeWjxFEe_i-yn1RfAa/preview"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Prayer for Spring Equinox",
+        src: "https://drive.google.com/file/d/1SuH0bEKTPwSG4Ijr8Zgqbr4yNvkkE9qW/preview"
+      },
+      {
+        type: "pdf",
+        label: "Return to Flow",
+        src: "https://drive.google.com/file/d/1bSiJW7JUBCeRqq1sebAmFJCF3MavJGgS/preview"
+      }
+
+    ]
+  },
+
+  "202602": {
+    title: "February 2026",
+    month: "February",
+    year: 2026,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1flhVRaPdWc88bcZUCMjegSnU0kQuKWzj/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda -- Teacher only",
+          src: "https://drive.google.com/file/d/1oJr-jfNEhDp1zly3Tx29Tz0l2y5TEUW5/preview"
+        }
+      ]
+    },
+
+    intention: [
+      {
+        type: "pdf",
+        label: "Set Intentions 2026",
+        src: "https://drive.google.com/file/d/1lanoXttLCVeX2NiBuN11VNPbM8Y0O7FE/preview"
+      },
+      {
+        type: "pdf",
+        label: "Declaration of Intentions",
+        src: "https://drive.google.com/file/d/17RdNjuK85xWVvfinwwzOMjOQJeSaKenY/preview"
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Year of the Fire Horse",
+      items: [
+        {
+          type: "image",
+          label: "Year of the Fire Horse",
+          src: "animal-images/202602-year-of-the-fire-horse.png"
+        },
+        {
+          type: "image",
+          label: "Properties",
+          src: "animal-images/202602-year-of-the-fire-horse-properties.png"
+        },
+        {
+          type: "image",
+          label: "Fire Horse Presents from Linda",
+          src: "monthly-focus-images/202602-fire-horse-presents-from-linda.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Fire Horse Images",
+          src: "https://drive.google.com/file/d/1fau4Xw4bamnEN4VNfgE5snEMR8yJ4bSr/preview"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Horse Fun Facts",
+          src: "https://drive.google.com/file/d/1L9AwCPtqx0xvUyJtdB2IjkLmgbZGTMI4/preview"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Fire Horse AI Overview",
+          src: "https://drive.google.com/file/d/1VRVleAxuZrvel1n3zyKrDX-xFAPbIJ_D/preview"
+        },
+        {
+          type: "pdf",
+          label: "What the Year of the Horse Means",
+          src: "https://drive.google.com/file/d/1nsjtqJA1CkFM1N28dkmuQELzhVSvU2Ft/preview"
+        }
+      ]
+    },
+
+    practice: {
+      title: "Meditation",
+      items: [
+        {
+          type: "text",
+          label: "See Meditation section"
+        }
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This month's affirmation",
+        src: "affirmation-images/202602-affirmation.png"
+      }
+    ],
+
+    meditation: [
+      {
+        type: "video",
+        label: "Inner Smile Meditation for Self-Love & Compassion",
+        src: "https://www.youtube.com/embed/z9d2XApwqZY"
+      }
+    ],
+
+    luminary: {
+      title: "Lee Holden",
+      items: [
+        {
+          type: "image",
+          src: "luminary-images/lee-holden.jpeg"
+        }
+      ]
+    },
+
+    tags: ["meditation", "happiness", "thoughts", "beliefs", "inner", "smile",
+      "horse", "fire", "self-love", "compassion", "lee holden",
+      "kenny", "calendar"],
+
+
+    topic: {
+      title: "Happiness Part 1",
+      items: [
+
+        {
+          type: "pdf",
+          label: "Happiness Calendar Feb 2025",
+          src: "https://drive.google.com/file/d/1PoP5DbCci8P7U_7PHEpp9MoQEONviivM/preview"
+        },
+        {
+          type: "pdf",
+          label: "Happiness Calendar Jan 2026",
+          src: "https://drive.google.com/file/d/17_6_oD2NDZAx15jGlDlQnWFgEeN_rL_9/preview"
+        },
+        {
+          type: "pdf",
+          label: "Happiness Calendar Feb 2026",
+          src: "https://drive.google.com/file/d/1lv-ykQj4M_frkp-g1It-OOEnMyYG3MM9/preview"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Valentines Presents from Linda",
+        src: "other-images/202602-valentines-presents-from-linda.jpg"
+      },
+      {
+        type: "image",
+        label: "Presents from Kenny",
+        src: "other-images/202602-presents-from-kenny.jpg"
+      },
+
+    ]
+  },
+
+  "202601": {
+    title: "January 2026",
+    month: "January",
+    year: 2026,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1GKAjUwLUlKmI4J9VyhTeEY-VxRh8VJZX/preview"
+      },
+
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda -- Teacher only",
+          src: "https://drive.google.com/file/d/1sYufXdngE0btdutOJWUgNBB5NZ5UOZFP/preview"
+        }
+      ]
+    },
+
+    intention: [
+      {
+        type: "image",
+        label: "Intention Card",
+        src: "other-images/202601-card-intention-focus.jpg"
+      },
+      {
+        type: "pdf",
+        label: "Intention page from OrinDaben.com",
+        src: "https://drive.google.com/file/d/1t-dbZXMlXeL-JiuLY-hE8FyBTIhL4mHI/preview"
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Malachite",
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202601-malachite.jpg"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202601-malachite-properties.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Malachite: Meaning, Mealing Properties & Benefits",
+          src: "https://drive.google.com/file/d/1Igunl7Vf_ufX7iBnP4lyYQFK7fWkMcR6/preview"
+        }
+      ]
+    },
+
+    practice: {
+      title: "Making a Difference",
+      items: [
+        {
+          type: "image",
+          label: "How to Make a Difference Card",
+          src: "daily-practice-images/202601-card-how-to-make-a-diff.jpg"
+        },
+        {
+          type: "pdf",
+          label: "What can we do to make a difference in this time of world chaos?",
+          src: "https://drive.google.com/file/d/18oeji7VgO5pDqRSomxOv161NBDlx5-4x/preview"
+        },
+        {
+          type: "pdf",
+          label: "25 Ways to Make a Difference",
+          src: "https://drive.google.com/file/d/1WdpGP-Hg2hDs9emYNDqQ6mYMCphCDPpL/preview"
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This month's affirmation",
+        src: "affirmation-images/202601-affirmation.png"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    tags: ["malachite", "making a difference", "white stone ceremony", "joy"],
+
+    topic: {
+      title: "White Stone Ceremony",
+      items: [
+        {
+          type: "image",
+          label: "White stones with word of the year",
+          src: "topic-images/202601-white-stones.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Unity's Whitestone Ceremony",
+          src: "https://drive.google.com/file/d/1N3hBtD0nS3k7sYDY0YDtz2uW1l2Rkh8x/preview"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Tree of Life from Linda",
+        src: "other-images/202601-tree-of-life.jpg"
+      }
+
+    ]
+
+  },
+
+  "202512": {
+    title: "December 2025",
+    month: "December",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1kvaZLh739rCA-3ZaDNBVF-x2i5XERDjn/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1v6HAL4P05b8eKnA6l3WgWe5pe0eh8U1w/preview"
+        }
+      ]
+    },
+
+    intention: [
+      {
+        type: ""
+
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This month's affirmation",
+        src: "affirmation-images/202512-affirmation.png"
+      }
+    ],
+
+    meditation: [
+      {
+        type: "video",
+        label: "Release What Does Not Serve You Guided Meditation",
+        src: "https://www.youtube.com/embed/r4dfe0j_NCg"
+      }
+    ],
+
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "luminary-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    tags: ["christmas", "release"],
+
+    topic: {
+      title: "Christmas & Releasing",
+      items: [
+        {
+          type: "pdf",
+          label: "Release Form",
+          src: "https://drive.google.com/file/d/1I1-h5sQPydza1iros4327avGvEVLuhEI/preview"
+        },
+        {
+          type: "pdf",
+          label: "Water Release Ritual",
+          src: "https://drive.google.com/file/d/1VDXZV_0eXz8GEQbTlhWFKl7sRmYJtC-C/preview"
+        }
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Pens from Kenny",
+        src: "other-images/202512-pens-from-kenny.jpg"
+      },
+      {
+        type: "pdf",
+        label: "50 Simple Things to be Grateful For",
+        src: "https://drive.google.com/file/d/16ksXaBdMsdQOU-nltPZ42FM2uQfBzYoY/preview"
+      }
+    ]
+
+  },
+
+  "202511": {
+    title: "November 2025",
+    month: "November",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1QN86OVUKLN20e8PL6lfxaVaxDBU4IajD/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1t8EO8k3hpiLjm-SrqE8PTfNELZtaR3Kw/preview"
+        }
+      ]
+    },
+    intention: [
+      {
+        type: "pdf",
+        label: "Intention Process",
+        src: "https://drive.google.com/file/d/1nmOrPzG_e56y8S7hW__qPchSOti2me3e/preview"
+      }
+
+    ],
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rainbow Fluorite",
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202511-rainbow-fluorite.jpg",
+        },
+        {
+          type: "image",
+          src: "crystal-images/202511-rainbow-fluorite-properties.jpg",
+        },
+        {
+          type: "image",
+          label: "Worry Stone from Linda",
+          src: "crystal-images/202511-rainbow-fluorite-worry-stone.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Rainbow Fluorite - Meaning & Properties",
+          src: "https://drive.google.com/file/d/1KMY0BPiAbr7TId800gtEszsSVA2kTcIo/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rainbow Fluorite - What is it Good For?",
+          src: "https://drive.google.com/file/d/1zNkuQ8VSrpv1Odwj-yNFC_6fYH_WMaRx/preview"
+        }
+      ]
+
+    },
+
+    practice: {
+      title: "Gratitude",
+      items: [
+        {
+          type: "image",
+          label: "Blessings Abound",
+          src: "daily-practice-images/202511-blessings-abound-book.jpg",
+        },
+        {
+          type: "image",
+          label: "rose quartz hearts from Linda",
+          src: "daily-practice-images/202511-rose-quartz-hearts.jpg",
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This month's affirmation",
+        src: "affirmation-images/202511-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    tags: ["gratitude", "rose quartz", "rainbow fluorite", "quantum jumping"],
+
+    topic: {
+      title: "Quantum Jumping",
+      items: [
+        {
+          type: "image",
+          label: "Card - How Good Can it Get?",
+          src: "topic-images/202511-card-how-good-can-it-get.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Definition of Quantum Jumping",
+          src: "https://drive.google.com/file/d/1C07SSsLtcGqcxjD2bIoqYTFuFlY5Y7AG/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Quantum Jumping - AI Overview",
+          src: "https://drive.google.com/file/d/16vqh3fljz2dWnZO_s7k4rZn9pT_3eEpR/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Shift Reality - 3 Steps & Top 10 Tips",
+          src: "https://drive.google.com/file/d/1KyZrdZ9OEcZgGZWc87TNOPPrN9dUMLN3/preview"
+        },
+        {
+          type: "pdf",
+          label: "Quantum Jumping with the Two Glass Method",
+          src: "https://drive.google.com/file/d/1uJs_cXBnqOrkYYrlKloWzvz5N2sVL78C/preview"
+        },
+        {
+          type: "pdf",
+          label: "Quantum Jumping - Two-Glass Method",
+          src: "https://drive.google.com/file/d/1SR3zmVLyK3fi73KCC_p9UOL_DHFPEGYB/preview"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202510": {
+    title: "October 2025",
+    month: "October",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1QW_luMfgVW7wcy3DDHYcC8UvoJ3uRCBg/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1ARAibvVKAdUl2OoFtBSdfPaH9BWD00Kj/preview"
+        }
+      ]
+    },
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "pdf",
+        label: "Solfeggio Frequencies",
+        src: "https://drive.google.com/file/d/1wTSWlSQ5kcYMXx2qrRp5ILLrzkj2YIw9/preview"
+      },
+      {
+        type: "pdf",
+        label: "Solfeggio Article",
+        src: "https://drive.google.com/file/d/1D058Dm4J2EGcXlcpXojf0E2TRlVkiCcF/preview"
+      }
+
+    ],
+
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202510-sloth.png",
+        },
+        {
+          type: "image",
+          src: "animal-images/202510-sloth-properties.jpg",
+        },
+        {
+          type: "image",
+          label: "Sloth Items from Linda",
+          src: "monthly-focus-images/202510-sloth-items.jpg"
+        },
+        {
+          type: "image",
+          label: "Sloth Notes from Linda",
+          src: "monthly-focus-images/202510-sloth-notes.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Sloth Quotes",
+          src: "https://drive.google.com/file/d/1ScpVEqdfDLmOMBRYSt_id1dTZ1wQI-t4/preview"
+        },
+        {
+          type: "pdf",
+          label: "Sloth Article",
+          src: "https://drive.google.com/file/d/1tlWM4uPxNTiOP09ac_kHq_wtKbJgguAc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Happy Sloth Day Fun Facts",
+          src: "https://drive.google.com/file/d/1Ltc5BueRzEbc4XhLa-Tj3K1e_rMRgYYa/preview"
+        }
+      ]
+
+    },
+
+    practice: {
+      title: "Set Intentions",
+      items: [
+        {
+          type: "pdf",
+          label: "Intentions Quotes from Cliff Notes P.1",
+          src: "https://drive.google.com/file/d/1M2AUMEE-j39XuGA1EtyJEvqaRW-BPOM9/preview",
+        },
+        {
+          type: "pdf",
+          label: "Intentions Quotes from Cliff Notes P.2",
+          src: "https://drive.google.com/file/d/1v9qiILgN_Gcl-wfZh2Z1TINoL_Q0XK4a/preview",
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This month's affirmation",
+        src: "affirmation-images/202510-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "Jane Goodall & Thomas Edison",
+      items: [
+        {
+          type: "pdf",
+          label: "Jane Goodall's Final Message",
+          src: "https://drive.google.com/file/d/1ZhcDiG_AX3QDuyGBHnEgBBUD7xCMP9ZQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Thomas Edison Quotes",
+          src: "https://drive.google.com/file/d/159OBctEsw7qDY88MwPQX9AD_plPP0Wo5/preview"
+        },
+        {
+          type: "pdf",
+          label: "Thomas Edison Article",
+          src: "https://drive.google.com/file/d/1UxZpjNpXD5ZLQJs2oPPef6ShOeOFi2f7/preview"
+        }
+      ]
+    },
+
+    tags: ["intention", "sloth", "perseverance", "strength", "Thomas Edison", "Jane Goodall", "solfeggio"],
+
+    topic: {
+      title: "Perseverance",
+      items: [
+        {
+          type: "pdf",
+          label: "Perseverance Quotes",
+          src: "https://drive.google.com/file/d/1WIiNy3AvSu4Z8OKjRIlhlfsKkFB8yY0u/preview"
+        },
+        {
+          type: "pdf",
+          label: "Perseverance Article Why It Matters",
+          src: "https://drive.google.com/file/d/1d5eZFyfBuZxjkaosWiuF2h78PfFnSLIE/preview"
+        },
+        {
+          type: "pdf",
+          label: "Perseverance Article True Meaning",
+          src: "https://drive.google.com/file/d/1m92P81PuroPh6TxCBAng7jUevVv2wcbx/preview"
+        },
+        {
+          type: "pdf",
+          label: "Perseverance Article How to Develop",
+          src: "https://drive.google.com/file/d/1V5g15tT0VK6w8qDbqp1tnnyow2X8cZQ0/preview"
+        },
+        {
+          type: "pdf",
+          label: "Perseverance Article 10 Reasons",
+          src: "https://drive.google.com/file/d/1S6q75jwrnddFI6zOJ5pzUN7LUrBwSPmR/preview"
+        },
+        {
+          type: "pdf",
+          label: "Linda's Notes",
+          src: "https://drive.google.com/file/d/1-caXF9EaiDtTnGXaKfRUMbxG5chhpOAa/preview"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202509": {
+    title: "September 2025",
+    month: "September",
+    year: 2025,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202509-no-mtg.png", // optional but lovely
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1C9KrjfWI5kTjTPjSWnsU1dMMLbtEohFP/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202508": {
+    title: "August 2025",
+    month: "August",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1nM3HkIQbCyhOtAHmdS633eCie6umcgQr/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/16qLx-KCP8mT1QCobi75E5Ude-kgRYKpc/preview"
+        }
+      ]
+    },
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "Shine Your Light",
+      items: [
+        {
+          type: "pdf",
+          label: "Shine Your Light A-Z form",
+          src: "https://drive.google.com/file/d/1YDBiU4khRDl5uAhaCLOVnqIcNv7Bwu7W/preview"
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202508-affirmation.jpg"
+      },
+
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "video",
+          label: "Denise Linn - Who You Are is Enough",
+          src: "https://www.youtube.com/embed/sMrb-itIjxY?si=Fnb4kk0GYhWrtsAK"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "Brene Brown",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["dragon", "3D printer", "denise linn", "brene brown", "shine your light",
+           "wholehearted", "living"],
+
+    topic: {
+      title: "Wholehearted Living",
+      items: [
+        {
+          type: "pdf",
+          label: "Guideposts for Wholehearted Living - Cliff Notes Concepts",
+          src: "https://drive.google.com/file/d/138dA7gS1-0vR9emrb8VOeHXEY3Mv_Lbq/preview"
+        },
+        {
+          type: "pdf",
+          label: "Wholehearted Living - Cliff Notes Concepts",
+          src: "https://drive.google.com/file/d/1y7BVc2r1l01aI_rrJ-s0g8hHgigHj8d_/preview"
+        },
+        {
+          type: "pdf",
+          label: "A Simple Guide to Wholehearted Living",
+          src: "https://drive.google.com/file/d/1U0K6ebBgG8e1pHAryJ4zp6flLE5crXOg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Wholehearted Living Images",
+          src: "https://drive.google.com/file/d/1reEgtCDkwKSda4dXhfWgEV4RFp1YfNVi/preview"
+        },
+        {
+          type: "pdf",
+          label: "Wholehearted Living Affirmations",
+          src: "https://drive.google.com/file/d/1OHhDEGlHh2FxnkAuQFR_Fa9gS1btz8h5/preview"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 1",
+          src: "affirmation-images/202508-wholehearted-affirmation-1.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 2",
+          src: "affirmation-images/202508-wholehearted-affirmation-2.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 3",
+          src: "affirmation-images/202508-wholehearted-affirmation-3.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 4",
+          src: "affirmation-images/202508-wholehearted-affirmation-4.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 5",
+          src: "affirmation-images/202508-wholehearted-affirmation-5.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 6",
+          src: "affirmation-images/202508-wholehearted-affirmation-6.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 7",
+          src: "affirmation-images/202508-wholehearted-affirmation-7.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 8",
+          src: "affirmation-images/202508-wholehearted-affirmation-8.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 9",
+          src: "affirmation-images/202508-wholehearted-affirmation-9.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 10",
+          src: "affirmation-images/202508-wholehearted-affirmation-10.png"
+        },
+        {
+          type: "image",
+          label: "Wholehearted Affirmation 11",
+          src: "affirmation-images/202508-wholehearted-affirmation-11.png"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "3D-printer Dragon from Linda",
+        src: "other-images/202408-dragon-from-3D-printer.jpg"
+
+      }
+    ]
+  },
+
+  "202507": {
+    title: "July 2025",
+    month: "July",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1D4FD0yeNHYyJrXFRCVscp3GlTzSLT_y1/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1URY1q_vVSOLGha7sHo1e62AAm_2JDYZq/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "pdf",
+        label: "Email from Sonia Choquette",
+        src: "https://drive.google.com/file/d/1ATjXD2FtHR-Wm3gdIaa7ai4rDH6abfev/preview"
+      },
+      {
+        type: "image",
+        label: "CD: Music to Lift Your Heart",
+        src: "announcement-images/202507-cd-music-to-lift-your-heart.jpg"
+      },
+      {
+        type: "image",
+        label: "CD Song List",
+        src: "announcement-images/202507-cd-song-list.jpg"
+      }
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+
+    focus: {
+      title: "Horse",
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202507-horse.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202507-horse-properties.jpg"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202507-horse-items-from-Linda.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Horse Properties AI",
+          src: "https://drive.google.com/file/d/14RnTikVXK45OxMKPo7nuNJCWOYUHh9Tc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Horse Images",
+          src: "https://drive.google.com/file/d/1t0zYMaVKmyBMjiH4Hvxqe-mAIrFjtbEH/preview"
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "Shine Your Light",
+      items: [
+        {
+          type: "pdf",
+          label: "Article - What Does Shine Your Light Mean?",
+          src: "https://drive.google.com/file/d/1xLChuInCxfIByiBYA50w6ChZjjWvCD6h/preview"
+        },
+        {
+          type: "pdf",
+          label: "A to Z Shine Your Light",
+          src: "https://drive.google.com/file/d/1QQhlnY3ilF4LE9-KqPc2np_5RFqoxwo3/preview"
+        },
+        {
+          type: "image",
+          label: "Doobie Bros Lyrics",
+          src: "daily-practice-images/202507-doobie-bros-lyrics.jpg"
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This month's affirmation",
+        src: "affirmation-images/202507-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["sonia choquette", "limiting beliefs", "shine your light", "doobie brothers", "horse", "cd"],
+
+    topic: {
+      title: "Limiting Beliefs",
+      items: [
+        {
+          type: "pdf",
+          label: "Article - Remove Limiting Beliefs",
+          src: "https://drive.google.com/file/d/148JUiaUSvTjTCsPvNXSV647LzVK0imfa/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Power of Belief",
+          src: "https://drive.google.com/file/d/17BKyARTKeYTtD3rksx6HCp8zdzppAS7d/preview"
+        },
+        {
+          type: "pdf",
+          label: "Limiting Belief Examples",
+          src: "https://drive.google.com/file/d/1CEQSm3WPmU6qXPw_pw3tDmKfM9t2GLcS/preview"
+        },
+        {
+          type: "pdf",
+          label: "Limiting Belief Images",
+          src: "https://drive.google.com/file/d/1gVvcGtT5ZWbwWZsy3zn9kdnTbpLqfNYW/preview"
+        },
+        {
+          type: "pdf",
+          label: "Top 10 Self-Limiting Beliefs",
+          src: "https://drive.google.com/file/d/1TedFWYtmgWdVJMaWZ-mW6ve6b68ujkG4/preview"
+        },
+        {
+          type: "pdf",
+          label: "Limiting Beliefs Asana Article",
+          src: "https://drive.google.com/file/d/1bQ8aZI_Ov7Kkd56bsvOIhUqafnto751-/preview"
+        },
+        {
+          type: "pdf",
+          label: "Disempowering and Empowering Beliefs",
+          src: "https://drive.google.com/file/d/1NXGtqgNLkSJHDb6F0Pks9LyMzjUlX3-4/preview"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202506": {
+    title: "June 2025",
+    month: "June",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1XPsT5ZKRPB6Bnyv7hfSXDn-Q0m2X8WFt/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/168_XWWlECnvO7Sr4-TdcVNjtVzn1zZ1k/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "image",
+        label: "Randy Rainbow",
+        src: "announcement-images/202506-randy-rainbow.png"
+      },
+      {
+        type: "image",
+        label: "Randy Rainbow's New Book",
+        src: "announcement-images/202506-randy-rainbows-book.png"
+      }
+    ],
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202506-kyanite.jpg"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202506-kyanite-properties.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Kyanite Images",
+          src: "https://drive.google.com/file/d/1DRvR980xazCgbgIYyuUjr6HiVu5q1TXd/preview"
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "Be Here Now",
+      items: [
+        {
+          type: "pdf",
+          label: "Be Here Now Images",
+          src: "https://drive.google.com/file/d/1ur19ZeIWvm6_gOubaQNTn8_XVHxZwRMF/preview"
+        },
+        {
+          type: "pdf",
+          label: "Article by Deepak Chopra",
+          src: "https://drive.google.com/file/d/1r5tInX6hcuD9OIY19h23I7dM_kFvGED7/preview"
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202506-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "Denise Linn - Serene Inner Peace",
+      items: [
+        {
+          type: "video",
+          src: "https://www.youtube.com/embed/53E4ExkkBD8?si=ZrzC6fM4XgwJU1BU"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "Jon Kabat-Zinn and Ram Dass",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["mindfulness", "kyanite", "be here now", "randy rainbow", "jon kabat-zinn", "ram dass"],
+
+    topic: {
+      title: "Mindfulness",
+      items: [
+        {
+          type: "pdf",
+          label: "What is Mindfulness",
+          src: "https://drive.google.com/file/d/10N8yqrrUkSdNBdV1XQYcC6goFoeAVInp/preview"
+        },
+        {
+          type: "pdf",
+          label: "9 Attitudes of Mindfulness",
+          src: "https://drive.google.com/file/d/1PVZXDxqYfG9SSqx_tOXx5sY8Nt1Ipmoz/preview"
+        },
+        {
+          type: "image",
+          label: "Mindfulness Coloring Book",
+          src: "topic-images/202506-mindfulness-coloring-book.jpg"
+        },
+        {
+          type: "video",
+          label: "What is Mindfulness - Jon Kabat-Zinn",
+          src: "https://www.youtube.com/embed/HmEo6RI4Wvs?si=QL5VdtjvO_K7LGbr"
+        },
+        {
+          type: "video",
+          label: "Mindfulness: What is it Really? - Marie Ficociello",
+          src: "https://www.youtube.com/embed/Me9tuDsHsL0?si=ycCoSPnGU7Vkweqe"
+        },
+        {
+          type: "video",
+          label: "9 Attitudes of Mindfulness - Jon Kabat-Zinn",
+          src: "https://www.youtube.com/embed/2n7FOBFMvXg?si=zCZR9ltKK0NaDSkw"
+        },
+        {
+          type: "video",
+          label: "TEDx The Power of Mindfulness - Shauna Shapiro",
+          src: "https://www.youtube.com/embed/IeblJdB2-Vo?si=z3t5uiy8nXM6EHXi"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Good Morning Card",
+        src: "other-images/202506-handout-good-mornng-linda-card.jpg"
+      }
+    ]
+  },
+
+  "202505": {
+    title: "May 2025",
+    month: "May",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1skGzWYfzdFe5pRMim2fQ7nJstal9YNRb/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1rZtNeNVwbH-IsKxk9G6i528q-hyB9P7F/preview"
+        }
+      ]
+    },
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202505-yellow-rose.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202505-yellow-rose-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Yellow Roses Meaning",
+          src: "https://drive.google.com/file/d/1IfBxnSF1SCxLSukG5XzB1K_bFCB6zaVU/preview"
+        },
+        {
+          type: "pdf",
+          label: "Meaning of Yellow Roses",
+          src: "https://drive.google.com/file/d/1tIEAF1po-MyHDXKwsXeXO_4yMc124niQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Floriography Article",
+          src: "https://drive.google.com/file/d/1hxgRKvoFpoT2bWaOg_TRmt3lecN4dyBZ/preview"
+        },
+        {
+          type: "image",
+          label: "Yellow Roses from Linda",
+          src: "monthly-focus-images/202505-yellow-roses-from-linda.jpg"
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "Call a Friend ☎️",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202505-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Doreen Virtue - Atlantis 🐬",
+          src: ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["rose", "call", "friend", "friendship", "Atlantis"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "pdf",
+          label: "Friendship Quotes",
+          src: "https://drive.google.com/file/d/1q74492llQrzUHgHOMLA4BDIDiK3cAxYM/preview"
+        },
+        {
+          type: "pdf",
+          label: "Importance of Female Friendships",
+          src: "https://drive.google.com/file/d/1Qu2KznFjf_4INsVXhTQb6-hKt_X7vL-j/preview"
+        },
+        {
+          type: "pdf",
+          label: "Female Friendships & Longevity",
+          src: "https://drive.google.com/file/d/1FCIYP-RUsZXVhV7fvLmcUpcKeKQr10fm/preview"
+        },
+        {
+          type: "image",
+          label: "Friendship Bracelet from Linda",
+          src: "topic-images/202505-friendship-bracelet.jpg"
+        },
+
+
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202504": {
+    title: "April 2025",
+    month: "April",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1iSBb3K65N21__7ilBpK5NXq8ll-HKTTW/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1xgecM2DVXLCR3zKzx12JEPTXSyCUFGpa/preview"
+        }
+      ]
+    },
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+
+    focus: {
+      title: "Lavender",
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202504-lavender.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202504-lavender-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Page from Flower Therapy book by Doreen Virtue",
+          src: "https://drive.google.com/file/d/10kjohMKLzijMK77WW7lwPNOt35_AjUMQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Spiritual Meaning of Lavender",
+          src: "https://drive.google.com/file/d/1dME44z-oCPIeBTGwp98NEeOPnkWfEr67/preview"
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "Mindfulness",
+      items: [
+        {
+          type: "pdf",
+          label: "Mindfulness - Cliff Notes",
+          src: "https://drive.google.com/file/d/14I30Clgn-m3_xPV3Lr3bz4YqxG9NkpBV/preview"
+        },
+        {
+          type: "pdf",
+          label: "Three Components of Mindfulness",
+          src: "https://drive.google.com/file/d/1jb1bCE4XVqqk0xVMCHI_AIRBdYwBA9UL/preview"
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202504-affirmation.png"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "video",
+          label: "15 Minutes to Start Your Day With Clarity",
+          src: "https://www.youtube.com/embed/LpAzmyrUswg?si=u9TG473RwN5sBYQN"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cliff", "notes", "update", "lavender", "mindfulness"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+        {
+          type: "pdf",
+          label: "New/Updated Pages",
+          src: "https://drive.google.com/file/d/1N_TtSKCwfePYU3VAIogax_I6EBQmA9rH/preview"
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202503": {
+    title: "March 2025",
+    month: "March",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Y2uiZG4qf_E8V4N1zro-KZ10pkHrBmm9/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "PDF",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1b4iUGtDUh3bnF0-3cC0CdgSE5SKzi5RO/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "pdf",
+        label: "Spring Equinox",
+        src: "https://drive.google.com/file/d/1yK-9aia4KbDEpAmBgLzZ4fm_1oQhlcyu/preview"
+      },
+      {
+        type: "pdf",
+        label: "Alan Cohen - Disarmed by Peace",
+        src: "https://drive.google.com/file/d/1y9FAhIXQPCWjPDJ2CSEupg31tOOSqplL/preview"
+      },
+      {
+        type: "video",
+        label: "Alan Cohen video - Be the Mule",
+        src: "https://www.youtube.com/embed/W2QhiXyg0Z0?si=WlRrxKMZGjroYXD0"
+      },
+      {
+        type: "video",
+        label: "Randy Rainbow video - Defy Democracy",
+        src: "https://www.youtube.com/embed/KpPIxcntxkE?si=bqbVcp8MwELJ0TK-"
+      }
+    ],
+
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "image",
+        label: "Sunflower - symbol of Ukraine",
+        src: "our-vision-images/202503-sunflowers.jpg"
+      },
+      {
+        type: "pdf",
+        label: "Sunflower.pdf",
+        src: "https://drive.google.com/file/d/1DkeIKe4vrpxRlhP1iOAI7HTeThTrzBy6/preview"
+      },
+      {
+        type: "pdf",
+        label: "Our Vision for the New Earth and Ukraine",
+        src: "https://drive.google.com/file/d/17A-91u1UxGtw7AWD64erXVlkYgKSQ5_t/preview"
+      }
+
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+
+    focus: {
+      title: "Azurite & Clear Quartz",
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202503-azurite.jpg"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202503-azurite-properties.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Azurite",
+          src: "https://drive.google.com/file/d/14qPRwaGuHaBLGsgLp0KEoEx5uD5b21E_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Clear Quartz article from GemAvenue",
+          src: "https://drive.google.com/file/d/1FwRdG_O41qrBciFwxwerShO-PMPhc6w7/preview"
+        },
+        {
+          type: "pdf",
+          label: "Clear Quartz article from HappySoul",
+          src: "https://drive.google.com/file/d/1uCuAG9TcLaWZBxxeqp2b28OJUXDGXPP3/preview"
+        }
+      ]
+
+    },
+
+    practice: {
+      title: "Let Them",
+      items: [
+        {
+          type: "image",
+          label: "Let Them card",
+          src: "daily-practice-images/202503-card-let-them-let-me.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Book Summary - Let Them",
+          src: "https://drive.google.com/file/d/1J1Kpd2x6Uf5O5jlXHxf2pUnm46w2BiV-/preview"
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202503-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["clarity", "let them", "azurite", "clear quartz", "alan cohen",
+      "randy rainbow", "equinox"],
+
+    topic: {
+      title: "Clarity",
+      items: [
+        {
+          type: "pdf",
+          label: "More of Less Form",
+          src: "https://drive.google.com/file/d/1SJ6bczbAXVjbnUERdRgUyZMCVgwSIraM/preview"
+        },
+        {
+          type: "pdf",
+          label: "Values List",
+          src: "https://drive.google.com/file/d/1smEAE1eI30412j0B2VKtGvjj10Eeux9P/preview"
+        },
+        {
+          type: "pdf",
+          label: "When You're Confused",
+          src: "https://drive.google.com/file/d/1RSx6C7bK77gqZKettrX8aMretrGOdYCk/preview"
+        },
+        {
+          type: "pdf",
+          label: "Three Most Important Questions",
+          src: "https://drive.google.com/file/d/1aLXW6xJ2JiJ0_V_M4uxznVfdt4iUTSJS/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Power of Clarity",
+          src: "https://drive.google.com/file/d/1ZJgFebgfLKHiN7_82SoW_KMrZ8dSBfMD/preview"
+        },
+        {
+          type: "pdf",
+          label: "Clarity and Focus",
+          src: "https://drive.google.com/file/d/1DKY5pZ2sz73HIVZMyu97rvnTZKguJS-K/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Gain More Clarity",
+          src: "https://drive.google.com/file/d/10pvfm82_jJpJq9EnWFVMiHES44DAxuZc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mindvally Clarity Article",
+          src: "https://drive.google.com/file/d/1JpAyXNHT-RY16csyyVSChziCiOCfqpTM/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Clarity?",
+          src: "https://drive.google.com/file/d/1Z6qQRSkQmNANB07KhhQ1futvOe4vN948/preview"
+        },
+        {
+          type: "pdf",
+          label: "Resetting to Zero",
+          src: "https://drive.google.com/file/d/15WVBobzCwqBVaxQsrVLbF5dfeboeDZ43/preview"
+        },
+        {
+          type: "pdf",
+          label: "Easiest Way to Clarity",
+          src: "https://drive.google.com/file/d/1BiOsPFC4KGGfmmKZPAvQO78ZNfBykUQJ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Challenge Your Never",
+          src: "https://drive.google.com/file/d/1AUgbupLiTgast9IChn0pqI9b8iJeZYv_/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Strategies for Clarity",
+          src: "https://drive.google.com/file/d/1aIl7eJA2c_jmoSAofXbV2UO9mFhPy3KZ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Affirmations for Clarity",
+          src: "https://drive.google.com/file/d/1DlahlxKyB9on2sgR_6OB2B-YfRCiTXRA/preview"
+        },
+        {
+          type: "pdf",
+          label: "12 Questions for Clarity",
+          src: "https://drive.google.com/file/d/1PcYJYL2Cio6s1kGOPrspXTlCZxBVv1hW/preview"
+        }
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202502": {
+    title: "February 2025",
+    month: "February",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/18n6oBwprcbjaTv9lUIEB7C-YuGqKhbIc/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1OsTT85uJaPI8B1is0aUIEvo_TZHZfEMl/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "pdf",
+        label: "Spiritual Mind Treatment Instructions",
+        src: "https://drive.google.com/file/d/1k6rI6rO2GvSm9SwphfK9wYsDc7BaaG5C/preview"
+      },
+      {
+        type: "pdf",
+        label: "Spiritual Mind Treatment Example",
+        src: "https://drive.google.com/file/d/10L0_zmMs5LiIoSfodXr8v3JBZI5UOqap/preview"
+      },
+      {
+        type: "pdf",
+        label: "Spiritual Mind Treatment - Bright Financial Future",
+        src: "https://drive.google.com/file/d/1wghgnt5sJIdcRzK6FoCWDA8PPr808Cf6/preview"
+      }
+    ],
+
+
+    focus: {
+      title: "Year of the Snake",
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202502-year-of-the-snake.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202502-year-of-the-snake-properties.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Snake",
+          src: "https://drive.google.com/file/d/1qYbukTOlf18qaV9geWgq7VpDVje9RWIN/preview"
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "Set Intentions",
+      items: [
+        {
+          type: "pdf",
+          label: "Setting Intentions Quotes",
+          src: "https://drive.google.com/file/d/1PJNQApk_eMnFChmLFGsFEP331HRxar3j/preview"
+        },
+        {
+          type: "pdf",
+          label: "Power of Setting Intentions",
+          src: "https://drive.google.com/file/d/1wLeXCBb6asDt2ocy6MSIeWDbhPdogn50/preview"
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202502-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["vision board", "imagination", "future"],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202501": {
+    title: "January 2025",
+    month: "January",
+    year: 2025,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1DNhQ2HjzeADn5_8z2qudRu0RT3WlFyxf/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/154wJmzJsKNmVzmzsP4aaydZFyvnOACf2/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "pdf",
+        label: "Diana Cooper's Visualization for 2025",
+        src: "https://drive.google.com/file/d/1ISbRDsP_LPlZgGPKfB-d1JSp2vBr5fSX/preview"
+      },
+      {
+        type: "text",
+        label: "Announcements.txt",
+        src: "https://drive.google.com/file/d/1I_bftbjM_4fOPy1x4679tvJ-XwnqGN-_/preview"
+      },
+      {
+        type: "pdf",
+        label: "Daniel Scranton Email",
+        src: "https://drive.google.com/file/d/1qnlLY0tvR5mSeEppEY_vzZejBSvmBsGy/preview"
+      }
+
+    ],
+
+    intention: [
+      {
+        type: "pdf",
+        label: "Declaration of Intention form",
+        src: "https://drive.google.com/file/d/1N6MlttAs4-3_TY2poQt7spd36-lc5qkg/preview"
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    focus: {
+      title: "Archangel Muriel",
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/202501-muriel.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/202501-muriel-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Muriel",
+          src: "https://drive.google.com/file/d/14t0fEcg9qpfkp3qqvgxeD6CaURh_-iwC/preview"
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "OM & Just Like Me",
+      items: [
+        {
+          type: "image",
+          label: "OM Card",
+          src: "daily-practice-images/202501-om-card.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Just Like Me Practice",
+          src: "https://drive.google.com/file/d/1IFzy_P0VN11Js1W_qVLlGgb-1bS-ydZo/preview"
+        },
+        {
+          type: "pdf",
+          label: "Just Like Me Meditation",
+          src: "https://drive.google.com/file/d/1rNKVmpxZnPCAjHOJfGsi22g0aqTfkKjq/preview"
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202501-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "video",
+          label: "Denise Linn, Past-Life Regression",
+          src: "https://www.youtube.com/embed/gsXCnW609OE?si=iOtwwwyRuoNk5XHu"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "Patricia Cota-Robles",
+      items: [
+        {
+          type: "pdf",
+          label: "Violet Flame",
+          src: "https://drive.google.com/file/d/1-eSmc6TlQuYZcV6sTLsy4jhxi2paTjVY/preview"
+        }
+
+      ]
+    },
+
+    tags: ["releasing the past", "set intentions", "om", "just like me",
+      "burning bowl ceremony", "christmas"],
+
+    topic: {
+      title: "Burning Bowl Ceremony & Christmas 🎄",
+      items: [
+        {
+          type: "pdf",
+          label: "Topics.pdf",
+          src: "https://drive.google.com/file/d/1sfvxJuUwyulbVizwM5jY9WqizuEeO7c2/preview"
+        },
+        {
+          type: "pdf",
+          label: "Release form",
+          src: "https://drive.google.com/file/d/19ClELhWF_q7hWg-pcnfLiqaFh9avU5uQ/preview"
+        }
+
+
+
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202412": {
+    title: "December 2024",
+    month: "December",
+    year: 2024,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202412-no-mtg.png", // optional but lovely
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/107lAEXxm0H66I93zyemkwvI2TLt5zkJy/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+
+
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202411": {
+    title: "November 2024",
+    month: "November",
+    year: 2024,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202411-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1bCOpWMk4w03q5_6FD_3fM-AvgJJ9y6Ge/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+
+
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202410": {
+    title: "October 2024",
+    month: "October",
+    year: 2024,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202410-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1RBj6N5o5Udo66oRH0ceo-YZnMHrLwUPc/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202409": {
+    title: "September 2024",
+    month: "September",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1XpkZm3vDV26BE9R2gNRFtmR6A5RbNWPt/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1cVAtRxBmLBstviZ4qAwjvOpy0yLHYizc/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    focus: {
+      title: "Obsidian & Blue Calcite",
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202409-blue-calcite2.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202409-blue-calcite2-properties.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202409-obsidian2.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202409-obsidian2-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Best Crystals for Mindfulness",
+          src: "https://drive.google.com/file/d/1dDp997-ncGr6GmqfKHSBNxN0ACm2sDOk/preview"
+        },
+        {
+          type: "image",
+          label: "Blue calcite from Linda",
+          src: "monthly-focus-images/202409-blue-calcite.jpg"
+        },
+        {
+          type: "image",
+          label: "Obsidian bracelet from Linda",
+          src: "monthly-focus-images/202409-obsidian-bracelet.jpg"
+        },
+
+      ]
+
+    },
+
+    practice: {
+      title: "Be Mindful",
+      items: [
+
+        {
+          type: "image",
+          label: "Little Book of Mindfulness",
+          src: "daily-practice-images/202409-little-book-of-mindfulness.jpg"
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202409-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["mindfulness", "obsidian", "blue calcite"],
+
+    topic: {
+      title: "Mindfulness",
+      items: [
+        {
+          type: "pdf",
+          label: "Mindfulness vs Meditation",
+          src: "https://drive.google.com/file/d/1vXnKVLCQelfT15aIJONSGg-DZd67ImY7/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mindfulness Practices",
+          src: "https://drive.google.com/file/d/19n4omwALr1HrLvapTJhs65L30iutJEVI/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mindfulness Behaviors Chart",
+          src: "https://drive.google.com/file/d/14mx4UYZilz7Gua9TUGcPY-eUsaT2aPAA/preview"
+        },
+        {
+          type: "pdf",
+          label: "12 Ways to Practice Mindfulness",
+          src: "https://drive.google.com/file/d/1v5Ieaw0WADMRSRQL2K5w8RxX88mcRp4y/preview"
+        },
+        {
+          type: "pdf",
+          label: "5 Benefits of Mindfulness",
+          src: "https://drive.google.com/file/d/17j3MejS62N8yx05zDW62A4JSfAbpeA4W/preview"
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: ""
+
+      }
+    ]
+  },
+
+  "202408": {
+    title: "August 2024",
+    month: "August",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/138fZYb43sA0oFF8LpP-Ijz3VSnpj2pKm/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/10m9atvoeZmuwyFRETWIjq3ax_G1b08fh/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "text",
+        label: "Unity's World Day of Prayer",
+        src: ""
+      },
+      {
+        type: "image",
+        label: "Shamrock from Kenny",
+        src: "announcement-images/202408-shamrock-from-kenny.jpg"
+      },
+      {
+        type: "image",
+        label: "Norway bookmark from Kenny",
+        src: "announcement-images/202408-norway-bookmark-from-kenny.jpg"
+      },
+      {
+        type: "image",
+        label: "Paris bookmark from Kenny",
+        src: "announcement-images/202408-paris-bookmark-from-kenny.jpg"
+      },
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202408-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["birthday", "kenny"],
+
+    topic: {
+      title: "",
+      items: [
+
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Dragon from 3D Printer from Linda",
+        src: "other-images/202408-dragon-from-3D-printer.jpg"
+      }
+    ]
+  },
+
+  "202407": {
+    title: "July 2024",
+    month: "July",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1tfetx2q94XKPPnTdCZvM10xtiHZjm-fI/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1NQdhhdweFRz6DIT5OIvWjdaDoet4APBU/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    focus: {
+      title: "Clear Quartz",
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202407-clear-quartz2.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202407-clear-quartz2-properties.png"
+        },
+        {
+          type: "image",
+          label: "Quartz Pendulum from Linda",
+          src: "monthly-focus-images/202407-quartz-pendulum.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Clear Quartz Chart",
+          src: "https://drive.google.com/file/d/10gIb5-ODenJHl3oAwyUF_BRnzxzf13ww/preview"
+        },
+
+      ]
+
+    },
+
+    practice: {
+      title: "Beautiful Words",
+      items: [
+        {
+          type: "pdf",
+          label: "A to Z Beautiful Words",
+          src: "https://drive.google.com/file/d/11ExPXI9yj1fV2vfuntaRC5s9KhbOK8i7/preview"
+        },
+        {
+          type: "pdf",
+          label: "Power of Words",
+          src: "https://drive.google.com/file/d/1NA2I3gK9fg_7NAyiFHpFSO_f7xkOuAHp/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202407-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["cliff notes", "clear quartz"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ]
+  },
+
+  "202406": {
+    title: "June 2024",
+    month: "June",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1BTnoza2BubIghseXMWysJJF84yv8etPy/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1hvt9SpyRU6-jRZqvddG9PuAKO414lKMI/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "pdf",
+        label: "Announcements",
+        src: "https://drive.google.com/file/d/17U4iibtKkB4PfGQ9981wpS9DwX3MKxKi/preview"
+      },
+      {
+        type: "video",
+        label: "How to Watch the News - Rikka Zimmerman",
+        src: "https://www.youtube.com/embed/69YSMnlv9Nk?si=x5DN18TkNzdtXEYv"
+      },
+      {
+        type: "pdf",
+        label: "Chakra Guide",
+        src: "https://drive.google.com/file/d/1LDELijHIozdoZ4zm5e4qjjNOdw9EvfWj/preview"
+      },
+      {
+        type: "image",
+        label: "Bookmark from Kenny - side 1",
+        src: "announcement-images/202406-book-mark-side1-present-from-kenny.jpg"
+      },
+      {
+        type: "image",
+        label: "Bookmark from Kenny - side 2",
+        src: "announcement-images/202406-book-mark-side2-present-from-kenny.jpg"
+      }
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    focus: {
+      title: "Lapis Lazuli",
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202406-lapis-lazuli-2.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202406-lapis-lazuli-2-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Crystals for Belief",
+          src: "https://drive.google.com/file/d/1akCv_zQbPMz_EcMFoxPXnNRVv6BEKO18/preview"
+        },
+        {
+          type: "image",
+          label: "Three Lapis Hearts from Linda",
+          src: "monthly-focus-images/202406-lapis-hearts.jpg"
+        }
+
+      ]
+
+    },
+
+    practice: {
+      title: "Meditation",
+      items: [
+        {
+          type: "video",
+          label: "Picnic at the Park",
+          src: "https://www.youtube.com/embed/8HuEsyEoAZk?si=dkLL9sY8T2RmX6bF"
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202406-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["beliefs", "lapis lazuli", "rikka zimmerman", "bruce lipton",
+      "hermetic principles", "kenny", "denise linn", "chakra guide"],
+
+    topic: {
+      title: "Strengthen Beliefs",
+      items: [
+
+        {
+          type: "pdf",
+          label: "Lion Goodman Email",
+          src: "https://drive.google.com/file/d/16nzPZWYghCQHwfTWm5g-f2wUdUF348Tn/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Strengthen Your Mindset",
+          src: "https://drive.google.com/file/d/1mW9MXnJ7eNP2hW6a5bmjpf5GqdhXr-vW/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bruce Lipton - Hermetic Principles",
+          src: "https://drive.google.com/file/d/1Sn9OJN8xFPoQhFNgm8hRTOzQMmGIedpT/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bruce Lipton - Brain",
+          src: "https://drive.google.com/file/d/1jj15S3Oaza-IllDzkHAQOXd0pt5dY3cv/preview"
+        },
+        {
+          type: "pdf",
+          label: "Core Beliefs",
+          src: "https://drive.google.com/file/d/1z26m9hGOKRmeL5EUg9UME-1UvdyFJF_Z/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Ways to Upgrade Your Belief System",
+          src: "https://drive.google.com/file/d/1Rc4KhhBfwrquseKej-hkDu1ESUq_bS8z/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Hermetic Principles - P1",
+          src: "https://drive.google.com/file/d/1TKU60Gavydvd2xIfqzi8lujbEyt4QV9o/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Hermetic Principles - P2",
+          src: "https://drive.google.com/file/d/1PHzrkwJQEweW8w1ezp3kBYNsfN0P83RI/preview"
+        }
+
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ]
+  },
+
+  "202405": {
+    title: "May 2024",
+    month: "May",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1XH2kvQGV9fWzLlf7seikCNo7TI-dKQmY/preview"
+      }
+    ],
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1OZ3xqqIFaw08_SNkLl5z3LGb3Zi5SAnt/preview"
+        }
+      ]
+    },
+    announcements: [
+      {
+        type: "image",
+        label: "Book Mark from Kenny",
+        src: "announcement-images/202405-vienna-book-mark-from-kenny.jpg"
+      },
+      {
+        type: "image",
+        label: "Small Purse from Linda",
+        src: "announcement-images/202405-small-purse-present-from-linda.jpg"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    focus: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+      ]
+
+    },
+
+    practice: {
+      title: "Stop Drop Roll",
+      items: [
+        {
+          type: "pdf",
+          label: "Stop Drop Roll - Michelle Medrano",
+          src: "https://drive.google.com/file/d/1WvWnJe_lxhzJCUZ8lt7ca3JsZs-SEmms/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202405-affirmation.jpg"
+      }
+    ],
+
+    meditation: {
+      title: "Atlantis",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+
+      ]
+    },
+
+    tags: ["birthday", "stop", "drop", "roll", "atlantis"],
+
+    topic: {
+      title: "Celebrate Birthdays: Trudi, Pam, & PC",
+      items: [
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ]
+  },
+
+  "202404": {
+    title: "April 2024",
+    month: "April",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1LzNtWUocxZzNXlIlZ6wlBg1mB59O7H2G/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1tENY_cMAfMvHXD_hLe1ytvD7D6Oahx0H/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Announcements",
+        src: "https://drive.google.com/file/d/12em653q2oSqI8wyyj-RvOHRCg8L2GpGA/preview"
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202404-affirmation.jpg"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["michelle medrano"],
+
+    topic: {
+      title: "When Your Truth is Not My Truth",
+      items: [
+        {
+          type: "video",
+          label: "Michelle Medrano - New Vision Center  March 2024",
+          src: "https://www.youtube.com/embed/Diegm1Iw-Uk?si=RrQdym3DgdVm2gbH"
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202403": {
+    title: "March 2024",
+    month: "March",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1cBXTc1mAqEkb5mwVAf8GawPKSBFvG1sl/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1Z__8sx-ke7SkRCTP6dJtAcm_ZTOF57D6/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Bruce Lipton Email",
+        src: "https://drive.google.com/file/d/1BM38UVfLg0h16oefnzD_2_GR6zPGwiEX/preview"
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Focus on Love",
+
+      items: [
+        {
+          type: "pdf",
+          label: "Love Letter to Self",
+          src: "https://drive.google.com/file/d/15kwTM5RBNuMp9qihfRHTCTiyIBBjrY2f/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mirror Work",
+          src: "https://drive.google.com/file/d/10Jp6w9aobg8k25h6dhZnmQjxtjQAyFxN/preview"
+        },
+        {
+          type: "pdf",
+          label: "You Are Enough",
+          src: "https://drive.google.com/file/d/1OYhNQA3PfzuhKPxCoSv_EvOy6Zhepf6a/preview"
+        },
+        {
+          type: "pdf",
+          label: "Quotes - Focus on Love",
+          src: "https://drive.google.com/file/d/1sLTcmPlRt4ebgNqfMbQs44T1tgF_GfD_/preview"
+        },
+        {
+          type: "image",
+          label: "Card - I Love You",
+          src: "monthly-focus-images/202403-card-i-love-you.png"
+        },
+        {
+          type: "pdf",
+          label: "7 Simple Steps",
+          src: "https://drive.google.com/file/d/13GZ1VgBmukRe7Wuq6FNnXSijjybdG5xp/preview"
+        }
+      ]
+
+    },
+
+    practice: {
+      title: "Check-In",
+      items: [
+        {
+          type: "pdf",
+          label: "What Does This Bring Up?",
+          src: "https://drive.google.com/file/d/1K85BcDK9k140KktfNpjZwBjadAmJPczQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Quotes - Check-In",
+          src: "https://drive.google.com/file/d/1_Ta-v23A9YqcxADu9--b7qd8VgXwNY4A/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emotional Guidance Scale",
+          src: "https://drive.google.com/file/d/1KbZ92nmioMdGA7f_p6_awB5VXGFcOPJv/preview"
+        },
+        {
+          type: "image",
+          label: "Card - Easy Does It",
+          src: "daily-practice-images/202403-card-easy-does-it.png"
+        },
+        {
+          type: "pdf",
+          label: "Probably Time For a Check-In",
+          src: "https://drive.google.com/file/d/1yecZe-hPQ2X3HzLzgZjMoauKyXQ0IEi2/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Mindfulness Questions",
+          src: "https://drive.google.com/file/d/1CwwjPkeC0zdxHwlduaARquY1EPXv6FTy/preview"
+        }
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202403-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Atlantis",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["bruce lipton", "louise hay", "check-in", "love", "mindfulness", "scale"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202402": {
+    title: "February 2024",
+    month: "February",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1_1oFzsZU5rtGPK5G5RzmpDQKdyFWLqQv/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/17imLxxeIMx9YFAjvULcxJ6UgkTgiIaI-/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "I Can Do It",
+        src: "https://drive.google.com/file/d/1uh182wSVsIsipy6wlDoOV1JlLxOzTMTv/preview"
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Year of the Dragon",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202402-year-of-the-dragon.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202402-year-of-the-dragon-properties.png"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202402-stuffed-dragon.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Dragon Meaning",
+          src: "https://drive.google.com/file/d/1PhZHllFWEgZ5nqcBifiYbsHheQrHweoc/preview"
+        },
+        {
+          type: "pdf",
+          label: "What Zodiac Sign is SGC?",
+          src: "https://drive.google.com/file/d/1VKF6lO22vsMU0zFBU_CygnhQpWOhWkUX/preview"
+        },
+        {
+          type: "pdf",
+          label: "Images - Year of the Dragon",
+          src: "https://drive.google.com/file/d/1Ozr5Jp7fz_9P6lOBb5d4tpHr_u0xKMtM/preview"
+        },
+        {
+          type: "pdf",
+          label: "What 2024 Has in Store for You",
+          src: "https://drive.google.com/file/d/1D0Z59tje4OYacBIzeEQ0ruGGaGubRrsq/preview"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Dragon Could Be Lucky for You",
+          src: "https://drive.google.com/file/d/10TooMI5M7sXOmaLqKcf2icxMsaoOKNV0/preview"
+        },
+      ],
+    },
+
+    practice: {
+      title: "Open Your Heart",
+      items: [
+        {
+          type: "pdf",
+          label: "Quotes - Open Your Heart",
+          src: "https://drive.google.com/file/d/1fU9EwQXurz-Gcgr8bqmMkEMFf9YyQcm2/preview"
+        },
+        {
+          type: "pdf",
+          label: "Images - Open Your Heart",
+          src: "https://drive.google.com/file/d/14cha71KGtpy3YGQatgNOQjiBaXXD6boy/preview"
+        },
+        {
+          type: "pdf",
+          label: "5 Steps to Keeping an Open Heart",
+          src: "https://drive.google.com/file/d/1GQMd7iOTUB7BgiJXBU9dngEDYkrT-WOp/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Steps to Open Your Heart",
+          src: "https://drive.google.com/file/d/1uA6gYUZewM2i1jHFbfGmaP15I9YhdY-6/preview"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202402-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "video",
+          label: "Denise Linn - Open Your Heart",
+          src: "https://www.youtube.com/embed/mlMvBl2D2Ug?si=ouoNeeCN4ir5QUnV"
+        }
+      ]
+    },
+
+    tags: ["intentions", "setting intentions", "denise linn", "open", "heart", "dragon",
+            "year of the dragon", "open your heart"],
+
+    topic: {
+      title: "Setting Intentions",
+      items: [
+        {
+          type: "pdf",
+          label: "Setting My Intentions for 2024",
+          src: "https://drive.google.com/file/d/1PXmdZxhRLSgq1rsft8QSUk3gx7zd9L2H/preview"
+        },
+
+        {
+          type: "pdf",
+          label: "Intention Setting Worksheet",
+          src: "https://drive.google.com/file/d/1SLRsmkxhzVv6EyOA2s4IwEIbTkgbNPKp/preview"
+        },
+        {
+          type: "pdf",
+          label: "How Emotions Affect the Body",
+          src: "https://drive.google.com/file/d/1a4O7L3PYuBGzYExE8aAgZA-b4e2EcWpO/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Intention Setting",
+          src: "https://drive.google.com/file/d/1eZMfD9hcFJGqli44-9WLpQQHRqWKixK_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Power of Intention Setting",
+          src: "https://drive.google.com/file/d/1xL4zvB5TuVzLkzmEELa_b_lsLzbhQE9Q/preview"
+        },
+        {
+          type: "pdf",
+          label: "Intention Setting 101",
+          src: "https://drive.google.com/file/d/1BVT2uHkCfmpYu9Ddn5x3xlhCjuFDPRs4/preview"
+        },
+        {
+          type: "pdf",
+          label: "Setting Intentions - Quotes",
+          src: "https://drive.google.com/file/d/1T7ozTdACpBxw3-yoKdHivO6iaFL2GHWO/preview"
+        },
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202401": {
+    title: "January 2024",
+    month: "January",
+    year: 2024,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1rGtqYBUVwrfRFtE41ptSqS5G3Y9yw_eA/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1tqHxYS0V3d3y7e6bfVaUIGsQRJglKkM6/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202401-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["vision", "board"],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202312": {
+    title: "December 2023",
+    month: "December",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1n7ba4Ihm-uNU0OQlygbPxpLmjLvr30bx/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1ESztW6sGwNLZDjvED1yuZiqfzImdJUYF/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202312-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Denise Linn Meditation",
+      items: [
+        {
+          type: "text",
+          label: "Denise Linn: Sparkling Joy, Shimmering Blessings",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["burn", "bowl", "ceremony", "burning bowl"],
+
+    topic: {
+      title: "Burning Bowl Ceremony",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202311": {
+    title: "November 2023",
+    month: "November",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1tYvg9OHYuuuAD4cp2I1TLQEd6uCOakT9/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1QAKaDUP8ZXyJECv8eVdYoDjXdE7edmzF/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-daily-practice.png"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202311-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["atlas of the heart", "atlas", "heart"],
+
+    topic: {
+      title: "Atlas of the Heart",
+      items: [
+        {
+          type: "pdf",
+          label: "Quotes - Atlas of the Heart",
+          src: "https://drive.google.com/file/d/1Wm9MwXnS--G7mFzxc0wpcIazDKdVcL1J/preview"
+        },
+        {
+          type: "pdf",
+          label: "Empathy Misses",
+          src: "https://drive.google.com/file/d/11LeCArC4fmZYPJM5m9HnEH0aVCMe-DrW/preview"
+        },
+        {
+          type: "pdf",
+          label: "Class Session Outline",
+          src: "https://drive.google.com/file/d/1cOskQ59MOVzbUP5eGvbwx3-yHKye2MJd/preview"
+        },
+        {
+          type: "pdf",
+          label: "87 Emotions",
+          src: "https://drive.google.com/file/d/1xBLLvxR30W40PN7IWOrdopzzPCPi71uW/preview"
+        },
+
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202310": {
+    title: "October 2023",
+    month: "October",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1WnKJ5jqqrFLBM_V8imCgxFH8lC7bUF3k/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1PkaAG6UBklyb4UZWcQUHScaBRxTcQMOr/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "You Need Three Bones - Reba",
+        src: "https://drive.google.com/file/d/1KPOY49znc1DoNPdC1LodGKC-AcH9kZzH/preview"
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Unicorn",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202310-unicorn.png"
+        },
+
+        {
+          type: "image",
+          src: "animal-images/202310-unicorn-properties.png"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202310-stuffed-unicorn.jpg"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202310-unicorn-coloring-book.jpg"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202310-unicorn-figurine.jpg"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202310-unicorn-bookmarks.jpg"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202310-unicorn-bracelet.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Unicorn Symbolism & Meaning",
+          src: "https://drive.google.com/file/d/1GgvTujBBRbg-9Gyq8HbSGuROZaOaiawJ/preview"
+        }
+
+
+      ],
+    },
+
+    practice: {
+      title: "Use Your Imagination",
+      items: [
+        {
+          type: "text",
+          label: "Write 'What's Your Superpower?' "
+        }
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202310-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Denise Linn - Manifest Your Dreams",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["imaginagion", "denise linn", "cd", "amy purdy", "barbra streisand", "reba",
+           "three bones", "unicorn"],
+
+    topic: {
+      title: "Imagination",
+      items: [
+        {
+          type: "image",
+          label: "Imagination CD 1 - Song List",
+          src: "topic-images/202310-cd1-song-list.png"
+        },
+        {
+          type: "image",
+          label: "Imagination CD 2 - Song List",
+          src: "topic-images/202310-cd2-song-list.png"
+        },
+        {
+          type: "video",
+          label: "Barbra Streisand - Pure Imagination",
+          src: "https://www.youtube.com/embed/9kP-EP3ucis?si=pSk7I7uQrCoba5Wn"
+        },
+        {
+          type: "video",
+          label: "Amy Purdy - TED Talk - Living beyond Limits",
+          src: "https://www.youtube.com/embed/N2QZM7azGoA?si=SaEh8H11GN4Doi4H"
+        },
+        {
+          type: "pdf",
+          label: "Use Imagination Creatively",
+          src: "https://drive.google.com/file/d/1-V7J7nK8LMl0XeXICrWTkLohIy-phdq3/preview"
+        },
+        {
+          type: "pdf",
+          label: "SMART Goals",
+          src: "https://drive.google.com/file/d/1u-JNe3MR5GfAcAA8bL4v92helwQcGDHp/preview"
+        },
+        {
+          type: "pdf",
+          label: "Pure Imagination Lyrics",
+          src: "https://drive.google.com/file/d/12jqbcvngZ3EzcBqU10v-xUsInayVCoho/preview"
+        },
+        {
+          type: "pdf",
+          label: "Imagination Quotes",
+          src: "https://drive.google.com/file/d/1MlI8wGt93GQeX0axn9MJpa6yjW4GgIUZ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Imagination Q & A",
+          src: "https://drive.google.com/file/d/1Y8Ext-uaf-X-HwYbRJ-cG1JpzkR0hCzb/preview"
+        },
+        {
+          type: "pdf",
+          label: "Create a Brilliant Life",
+          src: "https://drive.google.com/file/d/1sv0QyZHcj1zt2VcGDpjtVknuXY-Un6cB/preview"
+        },
+        {
+          type: "pdf",
+          label: "The 43 Best Quotes on Imagination",
+          src: "https://drive.google.com/file/d/159awazZGITISg4lv2cipA0zA5oHPteNm/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Ways to Jump Start Your Imagination",
+          src: "https://drive.google.com/file/d/1Z9HqOxSzEo2uTwNuT9PxosLgKMHfznep/preview"
+        },
+        {
+          type: "pdf",
+          label: "5 Benefits Using Imagination",
+          src: "https://drive.google.com/file/d/1yZfPRfrN0be6yVg2-mI54vRz3TeWLrOh/preview"
+        },
+        {
+          type: "pdf",
+          label: "8 Ways to Engage Imagination",
+          src: "https://drive.google.com/file/d/10mkE0WaB5x1rzUA_THbRbtjrTKwKobIW/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Steps to Unleashing Your Imagination!",
+          src: "https://drive.google.com/file/d/1H0CmZ8ULvbPmrk5MJE3rp8B2pPM-HWtG/preview"
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202309": {
+    title: "September 2023",
+    month: "September",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1FAhP311UoJppTquwIom-08wAE-YiEuxa/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1dmkUd5nBM9NwhWp_-uc05bOSlYrru-YL/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Teddy Bear (Continued)",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ],
+    },
+
+    practice: {
+      title: "What Do I Want?",
+      items: [
+        {
+          type: "pdf",
+          label: "What Do I Want? form",
+          src: "https://drive.google.com/file/d/1iKcqLVuSQ6mEpOEFaHRwRPSsN8nSSCOY/preview"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "text",
+        label: "Same as last month",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["calm", "emotions", "teddy bear", "desires", "what do i want"],
+
+    topic: {
+      title: "Calm Your Emotions (Continued)",
+      items: [
+        {
+          type: "pdf",
+          label: "Benefits of Writing Down Your Thoughts",
+          src: "https://drive.google.com/file/d/1JVq8vxATzFzeW82A6452V3cRfJ-Suj8g/preview"
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Patricia Cota-Robles - Divine Plan",
+        src: "https://drive.google.com/file/d/1p1sHxwklWr-q0lPD0rd7MVYJdPBfgfg7/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202308": {
+    title: "August 2023",
+    month: "August",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1xeDtM4Uq0ScqoZ5Sw34m9mhuilaKgmnN/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/11z_dWBC9lRNiJSOzFH5VKX5KTn-8UAe1/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Unity World Day of Prayer Sept 13",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Teddy Bear",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202308-teddy-bear.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202308-teddy-bear-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Teddy Bear Symbolism",
+          src: "https://drive.google.com/file/d/1_kU2JK5JH815q2M_aCk-0OiAbwRZCaLq/preview"
+        },
+        {
+          type: "pdf",
+          label: "Story of the Teddy Bear",
+          src: "https://drive.google.com/file/d/1h3xE_HVZMZBzSUb8PYmOPJBgdM3JOt3v/preview"
+        },
+        {
+          type: "pdf",
+          label: "Benefits of Having a Teddy Bear",
+          src: "https://drive.google.com/file/d/1roAYSoHMmx1U72hIo-xbEcCKy7rd3QHB/preview"
+        }
+      ],
+    },
+
+    practice: {
+      title: "Engage Your Senses",
+      items: [
+        {
+          type: "pdf",
+          label: "Sweeten Your Senses",
+          src: "https://drive.google.com/file/d/1EdcqCZc-__ovJ_lU2O7QJTy17ttmqWj7/preview"
+        },
+        {
+          type: "pdf",
+          label: "Stress Relief Activities",
+          src: "https://drive.google.com/file/d/1Yzh3F2CThIh_ttdMzx7-r0KHHRz9INvV/preview"
+        },
+        {
+          type: "pdf",
+          label: "Five Senses",
+          src: "https://drive.google.com/file/d/17pJBC8l9eQmG1z3VT5sMVxMUGCKMaB_g/preview"
+        },
+        {
+          type: "pdf",
+          label: "Engage Your Senses",
+          src: "https://drive.google.com/file/d/1PVcdrH-J0aPbDlTpQ9mn28ieHuLB226a/preview"
+        }
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["teddy bear", "engage your senses"],
+
+    topic: {
+      title: "Calm Your Emotions",
+      items: [
+        {
+          type: "pdf",
+          label: "87 Emotions",
+          src: "https://drive.google.com/file/d/1cfQa37wV1qTKIVL5_Zq-LRZHCMEby_vM/preview"
+        },
+
+        {
+          type: "pdf",
+          label: "Simple Step",
+          src: "https://drive.google.com/file/d/1hVCt3Rw7kDTp9AZge9o1l34j3C7x13-B/preview"
+        },
+        {
+          type: "pdf",
+          label: "Plutchik's Emotion Wheel",
+          src: "https://drive.google.com/file/d/17YhKe9OcUHrD6cyu97llEIwXyNVOhB39/preview"
+        },
+        {
+          type: "pdf",
+          label: "Feelings Thermometer",
+          src: "https://drive.google.com/file/d/1yxxQ02-PHs6kE6WEuBC96XC29hWNfmax/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emotions vs Feelings",
+          src: "https://drive.google.com/file/d/1lu4deSYO7hUOwU0jznpxCuHsJfgA8LPZ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emotion Quotes",
+          src: "https://drive.google.com/file/d/1SyPomf0wXlnQ-PmlIPNssgiGc_IQXx18/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emotion Definitions",
+          src: "https://drive.google.com/file/d/10z3M_jMMidjZ56rr-fmIN05B90-QcUbF/preview"
+        },
+        {
+          type: "pdf",
+          label: "Detailed Wheel of Emotions",
+          src: "https://drive.google.com/file/d/1tber2skhjoIu1IgVl2ppGu0QHzsy4wPB/preview"
+        },
+        {
+          type: "pdf",
+          label: "Calm Your Emotions Book Summary",
+          src: "https://drive.google.com/file/d/1gt3-7RhalpQC1FGQYW5hUpyo2E4PVis6/preview"
+        },
+        {
+          type: "pdf",
+          label: "Calm Your Emotions Book Notes",
+          src: "https://drive.google.com/file/d/1JblehoHHoA7fmksHgP6RSHq_2hpKVddT/preview"
+        },
+        {
+          type: "pdf",
+          label: "What are Emotions?",
+          src: "https://drive.google.com/file/d/18OBnpcJxenuYWzZZhroRsvjSXrRP09ZL/preview"
+        },
+        {
+          type: "pdf",
+          label: "22 Ways to Calm Yourself Down",
+          src: "https://drive.google.com/file/d/1Q0maLK3N2Gov8KdOZew5fn2so6veFQ41/preview"
+        },
+        {
+          type: "pdf",
+          label: "Three Daily Practice",
+          src: "https://drive.google.com/file/d/1oJ-D3mVeQm6BxJrc9zIlUcF0RuKNOQZN/preview"
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202307": {
+    title: "July 2023",
+    month: "July",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1bKPju_y6EUd2jYgCe12WvVzKAFtB4wGq/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1FLJqNbOPLOodUNJRg48KbFZsl1vjUO1n/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Drenched in Holiness - from Kathy",
+        src: "https://drive.google.com/file/d/1G5M2I1jiFXF8pGYlHcfeQ1-QfW_B5FaI/preview"
+      },
+      {
+        type: "image",
+        label: "Vienna pen - gift from Kenny & Vicky",
+        src: "announcement-images/202307-vienna-pen-from-ken&vic.jpg"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Apatite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202307-apatite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202307-apatite-properties.png"
+        },
+        {
+          type: "image",
+          label: "Apatite stones from Linda",
+          src: "monthly-focus-images/202307-apatite-stones.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Apatite - Stone of Acceptance",
+          src: "https://drive.google.com/file/d/1__c59JwIt8wC0Mvw4yBxsiKUgSazJY4m/preview"
+        },
+        {
+          type: "pdf",
+          label: "Apatite Meaning & Properties",
+          src: "https://drive.google.com/file/d/17i7Dmyvuo3ziQk7bwmFBdJg2v-n7JkNk/preview"
+        }
+      ],
+    },
+
+    practice: {
+      title: "Be Gentle With Yourself",
+      items: [
+        {
+          type: "pdf",
+          label: "Be Gentle With Yourself - from Cliff Notes",
+          src: "https://drive.google.com/file/d/1R9eB8cKz0mjivJdBx6l1dAra0bMhHMOK/preview"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202307-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["gentle", "apatite", "acceptance", "drenched", "holiness"],
+
+    topic: {
+      title: "Acceptance",
+      items: [
+        {
+          type: "pdf",
+          label: "Acceptance Definitions",
+          src: "https://drive.google.com/file/d/1UkNNxPa7TROyDuohxtHNS-ggUx7hdo99/preview"
+        },
+        {
+          type: "pdf",
+          label: "4 Reasons Why Acceptance is Essential to Your Recovery",
+          src: "https://drive.google.com/file/d/1spm1xkAsRz8K5q8Zgc1n3VBvQMY3nXK6/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Gifts of Acceptance",
+          src: "https://drive.google.com/file/d/1sDxzADRRJMFQbUpqyQ34n0Oq8_4kXwI6/preview"
+        },
+        {
+          type: "pdf",
+          label: "15 Affirmations for Acceptance",
+          src: "https://drive.google.com/file/d/1UKO4Jr8pbcye0hN7ay8dB-jXjzN_XHiw/preview"
+        },
+        {
+          type: "image",
+          label: "Serenity Prayer Bookmark - from Linda",
+          src: "topic-images/202307-serenity-prayer-bookmarks.jpg"
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202306": {
+    title: "June 2023",
+    month: "June",
+    year: 2023,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202306-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1MPscUTAzrqOV9IdkQZuW0worWX4DfMLR/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202305": {
+    title: "May 2023",
+    month: "May",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Wohg1zHjwDWJ_owX4f5ORlNsz7nGx-WS/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1fS2UVuFKZmlo6eRMYFCkWKJvOuP5pmpW/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Giraffe",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202305-giraffe.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202305-giraffe-properties.png"
+        },
+        {
+          type: "image",
+          label: "Stuffed Giraffe from Linda",
+          src: "monthly-focus-images/202305-giraffe-stuffed-animal.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Giraffe Images",
+          src: "https://drive.google.com/file/d/1xEn7okuYQRYv6ihqddg1yQHYMslskduT/preview"
+        },
+        {
+          type: "pdf",
+          label: "Giraffe Spirit Animal",
+          src: "https://drive.google.com/file/d/1lliR0DFhwZhtXy9m83F18BYQZBKz1TkS/preview"
+        }
+
+      ],
+    },
+
+    practice: {
+      title: "Get on Your Bird",
+      items: [
+        {
+          type: "pdf",
+          label: "Get on Your Bird",
+          src: "https://drive.google.com/file/d/1IRIfbRisvMKDZgaFbDW9aghlZD96AVsk/preview"
+        },
+        {
+          type: "text",
+          label: "Meditation: Get on Your Bird (10 min) by Collette Baron-Reid"
+        },
+
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202305-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["get on your bird", "giraffe"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202304": {
+    title: "April 2023",
+    month: "April",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1vpdIKJaChDhPEFtyWSr4BPyGbwTAGlim/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1IjxnwlBDNTfrUMLVZ73azVdk3arVN9Rn/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Aloe Vera",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202304-aloe-vera.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202304-aloe-vera-properties.png"
+        },
+        {
+          type: "image",
+          label: "Aloe Vera Plant from Linda",
+          src: "monthly-focus-images/202304-aloe-vera-plant.jpg"
+        },
+        {
+          type: "pdf",
+          label: "How to Care for Aloe Vera Plant",
+          src: "https://drive.google.com/file/d/1TKcKjq_owAaNALL264WrC35uVwVVbpme/preview"
+        }
+
+      ]
+    },
+
+    practice: {
+      title: "EFT",
+      items: [
+        {
+          type: "pdf",
+          label: "EFT",
+          src: "https://drive.google.com/file/d/1JlV4eH_3JfLodQgy8TW4OQAlk4E3zYsb/preview"
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202304-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["eft", "aloe vera"],
+
+    topic: {
+      title: "EFT",
+      items: [
+        {
+          type: "pdf",
+          label: "How to Manage Your Mind in an Uncertain World - Cheryl Richardson",
+          src: "https://drive.google.com/file/d/1cz53Ihh-cI9lJJilXqeJcEUF08ELnuLp/preview"
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202303": {
+    title: "March 2023",
+    month: "March",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/12DKeTNjw8x3Rj7p1vFDjZ02G-o25-u2F/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1UDfdhQZROki_2etXTaWiamvakJsILfNK/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "image",
+        label: "St Patrick's Day Necklace",
+        src: "announcement-images/202303-st-pat-necklace.jpg"
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Indigo Gabbro",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202303-mystic-merlinite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202303-mystic-merlinite-properties.png"
+        },
+        {
+          type: "image",
+          label: "Indigo Gabbro Worry Stone from Linda",
+          src: "monthly-focus-images/202303-indigo-gabbro-worry-stone.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Indigo Gabbro",
+          src: "https://drive.google.com/file/d/1hKOR-Bu5IjniOPb8BlQKfzYkv43COQ48/preview"
+        }
+
+      ],
+    },
+
+    practice: {
+      title: "Listen to Music",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202303-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["music, indigo gabbro", "st patrick's day"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202302": {
+    title: "February 2023",
+    month: "February",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1aK2Z-JrLBKGgvhp3WXIRrxn2mZvgTaLY/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1rH6HDKIXwP7XzMCtwebCPIbGDbPhGk4J/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "image",
+        label: "Card - May All Be Healed",
+        src: "announcement-images/202302-may-all-be-healed-card.png"
+      },
+      {
+        type: "pdf",
+        label: "Change the Way You See - Cliff Notes",
+        src: "https://drive.google.com/file/d/1i2cj09wsbheFUVbdY6KHRbXzKvsRfhFN/preview"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rabbit",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202302-rabbit.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202302-rabbit-properties.png"
+        },
+        {
+          type: "image",
+          label: "Stuffed Rabbit",
+          src: "monthly-focus-images/202302-rabbit-stuffed-animal.jpg"
+        },
+        {
+          type: "image",
+          label: "Chinese Fortune Card - front",
+          src: "monthly-focus-images/202302-chinese-fortune-card-front.jpg"
+        },
+        {
+          type: "image",
+          label: "Chinese Fortune Card - back",
+          src: "monthly-focus-images/202302-chinese-fortune-card-back.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Rabbit",
+          src: "https://drive.google.com/file/d/1RT3A6OfvjsJ9P0S0RIxoaqzP6oEjfGdv/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rabbit Symbolism",
+          src: "https://drive.google.com/file/d/1_gC7x5W5aBacMu-SX9rOHAtQd95-23W9/preview"
+        }
+
+
+      ],
+    },
+
+    practice: {
+      title: "Don't Sweat the Small Stuff",
+      items: [
+        {
+          type: "pdf",
+          label: "Quotes - Don't Sweat the Small Stuff",
+          src: "https://drive.google.com/file/d/1j4XWBuz0CjegZDOL1KFVFENh307HBYNE/preview"
+        },
+        {
+          type: "pdf",
+          label: "List - Don't Sweat the Small Stuff",
+          src: "https://drive.google.com/file/d/1XwvVL5_WYpfrvzXlQb6UQsVkiFVGvVjU/preview"
+        }
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "Affirmation 1",
+        src: "affirmation-images/202302-affirmation1.png"
+      },
+      {
+        type: "image",
+        label: "Affirmation 2",
+        src: "affirmation-images/202302-affirmation2.png"
+      }
+    ],
+
+    luminary: {
+      title: "Richard Carlson",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          src: "EFT Micro-burst of Happiness"
+        }
+      ]
+    },
+
+    tags: ["sweat", "small stuff", "happy", "richard carlson", "eft", "rabbit", "chinese", "fortune"],
+
+    topic: {
+      title: "You Can Be Happy No Matter What",
+      items: [
+        {
+          type: "pdf",
+          label: "Book Summary - You Can Be Happy No Matter What",
+          src: "https://drive.google.com/file/d/1GtCxWe16iSZWvEjqNnqNdnnQGsmP2CDm/preview"
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202301": {
+    title: "January 2023",
+    month: "January",
+    year: 2023,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1oUmiFyNFfJ-AK9qiAxYxhe7znYprR8rM/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1PLkSlkYnUzoBmHhqhpX0XWReaC5epJ_J/preview"
+        },
+        {
+          type: "pdf",
+          label: "Spread LovingKindness - Teacher Version",
+          src: "https://drive.google.com/file/d/1Dg9sA2tGZ_v4iFqnAl02l3oJzVb63VqS/preview"
+        }
+
+
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Jean Houston Email",
+        src: "https://drive.google.com/file/d/1BzqsX1FQrOOHIqW-Jamn6U8sC4kGR-XF/preview"
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rhodonite & Angel Jeremiel",
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202301-rhodonite2.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202301-rhodonite2-properties.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/202301-jeremiel.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/202301-jeremiel-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Crystals for Forgiveness - Rhodonite",
+          src: "https://drive.google.com/file/d/12IdtRlWWRFeYeYa9_Wmh6AsYceiWqh5W/preview"
+        },
+        {
+          type: "pdf",
+          label: "Who is Angel Jeremial - The Angel of Forgiveness",
+          src: "https://drive.google.com/file/d/1vdOTHzPsWad7_VesnQd10H9f6cVm80GA/preview"
+        }
+      ]
+    },
+
+    practice: {
+      title: "Ho'oponopono",
+      items: [
+        {
+          type: "pdf",
+          label: "Ho'oponopono - The 4 Mantras",
+          src: "https://drive.google.com/file/d/122UbGxbNHsnMeXGGvZ4diO2ekNXVJu6v/preview"
+        },
+        {
+          type: "pdf",
+          label: "Ho'oponopono - Laminated",
+          src: "https://drive.google.com/file/d/1GAUdy3cShbiSwrbnL18-ikv1jbYsuUQb/preview"
+        }
+
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202301-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["vision board", "forgiveness", "ho-oponopono", "rhodonite", "jeremiel"],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "pdf",
+          label: "Set Your Vision",
+          src: "https://drive.google.com/file/d/1jmXqiCJk7kG7IxTGg8Qe9hc8ei_6L_hP/preview"
+        },
+
+        {
+          type: "pdf",
+          label: "Set Intentions for 2023",
+          src: "https://drive.google.com/file/d/1GNyJ3I1XAnRYQLi8Po91RhToHtrNnorG/preview"
+        },
+        {
+          type: "pdf",
+          label: "Declaration of Intention",
+          src: "https://drive.google.com/file/d/1LTPhO1S6VdQB4Sm8wyrKAoBlheyArziU/preview"
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202212": {
+    title: "December 2022",
+    month: "December",
+    year: 2022,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1_Pf2-1Qsj9ncFiRRpEMg9qESUqttjtx7/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1kiyHzQe2ZmWzkGiQlDmO9kBtNXApPhJ5/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Grinch To-Do List",
+        src: "https://drive.google.com/file/d/1iYZIncyx-scr3UQtnCnODAwTCR6ZRYUH/preview"
+      },
+      {
+        type: "pdf",
+        label: "If It Is To Be",
+        src: "https://drive.google.com/file/d/1xcnCci6ctRg1w4Hq6wEaAkdWvFLYFcLm/preview"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Angel of Reflection",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/202212-reflection.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/202212-reflection-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Angel of Reflection",
+          src: "https://drive.google.com/file/d/1w0hKRSjlSRUgJIqL--FdPHhEFP-oWA3Q/preview"
+        }
+      ],
+    },
+
+    practice: {
+      title: "Self-Reflection",
+      items: [
+        {
+          type: "pdf",
+          label: "Definitions",
+          src: "https://drive.google.com/file/d/1LHTtKsh4y6LleN9n4sHgbdwk2S-RuQzl/preview"
+        },
+        {
+          type: "pdf",
+          label: "Quotes",
+          src: "https://drive.google.com/file/d/18rbPNz1dsS38T7wzL8KA9hUMV3FmidGL/preview"
+        },
+        {
+          type: "pdf",
+          label: "Questions for Self-Reflection",
+          src: "https://drive.google.com/file/d/1haa6Ar9minwAu2mdfEE2T7bUg4L7vdff/preview"
+        },
+        {
+          type: "pdf",
+          label: "Five Habits",
+          src: "https://drive.google.com/file/d/18sxaySGsxAb3-MzRq9XadgS960ZJ6b4N/preview"
+        },
+        {
+          type: "pdf",
+          label: "Benefits of Self-Reflection",
+          src: "https://drive.google.com/file/d/1e1pqOvpqHDnaHL274GS3foVMIR-R3v9I/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Self-Reflection",
+          src: "https://drive.google.com/file/d/1jucAE6CUI9lqMePMkGCAKh_gRlv0oxfw/preview"
+        },
+        {
+          type: "pdf",
+          label: "15 Ways to Practice Self-Reflection",
+          src: "https://drive.google.com/file/d/14TEetxGAxT1s7-Rean_iBP393qCdbcPH/preview"
+        },
+        {
+          type: "pdf",
+          label: "Journal - gift from Linda",
+          src: "https://drive.google.com/file/d/18iDlYSMVxlCXcUG2mX4HEMyNLEJAFLWE/preview"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        label: "This Month's Affirmation",
+        src: "affirmation-images/202212-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["self-reflection", "reflection", "burning", "bowl", "christmas", "grinch", "journal"],
+
+    topic: {
+      title: "Burning Bowl Ceremony & Christmas Celebration",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+
+  "202211": {
+    title: "November 2022",
+    month: "November",
+    year: 2022,
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1hb7QJShB2iIJn3ihuS-ARYcZEKv79RuP/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1uiqDM3eGAq5JU1xifQBR6xG5z0jVHpaI/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Pasithea",
+
+      items: [
+        {
+          type: "image",
+          src: "ascended-master-images/202211-pasithea.png"
+        },
+        {
+          type: "image",
+          src: "ascended-master-images/202211-pasithea-properties.png"
+        }
+      ],
+    },
+
+    practice: {
+      title: "Create Your Day",
+      items: [
+        {
+          type: "pdf",
+          label: "Create Your Day - Cliff Notes",
+          src: "https://drive.google.com/file/d/1kuovozr2rtaTT4KRURLLw0lmCc88mstJ/preview"
+        },
+        {
+          type: "text",
+          label: "EFT guided meditation: 'Turn Your Day Around: Create a Great Day' from Tapping Solution"
+        },
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202211-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["create", "day", "pasithea", "eft", "joe dispenza"],
+
+    topic: {
+      title: "Celebrate Your Life CD - Joe Dispenza",
+      items: [
+        {
+          type: "text",
+          label: "Planned to listen to Celebrate Your Life CD: 2010 Dr. Joe Dispenza Trk 25. Didn't listen to it"
+
+        },
+
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202210": {
+    title: "October 2022",
+    month: "October",
+    year: 2022,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202210-no-mtg.png", 
+    cancelMessage: "Sometimes we just need a break ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1mUvyxtw_OLAno-PWZ3zZM1Ze_bqWC0Ft/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
+  "202209": {
+    title: "September 2022",
+    month: "September",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1eQKmZAp_Ab39apQCcLZ40A3sFeQOQJ4R/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1uVGKk0SL75Xrf0WFuedDIrzmfTbgMhsJ/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Quokka",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202209-quokka.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202209-quokka-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Book: Meet the Quokkas - from Linda",
+          src: "https://drive.google.com/file/d/1MsYzCUY-cpTvP3XIku3Y8wyeam0rwcVv/preview"
+        }
+
+
+        
+      ],
+    },
+
+    practice: {
+      title: "Smiling",
+      items: [
+        {
+          type: "pdf",
+          label: "Smiling - Quotes",
+          src: "https://drive.google.com/file/d/1zl24Bx2eHRS7eDdERhLgYz1JpbqbBjXC/preview"
+        },
+        {
+          type: "pdf",
+          label: "11 Science-Backed Benefits of Smiling",
+          src: "https://drive.google.com/file/d/1U0hNuP90vDzhv7MeX9CcRFE434pA2TWR/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Reasons to Smile",
+          src: "https://drive.google.com/file/d/1lIIPGveWLwR0WqaKae1lw-NEKQ4ufqaL/preview"
+        }        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202209-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "MicroBoost of Happiness from Tapping Solution",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["happy", "happiness", "quokka", "smile", "smiling"],
+
+    topic: {
+      title: "Happiness",
+      items: [
+        {
+          type: "pdf",
+          label: "Happiness Definition",
+          src: "https://drive.google.com/file/d/1dp_3XDKgeNYfKM_St7G2B51IZyfyPNjB/preview"
+  
+        },
+    
+        {
+          type: "pdf",
+          label: "Happiness Quotes",
+          src: "https://drive.google.com/file/d/1oPbV5Yj-Pk_gZWVpmz59A890GGHnL3Uf/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Happiness? 1",
+          src: "https://drive.google.com/file/d/1qRI8N-vxZbG0f9tJKWvSYhaBqXHvGsUh/preview"
+        },
+        {
+          type: "pdf",
+          label: "What is Happiness? 2",
+          src: "https://drive.google.com/file/d/1MF6hRi1pUwxNMZ-eHKF2UtYFJ2OUOGHt/preview"
+        },
+        {
+          type: "pdf",
+          label: "Different Types of Happiness",
+          src: "https://drive.google.com/file/d/1BTBnCnMTDX16t0p4QhpZgpGxEWTyrKCk/preview"
+        }
+   
+
+        
+      
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
+  "202208": {
+    title: "August 2022",
+    month: "August",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1O45RlVAu8aIMCwaPtp8CKIUIRhkEvLS6/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1TJnJVohaR24q9_gGT-3isaOp4MVP8MUt/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Unity World Day of Prayer 9/7-9/8. I pray with an elevated mind & open heart.",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-monthly-focus.png"
+        },
+        {
+          type: "",
+          src: ""
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "text",
+        label: "Meditation before affirmation: Micro Boost of Peace from Tapping Solution"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/202208-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Atlantis by Doreen Virtue"
+        }
+      ]
+    },
+
+    tags: ["atlantis", "world", "day", "pray"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202207": {
+    title: "July 2022",
+    month: "July",
+    year: 2022,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202207-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+      ],
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
+  "202206": {
+    title: "June 2022",
+    month: "June",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/11ntWASuEsVRSkTanGsL1JpP9_6K3Z4C5/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1xdBBY1s5ACREu8UWPP1pUbypdg1xskZQ/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "World Unity Week - May Peace Prevail on Earth",
+        src: ""
+      }, 
+      {
+        type: "text",
+        label: "Blue Wave Vision Board",
+        src: "announcement-images/202206-blue-wave -vision-board.jpg"
+      },
+
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Cliff Notes Update",
+
+      items: [
+        {
+          type: "pdf",
+          label: "Cliff Notes - New/Updated Pages",
+          src: "https://drive.google.com/file/d/16FMRq8jxA2PjDpYMhldeoCCC1ix4-js7/preview"
+        },
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    practice: {
+      title: "Here and Now Stone",
+      items: [
+        {
+          type: "image",
+          label: "Here-and-Now Stone",
+          src: "daily-practice-images/202206-here-and-now-stone.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Here-and-Now Stone",
+          src: "https://drive.google.com/file/d/1nuRbn8tcGQ0Jxg-vJq_t4AbRUXQGz7ZN/preview"
+        }        
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202206-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Kristin Neff & Chris Germer",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["self","compassion", "kristin neff", "chris germer", "here and now",
+          "cliff notes", "blue wave", "vision board"],
+
+    topic: {
+      title: "Self-Compassion Class (Continued)",
+      items: [
+        {
+          type: "image",
+          label: "Recommended Self-Compassion Books",
+          src: "topic-images/202206-recommended-books.png"
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
+  "202205": {
+    title: "May 2022",
+    month: "May",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1f0EZ5EpCW9D5j_SOrgm9WGFHoiFqodUW/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1NgMP8Xt2fsO8nDO15fjUg_ZUbTp7EJgI/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "image",
+        label: "Queenager Votive Candle Holder",
+        src: "announcement-images/202205-queenager-votive-candle-holder.jpg"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "pdf",
+        label: "Vision for the New Earth",
+        src: "https://drive.google.com/file/d/1G8IIUGsYzUCSnkxZN8PWQGiDFYSczQLP/preview"
+      },
+ 
+  
+
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202205-sodalite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202205-sodalite-properties.png"
+        },
+        {
+          type: "image",
+          label: "Sodalite Stones from Linda",
+          src: "monthly-focus-images/202205-sodalite-stones-from-linda.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Introduction to the Meaning and Uses of Sodalite",
+          src: "https://drive.google.com/file/d/1eE86ELAATuCzGAhs2ksc9GDeC5CEKAnv/preview"
+        }
+      ],
+    },
+
+    practice: {
+      title: "Self-Compassion Break",
+      items: [
+        {
+          type: "image",
+          label: "Self-Compassion Mantras",
+          src: "daily-practice-images/202205-self-compassion-mantras.png"
+        },
+        {
+          type: "pdf",
+          label: "Mindfulness Practices: Self-Compassion Break",
+          src: "https://drive.google.com/file/d/1PxZfUdArPG3IPLKwJPnanZFBDuHm7nI4/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Handout 4: Self-Compassion Break",
+          src: "https://drive.google.com/file/d/10HTplFvb-UOTiWZOKasorrulz1W9GQnD/preview"
+        },       
+        {
+          type: "pdf",
+          label: "Exercise 2: Self-Compassion Break",
+          src: "https://drive.google.com/file/d/1tm5EYuQmiefAtaAdUk0_o-ioc8pm2zt_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion Break - Cliff Notes",
+          src: "https://drive.google.com/file/d/1r6Xt6MlEitKAw7IwbwBP_GHzhvdOAGpk/preview"
+        }
+        
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202205-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["self", "compassion", "self-compassion", "sodalite", "vision for the new earth",
+            "queenager", "votive candle holder", "kristin neff", "brene brown"],
+
+    topic: {
+      title: "Self-Compassion",
+      items: [
+        {
+          type: "text",
+          label: "Watched Brene Brown/Kristin Neff class on Self-Compassion",
+          src: "" 
+        },
+        {
+          type: "pdf",
+          label: "What Self-Compassion Is Not",
+          src: "https://drive.google.com/file/d/17M_Q6i19WGtUEJfZgWu9-bemW_IDKTsc/preview" 
+        },
+  
+        {
+          type: "pdf",
+          label: "What is Self-Compassion?",
+          src: "https://drive.google.com/file/d/1IYO_Fr7pReaJ71ccpASwfkstKP-nOtLs/preview"
+        },
+        {
+          type: "pdf",
+          label: "Soften, Soothe, and Allow",
+          src: "https://drive.google.com/file/d/1G2u35c8COiHv4J0r04Li4j8MSNUGa77i/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion Quotes",
+          src: "https://drive.google.com/file/d/1CWr6SjG_uQefTHXS-nsrMtuNfdRE078g/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion Scale",
+          src: "https://drive.google.com/file/d/1PUk3FD4jwmTVfcD615n0KFZuMLiKwim3/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion Definitions",
+          src: "https://drive.google.com/file/d/1QUH5eSckgCrO1jLDonGPK6iykRlOXm5h/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion vs Self-Esteem",
+          src: "https://drive.google.com/file/d/1WXaUJtRzMlf9xrs9x6Jk2A3d2ZMAWxnQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Science of Self-Compassion",
+          src: "https://drive.google.com/file/d/1Tkq7_iwmXR1pM6M8rfNUAWf9Y6Ty1FsD/preview"
+        },
+        {
+          type: "pdf",
+          label: "3 Elements of Self-Compassion",
+          src: "https://drive.google.com/file/d/1uLn96vjc1ER2XEWLkERVc2GrTLxoUECY/preview"
+        },
+        {
+          type: "pdf",
+          label: "Maximizing Happiness",
+          src: "https://drive.google.com/file/d/1wUHovh8Nx7GULPWx4HaKgsYGxYTh8Xh-/preview"
+        },
+        {
+          type: "pdf",
+          label: "Fierce Self-Compassion",
+          src: "https://drive.google.com/file/d/1Jbv4CoHVdwb8xOBnEgzpxNZGqWJRf6rJ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Exercise 1 - How Would You Treat a Friend",
+          src: "https://drive.google.com/file/d/1PEFstAVndBv2y_LXY_dmGpn2ly02oELM/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion - Cliff Notes Concepts",
+          src: "https://drive.google.com/file/d/1bgp8nGL7wQJ5w7PydFkT-fz0sbGVYPk_/preview"
+        }   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Who is Quan Yin?",
+        src: "https://drive.google.com/file/d/14zg_JwYxUahqA2q74ht1S7KU3yG4FtpF/preview"
+      },
+      {
+        type: "image",
+        label: "Kwan Yin",
+        src: "other-images/202205-kwan-yin.png"
+      }
+
+    ]
+  },
+
+  "202204": {
+    title: "April 2022",
+    month: "April",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1_cwkWtXTptfMKuJcTrTqfsqeA5fZYmoe/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1yaMoVyYyTr2-rpzxi_-ei3lmPXKSPS9Y/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "pdf",
+        label: "Vision for the New Earth",
+        src: "https://drive.google.com/file/d/1DDNttWWrS9UIkZLfYxdSzw58DvwnlvYP/preview"
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rescue Remedy",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202204-rescue-remedy.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202204-rescue-remedy-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Rescue Remedy - Cliff Notes First aid",
+          src: "https://drive.google.com/file/d/1cJ1Y7lVKR-6szMVdU1RScqLYhS_LOY5G/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rescue Remedy Components",
+          src: "https://drive.google.com/file/d/1r8kD7y6LgeSfegctXLTSM6Wfu7rlYpH_/preview"
+        }
+
+        
+      ]
+    },
+
+    practice: {
+      title: "Blessing Water",
+      items: [
+        {
+          type: "pdf",
+          label: "Dr Emoto - Cliff Notes Concepts",
+          src: "https://drive.google.com/file/d/13x_rFR9pDOcFUZG0l5XKiSc2W7HwMOwp/preview"
+        },
+        {
+          type: "image",
+          label: "Water Blessing Labels",
+          src: "daily-practice-images/202204-water-blessing-label.jpg"
+        }, 
+        {
+          type: "pdf",
+          label: "In Remembrance of Masaru Emoto",
+          src: "https://drive.google.com/file/d/1rMZeOCOVmGls2FWUu2qjUipM3YTh2RuX/preview"
+        },      
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202204-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "William Teller & John Hagelund from What the Bleep"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Denise Linn - Creating Your Perfect Day"
+        }
+      ]
+    },
+
+    tags: ["denise linn", "william teller", "john hagelund", "what the bleep", 
+           "rescue remedy", "water", "blessing"],
+
+    topic: {
+      title: "What the Bleep ",
+      items: [
+        {
+          type: "image",
+          label: "What the Bleep Do We Know",
+          src: "topic-images/202204-what-the-bleep-do-we-know.png"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202203": {
+    title: "March 2022",
+    month: "March",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1hpi7LLGFMsV-Dhxe0Rb7pcCUmtbc77AV/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1HOS_pt-8qgWA3mukW-j-s6Bqe6LzDfq3/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Randy Rainbow is coming to Mesa May 4.  He has a new book:  Playing With Myself out April 19",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Lemurian Seed Crystal",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202203-lemurian-seed-crystal.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202203-lemurian-seed-crystal-properties.png"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202203-lemurian-seed-crystal-from-linda.jpg"
+        },
+        {
+          type: "pdf",
+          label: "The Meaning, Properties & Powers of Lemurian Seed Crystal",
+          src: "https://drive.google.com/file/d/1ZlZnUjlUmxo08_FhBvAGDix9uliwqZzY/preview"
+        },
+        {
+          type: "pdf",
+          label: "Lemurian Seed Crystal",
+          src: "https://drive.google.com/file/d/1T7ffCV8lmUT-ublaALD8j3EqSnnT8sb9/preview"
+        }
+            
+      ]
+    },
+
+    practice: {
+      title: "Shine Your Light",
+      items: [
+        {
+          type: "pdf",
+          label: "Shine Your Light Quotes",
+          src: "https://drive.google.com/file/d/1OOmgGIQnjoeCjMEl5OBHNB5z6sZ0M69v/preview"
+        },
+        {
+          type: "text",
+          label: "Shine Your Light: Played SGC CD: Shine Your Light CD 1.Handed out tote bag with coloring book and crayons",
+          src: ""
+        },        
+        {
+          type: "image",
+          label: "Shine Your Light Coloring Book",
+          src: "daily-practice-images/202203-coloring-book.jpg"
+        },
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202203-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "YouTube: 'Let Your Inner Light Shine 10 Minute Guided Medition for Positive...' posted by Great Meditation",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["shine your light", "lemurian seed crystal", "coloring", "vision", "about us"],
+
+    topic: {
+      title: "Our Vision and All About Us",
+      items: [
+        {
+          type: "pdf",
+          label: "Our Vision",
+          src: "https://drive.google.com/file/d/1MMHcqXsvxf0JcnawgKYTXgy3we4Lq2cM/preview"
+  
+        },
+    
+        {
+          type: "text",
+          label: "All About Me: Review Lovable Attributes; Review/Complete All About Me pages",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202202": {
+    title: "February 2022",
+    month: "February",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1hTKydiYLgx-VCJwae3UG2iMT32D8us07/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/18NTMr9diM-9dx3rVVCZsqBVUy4J0HHhs/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Radically Reframing Aging online event- Maria Shriver",
+        src: "https://drive.google.com/file/d/1RKz669FrWr-0hwnf3FGHMDeaQaNn-UJn/preview"
+      },
+      {
+        type: "pdf",
+        label: "7 Steps to Manifest Anything",
+        src: "https://drive.google.com/file/d/1ogSYg8WxJi8jN-h_b5tADhPL1vvgOX1Y/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Science of Healing Summit",
+        src: "https://drive.google.com/file/d/14VHizrB7JQ12nJBfkdhZsPcdtPvH_RYf/preview"
+      },
+      {
+        type: "pdf",
+        label: "Tapping World Summit P1",
+        src: "https://drive.google.com/file/d/14Hrew6R1Oh2SxfdaSrDpVpG93UbcLClj/preview"
+      },
+      {
+        type: "pdf",
+        label: "Tapping World Summit P2",
+        src: "https://drive.google.com/file/d/1vUXUBClPqIExBpn38OoQabU6s1CKlbaI/preview"
+      },   
+
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Tiger",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202202-tiger.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202202-tiger-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Tiger Images",
+          src: "https://drive.google.com/file/d/1uZmMI-JU62aZ7bZ1P-saiz0cPpzG3kss/preview"
+        },
+        {
+          type: "pdf",
+          label: "Tiger Symbolism",
+          src: "https://drive.google.com/file/d/16jsLkgIAxphPMwjeVtc3fOBBuSRN-lBj/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chinese New Year - Year of the Tiger",
+          src: "https://drive.google.com/file/d/1Ju4UX7MtprFnr2QJWAfba_iEvTFhkTHp/preview"
+        },
+
+    
+     
+      ]
+    },
+
+    practice: {
+      title: "Self-Care",
+      items: [
+        {
+          type: "pdf",
+          label: "Self-Love Workbook",
+          src: "https://drive.google.com/file/d/1vfPwkdskjSFq4uNY4YlaDmH1d2EXxsW4/preview"
+        },
+        {
+          type: "pdf",
+          label: "Foundations of Self-Love 1",
+          src: "https://drive.google.com/file/d/1_JJsA6QGZTFpr-5qlgYnNIbyB9mK64jL/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Foundations of Self-Love 2",
+          src: "https://drive.google.com/file/d/1wUfvD2CKOzKeDSZ8dE1piM0qP1smxonV/preview"
+        },       
+        {
+          type: "pdf",
+          label: "Foundations of Self-Love 3",
+          src: "https://drive.google.com/file/d/1A6xBH8AVbMZl1nV3QOSrfaNqDIwgMDy2/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "A to Z form",
+          src: "https://drive.google.com/file/d/1FlvHHgS-ONypBmM-PeMUfO_SzBKLSg5X/preview"
+        }, 
+
+        
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202202-affirmation.png"
+      },
+      {
+        type: "pdf",
+        label: "Affirmation handout",
+        src: "https://drive.google.com/file/d/1r8s7U3etju4k21ltAiGLqdXpOx5RVYKO/preview"
+      },
+      
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Meditation: Michael Beckwith, Life Visioning Meditation for Inner Peace & Inspiration "
+        }
+      ]
+    },
+
+    tags: ["self-care", "tiger", "tapping world summit", "archetypes"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "pdf",
+          label: "Archetype Definition",
+          src: "https://drive.google.com/file/d/1iAcClvneZgWwGdLIeFK5PO-5t5C1p2uU/preview" 
+        },
+        {
+          type: "pdf",
+          label: "My Archetypes form",
+          src: "https://drive.google.com/file/d/15Ob1eWnlSvR6a0X_LiCkjyEy1hTt8DIm/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Advocate Report",
+          src: "https://drive.google.com/file/d/1yQEkX6dl6Q8A9h5iPT2ElNjrQ8iM9cFH/preview"
+        },
+        {
+          type: "pdf",
+          label: "the Athlete Report",
+          src: "https://drive.google.com/file/d/1dfZzIXbdmp0CYTBr3zng9WRp7EATDPy8/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Caregiver Report",
+          src: "https://drive.google.com/file/d/1pZ3Gck4v6j8vmSpoIXoLlVo5fX414dmt/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Creative Report",
+          src: "https://drive.google.com/file/d/1CeAU4Urf9mv5xMreVF81eeBtRJgPxkm-/preview"
+        },
+        {
+          type: "pdf",
+          label: "the Explorer Report",
+          src: "https://drive.google.com/file/d/1OvhhdC5ZEsIqx72K117OM6wCVoC66RP-/preview"
+        },
+        {
+          type: "pdf",
+          label: "the Intellectual Report",
+          src: "https://drive.google.com/file/d/1k4TZZIQanOQc2ErgRcMnZDrd25-9vo6C/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Performer Report",
+          src: "https://drive.google.com/file/d/1TqMAsHHlIZGQd-SnBZu0xhkq4k3IS6Pi/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Rebel Report",
+          src: "https://drive.google.com/file/d/17RFqiFwkK80sUfeKcbpaJG2xjtSyh9OW/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Royal Report",
+          src: "https://drive.google.com/file/d/1cmyzk0MLF1Y6Yt9qjCpl5N-gD6suyq8Z/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Spiritual Report",
+          src: "https://drive.google.com/file/d/17PweZYdKM1D-yu5Tf6FCWU0Q2qCW53eG/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Tastemaker Report",
+          src: "https://drive.google.com/file/d/13ofBJESrDjjj7cyNYNiVAAWpCf-7D_rS/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Visionary Report",
+          src: "https://drive.google.com/file/d/1v1uCYXYBpvOiWJH8tnOoTG6_awAdhGbY/preview"
+        }
+
+   
+   
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202201": {
+    title: "January 2022",
+    month: "January",
+    year: 2022,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/13UBsuGFfVszYvPH7DuUTuiM6XqYX4mGu/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1czw7fiprmaC-HvCQqV_oO4A6Het-1V-x/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Trudi is out sick with COVID",
+        src: ""
+      }, 
+      {
+        type: "pdf",
+        label: "Intuition Class at SWIHA",
+        src: "https://drive.google.com/file/d/1VdQUGUksmfWdGPC1oQdcCPTNFIUUq30x/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Free Workshop - Make Sense of Life",
+        src: "https://drive.google.com/file/d/1AsAxxLSQG8Q_NBA90eWAtHbMiBkUlzoP/preview"
+      },
+      {
+        type: "pdf",
+        label: "Lovable Attributes - for next meeting",
+        src: "https://drive.google.com/file/d/14InYPuDEdR0O2SPjev7TzRUQffnNx5ds/preview"
+      } 
+
+
+      
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Money Frog",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202201-money-frog.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202201-money-frog-properties.png"
+        },
+        {
+          type: "pdf",
+          label:  "Money Frog FengShui",
+          src: "https://drive.google.com/file/d/11px6flHBArSTZYqJus2sqHaX6kdyHTGw/preview"
+        },
+        {
+          type: "pdf",
+          label:  "Money Frog article",
+          src: "https://drive.google.com/file/d/1j6EqLt8VRYoQOlJ_IXZPyCfbC2ucjx8h/preview"
+        } 
+
+      ]
+    },
+
+    practice: {
+      title: "Setting Intentions",
+      items: [
+        {
+          type: "text",
+          label: "Tapping Meditation:theTappingSolution.com - Release New Year Stress in 5 Minutes with Jessica Ortner",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "SGC Intentions - Cliff Notes",
+          src: "https://drive.google.com/file/d/1d4ctUPMtJY2NapKhYmv9JqT9ExM28bX0/preview"
+        },
+        {
+          type: "pdf",
+          label: "Setting My Intentions for 2022 - form",
+          src: "https://drive.google.com/file/d/1R0gT4PbV0go7kmMxsYxtsBPdPVNvQoKm/preview"
+        },
+        {
+          type: "pdf",
+          label: "Declaration Intention - form",
+          src: "https://drive.google.com/file/d/1K6_uy6uAmt3PZoknmCJBwbbd4DCQeJqK/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Alphabet of Manifesting - form",
+          src: "https://drive.google.com/file/d/1Z2nfbkBiVB-61piKIqcN7iiMuTyT4IYs/preview"
+        },  
+        {
+          type: "video",
+          label: "Jessica Ortner -Tapping Meditation for New Year Possibilities",
+          src: "https://www.youtube.com/embed/zugUQ_Av9Ao?si=rtTe6sC0V65t4HHf" 
+        }  
+        
+        
+        
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202201-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Planned: Michael B Bechworth - YouTube.com: Life Visioning Meditation for Inner Peace & Inspiration posted by Mindvalley"
+        }
+      ]
+    },
+
+    tags: ["intentions", "new year", "visioning", "money frog", "frog", "tapping", 
+           "vision boards", "all about me"],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "All About Me 1",
+        src: "https://drive.google.com/file/d/1X683x6RzrKWMtjQ-xFOcX1wwD2urcahS/preview"
+      },
+      {
+        type: "pdf",
+        label: "All About Me 2",
+        src: "https://drive.google.com/file/d/1MKenJslI0ONHd2Sj0Ybq0O3V3ygtUwWh/preview"
+      },
+      {
+        type: "pdf",
+        label: "All About Me 3",
+        src: "https://drive.google.com/file/d/1AVGrPxMsog9AeXLYOZqjqERyh4wzMfOE/preview"
+      },
+      {
+        type: "pdf",
+        label: "All About Me 4",
+        src: "https://drive.google.com/file/d/1Qm_vIcv_Ku5daRURTR34XQY6bC4bQgLI/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202112": {
+    title: "December 2021",
+    month: "December",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1lzPdc0lHRMO8Ovd-pOKbqedzoL2za-Wr/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1Auem5oS_6OvL9QrqvZrEghJnwRbGu8cd/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Red Fox",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202112-red-fox.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202112-red-fox-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "the Meaning of a Fox",
+          src: "https://drive.google.com/file/d/1RBlNVRYYY9JpsVT-CtqXzIJPI5R8nvsr/preview"
+        },
+        {
+          type: "pdf",
+          label: "Stuffed Red Fox",
+          src: "https://drive.google.com/file/d/1b-DL7bG6mnpeRZ4mlFDcdO0M0MfRKRD2/preview"
+        }
+    
+      ]
+    },
+
+    practice: {
+      title: "Celebrate",
+      items: [
+        {
+          type: "pdf",
+          label: "Celebrate - Cliff Notes Concepts",
+          src: "https://drive.google.com/file/d/1eLss9SVOPX2qYorSdBoFWxnj_Gt8AEmX/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202112-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "video",
+          label: "Denise Linn - Serene Inner Peace",
+          src: "https://www.youtube.com/embed/53E4ExkkBD8?si=2IwQYuhYMlsKHnZm"
+        }
+      ]
+    },
+
+    tags: ["burning", "bowl", "christmas", "denise linn", "celebrate", "fox"],
+
+    topic: {
+      title: "Burning Bowl Ceremony & Christmas Party",
+      items: [
+        {
+          type: "pdf",
+          label: "Burning Bowl Ceremony - Cliff Notes Tools",
+          src: "https://drive.google.com/file/d/1vg1IXQeDpNXXDwwQmLoM-x_ealnuEqIR/preview"
+        },
+    
+        {
+          type: "pdf",
+          label: "Release form",
+          src: "https://drive.google.com/file/d/1a4Py0Ea30dq_31r0CmMewOsenvKPt32M/preview"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Friends are like Fruitcake",
+        src: "https://drive.google.com/file/d/13qohvHXcwsajMWuUKWhDCCWOjQAFymID/preview"
+      },
+      {
+        type: "pdf",
+        label: "Invocation of the Holy Order",
+        src: "https://drive.google.com/file/d/1OofX_W2SUjAc7NhznhurRsjtsgcVodGU/preview"
+      }
+
+    ]
+  },
+  
+  "202111": {
+    title: "November 2021",
+    month: "November",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1FEkz3SJXg4V8-Nv-551r-HdZLk16cGY3/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1NqZbjaIl82ln-JEO_dcBR0VkaLpAHj7F/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Auralite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/202111-auralite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/202111-auralite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Auralite 23",
+          src: "https://drive.google.com/file/d/1TQlvFsv4Hfpzb-WW3ckYdVPomdgNV2uc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Auralite 23 Meaning",
+          src: "https://drive.google.com/file/d/1mur8iHOTNL-5E6ya0P2lxR6kCGfjw4uw/preview"
+        },
+        {
+          type: "pdf",
+          label: "23 Minerals of Auralite",
+          src: "https://drive.google.com/file/d/1wWn249XdkktvE1njmlj-oKSRSNwvdZ6F/preview"
+        }    
+
+      ]
+    },
+
+    practice: {
+      title: "Gratitude",
+      items: [
+        {
+          type: "pdf",
+          label: "30 Days of Journal Prompts for Gratitude",
+          src: "https://drive.google.com/file/d/16JOIi0k5nOJILSQvvIFls0o-olYtA7lX/preview"
+        },
+        {
+          type: "pdf",
+          label: "9 Gratitude Journaling Tips",
+          src: "https://drive.google.com/file/d/1aF8D54yYDl9JQIvqU3ygGhgeTAfRJrn5/preview"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202111-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "video",
+          label: "Denise Linn - Exuberant Self-Esteem",
+          src: "https://www.youtube.com/embed/5TKxGm07xIw?si=e_oVJQ3a455KK0ZC"
+        }
+      ]
+    },
+
+    tags: ["wholehearted", "brene brown", "denise linn", "auralite", "gratitude"],
+
+    topic: {
+      title: "Wholehearted Living",
+      items: [
+        {
+          type: "pdf",
+          label: "10 Guideposts",
+          src: "https://drive.google.com/file/d/1h53rTAEYOseiL-KGaT5UX8OA6Rg7EVZ_/preview" 
+        },
+        {
+          type: "pdf",
+          label: "Gifts of Imperfection - Quotes",
+          src: "https://drive.google.com/file/d/1WbslWC1TuFbHo9f3POqox1bLDMXyTeQY/preview"
+        },
+        {
+          type: "pdf",
+          label: "A Simple Guide to Wholehearted Living",
+          src: "https://drive.google.com/file/d/17tzYMiKd472-vMYBYNqoUbggudJEYvry/preview"
+        },
+   
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202110": {
+    title: "October 2021",
+    month: "October",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1giiwLxXgR3usYTsQS51ijrlHFgdb4Kqh/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1BdFN0S939itS5lt3TNdupHDsofDVBT1d/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Colin Powell died.",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Sandalphon",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/202110-sandalphon.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/202110-sandalphon-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Sandalphon",
+          src: "https://drive.google.com/file/d/1xPQPYy-x0nGo2JTuJ1XKnoBfugxt9KAO/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Listen to Music",
+      items: [
+        {
+          type: "image",
+          label: "Raise Your Spirits CD",
+          src: "daily-practice-images/202110-cd-raise-your-spirits.png"
+        },
+        {
+          type: "pdf",
+          label: "Raise Your Spirits CD Song List",
+          src: "https://drive.google.com/file/d/1NmFow0QbNiBzibBm2LIje-vS-5axIe9d/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Use Music to Raise Your Vibration",
+          src: "https://drive.google.com/file/d/1FobNeIznX1t8NZ8sEeDgDYGbraO43RVO/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "The Power of Music",
+          src: "https://drive.google.com/file/d/1QaCxPoo62ur0vWUhd6oabALUlTAtFGbc/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "15 Benefits of Music",
+          src: "https://drive.google.com/file/d/1d-bi0WXdHer5J76b3IiPe0wwEVC7nJt5/preview"
+        },        
+
+
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202110-affirmation.png"
+      },
+      {
+        type: "pdf",
+        label: "35 Affirmations to Raise Your Vibration",
+        src: "https://drive.google.com/file/d/1O-O3eeA3YrakTk3TyNIBnU_k53Bczfrg/preview"
+      },
+
+    ],
+
+    luminary: {
+      title: "Alan Cohen & Kyle Gray",
+      items: [
+        {
+          type: "image",
+          label: "Alan Cohen",
+          src: "luminary-images/202110-alan-cohen.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Alan Cohen email on Faithkeepers",
+          src: "https://drive.google.com/file/d/1mwwF72uP8FGlu0U-M_VC74oYALXr1bab/preview"
+        },
+        {
+          type: "image",
+          label: "Kyle Gray",
+          src: "luminary-images/202110-kyle-gray.jpg"
+        },
+        {
+          type: "image",
+          label: "Kyle Gray book - Raise Your Vibration",
+          src: "luminary-images/202110-kyle-gray-book-raise-your-vibration.png"
+        },
+
+       
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "pdf",
+          label: "Meditation Info",
+          src: "https://drive.google.com/file/d/1hKAqtakdhB9c2kkVZTto-4I3CqpSVnvx/preview"
+        }
+      ]
+    },
+
+    tags: ["alan cohen", "kyle gray", "denise linn", "patricia cota-robles", 
+           "raise your vibration", "sandalphon", "music", "cd", "affirmation"],
+
+    topic: {
+      title: "Raise Your Vibration",
+      items: [
+        {
+          type: "pdf",
+          label: "How to Raise Your Emotional & Spiritual Vibration",
+          src: "https://drive.google.com/file/d/1OKzx9JA-8ErazcjrsqS8utsvRTcd-lAj/preview"
+        },    
+        {
+          type: "pdf",
+          label: "8 Ways to Raise Your Vibration",
+          src: "https://drive.google.com/file/d/18xpA0KPWd-HYAi6Rv-TxpK06lACvoB_K/preview"
+        },
+        {
+          type: "pdf",
+          label: "17 Things to Raise Your Vibration",
+          src: "https://drive.google.com/file/d/1YKqkM52P3BooRTSuKY0Mkv5DY3vl8ANP/preview"
+        },
+        {
+          type: "pdf",
+          label: "6 Affirmation Cards",
+          src: "https://drive.google.com/file/d/1i9zutLRUhh2aeiEj15W1-VQHMk_mbAqR/preview"
+        },
+        
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Invocation",
+        src: "https://drive.google.com/file/d/1sXAvIy96FJVNoTJktqIJjzQJdn1cHmyK/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202109": {
+    title: "September 2021",
+    month: "September",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1W-SqP_L4BtK_YtM9PNNaLCekz3wtxD2_/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1DCT0jDiEMvMNhg3Yn5Ez7kEJhXLSMF00/preview"
+        },
+        {
+          type: "pdf",
+          label: "Abraham Worksheet - Teacher Copy - Answers",
+          src: "https://drive.google.com/file/d/1jW2UWmndOdzewGG8GYV5P0krqe0EFl8H/preview"
+        },
+
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Peppermint Essential Oil",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202109-peppermint-eo.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202109-peppermint-eo-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Patricia Cota-Robles roller ball",
+          src: "https://drive.google.com/file/d/125Tv2YYR8v4tnUm-_kI8rfEO4npLrBJt/preview"
+        },
+        {
+          type: "pdf",
+          label: "Peppermint Essential Oil",
+          src: "https://drive.google.com/file/d/1-vtY4iCIjCFN9vTGC7ayxYENLL_Pn65Y/preview"
+        }
+       
+      ]
+    },
+
+    practice: {
+      title: "Focus on What You Want",
+      items: [
+        {
+          type: "pdf",
+          label: "Things that Bring Me Joy form",
+          src: "https://drive.google.com/file/d/1scb9yq6Obvg2aHQ-7pNFHxZOJ6FkeThT/preview"
+        },
+        {
+          type: "pdf",
+          label: "Abraham's Law of Attraction Synopsis",
+          src: "https://drive.google.com/file/d/1G_IejNfmTv3TLp82cO0m6HfvngNYn3kB/preview"
+        },
+        {
+          type: "pdf",
+          label: "Sunny Dawn Johnston email - Fear vs Focus",
+          src: "https://drive.google.com/file/d/1s32IktLy9Nx1GskDpspIbJlvg6zaje5T/preview"
+        },
+        {
+          type: "pdf",
+          label: "Abraham Quotes",
+          src: "https://drive.google.com/file/d/1ATFEy9OD3IY1Skrmtxjacc-lk2mkyoJa/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Abraham's Emotional Guidance System",
+          src: "https://drive.google.com/file/d/1Rs5TBuXckR6A3USpSulgUnojPhGPytG8/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Abraham's Creative Workshop",
+          src: "https://drive.google.com/file/d/1llK_dC-Oko5hpDVosHcW4XeFYrXLK5mf/preview"
+        }          
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202109-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/202109-affirmation2.png"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Jerry & Esther Hicks - Abraham"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["abraham", "esther hicks", "jerry hicks", "law of attraction", "creative", "workshop",
+           "peppermint", "essential oil", "eo", "worksheet"],
+
+    topic: {
+      title: "Abraham",
+      items: [
+        {
+          type: "pdf",
+          label: "Abraham Worksheet",
+          src: "https://drive.google.com/file/d/1dIRm0t_csrz2xP_ZhHRnYkGRqp6kcDcf/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202108": {
+    title: "August 2021",
+    month: "August",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1oKsGQNC324dpb4Q1duO-n905LtfLcONW/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1hs2b8WRW6PL2_YgUhd_v3cS2HaxphWzi/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Unity Day of Prayer 9/8-9/9/21",
+        src: ""
+      }, 
+      {
+        type: "text",
+        label: "Fantastic Fungi Global Summit 10/15/21",
+        src: ""
+      },
+      {
+        type: "image",
+        label: "Unity World Day of Prayer",
+        src: "announcement-images/202108-unity-day-of-prayer.jpg"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Mushroom",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202108-mushroom.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202108-mushroom-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "The Healing Power of Mushrooms",
+          src: "https://drive.google.com/file/d/1h0Lvtmw50Mvp8YwpM2NqhhHH35oCp7PB/preview"
+        },
+        {
+          type: "pdf",
+          label: "Reishi Mushroom Powder",
+          src: "https://drive.google.com/file/d/1jHLLqZ6epmKDGLcz-4MEFI1b_ajO-8zO/preview"
+        },
+        {
+          type: "pdf",
+          label: "Health Benefits of Mushroom",
+          src: "https://drive.google.com/file/d/1uXtDDr3HuQr7VWHnMfz5t1mUpRw0oDmF/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mushroom Notes",
+          src: "https://drive.google.com/file/d/1wR3j7JREBnBGg4q804PWGtc3fudUpoXm/preview"
+        },
+        {
+          type: "pdf",
+          label: "Top 10 Powerful Mushrooms",
+          src: "https://drive.google.com/file/d/1FL1E_y1YE7OJHwm4MrqthxKp3rQx5JmA/preview"
+        },
+        {
+          type: "pdf",
+          label: "Health Benefits of Eating Mushrooms",
+          src: "https://drive.google.com/file/d/1O8zgpvzS7jUx5OuQ0ycCKHcR9eYYc82x/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mushrooms Have Stunning Powers",
+          src: "https://drive.google.com/file/d/1dhVZ49XAC-JswoSygmOl1EUObZ6N7iEx/preview"
+        
+        }
+
+        
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Mindful Eating",
+      items: [
+        {
+          type: "pdf",
+          label: "Mindful Eating",
+          src: "https://drive.google.com/file/d/1chZ5fOae20bhhKecMW2o7YOzo56lj2Q-/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }        
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202108-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "Louie Schwartzberg & Paul Stamets",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["mushroom", "mindful", "eating", "louie schwartzberg", "paul stamets", "fantastic fungi"],
+
+    topic: {
+      title: "Movie - Fantastic Fungi",
+      items: [
+        {
+          type: "image",
+          label: "Fantastic Fungi",
+          src: "topic-images/202108-fantastic-fungi.png"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202107": {
+    title: "July 2021",
+    month: "July",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1CmI9rlPU1siCFndFpkVZ6vPsmgacnhmJ/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/19WtJth7DIULtoVFuGeaFJLGqZjsOCnoL/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "The Power of Gratitude",
+        src: "https://drive.google.com/file/d/192rixFymGKK-aj0U4raDbDyWn6-adoE-/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Happier Life",
+        src: "https://drive.google.com/file/d/1sumnNJM3iAf0kiXqKII1q3Y2MEhEt7kU/preview"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Dolphin",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202107-dolphin.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202107-dolphin-properties.png"
+        },   
+        {
+          type: "pdf",
+          label: "Dolphin Symbolism",
+          src: "https://drive.google.com/file/d/1RFujVtWdQQxDhrYyX9yU7OF1C8gP5iZT/preview"
+        },
+        {
+          type: "image",
+          label: "Stuffed Dolphin",
+          src: "monthly-focus-images/202107-stuffed-dolphin.png"
+        }
+
+      ]
+    },
+
+    practice: {
+      title: "As If",
+      items: [
+        {
+          type: "pdf",
+          label: "As If Technique",
+          src: "https://drive.google.com/file/d/1LPXQscJNP_JAvTBBxx4WRVRavKziMXAh/preview"
+        },
+        {
+          type: "pdf",
+          label: "Aristotle Quotes",
+          src: "https://drive.google.com/file/d/1EOGMjdKgMi0LsvPUoAKEi_bOnwVD6kvN/preview"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202107-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["atlantis", "as if", "dolphin", "power", "gratitude", "happier", "life"],
+
+    topic: {
+      title: "Atlantis Meditation",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202106": {
+    title: "June 2021",
+    month: "June",
+    year: 2021,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202106-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202105": {
+    title: "May 2021",
+    month: "May",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1F1eAJemof0Z5Bx9wZD8mJP-TsVjFjMNt/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: "none-images/no-monthly-focus.png"
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cannabis", "trudi's house"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: "none-images/no-topic.jpg"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202104": {
+    title: "April 2021",
+    month: "April",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1584TOEuA8ZB5aEu3xSAznvocClZFjfgT/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1UD1pIvAy9S89TnBPuv72dOHhXbp8hcMK/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Gerry Jampolsky died.",
+        src: ""
+      }, 
+      {
+        type: "pdf",
+        label: "Serenity Bookmark",
+        src: "https://drive.google.com/file/d/1tGOLLRGnRYIE4xpHUaceNcHRDoN6ZCqP/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "A Way of Starting the Day",
+        src: "https://drive.google.com/file/d/1PRR-9VEJnvzwToW7x9CtW6MkSinZQ6fB/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Quick Coherence Log",
+        src: "https://drive.google.com/file/d/1ulfnWA6SMQbuhyAEAnKanC3JUEI4kecs/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Aging Guidelines",
+        src: "https://drive.google.com/file/d/1evtAYviQBxOZvvj3UItcr3aGLvNCqTS5/preview"
+      },
+      {
+        type: "pdf",
+        label: "12 Attitudinal Principles",
+        src: "https://drive.google.com/file/d/1Tc_fzOmNO0W8X9GW3ZEfRVXGVriZ_mK0/preview"
+      },  
+
+
+      
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Buddha",
+
+      items: [
+        {
+          type: "image",
+          src: "ascended-master-images/202104-buddha.png"
+        },
+        {
+          type: "image",
+          src: "ascended-master-images/202104-buddha-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Buddha Facts",
+          src: "https://drive.google.com/file/d/15cnc1-sMnr37dGB8EUZ4AvnBabYzw0z7/preview"
+        },
+        {
+          type: "pdf",
+          label: "Buddha Quotes 1",
+          src: "https://drive.google.com/file/d/1UT4a0KUi2bGy9KnfcNjzuX9ClXZrzVrs/preview"
+        },
+        {
+          type: "pdf",
+          label: "Buddha Quotes 2",
+          src: "https://drive.google.com/file/d/1NTmlFyWlsxAtKtP5LRA2z3-ilsqPx35d/preview"
+        },
+        
+        {
+          type: "pdf",
+          label: "Buddha Garden from Linda",
+          src: "https://drive.google.com/file/d/1hnwh1glw-bdCE7W5_n-HZ6R_4vQHAFv8/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "HeartMath",
+      items: [
+        {
+          type: "pdf",
+          label: "Quick Coherence Technique Basics",
+          src: "https://drive.google.com/file/d/1b8_cLG_uLj0Uai3KJrISy59mbuhJsjGH/preview"
+        },
+        {
+          type: "pdf",
+          label: "Quick Coherence Technique",
+          src: "https://drive.google.com/file/d/1c9aBR8CasAvDrytXa5YtZHV9t2uJ4QMn/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "HeartMath Quotes",
+          src: "https://drive.google.com/file/d/1NoFNhwbSNwgN2hFCGrxhAR57DC3dwKMY/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Heart Lock-in Techniqe",
+          src: "https://drive.google.com/file/d/1iilVXHq7BXgzZ19TLiN1XK1xh4jNBWzI/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Heart Lock-in Log",
+          src: "https://drive.google.com/file/d/13V4EcY_KrKhBk3HZ4qJAxuMJ8SR2gESg/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "12 HeartMath Tools",
+          src: "https://drive.google.com/file/d/1ryoPlyEGMWghHDbWl5ax3unAPij00MDl/preview"
+        }       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202104-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["buddha", "heartmath", "coherence", "movie", "lock-in", "heart"],
+
+    topic: {
+      title: "Watch Movie",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: "none-images/no-topic.jpg"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202103": {
+    title: "March 2021",
+    month: "March",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1et1XP1QP7HUMrH0kOxYnFcqhuuUJTu7B/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/12v3y9DqMLTPlMylaHkU-6RMFhha4sFRz/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Ox",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202103-ox.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202103-ox-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Ox or Bull Symbolism",
+          src: "https://drive.google.com/file/d/1Q8PFU9ZpOlCtL_Ye6Xzie2u5GUXDCxtV/preview"
+        },
+        {
+          type: "pdf",
+          label: "Set Your Vision form",
+          src: "https://drive.google.com/file/d/1_4q5SC02ekb9KKXcftGnIiLmFrX_V_yt/preview"
+        },
+        {
+          type: "pdf",
+          label: "Set Your Vision for 2021",
+          src: "https://drive.google.com/file/d/1I2NOxNeC58dDdGFUXLQbAIz6yQoMpAty/preview"
+        },
+        {
+          type: "pdf",
+          label: "Stuffed Ox from Linda",
+          src: "https://drive.google.com/file/d/1EuPPa6EeZeIFaepsV8UyUfnyQnrunxCk/preview"
+        }
+
+
+
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Centering",
+      items: [
+        {
+          type: "pdf",
+          label: "Centering",
+          src: "https://drive.google.com/file/d/10uSI2ZOEZSC5jKS2iAnqm7YA6kMPBpZ5/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202103-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cliff notes", "vision boards", "ox", "centering"],
+
+    topic: {
+      title: "Cliff Notes & Vision Boards",
+      items: [
+        {
+          type: "pdf",
+          label: "New/Updated Pages for Cliff Notes",
+          src: "https://drive.google.com/file/d/1e7_9MzVsGo_al5RCPg1Rzy3tfwFT2H3R/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202102": {
+    title: "February 2021",
+    month: "February",
+    year: 2021,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Jl21aY4j-xsB-QM5fsSmxn4h2SAzhcSr/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1co6US_c89IQuj8Agd_q-rWYpXAULJ1BW/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Prepare for Vision Boards",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Christmas Tree",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202102-christmas-tree.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202102-christmas-tree-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Christmas Tree Meaning",
+          src: "https://drive.google.com/file/d/1Z0J71BiGBy5Gq9EAibaHJ7ywkY9eeIIw/preview"
+        },
+        {
+          type: "pdf",
+          label: "Meaning of Christmas Symbols",
+          src: "https://drive.google.com/file/d/1aYuNkIiuxqnXStIuBDFPFbxx8KGcZC9d/preview"
+        },
+        {
+          type: "pdf",
+          label: "Christmas Symbolism",
+          src: "https://drive.google.com/file/d/1Cs-BwjNHnZqLaUnhCfpRTRZaLEjfhjdP/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Chanting",
+      items: [
+        {
+          type: "image",
+          label: "Chants CD Cover",
+          src: "daily-practice-images/202102-chants-cd-cover.png"
+        },
+        {
+          type: "image",
+          label: "Chants CD Song List",
+          src: "daily-practice-images/202102-chants-cd-song-list.png"
+        },
+        {
+          type: "pdf",
+          label: "Chanting Definitions",
+          src: "https://drive.google.com/file/d/15giCqeEI0hx_cdg1B_vJpe6BGP0DhW6B/preview"
+        }        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202102-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["christmas", "tree", "burning", "bowl", "ceremony", "chanting"],
+
+    topic: {
+      title: "Celebrate Christmas & Burning Bowl Ceremony",
+      items: [
+        {
+          type: "image",
+          label: "Burning Bowl Instructions",
+          src: "topic-images/202102-burning-bowl-instructions.png"
+  
+        }, 
+        {
+          type: "image",
+          label: "Burning Bowl Statements",
+          src: "topic-images/202102-burning-bowl-statements.png"
+        },
+        {
+          type: "pdf",
+          label: "Bountiful Blessings",
+          src: "https://drive.google.com/file/d/1LWrne2bEWkIi5OMgHN2saO3eSm0_aibM/preview"
+        },  
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202101": {
+    title: "January 2021",
+    month: "January",
+    year: 2021,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202101-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202012": {
+    title: "December 2020",
+    month: "December",
+    year: 2020,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202012-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202011": {
+    title: "November 2020",
+    month: "November",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/202101-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1oL1NBbkCHJBVoGxz2nHiI3xjRNiLMPjl/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1g-oNJN-5k915Z6MaBz13azSOqZfmgE7a/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Handed out Unity Nurture booklet",
+        src: ""
+      },
+      {
+        type: "text",
+        label: "Palouse 8-Week Mindfulness Course",
+        src: ""
+      },
+      {
+        type: "text",
+        label: "SGC Field Trip Nov 18",
+        src: ""
+      }
+       
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "White Poppy",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202011-white-poppy.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202011-white-poppy-properties.png"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/202011-white-poppy-from-linda.jpg"
+        },
+        {
+          type: "pdf",
+          label: "White Poppy Meaning",
+          src: "https://drive.google.com/file/d/1j7PwZZ9ObKoGtCWHO5aB3v4HhoUqkXzz/preview"
+        }
+       
+
+      ]
+    },
+
+    practice: {
+      title: "Gratitude",
+      items: [
+        {
+          type: "pdf",
+          label: "Top 3 Gratitude Meditations",
+          src: "https://drive.google.com/file/d/1wrvQd-9whkluI44ZEyxVkN8zpCuBjliX/preview"
+        },
+        {
+          type: "pdf",
+          label: "I am Grateful for",
+          src: "https://drive.google.com/file/d/1UeteTqnDf7SKnU99PXrm0w4kwlLsxVVV/preview"
+        },
+        {
+          type: "video",
+          label: "Gratitude Meditation Strengthen Happiness",
+          src: "https://www.youtube.com/embed/eMu3njVOt6U?si=qJT9SJy_H_6OktG4"
+        }, 
+
+
+
+ 
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202011-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["metahuman", "deepak chopra", "gratitude", "white poppy", "poppy", "unity", "video"],
+
+    topic: {
+      title: "Becoming Metahuman",
+      items: [
+        {
+          type: "video",
+          label: "Becoming Metahuman - Deepak Chopra",
+          src: "https://www.youtube.com/embed/_g7CPhLcqR0?si=Nls3t2oFa3wDkQd7" 
+        },   
+        {
+          type: "pdf",
+          label: "A More Meaningful Life",
+          src: "https://drive.google.com/file/d/1PX9hJgIkz75hfAJxnyhju_5iG-dzzWG8/preview"
+        },
+        {
+          type: "pdf",
+          label: "Becoming Metahuman - Notes",
+          src: "https://drive.google.com/file/d/1k79m-J5HsrrhFSj0awjLPpeFTvrwtsTl/preview"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Present from Kathy - Gratitude Card",
+        src: "other-images/202011-present-from-kathy-gratitude-card.jpg"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202010": {
+    title: "October 2020",
+    month: "October",
+    year: 2020,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202010-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202009": {
+    title: "September 2020",
+    month: "September",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/202101-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1i0P4bxY00G46fWqx-tUnOuQY83iXEGT6/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1JZNFdPenVznjNoGvBGalPin2bhlP1sVc/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Field Trip Oct 7 - Hanging Art",
+        src: ""
+      },
+      {
+        type: "image",
+        label: "Timothy Snyder book - Our Malady",
+        src: "announcement-images/202009-our-malady-timothy-snyder-book.png"
+      },
+      {
+        type: "image",
+        label: "Feel the Fear book - still relevant since 1987",
+        src: "announcement-images/202009-feel-the-fear-book-by-susan-jeffers.png"
+      },
+
+      
+      {
+        type: "image",
+        label: "Courage Bookmark from Linda",
+        src: "announcement-images/202009-courage-bookmark.jpg"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rhinoceros",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202009-rhino.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202009-rhino-properties.png"
+        },
+        {
+          type: "image",
+          label: "Stuffed Rhino from Linda",
+          src: "monthly-focus-images/202009-stuffed-rhino-from-linda.jpg"
+        },
+        {
+          type: "pdf",
+          label: "World Rhino Day poster",
+          src: "https://drive.google.com/file/d/1FmQc3LSfT98MJqInV1RE-xNtlsBoF-r8/preview"
+        },
+        {
+          type: "pdf",
+          label: "World Rhino Day info",
+          src: "https://drive.google.com/file/d/1S1PzTzWBP1AZ3WwKM4zIbaQarybmqjNh/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rhino Quotes",
+          src: "https://drive.google.com/file/d/12_8loNryB74Ybt-1k6tYUksvS5157KGP/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rhinoceros Symbolism",
+          src: "https://drive.google.com/file/d/1GqXYaLAD-40pSKqQoZ98JNCUkzNXqM6g/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Rhinoceros",
+          src: "https://drive.google.com/file/d/1NRLpEa2nEaeyUk1gxCVOo4Y17iA_nqB4/preview"
+        },
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Get on Your Bird",
+      items: [
+         {
+          type: "text",
+          label: "Listen to 11-minute meditation 'Get on Your Bird'",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "Get on Your Bird Lesson 1 - Neutral Observation",
+          src: "https://drive.google.com/file/d/1aOaEe87YdugQgStySY1oErrvLtSCMtNr/preview"
+        },
+        {
+          type: "pdf",
+          label: "Get on Your Bird Lesson 2 - Empowered Choice",
+          src: "https://drive.google.com/file/d/18ni05SqsO6gCmd1tID8Vf1FIhhCxw2jX/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },          
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202009-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Meditation Tips",
+      items: [
+        {
+          type: "pdf",
+          label: "7 Tips for a Thriving Meditation Practice",
+          src: "https://drive.google.com/file/d/1ddXdw6a31PFtVb100OnPj1bBezpp4mfC/preview"
+        }
+      ]
+    },
+
+    tags: ["get on your bird", "perspective", "rhino", "rhinoceros", "timothy snyder",
+           "susan jeffers", "colette baron-reid", "meditation", "tips"],
+
+    topic: {
+      title: "Perspective",
+      items: [
+        {
+          type: "pdf",
+          label: "How to Change Your Perspective",
+          src: "https://drive.google.com/file/d/13EWdDwfYDfcz1Q5n9afCLoVYUZwMk8UP/preview"
+  
+        },
+        {
+          type: "pdf",
+          label: "Perspective Quotes",
+          src: "https://drive.google.com/file/d/1EPi_lGUOKCh47BvNHQLqxMcAJ0aw1oPj/preview"
+  
+        },  
+        {
+          type: "image",
+          label: "Which One Do You See?",
+          src: "topic-images/202009-which-one-do-you-see.jpg"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202008": {
+    title: "August 2020",
+    month: "August",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/202101-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1LaEf2uVMxb5IwPuATWA9qZ6hOTlqmF3A/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1zdMxSaV386fts0SifhV7FK2p0FHBabrA/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Unity World Day of Prayer",
+        src: "https://drive.google.com/file/d/1bSlw6MBZrHzuHeJk3UX056wAgABqSDUQ/preview"
+      }
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Protea",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/202008-protea.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/202008-protea-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "King Protea",
+          src: "https://drive.google.com/file/d/1ShRDf1UmsHW5bRdnzD_U58refhJ9_NmV/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Abraham: Reach for a Better Feeling",
+      items: [
+        {
+          type: "text",
+          label: "Linda read example from book 'Ask and It Is Given'",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "Emotional Scale 3",
+          src: "https://drive.google.com/file/d/1xXmbaAUBssITDCyRT_rziDOx2jTU-UYI/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emotional Scale 2",
+          src: "https://drive.google.com/file/d/1jeKt_uMzgvQh8b6JrWa6RLE5IB71pIiN/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Emotional Scale 1",
+          src: "https://drive.google.com/file/d/1MR7cqmv-FdC-tialM6ZcxKabx_KLaOPg/preview"
+        }        
+       
+
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202008-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/202008-affirmation2.png"
+      },
+
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["protea", "fear", "courage", "abraham", "emotion", "scale", "reach for a better feeling"],
+
+    topic: {
+      title: "Fear/Courage",
+      items: [
+        {
+          type: "pdf",
+          label: "4 Keys to Developing Courage",
+          src: "https://drive.google.com/file/d/1zsDbjI755YpQRA5Mw5pSkoLwJx14sg59/preview"
+        },    
+        {
+          type: "pdf",
+          label: "The 6 Attributes of Courage",
+          src: "https://drive.google.com/file/d/1H3CBYmDpCg6SBgA-N6zs21so_OrdwLRz/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Overcome Fear",
+          src: "https://drive.google.com/file/d/1GvRMgi9LWy-9digb4XWcFDmrAM2GAArx/preview"
+        },
+        {
+          type: "pdf",
+          label: "Courage Quotes",
+          src: "https://drive.google.com/file/d/1zIzLSacAMMDiLp85lJmuKGJ69PQ8eabK/preview"
+        },
+        {
+          type: "pdf",
+          label: "Courageous Steps",
+          src: "https://drive.google.com/file/d/12-Y-u4tCWyNawsaMVBppi6wO-n2qoP7_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emmanuel Dagher on Fear",
+          src: "https://drive.google.com/file/d/1JqHyibGuD12a9tPD9n_9Vg7h_7VHzMTe/preview"
+        },
+        {
+          type: "pdf",
+          label: "Fear Quotes",
+          src: "https://drive.google.com/file/d/167hGAgBUoQQ125L50dm37XWJo0nZ9rTR/preview"
+        },
+        {
+          type: "pdf",
+          label: "Sunny Dawn Johnston on Fear",
+          src: "https://drive.google.com/file/d/16uz-RSm3o_yM_mvYsIWu4lzdFt2tsZ3K/preview"
+        }
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+ 
+  "202007": {
+    title: "July 2020",
+    month: "July",
+    year: 2020,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202007-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  }, 
+
+  "202006": {
+    title: "June 2020",
+    month: "June",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/202101-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1omfSf2u5BPASH3dl0LqlwMC2AFt8D5FY/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1naktrof8DWDgN8TFNmamu_ZFWv2jTzh5/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Happy Color picture",
+        src: "https://drive.google.com/file/d/1H0jFF9xtQOhYjYQK0bIbOxsgcdGFlnAS/preview"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Archangel Jophiel",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/202006-jophiel.png"
+        },    
+        {
+          type: "image",
+          src: "archangel-images/202006-jophiel-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Jophiel",
+          src: "https://drive.google.com/file/d/1_8jz6-v8FQt4jYIxE5d6xAiNGpNeZD7c/preview"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Jophiel Attributes",
+          src: "https://drive.google.com/file/d/1YmV2H01yAjT7x2bOw3jSs8t6GjeciUKM/preview"
+        },
+  
+
+      ]
+    },
+
+    practice: {
+      title: "Read Inspirational Material",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202006-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cliff notes", "jophiel", "happy color", "read", "inspiration"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+        {
+          type: "pdf",
+          label: "New/Updated Pages for Cliff Notes",
+          src: "https://drive.google.com/file/d/1FMVx-BesD7g1QD6h9p0uwQ4dM5eQ9e-D/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202005": {
+    title: "May 2020",
+    month: "May",
+    year: 2020,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202005-no-mtg.png", 
+    cancelMessage: "We are Together in Spirit if not in Person ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202004": {
+    title: "April 2020",
+    month: "April",
+    year: 2020,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202004-no-mtg.png", 
+    cancelMessage: "We are Together in Spirit if not in Person ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202003": {
+    title: "March 2020",
+    month: "March",
+    year: 2020,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/202003-no-mtg.png", 
+    cancelMessage: "We are Together in Spirit if not in Person ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202002": {
+    title: "February 2020",
+    month: "February",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1aL1U814dqfka-LWD8i_yM8wimL96fSw1/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/19XX1VoFEilRkKLF4ePCjqCdDq9ORHnn-/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "pdf",
+        label: "Declaration of Intention",
+        src: "https://drive.google.com/file/d/144Kk4P_DDRPoaDbdTklWtPmUcbzF781U/preview"
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Rat",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202002-rat.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202002-rat-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Rat Quotes",
+          src: "https://drive.google.com/file/d/11Wo1DADX5m_KuZiu0-_PuybA5Lo6C329/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rat Symbolism",
+          src: "https://drive.google.com/file/d/1P7Mi2T0TUKwGQxrhxA9ullPM0763Lte0/preview"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Rat Quotes",
+          src: "https://drive.google.com/file/d/1B0sBJuoqSOoO5VMgtZU09HWZ4oNsgiSC/preview"
+        },  
+
+      ]
+    },
+
+    practice: {
+      title: "LovingKindness Meditation",
+      items: [
+        {
+          type: "image",
+          label: "LovingKindness Meditation",
+          src: "daily-practice-images/202002-loving-kindness-meditation.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202002-affirmation.png"
+      },
+      {
+        type: "pdf",
+        label: "Law of Attraction Affirmations",
+        src: "https://drive.google.com/file/d/1DpCyQWZ96VTVF754O5AEY9xjWU362QFF/preview"
+      },
+
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Movie",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["movie", "LOA", "law of attraction", "rat", "year of the", "intention", "lovingkindness"],
+
+    topic: {
+      title: "Movie",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "QiGong Exercise",
+        src: "https://drive.google.com/file/d/1MBFFjwu2j2Jn4hZPajDpUzgeCe1WtSwV/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202001": {
+    title: "January 2020",
+    month: "January",
+    year: 2020,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1oBsjgfY1DKM5h9cposm_5m2o8Sw5Xlq9/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/12HUbb4kw0kI8akr6pQua-SbOxzvWVdyb/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Linda's surgery Jan 15",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Hemi-Morphite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystals-images/202001-hemi-morphite.png"
+        },
+        {
+          type: "image",
+          src: "crystals-images/202001-hemi-morphite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Hemi-morphite",
+          src: "https://drive.google.com/file/d/1i0U9tEdt4iwp3Nc-H-n_z7a9g5ZtBsh-/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Self-Care",
+      items: [
+        {
+          type: "pdf",
+          label: "Art of Self-Care",
+          src: "https://drive.google.com/file/d/1s24q2amfYMXe4Cm62qeMDu4meQ7yMHmH/preview"
+        },
+        {
+          type: "pdf",
+          label: "12 Things Happy People Do",
+          src: "https://drive.google.com/file/d/1ozkxc1KQDN8dQ--SK6XxPJ8dvfzjXE2r/preview"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202001-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/202001-affirmation2.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/202001-affirmation3.png"
+      }
+    ],
+
+    luminary: {
+      title: "Ram Dass",
+      items: [
+        {
+          type: "pdf",
+          label: "Ram Dass",
+          src: "https://drive.google.com/file/d/1fl-FZjLJGRlo5kvy7MhHqsLSaf6ctM4N/preview"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["hemi-morphite", "crystal", "vision board", "self-care", "ram dass"],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "pdf",
+          label: "Vision Board Tips",
+          src: "https://drive.google.com/file/d/1saW0EMEEyO8zDI_QEkJu-d3rlLQ4REM5/preview"
+  
+        },
+    
+        {
+          type: "pdf",
+          label: "Vision Board Benefits",
+          src: "https://drive.google.com/file/d/1W4e7JTLz9d8-ucaJswNyHKfVh3866UvG/preview"
+        }
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201912": {
+    title: "December 2019",
+    month: "December",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1V3sc5_GP-dBjwuYm_HuacUXZ9Nm1zocW/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1EiwLRa3YbJSlIZCNrh7PR9JX1sFjZEGN/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Brene Brown - Spiritual Hero of the Year",
+        src: ""
+      },
+      {
+        type: "pdf",
+        label: "10 Guideposts",
+        src: "https://drive.google.com/file/d/1pTSVZUF8ZBqEZHKgnYW88iH7ZHK6VSeO/preview"
+      },
+      {
+        type: "pdf",
+        label: "A Simple Guide to Wholehearted Living",
+        src: "https://drive.google.com/file/d/1BLrAOGDS0_vHkQ2LBqLc6BP6_loajKL5/preview"
+      },
+      {
+        type: "pdf",
+        label: "10 Guideposts article",
+        src: "https://drive.google.com/file/d/1w4ItwM54sVsuJGnNt8EH_w5xYjKYoHtT/preview"
+      },
+      
+      
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Holly",
+
+      items: [
+        {
+          type: "image",
+          src: "affirmation-images/201912-holly.png"
+        },
+        {
+          type: "image",
+          src: "affirmation-images/201912-holly-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Holly article",
+          src: "https://drive.google.com/file/d/1hKvEpkQLhvRgWfcG8OcTzA7rVXiub7Ph/preview"
+        },
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Affirmations",
+      items: [
+        {
+          type: "pdf",
+          label: "Reiki Affirmations",
+          src: "https://drive.google.com/file/d/1txQMi1Z_TEWudO3zbfHXxL5TNdSoi35S/preview"
+        },
+        {
+          type: "pdf",
+          label: "Overcoming Holiday Stress with Chakras",
+          src: "https://drive.google.com/file/d/1otFoPdPUjh_gNFuhmSjNHYQ7Cc9E6x_0/preview"
+        },
+        {
+          type: "pdf",
+          label: "Holiday Affirmations",
+          src: "https://drive.google.com/file/d/13SEEZpVKfbKxMl0r4yTA_yp9b6Qg-DZR/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Holiday Affirmation",
+          src: "https://drive.google.com/file/d/1LJZD4HR1R_REArVdN5quogAASCh3PbG8/preview"
+        },         
+        
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201912-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["holly", "christmas", "affirmation", "burn", "bowl"],
+
+    topic: {
+      title: "Christmas Celebration & Burning Bowl Ceremony",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201911": {
+    title: "November 2019",
+    month: "November",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1aoP7AUj2byx523MODBppRNg59zjZPRj0/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1bWwOUdKoj6LSL9UhtsX-VD9nTpAroJZm/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Archangel Chamuel",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/201911-chamuel.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/201911-chamuel-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Chamuel",
+          src: "https://drive.google.com/file/d/1GQrwlfnOZMcOnZf65uICFVr5dGhtT8uV/preview"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Chamuel Quotes",
+          src: "https://drive.google.com/file/d/1-F8Wl_wmKQKa7wmcnYcPw7kY7sC4-aX1/preview"
+        },
+
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Kindness",
+      items: [
+        {
+          type: "pdf",
+          label: "Choose Kindness Quotes",
+          src: "https://drive.google.com/file/d/1MCSyEn9mDibBVSgFX9uNkeKU1Ho3CIHs/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Little Book of Kindness - gift from Linda",
+          src: "https://drive.google.com/file/d/141DXrwAjrY5jLnS0WAB3jT8Oh1s0uv34/preview"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201911-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "Dr. David Hawkins",
+      items: [
+        {
+          type: "pdf",
+          label: "Map of Consciousness",
+          src: "https://drive.google.com/file/d/1HaciZfPEEGWPduQkPASAA3qSFWVNetxr/preview"
+        },
+        {
+          type: "pdf",
+          label: "Power vs Force Chart",
+          src: "https://drive.google.com/file/d/1QI5zhR6r8iXA3elKtMCoOvx2LENXf2bK/preview"
+        },
+        {
+          type: "pdf",
+          label: "Where are You on the Chart?",
+          src: "https://drive.google.com/file/d/13ZUH7_9zlpIM8d84cGK7qsq4WB7BDWz-/preview"
+        },
+        {
+          type: "pdf",
+          label: "Two Critical Points on the Scale",
+          src: "https://drive.google.com/file/d/1atPWQqACVWOud63di61F4CFG5eFmc0S_/preview"
+        },
+
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["david Hawkins", "kindness", "chamuel", "archangel", "raise your vibration", "vibration" ],
+
+    topic: {
+      title: "Raise Your Vibration",
+      items: [
+        {
+          type: "pdf",
+          label: "25 Easy Ways",
+          src: "https://drive.google.com/file/d/1DYkBp_cZbhP-gO3ZVqnD7ybVZuEsjXrE/preview"
+        },    
+        {
+          type: "pdf",
+          label: "9 Ways to Increase Your Frequency",
+          src: "https://drive.google.com/file/d/1Oq5iJ7tsMaVzcePdfCrqGMX113bT4-rQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Raise Your Vibration Quotes",
+          src: "https://drive.google.com/file/d/1E0gpmZ812L5GwRPmy4Zijo_pRVwhBZcg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Activity cards",
+          src: "https://drive.google.com/file/d/1UH_WdEZJy3zaGrmNsmZbzB3zrQ9UOPeS/preview"
+        },
+        {
+          type: "pdf",
+          label: "Activity - blowing bubble",
+          src: "https://drive.google.com/file/d/1tr-DVPu8TswJZ_7jydM0krKJGxnnbu7u/preview"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201910": {
+    title: "October 2019",
+    month: "October",
+    year: 2019,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201910-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201909": {
+    title: "October 2019",
+    month: "October",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/178_OdbTVwjnJpOjO7gLS4dGBe_1f1zsY/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1mTUO46FxCu9VnEorA2MlEZTni7y1v0VO/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "🎂 Walter's birthday party Oct 5",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Turtle",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201909-turtle.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201909-turtle-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Turtle Quotes",
+          src: "https://drive.google.com/file/d/1teCWe8lWBROWU-Tp14iQ6Mzfdkg4U--L/preview"
+        },
+        {
+          type: "pdf",
+          label: "Turtle Symbolism",
+          src: "https://drive.google.com/file/d/1WbgKIKEdeZV9kyG8SzEvJbA-HgvKR8jB/preview"
+        },
+
+        
+      ]
+    },
+
+    practice: {
+      title: "I Am Calm",
+      items: [
+        {
+          type: "pdf",
+          label: "I am Calm by Sonia Choquette",
+          src: "https://drive.google.com/file/d/1IRMD5Nzom4bV9nad9uR5AAAQ-x-CAHvX/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201909-affirmation.png"
+      },
+      {
+        type: "image",
+        label: "Sunny Dawn Johnston",
+        src: "affirmation-images/201909-affirmation-back.png"
+      },
+
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["walter", "calm", "turtle", "sunny dawn johnston", "happiness"],
+
+    topic: {
+      title: "Happiness Video",
+      items: [
+        {
+          type: "pdf",
+          label: "Pathway to Joy by Sonia Choquette",
+          src: "https://drive.google.com/file/d/1iocH_vei5vgprRvHaeeuGI-0Xwz2lrhk/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Radical Kindness Workbook",
+        src: "https://drive.google.com/file/d/1F6c2J4Bzc9yrCPg80GLxtqQWOp-AI1rB/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201908": {
+    title: "August 2019",
+    month: "August",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1BiPWy7xmYHJDosqo3C2hRE1h3a6AN33g/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1wyULz4mLpSG73LzfrGiYVTCGMsYdT2wL/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "🎂 Walter's birthday party Oct 5",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Turritella Agate",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201908-turritella.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201908-turritella-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Turritella article",
+          src: "https://drive.google.com/file/d/1onFOvUo4sl7dUBqoMCFwI8z9bWV2b6Lk/preview"
+        },
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Meditation",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201908-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["turitella", "meditation", "walter", "birthday", "more", "less", "tgif"],
+
+    topic: {
+      title: "More/Less, TGIF",
+      items: [
+        {
+          type: "pdf",
+          label: "More or Less form",
+          src: "https://drive.google.com/file/d/1kdWkPg_l2ggWJ7fMNDN_ROkbLREItpR9/preview"
+  
+        },
+    
+        {
+          type: "pdf",
+          label: "TGIF form",
+          src: "https://drive.google.com/file/d/1a1K8jYI4HxJo8KsOAel802RV4mkbq6Bq/preview"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201907": {
+    title: "July 2019",
+    month: "July",
+    year: 2019,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201907-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201906": {
+    title: "June 2019",
+    month: "June",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1HSWLya6klh821q5RUEoreT2Kx4nyljNj/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1x9KscHuPwvDXjcLbf-KuBzR2EwlxzGz2/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Chopra Meditation July 15",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Revisit Lion",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Revisit Choose Kindness",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201906-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/201906-affirmation2.png"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["kindness", "radical", "lion"],
+
+    topic: {
+      title: "Radical Kindness - Part 2",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201905": {
+    title: "May 2019",
+    month: "May",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/14WXuAqOQ19GnY5dDWtMhIS3xtLyi6lWD/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1OBUTVj2lzvBg8olWYGr87_5mJMz9JPi1/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Lion",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201905-lion.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201905-lion-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Lion Images",
+          src: "https://drive.google.com/file/d/1dri4SVx5Xq-REY6sDINgwDv9HvszZtrc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Symbolic Meaning of Lions",
+          src: "https://drive.google.com/file/d/1gX5eSxruSRvaO0cULg-wfKirX8UjHJ7N/preview"
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Choose Kindness",
+      items: [
+        {
+          type: "pdf",
+          label: "Choose Kindness Quotes",
+          src: "https://drive.google.com/file/d/17TAqg_QVGM52ekmAwZleoxs-BPU0J9Gd/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201905-affirmation.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["radical", "kindness", "lion", "workbook"],
+
+    topic: {
+      title: "Radical Kindness",
+      items: [
+        {
+          type: "image",
+          label: "7 Steps to Kindness",
+          src: "topic-images/201905-7-steps-to-kindness.png" 
+        },    
+        {
+          type: "pdf",
+          label: "Radical Kindness Workbook",
+          src: "https://drive.google.com/file/d/1PyE9JcT-7gtx6pOBGRjh8aZrS1yI2w2L/preview"
+        },
+        {
+          type: "pdf",
+          label: "Radical Kindness Book Excerpts",
+          src: "https://drive.google.com/file/d/1pdxM3RBXF59435RKmmKoKukLtXnILFaQ/preview"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201904": {
+    title: "April 2019",
+    month: "April",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1x-MC6zDA8O5TQHW72c0oggr_J86KdYnl/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1Po3sObEvxiAST9hWEe_V9OwmzC6e0g_3/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rose Quartz",
+
+      items: [
+        {
+          type: "pdf",
+          label: "Rose Quartz Quotes",
+          src: "https://drive.google.com/file/d/1uUZE9SzCAGUnQ4fZpqNHqomuMj2ATcGR/preview"
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Water Blessing",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "daily-practice-images/201904-water-labels.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Masaru Emoto and His Experiments",
+          src: "https://drive.google.com/file/d/1rJUDJLgizjnDBVVXLBpoeZKc4_Z2t7E-/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },  
+        {
+          type: "",
+          label: "",
+          src: ""
+        },          
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201904-affirmation.png"
+      },
+      {
+        type: "image",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["rose quartz", "masaru emoto", "water", "blessings", "inner peace", "peace"],
+
+    topic: {
+      title: "Inner Peace",
+      items: [
+        {
+          type: "pdf",
+          label: "Inner Peace Quotes",
+          src: "https://drive.google.com/file/d/1gSZuCdSBQsAP7wjn8fgaptdNtkjEirnN/preview"
+  
+        }, 
+        {
+          type: "pdf",
+          label: "Creating an Inner Peace that Endures",
+          src: "https://drive.google.com/file/d/1kYi5bJvi6wwm1Oi4ybvGlycKiuh1RbnE/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Bring Inner Peace into Your Life",
+          src: "https://drive.google.com/file/d/1LVlxzURnOCgIYrFkl3yESmTlBGnB00ij/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Practical Steps to Inner Peace",
+          src: "https://drive.google.com/file/d/1HN664r8HkCHUiFZv1NksE1zd03k53jwt/preview"
+        },
+        {
+          type: "pdf",
+          label: "Inner Peace Checklist",
+          src: "https://drive.google.com/file/d/1R8890a9uGO_KzqcFoGq2pcz1MMBKo4cn/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Steps to Help You Realize True Happiness and Inner Peace",
+          src: "https://drive.google.com/file/d/1FVFKEXSt7bdoWiouzvctYc1D2Y2aqh1E/preview"
+        },
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201903": {
+    title: "March 2019",
+    month: "March",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1phsug8XPAHTQug_nFGThiyTC8v6RkqWs/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1xgNR32ZHbO1_1UD0DvAKoyfFyo0QrNXB/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "March 31 - National Backup Day",
+        src: ""
+      }, 
+
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Pig",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201903-pig.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201903-pig-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Year of the Pig",
+          src: "https://drive.google.com/file/d/1wFCYKeWX74Z2seN6ZfPlsGBYp5ivZXdE/preview"
+        },
+        {
+          type: "pdf",
+          label: "Pig Quotes",
+          src: "https://drive.google.com/file/d/1TgIGJZ6uhwNpVgsRVuE3NTgXE6wBH3Ay/preview"
+        },
+        {
+          type: "pdf",
+          label: "Pig Symbolism",
+          src: "https://drive.google.com/file/d/1nb5Kde3XhJ26Wyn6qpvcNj5JRvnyi8rG/preview"
+        },
+        {
+          type: "image",
+          label: "Piggy Bank from Linda",
+          src: "monthly-focus-images/201903-piggy-bank-from-linda.jpg"
+        },
+        {
+          type: "image",
+          label: "Stuffed Piggy from Linda",
+          src: "monthly-focus-images/201903-stuffed-piggy-from-linda.jpg"
+        },
+    
+      ]
+    },
+
+    practice: {
+      title: "Prayer",
+      items: [
+        {
+          type: "pdf",
+          label: "Prayer of St. Francis",
+          src: "https://drive.google.com/file/d/1pzACVM5_sGtnLk9GLgjOIyIkO_5XlcaT/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201903-affirmation.png"
+      },
+      {
+        type: "pdf",
+        label: "Prosperity",
+        src: "https://drive.google.com/file/d/1Df4TREW-pW0iF1s0pniF0swHigrb8ALW/preview"
+      },
+      {
+        type: "pdf",
+        label: "Abundance Quotes",
+        src: "https://drive.google.com/file/d/1WOfpvoV12B7I-yVMKU3zmmTyVL2bi4P8/preview"
+      },
+
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["movie", "pig", "year of the", "prosperity", "abundance", "prayer", "st. francis"],
+
+    topic: {
+      title: "Movie",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Present from Kenny",
+        src: "other-images/201903-present-from-kenny.jpg"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201902": {
+    title: "February 2019",
+    month: "February",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1obBx04NiFbor9lwc7oZ7o22PfWmXDT1u/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1WJXXJQjacMxd7UGIOnkOMPXXVeTuPXAD/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Spiritual Checklist",
+        src: "https://drive.google.com/file/d/1P_RIqrtMGG3xu9PjgsQRF3OeSahIkNAX/preview"
+      },
+      {
+        type: "pdf",
+        label: "Hay House Summit",
+        src: "https://drive.google.com/file/d/1gyFLVwmknJHiqE0HooFIfzdXUdBpsl-6/preview"
+      },
+      {
+        type: "pdf",
+        label: "Random Acts of Kindness",
+        src: "https://drive.google.com/file/d/10LebUWDnOCHMATcdYmHMUb7RKLowjFLB/preview"
+      },  
+      {
+        type: "pdf",
+        label: "7 Ways to Start Making Kindness the Norm",
+        src: "https://drive.google.com/file/d/1yvD-1du9AihFyulZWlvXDMfd9t3umdsW/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "50 Ways to be Kind",
+        src: "https://drive.google.com/file/d/1LUvwON-lIDZ0d716YkWhTMptYCLYILtG/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Kindness - Pass it On",
+        src: "https://drive.google.com/file/d/1UjGDR0STAC4-tfAi6I1QRwZXBNispF-Q/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Kindness Quotes",
+        src: "https://drive.google.com/file/d/1bSHn0vUclxqcIEB9rxF_2LL2Go427rwm/preview"
+      },  
+      {
+        type: "image",
+        label: "Archangel Haniel",
+        src: "archangel-images/201902-haniel.png"
+      },  
+      {
+        type: "image",
+        label: "Archangel Haniel - properties",
+        src: "archangel-images/201902-haniel-properties.png"
+      },
+      {
+        type: "pdf",
+        label: "Haniel - article",
+        src: "https://drive.google.com/file/d/1o_Lu0Kxse4FLkSo3HC2o2y7JEedsFby1/preview"
+      },  
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Butterfly",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201902-butterfly.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201902-butterfly-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Butterfly Quotes",
+          src: "https://drive.google.com/file/d/1v20P4kpmgqQOTficUbDiEyTz4MMqQMRg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Butterfly Spirit Animal",
+          src: "https://drive.google.com/file/d/18-ynuV9iF36Szikq1kpDGybjMh9ODruN/preview"
+        },
+        {
+          type: "pdf",
+          label: "Butterfly Quotes",
+          src: "https://drive.google.com/file/d/1v20P4kpmgqQOTficUbDiEyTz4MMqQMRg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Spread Your Wings",
+          src: "https://drive.google.com/file/d/1czW-W5x0_TS22H5yJZpxaUtoYCngeTrL/preview"
+        },
+        {
+          type: "image",
+          label: "Butterfly Charms from Linda",
+          src: "monthly-focus-images/201902-butterfly-charms-from-linda.jpg"
+        },
+        {
+          type: "image",
+          label: "Colored Butterflies from Linda",
+          src: "monthly-focus-images/201902-colored-butterflies-from-linda.jpg"
+        },
+
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Create My Day",
+      items: [
+        {
+          type: "pdf",
+          label: "I Create My Day by Dr. Joe Dispenza",
+          src: "https://drive.google.com/file/d/1Q6ZCgCKaAdhNjovTauWmIAN5tciPCoic/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201902-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/201902-affirmation2.png"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cliff notes", "create my day", "day", "create", "butterfly", "random acts of kindness",
+         "kindness", "joe dispenza"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+        {
+          type: "pdf",
+          label: "New/Updated Pages",
+          src: "https://drive.google.com/file/d/1PU8whYBNXyMvkaul0LMVcb3e8OxtFWsc/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Kenny - Present from Ireland",
+        src: "other-images/201902-kenny-present-from-ireland.jpg"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ]
+  },
+
+  "201901": {
+    title: "January 2019",
+    month: "January",
+    year: 2019,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1DRU3wxyqPvcd9AC8RAZczGrSrueF-Wv1/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1EJ_W__Yrbveu8O_-C-kHtUKnZyzp4IbC/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Bluebird of Happiness",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201901-bluebird.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201901-bluebird-properties.png"
+        }, 
+        {
+          type: "pdf",
+          label: "Bluebird Symbolism",
+          src: "https://drive.google.com/file/d/1800zrS2NmXHWr908jwiA5ZTZKTDEzyaM/preview"
+        },
+        {
+          type: "pdf",
+          label: "7 Days of Happiness Affirmations",
+          src: "https://drive.google.com/file/d/1o1N3KvBUMy5XroqoQzvasBB-icXfJZMS/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bluebird Meaning",
+          src: "https://drive.google.com/file/d/1iUq6NStAC1v9hBFdLDHjM0Xrx5F3K3_5/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bluebird Quotes",
+          src: "https://drive.google.com/file/d/1TkTXrAH4enQ7wzRcAOBkGaxvDXEb_Ivv/preview"
+        },
+        {
+          type: "pdf",
+          label: "Happiness Quote",
+          src: "https://drive.google.com/file/d/1duT63of9YZeSPPBl5G6yq2SKu7XaRkbg/preview"
+        },        
+
+      ]
+    },
+
+    practice: {
+      title: "Set Intentions",
+      items: [
+        {
+          type: "pdf",
+          label: "Deepak Quote",
+          src: "https://drive.google.com/file/d/1VAaqhEr98Zo0UwZr_O-xQ7JeHazJ1XPc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Setting Intentions for 2019",
+          src: "https://drive.google.com/file/d/1CCUG8StWIsJ6m-e6LxNPy2JF9Z2rcnwV/preview"
+        },
+        {
+          type: "pdf",
+          label: "Declaration of Intention",
+          src: "https://drive.google.com/file/d/1-pDc1SQCKWrLjhsscWvGDA9BJtuVztD8/preview"
+        },         
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201901-affirmation.png"
+      },
+      {
+        type: "image",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["vision board", "bluebird", "happiness", "intentions"],
+
+    topic: {
+      title: "Vision Board",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Alaska Bookmark from Linda",
+        src: "other-images/201901-alaska-bookmark.jpg"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201812": {
+    title: "December 2018",
+    month: "December",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/11CkqEZ3dimaQkT-aXmKdE5Ehba9YJPcp/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1JirFBWGefiu-Q7v16JqE7o9SRCmpMXD7/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Mistletoe",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201812-mistletoe.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201812-mistletoe-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Symbolic Mistletoe Meaning",
+          src: "https://drive.google.com/file/d/13FwgZezBNU6JYiiWloyua2u2yrWxq1zz/preview"
+        },
+        {
+          type: "image",
+          label: "Mistletoe Door Hanger from Linda",
+          src: "monthly-focus-images/201812-mistletoe-door-hanger.jpg"
+        }
+
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201812-affirmation.png"
+      },
+      {
+        type: "pdf",
+        label: "Holiday Affirmations from Louis Hay",
+        src: "https://drive.google.com/file/d/1hSLnokzpgdRLhhBP0-HhJb6FV1XOwFSB/preview"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["burning bowl", "christmas", "mistletoe"],
+
+    topic: {
+      title: "Burning Bowl Ceremony & Christmas Party",
+      items: [
+        {
+          type: "pdf",
+          label: "Burning Bowl Handout",
+          src: "https://drive.google.com/file/d/1_rifHtXgF2O1Z-r56G1jxc8G64K9tynP/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+   "201811": {
+    title: "November 2018",
+    month: "November",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Sp-Q2K92VyUTwC1rQuHgWkh9Bgmo8rZZ/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1luZK5url77_56gocXSBKuwRCkyyEBCc7/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Dragon",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201811-dragon.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201811-dragon-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Dragon Spirit Animal",
+          src: "https://drive.google.com/file/d/1stj1sGR3LoivkoBK7bbffp0-8gB6fFmc/preview"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/201811-stuffed-dragon-from-linda.png"
+        },
+    
+
+      ]
+    },
+
+    practice: {
+      title: "You Pick",
+      items: [
+        {
+          type: "pdf",
+          label: "15 Things Mindful People Do Differently",
+          src: "https://drive.google.com/file/d/18hQTznnUJR3rhmDQlwNA_8KBaLkbZ-e9/preview"
+        },
+        {
+          type: "pdf",
+          label: "Enlightenment",
+          src: "https://drive.google.com/file/d/1WlBO-MWQScdXvWiqH6F0lAPaToAoeZ3X/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Mindfulness for Daily Life",
+          src: "https://drive.google.com/file/d/1DOzrxgtJT2ccrQuTxldeZsRwGSdDo_1L/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "My Daily Spiritual Practice",
+          src: "https://drive.google.com/file/d/1sU3kqA0t3pAYKKBi68qAuuLe5ZtG3I3W/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Enlightenment Quotes",
+          src: "https://drive.google.com/file/d/1B8kJ55LTvlIMUckpb0sHDVRxDZhLFWXt/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "12 Practical Ways to Start a Spiritual Practice",
+          src: "https://drive.google.com/file/d/1VI1-XV2KM5xezl89H89nWtBct_sbNuiE/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "My Daily Practices form",
+          src: "https://drive.google.com/file/d/1ARIYk01VD8UlVaLW4rm4JU9Di6-37HFg/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Path to Enlightenment",
+          src: "https://drive.google.com/file/d/1ZTZn9Imk1ScusCSO8JD_qMoxZcsFKB6G/preview"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201811-affirmation.png"
+      },
+      {
+        type: "image",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["dragon", "enlightenment", "spiritual", "practice"],
+
+    topic: {
+      title: "Anniversary Check-In",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+
+  
+}
+
