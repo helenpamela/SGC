@@ -15856,7 +15856,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Working Agenda",
-          src: "https://drive.google.com/file/d/1vA2uqnHaAVBONhuYqrfZYgxNqt1kuKXI/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1vA2uqnHaAVBONhuYqrfZYgxNqt1kuKXI/preview"
         }
       ]
     },
@@ -15910,17 +15910,17 @@ const meetings = {
     },
 
     practice: {
-      title: "",
+      title: "Self-Care",
       items: [
         {
-          type: "image",
-          label: "",
-          src: "none-images/no-daily-practice.png"
+          type: "pdf",
+          label: "8 Ways to Care",
+          src: "https://drive.google.com/file/d/1Hj9G7MPJaNetEUZx7p31LALoy7VnSxLm/preview"
         },
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Real To Do List",
+          src: "https://drive.google.com/file/d/1U4aD_xFxGnGHDaGha0ckHWGLjT_fnH8R/preview"
         },        
 
       ],
@@ -15957,14 +15957,188 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["self-care"],
 
     topic: {
+      title: "Meditation",
+      items: [
+        {
+          type: "text",
+          label: "Note:  Did not do topic.  Spent meeting sharing.",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201809": {
+    title: "September 2018",
+    month: "September",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1VGMd963t1fKeRCwf9XqSZVursVMZtfZG/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1M_K-cUkzLvEpX53RPHnrYOxWF9M-MrlP/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Moose",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201809-moose.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201809-moose-properties.png"
+        },
+        {
+          type: "image",
+          label: "Stuffed Moose from Linda",
+          src: "monthly-focus-images/201809-stuffed-moose.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Moose Meaning",
+          src: "https://drive.google.com/file/d/166vQCiggkIDA6WzR9nxKUjyK2MNsQbqD/preview"
+        },
+        {
+          type: "pdf",
+          label: "Fun Moose Facts",
+          src: "https://drive.google.com/file/d/1IktGPjl003rtIyJI0G2Fy_5X-zSPukXc/preview"
+        }
+    
+   
+      ]
+    },
+
+    practice: {
       title: "",
       items: [
         {
           type: "image",
-          label: "none-images/no-topic.jpg",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201809-affirmation.png"
+      },
+      {
+        type: "image",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["moose", "meditation"],
+
+    topic: {
+      title: "Guided Meditation",
+      items: [
+        {
+          type: "",
+          label: "",
           src: ""
   
         },
