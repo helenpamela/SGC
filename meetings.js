@@ -15530,7 +15530,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "flower-images/201812-mistletoe-properties.png"
+          src: "flower-images/201812-mistletoe.png"
         },
         {
           type: "image",
