@@ -15595,7 +15595,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "meditation-images/no-meditation.jpg"
+          src: "none-images/no-meditation.jpg"
         }
       ]
     },
