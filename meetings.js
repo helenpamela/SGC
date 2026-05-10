@@ -15467,5 +15467,175 @@ const meetings = {
     ]
   },
 
+  "201812": {
+    title: "December 2018",
+    month: "December",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/11CkqEZ3dimaQkT-aXmKdE5Ehba9YJPcp/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1JirFBWGefiu-Q7v16JqE7o9SRCmpMXD7/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Mistletoe",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201901-mistletoe-properties.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201901-mistletoe-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Symbolic Mistletoe Meaning",
+          src: "https://drive.google.com/file/d/13FwgZezBNU6JYiiWloyua2u2yrWxq1zz/preview"
+        },
+        {
+          type: "image",
+          label: "Mistletoe Door Hanger from Linda",
+          src: "monthly-focus-images/201812-mistletoe-door-hanger.jpg"
+        }
+
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201812-affirmation.png"
+      },
+      {
+        type: "pdf",
+        label: "Holiday Affirmations from Louis Hay",
+        src: "https://drive.google.com/file/d/1hSLnokzpgdRLhhBP0-HhJb6FV1XOwFSB/preview"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "topic-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["burning bowl", "christmas", "mistletoe"],
+
+    topic: {
+      title: "Burning Bowl Ceremony & Christmas Party",
+      items: [
+        {
+          type: "pdf",
+          label: "Burning Bowl Handout",
+          src: "https://drive.google.com/file/d/1_rifHtXgF2O1Z-r56G1jxc8G64K9tynP/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
