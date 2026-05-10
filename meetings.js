@@ -15637,5 +15637,205 @@ const meetings = {
     ]
   },
 
+   "201811": {
+    title: "November 2018",
+    month: "November",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Sp-Q2K92VyUTwC1rQuHgWkh9Bgmo8rZZ/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1luZK5url77_56gocXSBKuwRCkyyEBCc7/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Dragon",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201811-dragon.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201811-dragon-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Dragon Spirit Animal",
+          src: "https://drive.google.com/file/d/1stj1sGR3LoivkoBK7bbffp0-8gB6fFmc/preview"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/201811-stuffed-dragon-from-linda.png"
+        },
+    
+
+      ]
+    },
+
+    practice: {
+      title: "You Pick",
+      items: [
+        {
+          type: "pdf",
+          label: "15 Things Mindful People Do Differently",
+          src: "https://drive.google.com/file/d/18hQTznnUJR3rhmDQlwNA_8KBaLkbZ-e9/preview"
+        },
+        {
+          type: "pdf",
+          label: "Enlightenment",
+          src: "https://drive.google.com/file/d/1WlBO-MWQScdXvWiqH6F0lAPaToAoeZ3X/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Mindfulness for Daily Life",
+          src: "https://drive.google.com/file/d/1DOzrxgtJT2ccrQuTxldeZsRwGSdDo_1L/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "My Daily Spiritual Practice",
+          src: "https://drive.google.com/file/d/1sU3kqA0t3pAYKKBi68qAuuLe5ZtG3I3W/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Enlightenment Quotes",
+          src: "https://drive.google.com/file/d/1B8kJ55LTvlIMUckpb0sHDVRxDZhLFWXt/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "12 Practical Ways to Start a Spiritual Practice",
+          src: "https://drive.google.com/file/d/1VI1-XV2KM5xezl89H89nWtBct_sbNuiE/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "My Daily Practices form",
+          src: "https://drive.google.com/file/d/1ARIYk01VD8UlVaLW4rm4JU9Di6-37HFg/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "Path to Enlightenment",
+          src: "https://drive.google.com/file/d/1ZTZn9Imk1ScusCSO8JD_qMoxZcsFKB6G/preview"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201811-affirmation.png"
+      },
+      {
+        type: "image",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["dragon", "enlightenment", "spiritual", "practice"],
+
+    topic: {
+      title: "Anniversary Check-In",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+
+  
 }
 
