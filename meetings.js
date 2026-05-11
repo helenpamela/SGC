@@ -16551,6 +16551,175 @@ const meetings = {
 
     ]
   },
+  "201806": {
+    title: "June 2018",
+    month: "June",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1cpOJAh2zbcdPVaVxpoPgesPrYZip4_DE/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1u2B_WEaROHTOwODgn1HQyP4sWAxCBL80/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "image",
+        label: "Unity World Day of Prayer",
+        src: "announcement-images/201806-day-of-prayer.jpg"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Larimar",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201806-larimar.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201806-larimar-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Larimar Healing",
+          src: "https://drive.google.com/file/d/1oRL571QhT5ZGDABP4e0XTFOhqum9WDRT/preview"
+        },
+        {
+          type: "pdf",
+          label: "Healing Properties of Larimar",
+          src: "https://drive.google.com/file/d/1gO1W7R8wgolQ1FxvRnQCj-5_aDlRQxC3/preview"
+        },
+        
+     
+    
+   
+      ]
+    },
+
+    practice: {
+      title: "Meditation",
+      items: [
+        {
+          type: "pdf",
+          label: "8 Steps to Establish a Meditation Practice",
+          src: "https://drive.google.com/file/d/1hy3M9jj1DgF1BDzTWbduy0Iri1cuyc65/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201806-affirmation.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          src: "Meditation: Journey to Atlantis"
+        }
+      ]
+    },
+
+    tags: ["meditation", "larimar", "atlantis"],
+
+    topic: {
+      title: "Movie",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
   
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Lyrics - This is Me",
+        src: "https://drive.google.com/file/d/18IqyPx_rGJt1ACRP8dTfD5L3a9th_dDq/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 }
 
