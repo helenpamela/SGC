@@ -16680,7 +16680,8 @@ const meetings = {
       items: [
         {
           type: "text",
-          src: "Meditation: Journey to Atlantis"
+          label: "Meditation: Journey to Atlantis",
+          src: ""
         }
       ]
     },
