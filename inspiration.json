@@ -538,6 +538,196 @@
       "text": "Life is short, break the rules, forgive quickly, kiss slowly, love truly, laugh uncontrollably, and never regret anything that makes you smile.",
       "author": "Mark Twain",
       "tags": ["laugh", "laughter"]
+    },
+    {
+      "text": "Joy does not simply happen to us. we have to choose joy and keep choosing it every day.",
+      "author": "Henri M. J. Nouwen",
+      "tags": ["joy", "choose"]
+    },
+    {
+      "text": "Comparison is the death of joy.",
+      "author": "Mark Twain",
+      "tags": ["joy", "comparison"]
+    },
+    {
+      "text": "Let what brings you joy lead a way! Just trust, and let your little heart sing!",
+      "author": "Jane Lee Logan",
+      "tags": ["joy", "heart"]
+    },
+    {
+      "text": "Follow Your Bliss",
+      "author": "Joseph Campbell",
+      "tags": ["bliss"]
+    },
+    {
+      "text": "Joy is not the result of getting what you want; it is the way to get what you want. In the deepest sense, joy is what you want.",
+      "author": "Alan Cohen",
+      "tags": ["joy", "desire"]
+    },
+    {
+      "text": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
+      "author": "Thich Nhat Hanh",
+      "tags": ["joy", "smile"]
+    },
+    {
+      "text": "I will practice gratitude to access joy.",
+      "author": "Brene Brown",
+      "tags": ["joy", "gratitude"]
+    },
+    {
+      "text": "Joy comes to us in ordinary moments.  We risk missing out on joy when we get too busy chasing down the extraordinary.",
+      "author": "Brene Brown",
+      "tags": ["joy", "ordinary"]
+    },
+    {
+      "text": "It is not selfish to be happy. It is your highest purpose. Your joy is the greatest contribution you can make to life on the planet. A heart at peace with its owner blesses everyone it touches.",
+      "author": "Alan Cohen",
+      "tags": ["happiness", "purpose", "joy"]
+    },
+    {
+      "text": "No is a complete sentence.",
+      "author": "Unknown",
+      "tags": ["boundaries", "no"]
+    },
+    {
+      "text": "Our intention creates our reality.",
+      "author": "Wayne Dyer",
+      "tags": ["intention", "reality", "create"]
+    },
+    {
+      "text": "We are powerful beyond measure.",
+      "author": "Marianne Williamson",
+      "tags": ["powerful", "unlimited"]
+    },
+    {
+      "text": "Everything that happens in the universe starts with intention.",
+      "author": "Deepak Chopra",
+      "tags": ["intention"]
+    },
+    {
+      "text": "Intentions are like magnets; the more we declare them, believe in them, and act in ways to manifest them, the more powerful and real they become.",
+      "author": "Unknown",
+      "tags": ["intention", "belief"]
+    },
+    {
+      "text": "The power of mass intention may ultimately be the force that shifts the tide toward repair and renewal of the planet.",
+      "author": "Lynne McTaggart",
+      "tags": ["intention", "mass"]
+    },
+    {
+      "text": "The quantum law says that all potentials exist simultaneously. Our thinking and our feelings affect all aspects of life, beyond both space and time.",
+      "author": "Dr. Joe Dispenza",
+      "tags": ["intention", "quantum", "create"]
+    },
+    {
+      "text": "Since nothing is more important than that you feel good, we would, if we were standing in your physical shoes, make a list of the five things that you feel best while you're doing them. And then make sure that you do all five of those things every single day.",
+      "author": "Abraham Hicks",
+      "tags": ["feel good", "favorite","daily"]
+    },
+    {
+      "text": "You are extensions of pure, positive, creative energy, and when you are not deliberately flowing the energy toward what you want, life is flat. Friends, this is not piddly little energy! The energy keeps your earth spinning in its orbit, in perfect proximity to other planets. We THINK it can help you be happy in your house.",
+      "author": "Abraham Hicks",
+      "tags": ["energy", "create"]
+    },
+    {
+      "text": "The true purpose of yoga is to discover that aspect of your being that can never be lost.",
+      "author": "Deepak Chopra",
+      "tags": ["yoga"]
+    },
+    {
+      "text": "Regard your neighbor's gain as your own gain, and your neighbor's loss as your own loss.",
+      "author": "Taoism",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "I am a stranger to no one, and no one is a stranger to me. Indeed, I am a friend to all",
+      "author": "Sikhism",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "In everything, do to others as you would have the do to you; for this is the law and the prophets.",
+      "author": "Christianity",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "We affirm and promote respect for the interdependent web of all existence of which we are a part.",
+      "author": "Unitarianism",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "We are as much alive as we keep the earth alive.",
+      "author": "Native American Spirituality",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "Do not do unto others whatever is injurious to yourself.",
+      "author": "Zoroastrianism",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "One should treat all creatures in the world as one would like to be treated.",
+      "author": "Jainism",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "What is hateful to you, do not do to your neighbour. This is the whole Torah; all the rest is commentary.",
+      "author": "Judaism",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "Not one of you truly believes until you wish for others what you wish for yourself.",
+      "author": "Islam",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "Lay not on any soul a load that you would not wish to be laid  upon you, and desire not for anyone the things you would not desire for yourself.",
+      "author": "Baha'i Faith",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "This is the sum of duty: do not do to others what would cause pain if done to you.",
+      "author": "Hinduism",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "Treat not others in ways that you yourself would find hurtful.",
+      "author": "Buddhism",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "One word which sums up the basis of all good conduct...loving kindness. Do not do to others what you do not want done to yourself.",
+      "author": "Confucianism",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "The heart of the person before you is a mirror -- see there your own form.",
+      "author": "Shinto",
+      "tags": ["golden", "rule"]
+    },
+    {
+      "text": "It is compassion that heals us. Compassion -- the sense of shared humanity, the sense of our kinship with each other--this is what heals. This is what heals the desperation that we feel, the darkness that we feel.",
+      "author": "Pema Chodron",
+      "tags": ["compassion"]
+    },
+    {
+      "text": "If we have no peace, it is because we have forgotten that we belong to each other.",
+      "author": "Mother Teresa",
+      "tags": ["peace"]
+    },
+    {
+      "text": "We are here to awaken from the illusion of our separateness.",
+      "author": "Thich Nhat Hanh",
+      "tags": ["unity", "oneness"]
+    },
+    {
+      "text": "All things are our relatives; what we do to everything, we do to ourselves. All is really one.",
+      "author": "Black Elk",
+      "tags": ["unity", "oneness"]
+    },
+    {
+      "text": "Try to be a rainbow in someone else's cloud.",
+      "author": "Maya Angelou",
+      "tags": ["kindness"]
     }
 
   ],
@@ -952,6 +1142,9 @@
     },
     {
       "image": "affirmation-images/201811-affirmation.png"
+    },
+    {
+      "image": "affirmation-images/201809-affirmation.png"
     },
     {
       "image": "affirmation-images/1st-chakra-affirmation.jpg"
