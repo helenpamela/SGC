@@ -16347,6 +16347,210 @@ const meetings = {
 
     ]
   },
+
+  "201807": {
+    title: "July 2018",
+    month: "July",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1FKKg5Gl_-eyHwC9wTTtD19ToQNRQDRdJ/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1Kt_Cq4PDwErTtlBS3nslwbX1u97czcBn/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "National Day of Prayer",
+        src: ""
+      },
+      {
+        type: "text",
+        label: "Chopra 21-Day Meditation",
+        src: "announcement-images/201807-chopra-21-day-meditation.jpg"
+      },  
+
+      
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Pink Calcite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201807-pink-calcite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201807-pink-calcite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Healing properties for Mangano Pink Calcite",
+          src: "https://drive.google.com/file/d/14Kns5QbUd9BYjR1zo3KefYrjOKQb5ASE/preview"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Anael & Pink Calcite",
+          src: "https://drive.google.com/file/d/1gtR1hDH-t0QVaIlw7FS5zFvGinA-da04/preview"
+        },
+  
+   
+      ]
+    },
+
+    practice: {
+      title: "Be Gentle with Yourself",
+      items: [
+        {
+          type: "pdf",
+          label: "Be Gentle with Yourself",
+          src: "https://drive.google.com/file/d/1w_wLczApnwMFZSVdjClLLCWgK2FJgcPq/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201807-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/201807-affirmation2.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/201807-affirmation3.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/201807-affirmation4.png"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["pink calcite", "gentle", "acceptance"],
+
+    topic: {
+      title: "Acceptance",
+      items: [
+        {
+          type: "pdf",
+          label: "3 Steps to Practice Acceptance",
+          src: "https://drive.google.com/file/d/1hbAq3oKN273q-hZoZe1WLo22MhiEKbQ8/preview"
+  
+        }, 
+        {
+          type: "pdf",
+          label: "15 Affirmations for Acceptance",
+          src: "https://drive.google.com/file/d/1Kvk5cW9-4i2iFMsj4wpIbvFkQlbSAouj/preview"
+        },
+        {
+          type: "pdf",
+          label: "Acceptance Quotes",
+          src: "https://drive.google.com/file/d/1NEnS9a8RxWnfRPuJszurvYTuRvKyh7Xk/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Power of Acceptance",
+          src: "https://drive.google.com/file/d/12Zoz9VcR7lAinBvqbNi-BV9a93L0zg3N/preview"
+        },
+        {
+          type: "pdf",
+          label: "Stop Resisting",
+          src: "https://drive.google.com/file/d/13NhoZU4V_kOntdkcGQfuJRMXVVP1sFG7/preview"
+        },
+        {
+          type: "pdf",
+          label: "Book Outline - The Gifts of Acceptance",
+          src: "https://drive.google.com/file/d/1ZUPsvPIjFddKwv23-fdHcNFIhSrzLVnf/preview"
+        }
+   
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
   
 }
 
