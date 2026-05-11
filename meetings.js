@@ -16381,7 +16381,7 @@ const meetings = {
         src: ""
       },
       {
-        type: "text",
+        type: "image",
         label: "Chopra 21-Day Meditation",
         src: "announcement-images/201807-chopra-21-day-meditation.jpg"
       },  
