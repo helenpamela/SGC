@@ -16167,6 +16167,186 @@ const meetings = {
 
     ]
   },
+
+  "201808": {
+    title: "August 2018",
+    month: "August",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1J5ND27Gq1OMUSeieEeSK6hKIjUD5Z1I8/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1_lUju3OWnEXlcvyPc7pl5_UqP3JfRfUB/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Jet and Aragonite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201808-aragonite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201808-aragonite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Aragonite",
+          src: "https://drive.google.com/file/d/1-UpcV7O5jOO1_JQ5KxSy2FUrbyEOCFTn/preview"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201808-jet.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201808-jet-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Jet",
+          src: "https://drive.google.com/file/d/1E4jU3aU4m1C2VT3waljXqHt16DcKiUtm/preview"
+        },
+     
+    
+   
+      ]
+    },
+
+    practice: {
+      title: "Centering",
+      items: [
+        {
+          type: "pdf",
+          label: "Centering (from Cliff Notes)",
+          src: "https://drive.google.com/file/d/1iRH6lBEwhOcSVnxpRTSKv0vAY7xmmJ9h/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201808-affirmation.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Wayne Dyer",
+      items: [
+        {
+          type: "image",
+          label: "Wayne Dyer",
+          src: "luminary-images/201808-wayne-dyer.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          Label: "",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["self-care", "jet", "aragonite", "centering", "wayne dyer"],
+
+    topic: {
+      title: "Self-Care",
+      items: [
+        {
+          type: "pdf",
+          label: "Self-Care",
+          src: "https://drive.google.com/file/d/1LFPTgGNV3QIelUNwW49TY7dpCT61Gx2s/preview"
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
   
 }
 
