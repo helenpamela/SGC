@@ -16802,6 +16802,10 @@ const meetings = {
           src: "ascended-master-images/201807-pele.png"
         },
         {
+          type: "image",
+          src: "ascended-master-images/201807-pele-properties.png"
+        },
+        {
           type: "pdf",
           label: "Legend about Pele",
           src: "https://drive.google.com/file/d/1ncLSEWOht-yPjimyAqpI87mE8KtjmpMG/preview"
