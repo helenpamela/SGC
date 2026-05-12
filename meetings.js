@@ -2,9 +2,6 @@
 
 const meetings = {
 
-
-
-
   "202605": {
     title: "May 2026",
     month: "May",
@@ -16713,6 +16710,259 @@ const meetings = {
         type: "pdf",
         label: "Lyrics - This is Me",
         src: "https://drive.google.com/file/d/18IqyPx_rGJt1ACRP8dTfD5L3a9th_dDq/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201805": {
+    title: "May 2018",
+    month: "May",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/14P1L6P8TM_dq_ldiGT5loAYEt2r5CGOA/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1S26OyjTVmJvptvzpva5AQ1PpL59mBjKP/preview"
+        },
+        {
+          type: "pdf",
+          label: "Shame Worksheet - Teacher Copy",
+          src: "https://drive.google.com/file/d/167hcr1z_-4Wq-Z329F7QKNVzHOascwp2/preview"
+        },
+
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Ascended Masters Jesus & Pele",
+
+      items: [
+        {
+          type: "image",
+          src: "ascended-master-images/201805-jesus.png"
+        },
+        {
+          type: "image",
+          src: "ascended-master-images/201805-jesus-properties.png"
+        },
+        {
+          type: "image",
+          src: "ascended-master-images/201807-pele.png"
+        },
+        {
+          type: "pdf",
+          label: "Legend about Pele",
+          src: "https://drive.google.com/file/d/1ncLSEWOht-yPjimyAqpI87mE8KtjmpMG/preview"
+        },   
+   
+      ]
+    },
+
+    practice: {
+      title: "Crab Apple Flower Essence",
+      items: [
+        {
+          type: "pdf",
+          label: "Crab Apple",
+          src: "https://drive.google.com/file/d/1TY05kLDWt_ulWTaIMKDSb_ZFb3HSwAqm/preview"
+        },
+        {
+          type: "image",
+          label: "Water Blessing Labels",
+          src: "daily-practice-images/201805-water-blessing-labels.jpg"
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201805-affirmation.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["worksheet", "shame", "brene brown", "crab apple", "jesus", "pele", "wholehearted"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "pdf",
+          label: "10 Guideposts for Wholehearted Living",
+          src: "https://drive.google.com/file/d/1oyDcYqxl-tDfIQC1OxlDDgGojiFBaVBJ/preview"  
+        },   
+        {
+          type: "pdf",
+          label: "Growth Mindset Statements",
+          src: "https://drive.google.com/file/d/1ZcoYt_Q7akuTOCvid_jxtUzDZ_9E2wwk/preview"
+        },
+        {
+          type: "pdf",
+          label: "Guilt vs Shame",
+          src: "https://drive.google.com/file/d/1pInfLrCVspmk-C36uQTnSbs0tVKtqkkg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Got Shame? Me Too",
+          src: "https://drive.google.com/file/d/1dhkrtmRj9aPwNbmC9oH0hl_fqivW1r_-/preview"
+        },
+        {
+          type: "pdf",
+          label: "I Thought It Was Just Me",
+          src: "https://drive.google.com/file/d/1ypFXqMTouHUPt7nEFH8wwMbLID2z2LdG/preview"
+        },
+        {
+          type: "pdf",
+          label: "List of Core Emotions",
+          src: "https://drive.google.com/file/d/18bkgaBbVAkcEgbAJQq38GuGiYoCVXN1Y/preview"
+        },
+        {
+          type: "pdf",
+          label: "Petri Dish",
+          src: "https://drive.google.com/file/d/1jRTvagyLUlMAdn2i2cxbyu2jPammzpNd/preview"
+        },
+        {
+          type: "pdf",
+          label: "Power of Vulnerability",
+          src: "https://drive.google.com/file/d/1kFiWRZM2usYCHl8yrK2YLclNbomTdQ9S/preview"
+        },
+        {
+          type: "pdf",
+          label: "Shame Tools to Ease",
+          src: "https://drive.google.com/file/d/1_FM4j4EFN2mX27LpBqC09YRzCsY6_QzC/preview"
+        },
+        {
+          type: "pdf",
+          label: "Shame Bullet Points",
+          src: "https://drive.google.com/file/d/1rU7Vzr3Z1NeYr22BDi4drrJ5srSrX-xg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Shame Quotes",
+          src: "https://drive.google.com/file/d/19IFRV4HYBYakKJI793ggsjr1EuHo0aN7/preview"
+        },      
+        {
+          type: "pdf",
+          label: "Shame Web",
+          src: "https://drive.google.com/file/d/1YGKC7qkv565eRiNMZ_Mqg-r_GCs6kSob/preview"
+        },        
+        {
+          type: "pdf",
+          label: "Shame Worksheet",
+          src: "https://drive.google.com/file/d/1C_01WSI5yEBfhrDRj2NvqcIppbI_3HjL/preview"
+        },
+        {
+          type: "pdf",
+          label: "Storytelling Quotes",
+          src: "https://drive.google.com/file/d/1TxoOZabrzUFDmkjj5e3C87kVnXzR5Kvm/preview"
+        },
+        {
+          type: "pdf",
+          label: "Swampland of Soul",
+          src: "https://drive.google.com/file/d/1GHWqnB62lhcKz1Cv34EL9-RDrG3khEOc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Wholehearted Quotes",
+          src: "https://drive.google.com/file/d/1JrR3_A2yxXPQ5JMR8AxaYFeW2UvhQNTE/preview"
+        },
+        {
+          type: "pdf",
+          label: "Shame Resilience Model",
+          src: "https://drive.google.com/file/d/1y6iROf0_bhUtL8eK-Fv9fgB3scA0lQYB/preview"
+        },
+        {
+          type: "pdf",
+          label: "Shame Shields",
+          src: "https://drive.google.com/file/d/1E2vWGN_51BmgupZjU5qVpoCL7ZMhyWAu/preview"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
       },
       {
         type: "",
