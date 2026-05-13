@@ -17216,6 +17216,7 @@ const meetings = {
         },
         {
           type: "pdf",
+          label: "Shamrock Meaning & Symbolism",
           src: "https://drive.google.com/file/d/1UFQArrdtFOv1UC7pxUmD9rmQzQOzoi-N/preview"
         },
         {
@@ -17277,7 +17278,7 @@ const meetings = {
       ]
     },
 
-    tags: ["worksheet"],
+    tags: ["worksheet", "shamrock", "faith", "anger","noble", "truths","eightfold", "path", "blessings"],
 
     topic: {
       title: "Cultivate Faith",
