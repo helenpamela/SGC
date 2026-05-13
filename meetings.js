@@ -17332,5 +17332,227 @@ const meetings = {
     ]
   },
 
+"201802": {
+    title: "February 2018",
+    month: "February",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1mJYfKalye3tJXPvJVY327siM4_lx9xmS/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1b1O6wSHGftuj8qclukahf_GeFj_fxhXg/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Daffodil",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201802-daffodil.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201802-daffodil-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "The Daffodil",
+          src: "https://drive.google.com/file/d/1klkDinVGKxhjQ5Ky8xyuZlte7FzBdIXB/preview"
+        },
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Affirmations",
+      items: [
+        {
+          type: "text",
+          label: "Hand out index card file boxes",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "100 Positive Affirmations",
+          src: "https://drive.google.com/file/d/1Gd1aTKxPRLkrny8fJucUDVMitvnWT3-I/preview"
+        },
+        {
+          type: "pdf",
+          label: "Why Affirmations Work",
+          src: "https://drive.google.com/file/d/1Gd1aTKxPRLkrny8fJucUDVMitvnWT3-I/preview"
+        },
+         {
+          type: "pdf",
+          label: "Affirmations with Crystals",
+          src: "https://drive.google.com/file/d/1Sm8lhZ_6TMT7-Ab_cj2NX7XMWw2eeq1n/preview"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "affirmation-images/201802-affirmation1.jpg"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "affirmation-images/201802-affirmation2.jpg"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "affirmation-images/201802-affirmation3.jpg"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "affirmation-images/201802-affirmation4.jpg"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "affirmation-images/201802-affirmation5.jpg"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "affirmation-images/201802-affirmation6.jpg"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "affirmation-images/201802-affirmation7.jpg"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "affirmation-images/201802-affirmation8.jpg"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "affirmation-images/201802-affirmation9.jpg"
+        },
+
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cliff notes", "daffodil", "affirmation"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+        {
+          type: "text",
+          label: "Hand out Cliff Notes binders",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "New/Updated Pages 2017",
+          src: "https://drive.google.com/file/d/1JTIKxDh5Rf8-snPRWQZuaTlNoXF4G6wt/preview"  
+        },      
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
