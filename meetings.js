@@ -17554,5 +17554,204 @@ const meetings = {
     ]
   },
 
+  "201801": {
+    title: "January 2018",
+    month: "January",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1MnXSFgKNFdZKkpYAa77NGzEJ2qLaBAvc/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1HnXba5o45MjRl5JohzVw1A3XAmdEejCf/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Ram",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201801-ram.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201801-ram-properties.png"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/201801-ram-affirmation.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Ram Animal Totem Symbolism",
+          src: "https://drive.google.com/file/d/1_vSlOPMDplZ6EhUaW-9lZ8hWXw7QIcDB/preview"
+        },
+        {
+          type: "pdf",
+          label: "Ram Meaning and Symbolism",
+          src: "https://drive.google.com/file/d/1t2Yf4noV_MhQCfhyoODVDJ5-QShUom53/preview"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/201801-stuffed-ram-from-linda.jpg"
+        },     
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Set Intentions for 2018",
+      items: [
+        {
+          type: "pdf",
+          label: "Setting Intentions - Quotes",
+          src: "https://drive.google.com/file/d/1WNHu2m03yhsnfWcnqhFYm_G9tRRwLbGZ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Setting Intentions - form",
+          src: "https://drive.google.com/file/d/1vuEPmyIjBK7voWkbl4aFmWJi66jeNynq/preview"
+        },
+         {
+          type: "pdf",
+          label: "Release Form",
+          src: "https://drive.google.com/file/d/1oYv0uoAvTHI3tM4Z1dst02hhChy8ZJ0a/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Power of Intention",
+          src: "https://drive.google.com/file/d/1izUbBHeMuwiEL6GgAl7qJT6BXu_zfSNT/preview"
+        },
+        {
+          type: "pdf",
+          label: "3 Simple Steps to Start the New Year",
+          src: "https://drive.google.com/file/d/1f9mkNTI2VrOrI2lZCFEFLAAlPDzm7ePr/preview"
+        },
+        {
+          type: "pdf",
+          label: "5 Steps to Setting Powerful Intentions",
+          src: "https://drive.google.com/file/d/1Wg_EDHj-c4Bnez95LVwu5dlxFBPIXjj3/preview"
+        },
+        {
+          type: "pdf",
+          label: "Intention Setting Worksheet",
+          src: "https://drive.google.com/file/d/1gSikYjDq6Vc_DTl0s1dP4IKf6rIwwDOG/preview"
+        },
+
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201801-affirmation1.jpg"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/201801-affirmation2.jpg"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["intention", "ram", "vision", "board", "release", "worksheet"],
+
+    topic: {
+      title: "Vision Board",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "topic-images/no-topic.jpg"  
+        },      
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
