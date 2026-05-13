@@ -16976,5 +16976,360 @@ const meetings = {
 
     ]
   },
+
+  "201804": {
+    title: "April 2018",
+    month: "April",
+    year: 2018,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201804-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201803": {
+    title: "March 2018",
+    month: "March",
+    year: 2018,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1T32j28zfCm-Gb3Vmqxf6hSJPenaD4YNW/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1ZMyrMf_C03BTykEOMFGqYztssF_mkIBH/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Trudi’s Party 4/15 4:00-7:00 pm ",
+        src: ""
+      },
+      {
+        type: "pdf",
+        label: "Science of Anger",
+        src: "https://drive.google.com/file/d/1WZudMy2-DN1TB-bflV2E_b7VE1CNNRSW/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "What To Do When You're Angry",
+        src: "https://drive.google.com/file/d/15Zx6LBoYr0cvePbhIz1Kp--QU8A7cguy/preview"
+      },  
+
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Shamrock",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201803-shamrock.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201803-shamrock-properties.png"
+        },
+        {
+          type: "pdf",
+          src: "https://drive.google.com/file/d/1UFQArrdtFOv1UC7pxUmD9rmQzQOzoi-N/preview"
+        },
+        {
+          type: "image",
+          label: "Shamrock Jar from Linda",
+          src: "monthly-focus-images/201803-shamrock-jar-from-linda.jpg"
+        },
+        {
+          type: "image",
+          label: "Shamrock pen",
+          src: "monthly-focus-images/201803-shamrock-pen-from-linda.jpg"
+        },
+        
+   
+      ]
+    },
+
+    practice: {
+      title: "Count Your Blessings",
+      items: [
+        {
+          type: "pdf",
+          label: "Count Your Blessings form",
+          src: "https://drive.google.com/file/d/11cfK9obNQ1CR4CBrWKhftn2ZUxuAG1iI/preview"
+        },
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/201803-affirmation1.png"
+      },
+      {
+        type: "image",
+        src: "affirmation-images/201803-affirmation2.png"
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["worksheet"],
+
+    topic: {
+      title: "Cultivate Faith",
+      items: [
+        {
+          type: "pdf",
+          label: "Faith Worksheet",
+          src: "https://drive.google.com/file/d/1MUBHlobhVseoYZfDghMvi8BqFKflI8_w/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The 4 Noble Truths",
+          src: "https://drive.google.com/file/d/15UZvE_WhdiPd505VW4NbBb9Intk5DTB1/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Eightfold Path Explanations",
+          src: "https://drive.google.com/file/d/1D025HBkksPHnwuh45WVLW3B-NDCxHj7s/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Eightfold Path Images",
+          src: "https://drive.google.com/file/d/1lmV2MkDs1WHqW3-JLJkThz6wIcRv9BVQ/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Eightfold Path",
+          src: "https://drive.google.com/file/d/1S1SnHJiZGrLdwI9xaxpaTedg12WIZNFL/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Four Noble Truths",
+          src: "https://drive.google.com/file/d/1AzhVQ8xASDkqNwK1jhyBXqE2FYrsDTKz/preview"  
+        },      
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
