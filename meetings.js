@@ -17425,7 +17425,7 @@ const meetings = {
         {
           type: "pdf",
           label: "100 Positive Affirmations",
-          src: "https://drive.google.com/file/d/1Gd1aTKxPRLkrny8fJucUDVMitvnWT3-I/preview"
+          src: "https://drive.google.com/file/d/1lJBedLogxvuCZJu1xSPjCH81dTcGqUX-/preview"
         },
         {
           type: "pdf",
