@@ -17730,9 +17730,9 @@ const meetings = {
       title: "Vision Board",
       items: [
         {
-          type: "image",
+          type: "",
           label: "",
-          src: "topic-images/no-topic.jpg"  
+          src: ""  
         },      
 
       ]
