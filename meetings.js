@@ -17818,11 +17818,11 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "chakra-images/201712-crown-chakra.jpg"
+          src: "chakra-images/201712-crown.png"
         },
         {
           type: "image",
-          src: "chakra-images/201712-crown-chakra-properties.jpg"
+          src: "chakra-images/201712-crown-properties.jpg"
         },
         {
           type: "pdf",
