@@ -18045,7 +18045,7 @@ const meetings = {
     },
 
     practice: {
-      title: "Gratitde",
+      title: "Gratitude",
       items: [
         {
           type: "pdf",
@@ -18058,12 +18058,12 @@ const meetings = {
           src: "https://drive.google.com/file/d/1loj9gHe-fKcQCL535XudWu2fDbMULLWe/preview"
         },
         {
-          type: "",
+          type: "pdf",
           label: "Gratitude Quotes 2",
           src: "https://drive.google.com/file/d/1VsYj2S-5cu78Z4AjErKytDHNZtxMMlyB/preview"
         },
         {
-          type: "",
+          type: "pdf",
           label: "Gratitude Quotes 3",
           src: "https://drive.google.com/file/d/1GwOKAEAQawcI9AvQ5aUqmdpUi2X-IFfu/preview"
         },
@@ -18139,7 +18139,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Angelic Positive Affirmations",
-          src: "https://drive.google.com/file/d/1xCY-ilCPHh1Jpl-SC5fs3QF_Z1rODdLk/preview"  
+          src: "https://drive.google.com/file/d/1ang9iGp19Q7tb1VsSScV7yP_WV63HwWU/preview"  
         }, 
         {
           type: "pdf",
