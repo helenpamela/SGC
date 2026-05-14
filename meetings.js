@@ -18194,5 +18194,201 @@ const meetings = {
     ]
   },
 
+  "201710": {
+    title: "October 2017",
+    month: "October",
+    year: 2017,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/18E96NuYhyFhxVMsHQpSvz3fiqw1EKDWh/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1MB9MivqafoFlIAXo7srXG4u0FZfo8R1T/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Pink Chalcedony",
+
+      items: [
+     
+        {
+          type: "image",
+          src: "crystal-images/201710-pink-chalcedony.png"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "crystal-images/201710-pink-chalcedony-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Pink Chalcedony",
+          src: "https://drive.google.com/file/d/1SFE_c7aiRoLmmybjDGF2UzPR8jXm5-hM/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Journaling",
+      items: [
+        {
+          type: "pdf",
+          label: "Journaling is a Great Tool",
+          src: "https://drive.google.com/file/d/13lCTRQcYDqbxNRyUS1eQAZnqwAzdTlsZ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Benefits of Journaling for Stress Management",
+          src: "https://drive.google.com/file/d/1tZCjaAlPeCNmSi2ywG3EiW9rLkVYfnIJ/preview"
+        },
+           {
+          type: "pdf",
+          label: "Health Benefits of Journaling",
+          src: "https://drive.google.com/file/d/1xpn_p7TH67GE1jNruMPy5DkmbW_c4RJC/preview"
+        },
+        {
+          type: "pdf",
+          label: "365 Questions for Journaling",
+          src: "https://drive.google.com/file/d/1I7pNgnrxWvygJjbLKyKPh4CKUIWEKY-J/preview"
+        },        
+        {
+          type: "pdf",
+          label: "30 Prompts for Journaling",
+          src: "https://drive.google.com/file/d/1rvsMN8_sT7Npd1C7NmKXndvWObFJ905L/preview"
+        },   
+        {
+          type: "image",
+          label: "Journal & Bookmark - Present from Linda",
+          src: "daily-practice-images/201710-journal-bookmark-from-linda.jpg"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["wisdom", "story", "pink chalcedony", "journal"],
+
+    topic: {
+      title: "the Wisdom of Story class (2 hours)",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
