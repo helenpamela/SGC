@@ -529,7 +529,7 @@ const meetings = {
     },
 
     tags: ["meditation", "happiness", "thoughts", "beliefs", "inner", "smile",
-      "horse", "fire", "self-love", "compassion", "lee holden",
+      "horse", "fire", "self-love", "compassion", "lee holden", "animal",
       "kenny", "calendar"],
 
 
@@ -684,7 +684,7 @@ const meetings = {
       ]
     },
 
-    tags: ["malachite", "making a difference", "white stone ceremony", "joy"],
+    tags: ["crystal", "malachite", "making a difference", "white stone ceremony", "joy"],
 
     topic: {
       title: "White Stone Ceremony",
@@ -944,7 +944,7 @@ const meetings = {
       ]
     },
 
-    tags: ["gratitude", "rose quartz", "rainbow fluorite", "quantum jumping"],
+    tags: ["crystal", "gratitude", "rose quartz", "rainbow fluorite", "quantum jumping"],
 
     topic: {
       title: "Quantum Jumping",
@@ -1139,7 +1139,8 @@ const meetings = {
       ]
     },
 
-    tags: ["intention", "sloth", "perseverance", "strength", "Thomas Edison", "Jane Goodall", "solfeggio"],
+    tags: ["intention", "sloth", "perseverance", "strength", "Thomas Edison", "Jane Goodall", 
+        "animal", "solfeggio"],
 
     topic: {
       title: "Perseverance",
@@ -1667,7 +1668,7 @@ const meetings = {
       ]
     },
 
-    tags: ["sonia choquette", "limiting beliefs", "shine your light", "doobie brothers", "horse", "cd"],
+    tags: ["animal", "sonia choquette", "limiting beliefs", "shine your light", "doobie brothers", "horse", "cd"],
 
     topic: {
       title: "Limiting Beliefs",
@@ -1849,7 +1850,7 @@ const meetings = {
       ]
     },
 
-    tags: ["mindfulness", "kyanite", "be here now", "randy rainbow", "jon kabat-zinn", "ram dass"],
+    tags: ["crystal", "mindfulness", "kyanite", "be here now", "randy rainbow", "jon kabat-zinn", "ram dass"],
 
     topic: {
       title: "Mindfulness",
@@ -2029,7 +2030,7 @@ const meetings = {
       ]
     },
 
-    tags: ["rose", "call", "friend", "friendship", "Atlantis"],
+    tags: ["flower", "rose", "call", "friend", "friendship", "Atlantis"],
 
     topic: {
       title: "",
@@ -2191,7 +2192,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cliff", "notes", "update", "lavender", "mindfulness"],
+    tags: ["flower", "cliff", "notes", "update", "lavender", "mindfulness"],
 
     topic: {
       title: "Cliff Notes Update",
@@ -2382,7 +2383,7 @@ const meetings = {
       ]
     },
 
-    tags: ["clarity", "let them", "azurite", "clear quartz", "alan cohen",
+    tags: ["crystal", "clarity", "let them", "azurite", "clear quartz", "alan cohen",
       "randy rainbow", "equinox"],
 
     topic: {
@@ -2616,7 +2617,7 @@ const meetings = {
       ]
     },
 
-    tags: ["vision board", "imagination", "future"],
+    tags: ["animal", "snake", "vision board", "imagination", "future"],
 
     topic: {
       title: "Vision Boards",
@@ -2787,7 +2788,7 @@ const meetings = {
     },
 
     tags: ["releasing the past", "set intentions", "om", "just like me",
-      "burning bowl ceremony", "christmas"],
+      "burning bowl ceremony", "christmas", "archangel", "muriel"],
 
     topic: {
       title: "Burning Bowl Ceremony & Christmas 🎄",
@@ -3505,7 +3506,7 @@ const meetings = {
       ]
     },
 
-    tags: ["mindfulness", "obsidian", "blue calcite"],
+    tags: ["crystal", "mindfulness", "obsidian", "blue calcite"],
 
     topic: {
       title: "Mindfulness",
@@ -3879,7 +3880,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cliff notes", "clear quartz"],
+    tags: ["crystal", "cliff notes", "clear quartz"],
 
     topic: {
       title: "Cliff Notes Update",
@@ -4058,7 +4059,7 @@ const meetings = {
       ]
     },
 
-    tags: ["beliefs", "lapis lazuli", "rikka zimmerman", "bruce lipton",
+    tags: ["crystal", "beliefs", "lapis lazuli", "rikka zimmerman", "bruce lipton",
       "hermetic principles", "kenny", "denise linn", "chakra guide"],
 
     topic: {
@@ -4760,7 +4761,7 @@ const meetings = {
       ]
     },
 
-    tags: ["intentions", "setting intentions", "denise linn", "open", "heart", "dragon",
+    tags: ["animal", "intentions", "setting intentions", "denise linn", "open", "heart", "dragon",
             "year of the dragon", "open your heart"],
 
     topic: {
@@ -5357,7 +5358,7 @@ const meetings = {
       ]
     },
 
-    tags: ["imaginagion", "denise linn", "cd", "amy purdy", "barbra streisand", "reba",
+    tags: ["animal", "imaginagion", "denise linn", "cd", "amy purdy", "barbra streisand", "reba",
            "three bones", "unicorn"],
 
     topic: {
@@ -5555,7 +5556,7 @@ const meetings = {
       ]
     },
 
-    tags: ["calm", "emotions", "teddy bear", "desires", "what do i want"],
+    tags: ["animal", "calm", "emotions", "teddy bear", "desires", "what do i want"],
 
     topic: {
       title: "Calm Your Emotions (Continued)",
@@ -5722,7 +5723,7 @@ const meetings = {
       ]
     },
 
-    tags: ["teddy bear", "engage your senses"],
+    tags: ["animal", "teddy bear", "engage your senses"],
 
     topic: {
       title: "Calm Your Emotions",
@@ -5934,7 +5935,7 @@ const meetings = {
       ]
     },
 
-    tags: ["gentle", "apatite", "acceptance", "drenched", "holiness"],
+    tags: ["crystal", "gentle", "apatite", "acceptance", "drenched", "holiness"],
 
     topic: {
       title: "Acceptance",
@@ -6241,7 +6242,7 @@ const meetings = {
       ]
     },
 
-    tags: ["get on your bird", "giraffe"],
+    tags: ["animal", "get on your bird", "giraffe"],
 
     topic: {
       title: "",
@@ -6389,7 +6390,7 @@ const meetings = {
       ]
     },
 
-    tags: ["eft", "aloe vera"],
+    tags: ["flower", "eft", "aloe vera"],
 
     topic: {
       title: "EFT",
@@ -6535,7 +6536,7 @@ const meetings = {
       ]
     },
 
-    tags: ["music, indigo gabbro", "st patrick's day"],
+    tags: ["crystal", "music, indigo gabbro", "st patrick's day"],
 
     topic: {
       title: "Cliff Notes Update",
@@ -6714,7 +6715,8 @@ const meetings = {
       ]
     },
 
-    tags: ["sweat", "small stuff", "happy", "richard carlson", "eft", "rabbit", "chinese", "fortune"],
+    tags: ["animal", "sweat", "small stuff", "happy", "richard carlson", "eft", "rabbit", 
+        "chinese", "fortune"],
 
     topic: {
       title: "You Can Be Happy No Matter What",
@@ -6881,7 +6883,7 @@ const meetings = {
       ]
     },
 
-    tags: ["vision board", "forgiveness", "ho-oponopono", "rhodonite", "jeremiel"],
+    tags: ["crystal", "vision board", "forgiveness", "ho-oponopono", "rhodonite", "jeremiel"],
 
     topic: {
       title: "Vision Boards",
@@ -7069,7 +7071,7 @@ const meetings = {
       ]
     },
 
-    tags: ["self-reflection", "reflection", "burning", "bowl", "christmas", "grinch", "journal"],
+    tags: ["archangel", "self-reflection", "reflection", "burning", "bowl", "christmas", "grinch", "journal"],
 
     topic: {
       title: "Burning Bowl Ceremony & Christmas Celebration",
@@ -7210,7 +7212,7 @@ const meetings = {
       ]
     },
 
-    tags: ["create", "day", "pasithea", "eft", "joe dispenza"],
+    tags: ["ascended master", "create", "day", "pasithea", "eft", "joe dispenza"],
 
     topic: {
       title: "Celebrate Your Life CD - Joe Dispenza",
@@ -7513,7 +7515,7 @@ const meetings = {
       ]
     },
 
-    tags: ["happy", "happiness", "quokka", "smile", "smiling"],
+    tags: ["animal", "happy", "happiness", "quokka", "smile", "smiling"],
 
     topic: {
       title: "Happiness",
@@ -8075,7 +8077,7 @@ const meetings = {
     ],
 
     focus: {
-      title: "",
+      title: "Sodalite",
 
       items: [
         {
@@ -8158,7 +8160,7 @@ const meetings = {
       ]
     },
 
-    tags: ["self", "compassion", "self-compassion", "sodalite", "vision for the new earth",
+    tags: ["crystal", "self", "compassion", "self-compassion", "sodalite", "vision for the new earth",
             "queenager", "votive candle holder", "kristin neff", "brene brown"],
 
     topic: {
@@ -8387,7 +8389,7 @@ const meetings = {
       ]
     },
 
-    tags: ["denise linn", "william teller", "john hagelund", "what the bleep", 
+    tags: ["flower", "denise linn", "william teller", "john hagelund", "what the bleep", 
            "rescue remedy", "water", "blessing"],
 
     topic: {
@@ -8561,7 +8563,7 @@ const meetings = {
       ]
     },
 
-    tags: ["shine your light", "lemurian seed crystal", "coloring", "vision", "about us"],
+    tags: ["crystal", "shine your light", "lemurian seed crystal", "coloring", "vision", "about us"],
 
     topic: {
       title: "Our Vision and All About Us",
@@ -8775,7 +8777,7 @@ const meetings = {
       ]
     },
 
-    tags: ["self-care", "tiger", "tapping world summit", "archetypes"],
+    tags: ["animal", "self-care", "tiger", "tapping world summit", "archetypes"],
 
     topic: {
       title: "",
@@ -9039,7 +9041,7 @@ const meetings = {
       ]
     },
 
-    tags: ["intentions", "new year", "visioning", "money frog", "frog", "tapping", 
+    tags: ["animal", "intentions", "new year", "visioning", "money frog", "frog", "tapping", 
            "vision boards", "all about me"],
 
     topic: {
@@ -9220,7 +9222,7 @@ const meetings = {
       ]
     },
 
-    tags: ["burning", "bowl", "christmas", "denise linn", "celebrate", "fox"],
+    tags: ["animal", "burning", "bowl", "christmas", "denise linn", "celebrate", "fox"],
 
     topic: {
       title: "Burning Bowl Ceremony & Christmas Party",
@@ -9389,7 +9391,7 @@ const meetings = {
       ]
     },
 
-    tags: ["wholehearted", "brene brown", "denise linn", "auralite", "gratitude"],
+    tags: ["crystal", "wholehearted", "brene brown", "denise linn", "auralite", "gratitude"],
 
     topic: {
       title: "Wholehearted Living",
@@ -9595,7 +9597,7 @@ const meetings = {
       ]
     },
 
-    tags: ["alan cohen", "kyle gray", "denise linn", "patricia cota-robles", 
+    tags: ["archangel", "alan cohen", "kyle gray", "denise linn", "patricia cota-robles", 
            "raise your vibration", "sandalphon", "music", "cd", "affirmation"],
 
     topic: {
@@ -9801,7 +9803,7 @@ const meetings = {
       ]
     },
 
-    tags: ["abraham", "esther hicks", "jerry hicks", "law of attraction", "creative", "workshop",
+    tags: ["flower", "abraham", "esther hicks", "jerry hicks", "law of attraction", "creative", "workshop",
            "peppermint", "essential oil", "eo", "worksheet"],
 
     topic: {
@@ -10005,7 +10007,7 @@ const meetings = {
       ]
     },
 
-    tags: ["mushroom", "mindful", "eating", "louie schwartzberg", "paul stamets", "fantastic fungi"],
+    tags: ["flower", "mushroom", "mindful", "eating", "louie schwartzberg", "paul stamets", "fantastic fungi"],
 
     topic: {
       title: "Movie - Fantastic Fungi",
@@ -10174,7 +10176,7 @@ const meetings = {
       ]
     },
 
-    tags: ["atlantis", "as if", "dolphin", "power", "gratitude", "happier", "life"],
+    tags: ["animal", "atlantis", "as if", "dolphin", "power", "gratitude", "happier", "life"],
 
     topic: {
       title: "Atlantis Meditation",
@@ -10708,7 +10710,7 @@ const meetings = {
       ]
     },
 
-    tags: ["buddha", "heartmath", "coherence", "movie", "lock-in", "heart"],
+    tags: ["ascended master", "buddha", "heartmath", "coherence", "movie", "lock-in", "heart"],
 
     topic: {
       title: "Watch Movie",
@@ -10886,7 +10888,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cliff notes", "vision boards", "ox", "centering"],
+    tags: ["animal", "cliff notes", "vision boards", "ox", "centering"],
 
     topic: {
       title: "Cliff Notes & Vision Boards",
@@ -11061,7 +11063,7 @@ const meetings = {
       ]
     },
 
-    tags: ["christmas", "tree", "burning", "bowl", "ceremony", "chanting"],
+    tags: ["flower", "christmas", "tree", "burning", "bowl", "ceremony", "chanting"],
 
     topic: {
       title: "Celebrate Christmas & Burning Bowl Ceremony",
@@ -11558,7 +11560,7 @@ const meetings = {
       ]
     },
 
-    tags: ["metahuman", "deepak chopra", "gratitude", "white poppy", "poppy", "unity", "video"],
+    tags: ["flower", "metahuman", "deepak chopra", "gratitude", "white poppy", "poppy", "unity", "video"],
 
     topic: {
       title: "Becoming Metahuman",
@@ -11928,7 +11930,7 @@ const meetings = {
       ]
     },
 
-    tags: ["get on your bird", "perspective", "rhino", "rhinoceros", "timothy snyder",
+    tags: ["animal", "get on your bird", "perspective", "rhino", "rhinoceros", "timothy snyder",
            "susan jeffers", "colette baron-reid", "meditation", "tips"],
 
     topic: {
@@ -12111,7 +12113,7 @@ const meetings = {
       ]
     },
 
-    tags: ["protea", "fear", "courage", "abraham", "emotion", "scale", "reach for a better feeling"],
+    tags: ["flower", "protea", "fear", "courage", "abraham", "emotion", "scale", "reach for a better feeling"],
 
     topic: {
       title: "Fear/Courage",
@@ -12459,7 +12461,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cliff notes", "jophiel", "happy color", "read", "inspiration"],
+    tags: ["archangel", "cliff notes", "jophiel", "happy color", "read", "inspiration"],
 
     topic: {
       title: "Cliff Notes Update",
@@ -13101,7 +13103,7 @@ const meetings = {
       ]
     },
 
-    tags: ["movie", "LOA", "law of attraction", "rat", "year of the", "intention", "lovingkindness"],
+    tags: ["animal", "movie", "LOA", "law of attraction", "rat", "year of the", "intention", "lovingkindness"],
 
     topic: {
       title: "Movie",
@@ -13270,7 +13272,7 @@ const meetings = {
       ]
     },
 
-    tags: ["hemi-morphite", "crystal", "vision board", "self-care", "ram dass"],
+    tags: ["crystal", "hemi-morphite", "crystal", "vision board", "self-care", "ram dass"],
 
     topic: {
       title: "Vision Boards",
@@ -13456,7 +13458,7 @@ const meetings = {
       ]
     },
 
-    tags: ["holly", "christmas", "affirmation", "burn", "bowl"],
+    tags: ["flower","holly", "christmas", "affirmation", "burn", "bowl"],
 
     topic: {
       title: "Christmas Celebration & Burning Bowl Ceremony",
@@ -13640,7 +13642,7 @@ const meetings = {
       ]
     },
 
-    tags: ["david Hawkins", "kindness", "chamuel", "archangel", "raise your vibration", "vibration" ],
+    tags: [ "david Hawkins", "kindness", "chamuel", "archangel", "raise your vibration", "vibration" ],
 
     topic: {
       title: "Raise Your Vibration",
@@ -13979,7 +13981,7 @@ const meetings = {
       ]
     },
 
-    tags: ["walter", "calm", "turtle", "sunny dawn johnston", "happiness"],
+    tags: ["animal", "walter", "calm", "turtle", "sunny dawn johnston", "happiness"],
 
     topic: {
       title: "Happiness Video",
@@ -14139,7 +14141,7 @@ const meetings = {
       ]
     },
 
-    tags: ["turitella", "meditation", "walter", "birthday", "more", "less", "tgif"],
+    tags: ["crystal", "turitella", "meditation", "walter", "birthday", "more", "less", "tgif"],
 
     topic: {
       title: "More/Less, TGIF",
@@ -14453,7 +14455,7 @@ const meetings = {
       ]
     },
 
-    tags: ["kindness", "radical", "lion"],
+    tags: ["animal", "kindness", "radical", "lion"],
 
     topic: {
       title: "Radical Kindness - Part 2",
@@ -14622,7 +14624,7 @@ const meetings = {
       ]
     },
 
-    tags: ["radical", "kindness", "lion", "workbook"],
+    tags: ["animal", "radical", "kindness", "lion", "workbook"],
 
     topic: {
       title: "Radical Kindness",
@@ -14795,7 +14797,7 @@ const meetings = {
       ]
     },
 
-    tags: ["rose quartz", "masaru emoto", "water", "blessings", "inner peace", "peace"],
+    tags: ["crystal", "rose quartz", "masaru emoto", "water", "blessings", "inner peace", "peace"],
 
     topic: {
       title: "Inner Peace",
@@ -15004,7 +15006,7 @@ const meetings = {
       ]
     },
 
-    tags: ["movie", "pig", "year of the", "prosperity", "abundance", "prayer", "st. francis"],
+    tags: ["animal", "movie", "pig", "year of the", "prosperity", "abundance", "prayer", "st. francis"],
 
     topic: {
       title: "Movie",
@@ -15239,7 +15241,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cliff notes", "create my day", "day", "create", "butterfly", "random acts of kindness",
+    tags: ["animal", "cliff notes", "create my day", "day", "create", "butterfly", "random acts of kindness",
          "kindness", "joe dispenza"],
 
     topic: {
@@ -15427,7 +15429,7 @@ const meetings = {
       ]
     },
 
-    tags: ["vision board", "bluebird", "happiness", "intentions"],
+    tags: ["animal", "vision board", "bluebird", "happiness", "intentions"],
 
     topic: {
       title: "Vision Board",
@@ -15597,7 +15599,7 @@ const meetings = {
       ]
     },
 
-    tags: ["burning bowl", "christmas", "mistletoe"],
+    tags: ["flower", "burning bowl", "christmas", "mistletoe"],
 
     topic: {
       title: "Burning Bowl Ceremony & Christmas Party",
@@ -15795,7 +15797,7 @@ const meetings = {
       ]
     },
 
-    tags: ["dragon", "enlightenment", "spiritual", "practice"],
+    tags: ["animal", "dragon", "enlightenment", "spiritual", "practice"],
 
     topic: {
       title: "Anniversary Check-In",
@@ -16128,7 +16130,7 @@ const meetings = {
       ]
     },
 
-    tags: ["moose", "meditation"],
+    tags: ["animal", "moose", "meditation"],
 
     topic: {
       title: "Guided Meditation",
@@ -16308,7 +16310,7 @@ const meetings = {
       ]
     },
 
-    tags: ["self-care", "jet", "aragonite", "centering", "wayne dyer"],
+    tags: ["crystal", "self-care", "jet", "aragonite", "centering", "wayne dyer"],
 
     topic: {
       title: "Self-Care",
@@ -16492,7 +16494,7 @@ const meetings = {
       ]
     },
 
-    tags: ["pink calcite", "gentle", "acceptance"],
+    tags: ["crystal", "pink calcite", "gentle", "acceptance"],
 
     topic: {
       title: "Acceptance",
@@ -16683,7 +16685,7 @@ const meetings = {
       ]
     },
 
-    tags: ["meditation", "larimar", "atlantis"],
+    tags: ["crystal", "meditation", "larimar", "atlantis"],
 
     topic: {
       title: "Movie",
@@ -16862,7 +16864,7 @@ const meetings = {
       ]
     },
 
-    tags: ["worksheet", "shame", "brene brown", "crab apple", "jesus", "pele", "wholehearted"],
+    tags: ["ascended", "worksheet", "shame", "brene brown", "crab apple", "jesus", "pele", "wholehearted"],
 
     topic: {
       title: "",
@@ -17278,7 +17280,7 @@ const meetings = {
       ]
     },
 
-    tags: ["worksheet", "shamrock", "faith", "anger","noble", "truths","eightfold", "path", "blessings"],
+    tags: ["flower", "worksheet", "shamrock", "faith", "anger","noble", "truths","eightfold", "path", "blessings"],
 
     topic: {
       title: "Cultivate Faith",
@@ -17520,7 +17522,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cliff notes", "daffodil", "affirmation"],
+    tags: ["flower", "cliff notes", "daffodil", "affirmation"],
 
     topic: {
       title: "Cliff Notes Update",
@@ -17724,7 +17726,7 @@ const meetings = {
       ]
     },
 
-    tags: ["intention", "ram", "vision", "board", "release", "worksheet"],
+    tags: ["animal", "intention", "ram", "vision", "board", "release", "worksheet"],
 
     topic: {
       title: "Vision Board",
@@ -18011,7 +18013,7 @@ const meetings = {
     ],
 
     focus: {
-      title: "",
+      title: "Archangel Gabriel",
 
       items: [
         {
@@ -18349,7 +18351,7 @@ const meetings = {
       ]
     },
 
-    tags: ["wisdom", "story", "pink chalcedony", "journal"],
+    tags: ["crystal", "wisdom", "story", "pink chalcedony", "journal"],
 
     topic: {
       title: "the Wisdom of Story class (2 hours)",
