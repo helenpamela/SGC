@@ -17818,11 +17818,11 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "chakra-images/201712-crown-chakra.png"
+          src: "chakra-images/201712-crown-chakra.jpg"
         },
         {
           type: "image",
-          src: "chakra-images/201712-crown-chakra-properties.png"
+          src: "chakra-images/201712-crown-chakra-properties.jpg"
         },
         {
           type: "pdf",
@@ -17892,7 +17892,7 @@ const meetings = {
     },
 
     tags: ["crown", "chakra", "archangel", "chamuel","gabriel", "jophiel", "michael", "uriel", 
-          "raphael", "zadkiel"],
+          "raphael", "zadkiel", "horrible"],
 
     topic: {
       title: "Archangel Class",
@@ -17938,9 +17938,9 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "pdf",
+        label: "When a Horrible Event Happens",
+        src: "https://drive.google.com/file/d/16pBnjJcbCtvMINxyNocl7Hl9UuowBZpv/preview"
       },
       {
         type: "",
