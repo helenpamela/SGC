@@ -18020,7 +18020,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "archangel-images/201308-gabriel.png"
+          src: "archangel-images/201308-gabriel-properties.png"
         },
         {
           type: "pdf",
@@ -18029,10 +18029,12 @@ const meetings = {
         },
         {
           type: "image",
+          label: "Front of Token from Linda",
           src: "monthly-focus-images/201711-gabriel-token-front.jpg"
         },
         {
           type: "image",
+          label: "Back of Token from Linda",
           src: "monthly-focus-images/201711-gabriel-token-back.jpg"
         },
       
@@ -18104,7 +18106,7 @@ const meetings = {
     },
 
     tags: ["archangel", "gratitude", "gabriel", "michael", "jophiel", "michael", "raphael",
-           "uriel", "chamuel"],
+           "uriel", "chamuel", "affirmation"],
 
     topic: {
       title: "Archangel Class",
