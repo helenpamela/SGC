@@ -17753,5 +17753,203 @@ const meetings = {
     ]
   },
 
+  "201712": {
+    title: "December 2017",
+    month: "December",
+    year: 2017,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1AG3gds1D_7jnyMQ5r91VpsQGcOq_kQNA/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1TYXVYflyQTdifdwiYP8PvcPKxkdEJIjj/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Announcements",
+        src: "https://drive.google.com/file/d/1PhLQYYe1xmlRFyrECwMSxB0gJNEHIaJe/preview"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Crown Chakra",
+
+      items: [
+        {
+          type: "image",
+          src: "chakra-images/201712-crown-chakra.png"
+        },
+        {
+          type: "image",
+          src: "chakra-images/201712-crown-chakra-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Crown Chakra",
+          src: "https://drive.google.com/file/d/1LDdB7jI49viJkztL56vtZrLDtT5wumc5/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["crown", "chakra", "archangel", "chamuel","gabriel", "jophiel", "michael", "uriel", 
+          "raphael", "zadkiel"],
+
+    topic: {
+      title: "Archangel Class",
+      items: [
+        {
+          type: "pdf",
+          label: "Chamuel Exercises",
+          src: "https://drive.google.com/file/d/1vazg03_GugKDFyLLxFOo4xURAWq3TA6U/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Gabriel Exercises",
+          src: "https://drive.google.com/file/d/1V8BH1IS9Uxcdn3ZtolX-tpptRLXXyn0R/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Jophiel Exercises",
+          src: "https://drive.google.com/file/d/1nxdqYiZdudk-6KqU1F-gJ-v4v65PsS8w/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Michael Exercises",
+          src: "https://drive.google.com/file/d/1Gpx_iDRhtKbR7dfiw6FNXjusgxnzA1QL/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Raphael Exercises",
+          src: "https://drive.google.com/file/d/1J6ZIoUDQ-4qHijFkoF3Gy8Cz0JzCmgED/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Uriel Exercises",
+          src: "https://drive.google.com/file/d/1jO3CgB9Mf1ITRzeYg5S3Auoo6dJjgItb/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Zadkiel Exercises",
+          src: "https://drive.google.com/file/d/1KL4F6diOdv-Ejr0Jq-su3RtHHQfXYKoK/preview"  
+        },       
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
