@@ -17951,5 +17951,246 @@ const meetings = {
     ]
   },
 
+  "201711": {
+    title: "November 2017",
+    month: "November",
+    year: 2017,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1K4H_S1EU_NR9ECeQgPJiMSGEnoxx4M0w/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1cDm3AU3Rc_t72yqMSUFUPp1V8o569AiD/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Announcements",
+        src: "https://drive.google.com/file/d/1z-TvFqs6AJRr11sZ0wlPEwNsN-D9Qy-7/preview"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/201308-gabriel.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/201308-gabriel.png"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Gabriel",
+          src: "https://drive.google.com/file/d/1EuxthKErpcml-Du6EmV1UegfRTVFKJRT/preview"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/201711-gabriel-token-front.jpg"
+        },
+        {
+          type: "image",
+          src: "monthly-focus-images/201711-gabriel-token-back.jpg"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Gratitde",
+      items: [
+        {
+          type: "pdf",
+          label: "20 Ways to Practice Gratitude",
+          src: "https://drive.google.com/file/d/1HK_HLC-waeTMwCwO_ogBbpGgYlPmP4_r/preview"
+        },
+        {
+          type: "pdf",
+          label: "Gratitude Quotes 1",
+          src: "https://drive.google.com/file/d/1loj9gHe-fKcQCL535XudWu2fDbMULLWe/preview"
+        },
+        {
+          type: "",
+          label: "Gratitude Quotes 2",
+          src: "https://drive.google.com/file/d/1VsYj2S-5cu78Z4AjErKytDHNZtxMMlyB/preview"
+        },
+        {
+          type: "",
+          label: "Gratitude Quotes 3",
+          src: "https://drive.google.com/file/d/1GwOKAEAQawcI9AvQ5aUqmdpUi2X-IFfu/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Invocation to the Archangels",
+      items: [
+        {
+          type: "image",
+          label: "CD cover - Archangel Meditations",
+          src: "topic-images/201711-cd-cover-SDJ-archangel-class-meditations.jpg"  
+        }
+      ]
+    },
+
+    tags: ["archangel", "gratitude", "gabriel", "michael", "jophiel", "michael", "raphael",
+           "uriel", "chamuel"],
+
+    topic: {
+      title: "Archangel Class",
+      items: [
+        {
+          type: "pdf",
+          label: "7 Archangels Poster",
+          src: "https://drive.google.com/file/d/1Yl6-uFzmEs0zakc3Z21QXNxUW1Ea-Rno/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Seven Archangels",
+          src: "https://drive.google.com/file/d/1hU1EULTaW_tUn3LNVhp_EVrzcIF65TDr/preview"  
+        },
+        {
+          type: "pdf",
+          label: "6 Steps to Manifest Anything",
+          src: "https://drive.google.com/file/d/1kJ8kA9nIpYLXNYN_VDUgeZbLxSJhfv8b/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "9 Step Archangel Process",
+          src: "https://drive.google.com/file/d/10ujX6c__Eb7L9M26IS-ZSD8NvF3Mpe-g/preview"  
+        },
+        {
+          type: "pdf",
+          label: "9 Step Process to Heal Heart",
+          src: "https://drive.google.com/file/d/1xCY-ilCPHh1Jpl-SC5fs3QF_Z1rODdLk/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Angelic Positive Affirmations",
+          src: "https://drive.google.com/file/d/1xCY-ilCPHh1Jpl-SC5fs3QF_Z1rODdLk/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Angels Sayings",
+          src: "https://drive.google.com/file/d/1RXIEawvxCvJXdQgFO0OQ4jO2uM9OL1FZ/preview"  
+        }, 
+        
+        {
+          type: "pdf",
+          label: "Daily Colors",
+          src: "https://drive.google.com/file/d/1znTnuwF2AR8RaECX-aqAgKBumgu77OKH/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Energetic Vibration Scale",
+          src: "https://drive.google.com/file/d/1Do2CyLQPtaARmwL6GoQopqJ9UhR2adNb/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Michael Coloring Mandala",
+          src: "https://drive.google.com/file/d/1wH5XhJyH-kKoi0i16ONluYdBBuNpCeCR/preview"  
+        },       
+        {
+          type: "pdf",
+          label: "Archangel Affirmations",
+          src: "https://drive.google.com/file/d/1Mv5IrzE3hdkZuQ3YMczBx4AGGq_c9QuR/preview"  
+        }, 
+        
+        {
+          type: "image",
+          label: "CD cover - Archangel Affirmations",
+          src: "topic-images/201711-cd-cover-SDJ-archangel-class-affirmations.jpg"  
+        }
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
