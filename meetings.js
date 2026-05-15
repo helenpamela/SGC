@@ -18411,7 +18411,7 @@ const meetings = {
     teacher_only: {
       working_agenda: [
         {
-          type: "",
+          type: "pdf",
           label: "Working Agenda",
           src: "https://drive.google.com/file/d/1AfTmnKTVhuzlyfricJkYQIazfCeFTDLO/preview"
         },
@@ -18527,7 +18527,7 @@ const meetings = {
       ]
     },
 
-    tags: ["apology", "angelite", "active", "listen"],
+    tags: ["crystal", "apology", "angelite", "active", "listen"],
 
     topic: {
       title: "The Power of Apology (online class)",
@@ -18655,7 +18655,7 @@ const meetings = {
       title: "Choose Joy",
       items: [
         {
-          type: "image",
+          type: "",
           label: "",
           src: "none-images/no-daily-practice.png"
         },
@@ -18743,7 +18743,7 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "Alan Cohen Quotes P1",
+          label: "Alan Cohen Quotes P2",
           src: "https://drive.google.com/file/d/1MTXO3wR2gWKts8DO06F35hZvSdlkU5eK/preview"  
         },
         {
@@ -18778,7 +18778,7 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "What Brings You Joy",
+          label: "What Brings You Joy - poster",
           src: "https://drive.google.com/file/d/1p7-ZpZncl5haJsGXJJLtZaKNdH0qS5Tp/preview"  
         },
         {
