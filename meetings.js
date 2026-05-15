@@ -18392,5 +18392,181 @@ const meetings = {
     ]
   },
 
+  "201709": {
+    title: "September 2017",
+    month: "September",
+    year: 2017,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1C-djilCZa557N06e0eDmVW0ma9uMcgB8/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1AfTmnKTVhuzlyfricJkYQIazfCeFTDLO/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Angelite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201709-angelite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201709-angelite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Angelite Healing Properties",
+          src: "https://drive.google.com/file/d/1Bka-ZYsM7xQUfHEybQ3TA-TIUD7aGOgb/preview"
+        },
+           
+      ]
+    },
+
+    practice: {
+      title: "Active Listening",
+      items: [
+        {
+          type: "pdf",
+          label: "Active Listening",
+          src: "https://drive.google.com/file/d/1nh8hOyxQ8y71tSJiR2U9Y3cUSUnsDqWA/preview"
+        },
+        {
+          type: "",
+          label: "5 Ways to Be a Better Listener",
+          src: "https://drive.google.com/file/d/1cD4zFWwe66fEgGLyS-xULMU_nNGNDK7e/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["apology", "angelite", "active", "listen"],
+
+    topic: {
+      title: "Heartfelt Apology",
+      items: [
+        {
+          type: "pdf",
+          label: "Heartfelt Apology class",
+          src: "https://drive.google.com/file/d/1Irjg8lA4ZfMyWAVg3RaWZl-LR7mz2_No/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Quotes",
+          src: "https://drive.google.com/file/d/1O70C9KLaGD6pfpbIwS10c_JAs5b_ECBZ/preview"  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Louise Hay - 12 Commandments",
+        src: "https://drive.google.com/file/d/1cNetiSI4CS5baiRe2vAJYFNS5H-UddGT/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
