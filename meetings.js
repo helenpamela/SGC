@@ -18530,7 +18530,7 @@ const meetings = {
     tags: ["apology", "angelite", "active", "listen"],
 
     topic: {
-      title: "Heartfelt Apology",
+      title: "The Power of Apology (online class)",
       items: [
         {
           type: "pdf",
@@ -18558,6 +18558,246 @@ const meetings = {
         type: "pdf",
         label: "Louise Hay - 12 Commandments",
         src: "https://drive.google.com/file/d/1cNetiSI4CS5baiRe2vAJYFNS5H-UddGT/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201708": {
+    title: "August 2017",
+    month: "August",
+    year: 2017,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1sRLVC7TdpJ7h5O0J8CG4KbysBBR5caSk/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1SWfSBtlNyYGPi0FIgFMTaBGCoUGCnIcP/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Unity World Day of Prayer",
+        src: "https://drive.google.com/file/d/1FH84Wlzj18WWiLPTb9xDkZFhw_crdmOL/preview"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Citrine",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201708-citrine.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201708-citrine-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Citrine - The Stone of Joy",
+          src: "https://drive.google.com/file/d/1RxM0V9_jtt13aEKxLi9NaJ99elYw1zy8/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Choose Joy",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["crystal", "citrine", "joy", "choose joy"],
+
+    topic: {
+      title: "Joy",
+      items: [
+        {
+          type: "pdf",
+          label: "10 Steps to Joy",
+          src: "https://drive.google.com/file/d/192kAIqkSTnyUj5NVZhiapYNpepFeyXPO/preview"  
+        },
+        {
+          type: "pdf",
+          label: "10 Ways to Bring More Joy",
+          src: "https://drive.google.com/file/d/1xiWMEXLKzr3eOVD_s1aDXatOSDG4uMHW/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "How to Create Joy",
+          src: "https://drive.google.com/file/d/1qIGQQwNs9Id2LBvEOq6o21o3oKnc7SG6/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "8 Pillars of Joy",
+          src: "https://drive.google.com/file/d/16Grsd48FNPivmG_facdEDfp90QucYiv4/preview"  
+        },
+        {
+          type: "pdf",
+          label: "8 Pillars of Joy article",
+          src: "https://drive.google.com/file/d/1_BRryhJxSQH-uk5FDBQHN-RqhKB1Fkri/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Alan Cohen Quotes P1",
+          src: "https://drive.google.com/file/d/1YcFMuc1fAejxg4A0xJIS4lXYiHWcbtZY/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Alan Cohen Quotes P1",
+          src: "https://drive.google.com/file/d/1MTXO3wR2gWKts8DO06F35hZvSdlkU5eK/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Quotes - ballerina",
+          src: "https://drive.google.com/file/d/16JsJLD9BrBDqawcQHZA6GxHod6k1lA9L/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Joy Map",
+          src: "https://drive.google.com/file/d/1anFUfbNCSxPqtDo2gpYVI4o9uaOxVuKD/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Quotes - comparison",
+          src: "https://drive.google.com/file/d/1oSQnuQ3AEO-6G44iQXuJuKhM9VxMl9Xu/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Quotes - find joy in the journey",
+          src: "https://drive.google.com/file/d/1AsnuXsgfTfl7lSysaRfdRtTeMyXy8wZO/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Quotes - follow your bliss",
+          src: "https://drive.google.com/file/d/1a-6JxT86E53xm8N1jxznDuwCVob5jPwV/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Quotes - joy vs happiness",
+          src: "https://drive.google.com/file/d/17kv6ORY9d7ooSBNthQ4Yh472lwPpvGwI/preview"  
+        },
+        {
+          type: "pdf",
+          label: "What Brings You Joy",
+          src: "https://drive.google.com/file/d/1p7-ZpZncl5haJsGXJJLtZaKNdH0qS5Tp/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Things That Bring Me Joy form",
+          src: "https://drive.google.com/file/d/1yORR8ulASmCI96gumrtQ0WvzFHfFTH6d/preview"  
+        },
+        
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "It's Time - Helen Mirren",
+        src: "https://drive.google.com/file/d/1CVWirMhHKVR6M5AqCCpvhZf4MGDng5Ki/preview"
       },
       {
         type: "",
