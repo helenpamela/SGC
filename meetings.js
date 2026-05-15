@@ -18808,5 +18808,205 @@ const meetings = {
     ]
   },
 
+  "201707": {
+    title: "July 2017",
+    month: "July",
+    year: 2017,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1E5SEq9f_l8fk3nhLSkJsELKD8fBN_5qi/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1mYTls-SHK-FEIfOs2Gl8NurlpUSEHFzP/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Dragonfly",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201707-dragonfly.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201707-dragonfly-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Dragonfly Quotes",
+          src: "https://drive.google.com/file/d/1SkE-Zfp22W5xIEFK0g-ZvEwgOoyWOXVj/preview"
+        },
+        {
+          type: "pdf",
+          label: "Dragonfly Fun Facts",
+          src: "https://drive.google.com/file/d/1_raYCqTRUg6ukJ01fcGd9Av3vgI9F7qN/preview"
+        }       
+   
+      ]
+    },
+
+    practice: {
+      title: "Get on Your Winged Creature",
+      items: [
+        {
+          type: "image",
+          label: "Get on Your Winged Creature",
+          src: "daily-practice-images/201707-get-on-your-winged-creature.jpg"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["animal", "colette", "faith", "dragonfly", "get on your"],
+
+    topic: {
+      title: "Faith",
+      items: [
+        {
+          type: "pdf",
+          label: "Faith Quotes",
+          src: "https://drive.google.com/file/d/1ASkMNti5TocMJpJI-3dcrSOLLFcVZ5Jz/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Difference betweetn Faith and Belief",
+          src: "https://drive.google.com/file/d/1LeU5_5CU_Q9Rxr1VR6_eT3J-eQ0xUuTr/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Difference between Hope and Faith",
+          src: "https://drive.google.com/file/d/1nzwHGETSW-mgrRv1Ourp5RgYRx44OQzp/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "How to Define Faith",
+          src: "https://drive.google.com/file/d/1wc-KruxDWMQkpsDZUW7-rgzhxtpieQi2/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Meaning of Faith",
+          src: "https://drive.google.com/file/d/1SSDIXh1_zcqip7IRqRwV9PZkvIKdTKDd/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Why Faith is Important",
+          src: "https://drive.google.com/file/d/19XOR-OTgkOZg_NQ_5XdtXmGRHbkllL1O/preview"  
+        },
+        {
+          type: "",
+          label: "Why Faith is Necessary",
+          src: "https://drive.google.com/file/d/1JnNT-o89X4T8E6cjVTAuP6Y1sY79yQ3H/preview"  
+        }
+       
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
