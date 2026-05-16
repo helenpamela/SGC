@@ -19462,12 +19462,12 @@ const meetings = {
         {
           type: "pdf",
           label: "Gratitude Exercises",
-          src: "https://drive.google.com/file/d/1PGHiYDFeiXqS5agpazt3hU2x8OWaZ0s9/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1PGHiYDFeiXqS5agpazt3hU2x8OWaZ0s9/preview"
         },
         {
           type: "pdf",
           label: "Gratitude Quotes",
-          src: "https://drive.google.com/file/d/1PqX7awunCaEOtAZv1PzWnC0iQ-8uf2bh/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1PqX7awunCaEOtAZv1PzWnC0iQ-8uf2bh/preview"
         },
         {
           type: "pdf",
@@ -19586,7 +19586,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Self-Care from Cliff Notes",
-          src: "https://drive.google.com/file/d/1Xd4t34twknXQbYEiWsgALVfm4l7ywHYY/review"  
+          src: "https://drive.google.com/file/d/1Xd4t34twknXQbYEiWsgALVfm4l7ywHYY/preview"  
         }, 
         {
           type: "image",
