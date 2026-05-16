@@ -19163,5 +19163,205 @@ const meetings = {
     ]
   },
 
+  "201705": {
+    title: "May 2017",
+    month: "May",
+    year: 2017,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/18RaNUPVI0sAQUrnxh9YzJQTsvdIYlOu0/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1wilan63zFqMki3yHvFYGIyaMj781eCng/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Lepidolite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201705-lepidolite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201705-lepidolite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Lepidolite Healing Properties",
+          src: "https://drive.google.com/file/d/13ySieNhxXfhyGpuks-NYwEHTp8FUKUJT/preview"
+        },
+        {
+          type: "pdf",
+          label: "Lepidolite Meanings",
+          src: "https://drive.google.com/file/d/1wMr67gjh8R_2vs5GUUlj5WuMm6llSy7N/preview"
+        },     
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Self-Care",
+      items: [
+        {
+          type: "pdf",
+          label: "Self-Care During Tumultuous Times",
+          src: "https://drive.google.com/file/d/1TgQ-WO5H11LVzleQ179Igqkdf9ZqiA2j/preview"
+        },
+        {
+          type: "pdf",
+          label: "Love Thy Self",
+          src: "https://drive.google.com/file/d/1hGOP6vQwRC8in4LjUJ8vNPOC51Sz3-Et/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["crystal", "lepidolite", "compassion", "self", "kristin neff"],
+
+    topic: {
+      title: "Self-Compassion Online Class with Kristin Neff",
+      items: [
+        {
+          type: "pdf",
+          label: "Self-Compassion Class Description",
+          src: "https://drive.google.com/file/d/19HGOgFx6p51ye9mRQsBR6On4-yXXlsU8/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Three Core Components",
+          src: "https://drive.google.com/file/d/17gEcJ79L7McBIdLGKIsq3wMyam1R9Hsj/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "4 Ways to Practice Self-Compassion",
+          src: "https://drive.google.com/file/d/1jlhR4hjp3gOessg-mxj5D1bruR13M4Xc/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Pre-Assessment",
+          src: "https://drive.google.com/file/d/1hXAUxegydue039HAeppbBl3FfYqWUPdq/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Self-Compassion Break",
+          src: "https://drive.google.com/file/d/1N035HDf0daaLz09-zqz-gWkAnR1jLr8J/preview"  
+        },  
+        {
+          type: "pdf",
+          label: "Permission Slips",
+          src: "https://drive.google.com/file/d/1Iu1BNO-9_CLygT0KJGYaIKOOTXobKx_9/preview"  
+        },  
+        {
+          type: "pdf",
+          label: "Treat a Friend",
+          src: "https://drive.google.com/file/d/1xcgCpZXDEznzvD41w4LNAe2H_3e7R1q5/preview"  
+        }    
+            
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
