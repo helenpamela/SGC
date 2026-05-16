@@ -19687,7 +19687,7 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "Deer Sirit Guide",
+          label: "Deer Spirit Guide",
           src: "https://drive.google.com/file/d/1M1V5icHaeB136RF1J6vhTHXgdshr7V_N/preview"
         },
            
@@ -19754,6 +19754,204 @@ const meetings = {
 
     topic: {
       title: "Self-Compassion Online Class - Part 1",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201702": {
+    title: "February 2017",
+    month: "February",
+    year: 2017,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1v9saj6b2Jju3Ce-mjIO3iNGN9BDG4dk9/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1scx5GiB4qetGiziHMZTL85mNNIuTbVXb/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Third-Eye Chakra",
+
+      items: [
+        {
+          type: "image",
+          src: "chakra-images/201702-third-eye.png"
+        },
+        {
+          type: "image",
+          src: "chakra-images/201702-third-eye-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "7 Chakra-Based Goals",
+          src: "https://drive.google.com/file/d/1_jajT1fww__DpjUakrrU2wqkTOKp1klq/preview"
+        },
+        {
+          type: "pdf",
+          label: "Third Eye Chakra",
+          src: "https://drive.google.com/file/d/1hVtEHFArS_PCSpJDVXBkEFng9wJqJB-F/preview"
+        },      
+        {
+          type: "pdf",
+          label: "Third Eye Chakra Info",
+          src: "https://drive.google.com/file/d/1rMBAa653bxj36GckAskPw2pbI0qOaZlg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Third Eye Chakra Self-Reflection",
+          src: "https://drive.google.com/file/d/1_uoZnPDP_JV8TdjuNYkyPA14VuqQu9i3/preview"
+        },
+        {
+          type: "pdf",
+          label: "I Am Calm",
+          src: "https://drive.google.com/file/d/1omofOc1PjJLuyHCHrrIFvlXr9UPLNnQB/preview"
+        },
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "LovingKindness Meditation",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["trust", "chakra", "third eye", "lovingkindness"],
+
+    topic: {
+      title: "Trust Class online",
       items: [
         {
           type: "",
