@@ -19304,10 +19304,10 @@ const meetings = {
       ]
     },
 
-    tags: ["crystal", "lepidolite", "compassion", "self", "kristin neff"],
+    tags: ["crystal", "lepidolite", "compassion", "self", "kristin neff", "brene brown"],
 
     topic: {
-      title: "Self-Compassion Online Class with Kristin Neff",
+      title: "Self-Compassion Online Class - Part 3",
       items: [
         {
           type: "pdf",
@@ -19345,6 +19345,257 @@ const meetings = {
           src: "https://drive.google.com/file/d/1xcgCpZXDEznzvD41w4LNAe2H_3e7R1q5/preview"  
         }    
             
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201704": {
+    title: "April 2017",
+    month: "April",
+    year: 2017,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1OHXmnKY4VZ04eXeYppEk2sPiMq3bH5nj/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1W7zuRFRhlGqySD1i8AlRvs9xYt2v-PJM/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "ascended-master-images/201704-mother-mary.png"
+        },
+        {
+          type: "image",
+          src: "ascended-master-images/201704-mother-mary-properties.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Gratitude & Stand Up for Yourself",
+      items: [
+        {
+          type: "pdf",
+          label: "9 Ways to Cultivate Gratitude",
+          src: "https://drive.google.com/file/d/1HZLGJuy3R0FTlI-G53ZrulYo4P5K_wFy/preview"
+        },
+        {
+          type: "pdf",
+          label: "A Practical Guide to Gratitude",
+          src: "https://drive.google.com/file/d/1vY1ZNdgIBhENKy_HX1H_2J2h8e1424K6/preview"
+        },
+        {
+          type: "pdf",
+          label: "Gratitude Exercises",
+          src: "https://drive.google.com/file/d/1PGHiYDFeiXqS5agpazt3hU2x8OWaZ0s9/view?usp=drive_link"
+        },
+        {
+          type: "pdf",
+          label: "Gratitude Quotes",
+          src: "https://drive.google.com/file/d/1PqX7awunCaEOtAZv1PzWnC0iQ-8uf2bh/view?usp=drive_link"
+        },
+        {
+          type: "pdf",
+          label: "'I am Grateful for' form",
+          src: "https://drive.google.com/file/d/1oS0YjgtsqHzFrCqe2h4bsn_RbjKwZERl/preview"
+        },
+        {
+          type: "image",
+          label: "CD Label",
+          src: "daily-practice-images/201704-cd-label-stand-up-for-yourself.jpg"
+        },
+        {
+          type: "image",
+          label: "CD Song List",
+          src: "daily-practice-images/201704-cd-song-list.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Debbie Ford - Greatest Act",
+          src: "https://drive.google.com/file/d/1U9_xTDu6zHXR63PMuc6S5Lm0uFwfkA2z/preview"
+        },
+        {
+          type: "pdf",
+          label: "Stand Up for Yourself - Quotes 1",
+          src: "https://drive.google.com/file/d/1BP5-0ENkK-RiLJiwNHeCC-nU_ihX9P6G/preview"
+        },
+        {
+          type: "pdf",
+          label: "Stand Up for Yourself - Quotes 2",
+          src: "https://drive.google.com/file/d/1WVmEVkim2pTzmnT-zLCzZgG3IBpIzbGE/preview"
+        },
+        {
+          type: "pdf",
+          label: "Stand Up for Yourself - Quotes 3",
+          src: "https://drive.google.com/file/d/1DvDX6cuynOZHnmIrFVjqMML9lonGv2ko/preview"
+        },
+         {
+          type: "pdf",
+          label: "Teddy Roosevelt - Daring Greatly",
+          src: "https://drive.google.com/file/d/1768c5Hv7xXv-j-vA3okPWcJvYK306Ubg/preview"
+        },
+
+
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "Self-Compassion Online Class - Part 2",
+      items: [
+        {
+          type: "pdf",
+          label: "Class Description",
+          src: "https://drive.google.com/file/d/19HGOgFx6p51ye9mRQsBR6On4-yXXlsU8/preview"  
+        },
+        {
+          type: "pdf",
+          label: "What is Self-Compassion",
+          src: "https://drive.google.com/file/d/1y23CP578WB_-pthEDvE1JBXNXlo1Cesr/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Why Practice Self-Compassion",
+          src: "https://drive.google.com/file/d/1dBrqELmxXucHMN2emEhfztMwgzQrm6Ct/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Be Kind to Yourself",
+          src: "https://drive.google.com/file/d/1Kv2N8nZASgB00npYUQdjXNsoG8sZJIh1/preview"  
+        },
+        {
+          type: "pdf",
+          label: "10 Self-Love Encouraging Questions",
+          src: "https://drive.google.com/file/d/19SpICJweVq5biyHd6EiDxmuxNf106qVx/preview"  
+        },
+        {
+          type: "pdf",
+          label: "10 Extreme Self-Care Questions",
+          src: "https://drive.google.com/file/d/1plp1OsEHN2V-l_4ZYx7NqieKUj28hkSQ/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Self-Care from Cliff Notes",
+          src: "https://drive.google.com/file/d/1Xd4t34twknXQbYEiWsgALVfm4l7ywHYY/review"  
+        }, 
+        {
+          type: "image",
+          label: "Self-Compassion CD 1",
+          src: "topic-images/201704-CD_SelfCompassion1_KristinNeff.jpg"  
+        }, 
+  
+          
+
       ]
     },
 
