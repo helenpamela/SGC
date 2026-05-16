@@ -19423,7 +19423,7 @@ const meetings = {
     ],
 
     focus: {
-      title: "",
+      title: "Mother Mary",
 
       items: [
         {
@@ -19548,7 +19548,7 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["mary", "gratitude", "stand", "compassion"],
 
     topic: {
       title: "Self-Compassion Online Class - Part 2",
@@ -19592,6 +19592,183 @@ const meetings = {
           type: "image",
           label: "Self-Compassion CD 1",
           src: "topic-images/201704-CD_SelfCompassion1_KristinNeff.jpg"  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201703": {
+    title: "March 2017",
+    month: "March",
+    year: 2017,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1PsEXZZap1hIC0WmUKQZqGeZOjXo0oFnK/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/16zhScyyt2NgoHN5wH82vHyKTQgq7lyyG/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Cliff Notes Update",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Deer",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201703-deer.png"
+        },
+        {
+          type: "image",
+          src:  "animal-images/201703-deer-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Deer Sirit Guide",
+          src: "https://drive.google.com/file/d/1M1V5icHaeB136RF1J6vhTHXgdshr7V_N/preview"
+        },
+           
+            
+      ]
+    },
+
+    practice: {
+      title: "Journaling",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["deer", "compassion","animal"],
+
+    topic: {
+      title: "Self-Compassion Online Class - Part 1",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
         }, 
   
           
