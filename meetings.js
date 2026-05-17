@@ -21689,12 +21689,12 @@ const meetings = {
       {
         type: "image",
         label: "Beatles CD Label",
-        src: "other-images/201604-cd-beatles.png"
+        src: "other-images/201604-cd-beatles.jpg"
       },
       {
         type: "image",
         label: "Beatles CD Song List",
-        src: "other-images/201604-cd-song-list.png"
+        src: "other-images/201604-cd-song-list.jpg"
       }
 
     ]
