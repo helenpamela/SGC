@@ -21442,6 +21442,262 @@ const meetings = {
     ]
   },
 
+  "201604": {
+    title: "April 2016",
+    month: "April",
+    year: 2016,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1loyXiKdC-Nk0KFEbyPLWse-WX42Usd28/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1573En5209hoyiulWpBFyDWP02ICV_n_n/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rose Quartz",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201604-rose-quartz.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201604-rose-quartz-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Healing with Rose Quartz",
+          src: "https://drive.google.com/file/d/1aNUFENgtOSQLqOrorEPQr7PoUbTlmUAf/preview"
+        },
+        {
+          type: "pdf",
+          label: "Rose Quartz Benefits",
+          src: "https://drive.google.com/file/d/1Rk5lgbLrTwvZISdkHcSwuC1JinMw2uNi/preview"
+        },
+
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Ho'oponopono",
+      items: [
+        {
+          type: "pdf",
+          label: "Ho'oponopono Statements",
+          src: "https://drive.google.com/file/d/1_jn-gP1GlHgIeOPqBOmXOYF56elSpkRm/preview"
+        },
+        {
+          type: "pdf",
+          label: "Ho'oponopono Benefits",
+          src: "https://drive.google.com/file/d/1lEGMKsieNE33pPwR8sYEVE8ahkaRN1WQ/preview"
+        },
+         {
+          type: "pdf",
+          label: "How to Practice Ho'oponopono",
+          src: "https://drive.google.com/file/d/1Jt0zZef9mX3yjY9MNxYUC427so82VEd3/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Jerry Jampolski & The Beatles",
+      items: [
+        {
+          type: "image",
+          label:  "The Beatles",
+          src: "luminary-images/201604-beatles.png"
+        },
+        {
+          type: "image",
+          label: "Jerry Jampolski",
+          src: "luminary-images/201604-jerry-jampolski.png"
+        }
+
+        
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cd", "beatles"],
+
+    topic: {
+      title: "Forgiveness",
+      items: [
+        {
+          type: "text",
+          label: "Best forgiveness book ever: Forgive for Good by Fred Luskin",
+          src: ""  
+        },
+        {
+          type: "pdf",
+          label: "4 Stages of Forgiveness",
+          src: "https://drive.google.com/file/d/1PEck40s9PV7VAXJWm5pzmWyxpQsrKs9c/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "4 Steps Worksheet",
+          src: "https://drive.google.com/file/d/1NWo-2yrvU9vK25yMVJaE9bcQD4A6Nf9y/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "5 Steps for Granting the Gift",
+          src: "https://drive.google.com/file/d/1QyLjWlXprTlDbAytUzc8c1oDjl8v4LFT/preview"  
+        },
+        {
+          type: "pdf",
+          label: "9 Steps",
+          src: "https://drive.google.com/file/d/12s3lsnSqd1j8aqG7w3qIARfgzM7Gmp6e/preview"  
+        },
+        {
+          type: "pdf",
+          label: "12 Principles of Attitudinal Healing",
+          src: "https://drive.google.com/file/d/1nAZTAk5a_JGhfqgsclF0ki0h_S12Ov5C/preview"  
+        },
+        {
+          type: "pdf",
+          label: "25 Affirmations to Forgive Your Past",
+          src: "https://drive.google.com/file/d/1aAu0imoJn6ByKEfH8RvfRub3jXcOewwl/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Crystals for Forgiveness",
+          src: "https://drive.google.com/file/d/13oCvaoA_MJK0CCSP2ByWS5Txsq-z98mr/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness for Ourselves & Others",
+          src: "https://drive.google.com/file/d/1JNgEWXdGqPBxQND3mAddKxguvhA6F4j6/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness Affirmations",
+          src: "https://drive.google.com/file/d/1hByY3UR7U5VCssgiHy_4J4OlbZDKdUac/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness Quotes",
+          src: "https://drive.google.com/file/d/1-cCQiDlWO8MCLpL0JrLPHkWafrhITd4J/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness Is & Is Not",
+          src: "https://drive.google.com/file/d/17-fOtvzI4ETLbSWtl6W00XqC2m0K7pQG/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiving Yourself & Those Who Hurt You",
+          src: "https://drive.google.com/file/d/1aBcuD2uYjvVPKw815Cq0ZsVQcwjyDpyB/preview"  
+        },
+        {
+          type: "pdf",
+          label: "How to Forgive Anyone",
+          src: "https://drive.google.com/file/d/1-yScFIh1aPrHxehcfISp_TcWen-EiEkK/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Letting Go of Past Grievances",
+          src: "https://drive.google.com/file/d/1BCJWj2hRbsnG3hABHKjf6LdOCUBrs1pz/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Mirror Work Affirmations",
+          src: "https://drive.google.com/file/d/11HiT6Zz6-SIrfUAmYQbTtFVhVQ1SsnPV/preview"  
+        }
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Beatles CD Label",
+        src: "other-images/201604-cd-beatles.png"
+      },
+      {
+        type: "image",
+        label: "Beatles CD Song List",
+        src: "other-images/201604-cd-song-list.png"
+      }
+
+    ]
+  },
 }
 
