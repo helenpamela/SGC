@@ -21908,6 +21908,267 @@ const meetings = {
     ]
   },
 
+  "201602": {
+    title: "February 2016",
+    month: "February",
+    year: 2016,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1_1Z6SE_e0E_EkAY-dq4GpkPMNzorG1ju/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/19loN_mKLoTGqTepwNiBdgsOVCZQ3Twa9/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Tulip",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201602-tulip.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201602-tulip-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Tulip",
+          src: "https://drive.google.com/file/d/1AyYHDuHOMfOu-fIduM5D8H_X8HzASJHb/preview"
+        },
+        {
+          type: "pdf",
+          label: "Meaning & Symbolism of the Tulip",
+          src: "https://drive.google.com/file/d/1heyUq42TTeOq49fUdiRGVKNyuWVTEL_j/preview"
+        }
+   
+      ]
+    },
+
+    practice: {
+      title: "Mirror Work",
+      items: [
+        {
+          type: "pdf",
+          label: "Mirror Work Quotes",
+          src: "https://drive.google.com/file/d/1gqdv4PIyzkpRM5tSe_dM29pXP1lIXcRB/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Practice Self-Love",
+          src: "https://drive.google.com/file/d/1rJWzJfePeZNA_nIMVICVoZoSwWZt8ocE/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Sonia Choquette & Iyanla Vanzant (book 'Trust')",
+      items: [
+        {
+          type: "image",
+          src: "luminary-images/201602-sonia-choquette.png"
+        },
+        {
+          type: "image",
+          src: "luminary-images/201602-iyanla-vanzant.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["trust", "tulip", "iyanla vanzant", "sonia choquette", "mirror"],
+
+    topic: {
+      title: "Trust",
+      items: [
+        {
+          type: "pdf",
+          label: "Trust Definitions",
+          src: "https://drive.google.com/file/d/1_UczZL_Erl2bbCC__c6VK53KKogDbd8L/preview"  
+        },
+        {
+          type: "pdf",
+          label: "What is Trust?",
+          src: "https://drive.google.com/file/d/1pgQeODVzFFqEH9bw0P8QrNl8DW3kszav/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "The Nature ofTrust",
+          src: "https://drive.google.com/file/d/1IzbvmpnVHaruvcIgcKI2k6sOQwJEQVPs/preview"
+        },
+        {
+          type: "pdf",
+          label: "Trust Quotes",
+          src: "https://drive.google.com/file/d/1A8vV3OFiIuuLRb8Q6DHnGN3T2C7Z8DSZ/preview"  
+        },
+        {
+          type: "pdf",
+          label: "2 Trust Quotes",
+          src: "https://drive.google.com/file/d/1316SfwBr9RguMOtO4YRBp87IhrHc1_fO/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Benefits of Trust",
+          src: "https://drive.google.com/file/d/1U9hq0Ua_XiXBJbo1V_kQRnTEJ1crw-PI/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Dimensions of Trust",
+          src: "https://drive.google.com/file/d/1nbMURijGW1nACkVDRu2x7K7BrCBvClJb/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "12 Dimensions of Trust",
+          src: "https://drive.google.com/file/d/1bLWL-rQNpvzPTP8i-fe3yrkT--lgHVNi/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Noah's Ark",
+          src: "https://drive.google.com/file/d/1vye0KO2RFEhp3kszvfDBvvcA75JMHjuO/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Trust the Process",
+          src: "https://drive.google.com/file/d/18Dkqr7X7YaKL_h3WTpTv-gxAzFr2x6Gx/preview"  
+        },      
+        {
+          type: "pdf",
+          label: "Trust in the Process of Life",
+          src: "https://drive.google.com/file/d/1OZn04VxFPfIyo1ljJZzwAbianBvS9grk/preview"  
+        },
+        {
+          type: "pdf",
+          label: "How to Build Trust",
+          src: "https://drive.google.com/file/d/1CNXsWB3y9Vm7BQWN_kD9MTqGzagwCvGr/preview"  
+        },      
+        {
+          type: "pdf",
+          label: "12 Signs You Might Not Trust Yourself",
+          src: "https://drive.google.com/file/d/11nkX35PSmyZDsoggyr9JQE2lkcdp-Hmg/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Email from Louise Hay",
+          src: "https://drive.google.com/file/d/1DkzX8CcQU6L0dOUPmqy_QOSH0f5aU8jb/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Self-Trust",
+          src: "https://drive.google.com/file/d/15SAxotZYmSnAiSUsw5r2iI77-b63GoaB/preview"
+        },
+        {
+          type: "pdf",
+          label: "3 Ways to Develop Self-Trust",
+          src: "https://drive.google.com/file/d/1a7mZSmRboSYw9_HN7Ux3Z83LoIJVci9w/preview"
+        },  
+        {
+          type: "pdf",
+          label: "Benefits of a Spiritual Practice",
+          src: "https://drive.google.com/file/d/1pZYoIFVNzqC4r33m-gJuQHpi9Yvfz_rD/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Reliance",
+          src: "https://drive.google.com/file/d/1DtYiLmtNOxU0CDP6taZvuqctOeEKwRhr/view?usp=drive_link"
+        },
+
+       
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 
 }
 
