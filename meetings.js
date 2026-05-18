@@ -21594,7 +21594,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cd", "beatles"],
+    tags: ["cd", "beatles", "forgiveness", "ho'oponopono", "jampolski", "crystal", "rose quartz"],
 
     topic: {
       title: "Forgiveness",
@@ -21699,5 +21699,215 @@ const meetings = {
 
     ]
   },
+
+   "201603": {
+    title: "March 2016",
+    month: "March",
+    year: 2016,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1ltpO4F5oJP2OH33hd53OJwHvbxLHAulT/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1vOOaxb6x_aJGwlt2CBADyZMLDjViP4a9/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Labradorite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201603-labradorite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201603-labradorite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Labradorite",
+          src: "https://drive.google.com/file/d/1ZwtYRHxfcqNFvM8uztO1WBB2n4zx0lBr/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Meditation",
+      items: [
+        {
+          type: "text",
+          label: "Atlantis - Doreen Virtue",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Anita Moorjani",
+      items: [
+        {
+          type: "image",
+          src: "luminary-images/201603-anita-moorjani.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["meditation", "anita moorjani", "labradorite", "self-love", "worksheet"],
+
+    topic: {
+      title: "Self-Love",
+      items: [
+        {
+          type: "pdf",
+          label: "Writing as a Practice of Self-Love",
+          src: "https://drive.google.com/file/d/1acP8AkJwMAipKXLHFAYfAcGda_dsoGkH/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Why It's Hard to Love Yourself",
+          src: "https://drive.google.com/file/d/1sL9u1k4jJl50jp7cD6XSSgDNBu-OpTtt/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Ways to Show Love to Yourself",
+          src: "https://drive.google.com/file/d/1-u9ZgiT5Nnfxyd-NrvEAYqm01-K5UHn_/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Self-Love Tree",
+          src: "https://drive.google.com/file/d/1_AqquACAXm_RRPdVQm_UMedkVcfrZREX/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Self-Acceptance",
+          src: "https://drive.google.com/file/d/1F95B9fyZ_KWe_SYpCuxUvqYpD67Dd5e5/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Self-Love Worksheet",
+          src: "https://drive.google.com/file/d/169RwCs3_-jxNfAcp7Lrq6cUifE_8OxwB/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Radical Self-Love Manifesto",
+          src: "https://drive.google.com/file/d/1FDn7tan_XPnPW8AFGCQiZsG1LWGDbSFO/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "List of Positive Traits",
+          src: "https://drive.google.com/file/d/15CscS2mkAh18GWWASCQHQLajQ1fdffEu/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "",
+          src: ""  
+        }
+       
+          
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+
 }
 
