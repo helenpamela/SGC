@@ -22033,10 +22033,12 @@ const meetings = {
       items: [
         {
           type: "image",
+          label: "Sonia Choquette",
           src: "luminary-images/201602-sonia-choquette.png"
         },
         {
           type: "image",
+          label: "Iyanla Vanzang",
           src: "luminary-images/201602-iyanla-vanzant.png"
         }
       ]
@@ -22119,7 +22121,7 @@ const meetings = {
         },      
         {
           type: "pdf",
-          label: "12 Signs You Might Not Trust Yourself",
+          label: "21 Signs You Might Not Trust Yourself",
           src: "https://drive.google.com/file/d/11nkX35PSmyZDsoggyr9JQE2lkcdp-Hmg/preview"  
         }, 
         {
@@ -22145,7 +22147,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Self-Reliance",
-          src: "https://drive.google.com/file/d/1DtYiLmtNOxU0CDP6taZvuqctOeEKwRhr/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1DtYiLmtNOxU0CDP6taZvuqctOeEKwRhr/preview"
         },
 
        
