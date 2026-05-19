@@ -22171,6 +22171,228 @@ const meetings = {
     ]
   },
 
+  "201601": {
+    title: "January 2016",
+    month: "January",
+    year: 2016,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1o4hB39QiHvHdyhKjfucRnX6e-_gyaMnI/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1T4nu019YkSOhXaIpyhyhGacs4e4fA_vS/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "image",
+        label: "Book from Pam:  Easy Breezy Prosperity by Emmanuel Dagher",
+        src: "announcement-images/201601-easy-breezy-prosperity-book.png"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "White Stone",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201601-white-stone.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201601-white-stone-properties.png"
+        },
+        {
+          type: "image",
+          label: "Jerusalem Stone Front",
+          src: "monthly-focus-images/201601-jerusalem-stone-card-front.png"
+        },
+        {
+          type: "image",
+          label: "Jerusalem Stone Back",
+          src: "monthly-focus-images/201601-jerusalem-stone-card-back.png"
+        },
+        {
+          type: "pdf",
+          label: "White Stone Ceremony - Unity",
+          src: "https://drive.google.com/file/d/16ZLOWsnLd6tThTddCgIUvuh2WvuSwIxu/preview"
+        },
+        {
+          type: "pdf",
+          label: "White Stone Ceremony",
+          src: "https://drive.google.com/file/d/1YWhN084fteBy_vGS5vfuHqP9Q0P3h90b/preview"
+        },
+        {
+          type: "pdf",
+          label: "White Stone & Burning Bowl Ceremonies",
+          src: "https://drive.google.com/file/d/1hT7KTBc2nN04QwB87MRADkWI9rvEwfNN/preview"
+        },
+        {
+          type: "pdf",
+          label: "White Stones",
+          src: "https://drive.google.com/file/d/1IdBDSnAY9Cc09JrBPHZpmI04bvfy0xlm/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Embrace Your Magnificence",
+      items: [
+        {
+          type: "image",
+          label: "Daily OM",
+          src: "https://drive.google.com/file/d/1Q8s95V0z2UGFR5l8QVNdpzW8X5FtYijs/preview"
+        },
+        {
+          type: "pdf",
+          label: "Embrace Your Magnificence",
+          src: "https://drive.google.com/file/d/1FrXl01WZCywQPmrFCnXDLz5TKm-_Mqj8/preview"
+        },
+        {   
+          type: "pdf",
+          label: "Recognize Your Magnificence",
+          src: "https://drive.google.com/file/d/118IYuVKWEa4V2uavJJoM2gSn1eFD1HdG/preview"
+        },
+        {   
+          type: "pdf",
+          label: "Way Easier",
+          src: "https://drive.google.com/file/d/1yFMm7iNLBzMYIYt06rb5y9SH1n-pM0Ul/preview"
+        },
+        {
+          type: "image",
+          label: "Embrace Your Magnificence by Fabienne Fredrickson",
+          src: "daily-practice-images/201601-embrace-your-magnificence-book.png"
+        },
+        {
+        type: "image",
+        label: "CD - You Are The Best",
+        src: "daily-practice-images/201601-cd-you-are-the-best.jpg"
+      },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Mike Dooley & Fabienne Fredrickson",
+      items: [
+        {
+          type: "image",
+          label: "Mike Dooley",
+          src: "luminary-images/201601-mike-dooley.png"
+        },
+        {
+          type: "image",
+          label: "Fabienne Fredrickson",
+          src: "luminary-images/201601-fabienne-fredrickson.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["white stone", "ceremony", "vision", "board", "cliff notes", "mike dooley", 
+          "fabienne fredrickson", "embrace", "magnificent", "magnificence"],
+
+    topic: {
+      title: "Cliff Notes Update & Vision Board",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "topic-images/no-topic.jpg"  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 
 }
 
