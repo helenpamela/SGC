@@ -22183,7 +22183,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: "https://drive.google.com/file/d/1o4hB39QiHvHdyhKjfucRnX6e-_gyaMnI/preview"
+        src: "https://drive.google.com/file/d/13-ErnEQ3mL4OA-nnJ5lvFIJtVuPKZXbC/preview"
       }
     ],
 
@@ -22192,7 +22192,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Working Agenda",
-          src: "https://drive.google.com/file/d/1T4nu019YkSOhXaIpyhyhGacs4e4fA_vS/preview"
+          src: "https://drive.google.com/file/d/1iDqkYjgKGQbKmCpwYto46PVKzjAX1u1K/preview"
         },
 
         
@@ -22283,7 +22283,7 @@ const meetings = {
       title: "Embrace Your Magnificence",
       items: [
         {
-          type: "image",
+          type: "pdf",
           label: "Daily OM",
           src: "https://drive.google.com/file/d/1Q8s95V0z2UGFR5l8QVNdpzW8X5FtYijs/preview"
         },
@@ -22362,9 +22362,9 @@ const meetings = {
       title: "Cliff Notes Update & Vision Board",
       items: [
         {
-          type: "image",
+          type: "",
           label: "",
-          src: "topic-images/no-topic.jpg"  
+          src: ""  
         },
         {
           type: "",
