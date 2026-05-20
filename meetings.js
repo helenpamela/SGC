@@ -22394,5 +22394,234 @@ const meetings = {
   },
 
 
+  "201512": {
+    title: "December 2015",
+    month: "December",
+    year: 2015,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1PrPtLHj_VDSnzJIXLcnEHwNPrelHveT9/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1LXEsNKK4r7nIZZn1iMq6mZxheSixf_fB/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Reindeer",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201512-reindeer.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201512-reindeer-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Reindeer Symbolism & Powers",
+          src: "https://drive.google.com/file/d/1AVjtfWO5FxsGuoMIReQazcF-ZwL2zJ8Y/preview"
+        },
+        {
+          type: "pdf",
+          label: "Reindeer Symbolism & Meaning",
+          src: "https://drive.google.com/file/d/1s8FY74RK4Xuj4wDXaJrI460E26XOqtSp/view?us"
+        },
+        {
+          type: "pdf",
+          label: "Reindeer Images",
+          src: "https://drive.google.com/file/d/1uwARyMiP0EFn2GKmSQyptAeozHXXu_hN/preview"
+        },
+        {
+          type: "pdf",
+          label: "Reindeer as a Spirit Guide",
+          src: "https://drive.google.com/file/d/1jB21EC9va7h0cBrs5GstGRKIKIMfQjas/preview"
+        },
+        {
+          type: "pdf",
+          label: "Reindeer and Journeys",
+          src: "https://drive.google.com/file/d/1qQPbR7Hu5_XBLp5HTtJj66Lnq5vpFpC9/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Giving and Receiving",
+      items: [
+        {
+          type: "pdf",
+          label: "Giving & Receiving Quotes",
+          src: "https://drive.google.com/file/d/183jqqeAM_GQsX4xxqpJab9wPGiGyrw71/preview"
+        },
+        {
+          type: "pdf",
+          label: "Giving & Receiving Cycle",
+          src: "https://drive.google.com/file/d/10eOCPHU8T9EYiiEgSogU923m7qIaBsvP/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Law of Giving & Receiving",
+          src: "https://drive.google.com/file/d/1ULKJ3lJ3z46ZitIBN_4QtnxlTu0RS7pR/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Law of Giving & Receiving Article",
+          src: "https://drive.google.com/file/d/1cqDEzAEN5NJxIhoIZ62da2LI_Z8giehP/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Pendulum of Life",
+          src: "https://drive.google.com/file/d/1ejqd1uiXnu12liCRxcf3tXdzJOKsZjWV/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Art of Giving & Receiving",
+          src: "https://drive.google.com/file/d/1mlSizmg3lJIfheOZIxHRhabgjOItfJdI/preview"
+        },
+        {
+          type: "pdf",
+          label: "Spiritual Law of Giving & Receiving",
+          src: "https://drive.google.com/file/d/1bdXbsk9l0jn4VNNyZ0QLSosZQeIT3tYK/preview"
+        },
+        {
+          type: "pdf",
+          label: "Practice the Law of Giving & Receiving",
+          src: "https://drive.google.com/file/d/1Bylbnt5GxPJYiB1kanrKj-DBKhM3tfHg/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Law of Giving & Receiving Commitments",
+          src: "https://drive.google.com/file/d/1wzMzJyBFj2dOk5kbRcdxW_T7GkyeFU98/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["animal", "reindeer", "christmas", "giving", "receiving"],
+
+    topic: {
+      title: "Christmas Party",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "topic-images/no-topic.jpg"  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
