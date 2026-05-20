@@ -22473,7 +22473,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Reindeer Symbolism & Meaning",
-          src: "https://drive.google.com/file/d/1s8FY74RK4Xuj4wDXaJrI460E26XOqtSp/view?us"
+          src: "https://drive.google.com/file/d/1s8FY74RK4Xuj4wDXaJrI460E26XOqtSp/preview"
         },
         {
           type: "pdf",
@@ -22588,9 +22588,9 @@ const meetings = {
       title: "Christmas Party",
       items: [
         {
-          type: "image",
+          type: "",
           label: "",
-          src: "topic-images/no-topic.jpg"  
+          src: ""  
         },
         {
           type: "",
