@@ -43,6 +43,15 @@
 
      {
       "status": "active",
+      "image": "events-images/picnic.png",
+      "type": "Lunch",  
+      "datetime": "Saturday May 30 11:30 am",
+      "location": "Location TBD",
+      "note": "Birthday 🎂 & Farewell 😪 for PC "
+     },
+
+     {
+      "status": "active",
       "image": "events-images/pink-flamingo.jpg",
       "type": "Meeting",  
       "datetime": "Saturday June 6 Noon",
