@@ -67,11 +67,7 @@ const memories = {
       caption: "Vision Boards 2014 🖼️",
       year: 2014
     },  
-    {
-      src: "member-images/2014-vision-boards.jpg",
-      caption: "Vision Boards 2014 🖼️",
-      year: 2014
-    },
+
     {
       src: "member-images/2014-kathy.jpg",
       caption: "Kathy 2014 😃",
@@ -405,7 +401,7 @@ const memories = {
     },
     {
       src: "member-images/2020-linda-pc-pam-trudi-village-inn.jpg",
-      caption: "Village Inn 2020 🥪",
+      caption: "Village Tavern 2020 🥪",
       year: 2020
     },
     {
@@ -426,7 +422,7 @@ const memories = {
     },
     {
       src: "member-images/2021-burning-bowl.jpg",
-      caption: "Burning Bown Ceremony 2021 🔥",
+      caption: "Burning Bowl Ceremony 2021 🔥",
       year: 2021
     },
     {
@@ -656,12 +652,12 @@ const memories = {
     },
     {
       src: "member-images/2022-village-inn.jpg",
-      caption: "Village Inn 2022 🍴",
+      caption: "Village Tavern 2022 🍴",
       year: 2022
     },
     {
       src: "member-images/2022-village-inn-again.jpg",
-      caption: "Village Inn 2022 🍴",
+      caption: "Village Tavern 2022 🍴",
       year: 2022
     },
     {
