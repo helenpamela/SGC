@@ -19993,15 +19993,15 @@ const meetings = {
     title: "January 2017",
     month: "January",
     year: 2017,
-    meetingCancelled: true, // or false
+    meetingCancelled: false, // or false
     cancelReasonImage: "none-images/201701-no-mtg.png", 
     cancelMessage: "Something Different Today ✨",
 
     final_agenda: [
       {
-        type: "",
+        type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1un40g6GtwBNanCXsolJ-wnzo8w4vcKwK/preview"
       }
     ],
 
@@ -20107,7 +20107,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cancelled"],
+    tags: ["trudi"],
 
     topic: {
       title: "",
