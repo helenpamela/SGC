@@ -7252,8 +7252,8 @@ const meetings = {
     title: "October 2022",
     month: "October",
     year: 2022,
-    meetingCancelled: true, // or false
-    cancelReasonImage: "none-images/202210-no-mtg.png", 
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
     cancelMessage: "Sometimes we just need a break ✨",
 
     final_agenda: [
@@ -7356,7 +7356,7 @@ const meetings = {
       ]
     },
 
-    tags: ["cancelled"],
+    tags: [""],
 
     topic: {
       title: "",
@@ -20040,7 +20040,7 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
+        type: "",
         label: "",
         src: ""
       }
