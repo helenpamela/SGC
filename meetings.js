@@ -22852,10 +22852,10 @@ const meetings = {
           src: "https://drive.google.com/file/d/1OKAbDfQXlo6g3YL5Fzk_jv_0bitwnZm2/preview"
         },
         {
-          type: "",
-          label: "",
-          src: ""
-        },
+          type: "image",
+          label: "Stuffed Elephants",
+          src: "member-images/2015-elephants.jpg"
+        }
       
         
          
