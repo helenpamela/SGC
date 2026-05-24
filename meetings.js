@@ -22947,15 +22947,25 @@ const meetings = {
           src: ""  
         },
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Wayne Dyer Quotes",
+          src: "https://drive.google.com/file/d/1j_dyUnvxSvcl-KT6-2lguMQWsW_im5OI/preview"  
         }, 
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "10 Secrets for Success",
+          src: "https://drive.google.com/file/d/1w16ocCRpOruCLbiVmiZBQB6pftJO72zD/preview"  
         }, 
+        {
+          type: "pdf",
+          label: "How to Forgive",
+          src: "https://drive.google.com/file/d/1uBb6feJMUVPvxEaAHpsG5BkcLbKj06pD/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Inspiring Quotes - article",
+          src: "https://drive.google.com/file/d/16Cdpmk7bHjS5U_w6Sh22fTF3N9y7tmMt/preview"  
+        }
   
           
 
