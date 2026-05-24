@@ -22778,5 +22778,204 @@ const meetings = {
     ]
   },
 
+  "201510": {
+    title: "October 2015",
+    month: "October",
+    year: 2015,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1CpjTQr0DFtudRa_tfq36ZWqB_ODGfyfv/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1X3r8ExMez6gjwgVwwYBgvlRhuPbIYPu3/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "Wayne Dyer has passed away.  1940-2015",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Elephant",
+
+      items: [
+        {
+          type: "pdf",
+          label: "Elephant Quotes",
+          src: "https://drive.google.com/file/d/1O9-em7VA0LKFGtfU2MNIE4zyfmkrPGHM/preview"
+        },
+        {
+          type: "pdf",
+          label: "Elephant Article",
+          src: "https://drive.google.com/file/d/1OKAbDfQXlo6g3YL5Fzk_jv_0bitwnZm2/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Start and End Day with 'Thank You'",
+      items: [
+        {
+          type: "pdf",
+          label: "Wayne Dyer Quote: Start/End Day with Gratitude",
+          src: "https://drive.google.com/file/d/1i4Ii83LlEjTcN90aeMLB-VQwt8VHm0UJ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Prayer of St. Francis",
+          src: "https://drive.google.com/file/d/1E67T2unleBPKBZzuSsaqAeAnXwCSHlCy/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Neville Goddard, Patanjali, Carl Jung, & Abraham Maslow",
+      items: [
+        {
+          type: "pdf",
+          label: "Neville Goddard Quotes",
+          src: "https://drive.google.com/file/d/1GcEhah6oMFEuSq6Sxd2xtk3HpT2SCQ9-/preview"
+        },
+        {
+          type: "pdf",
+          label: "Patanjali Quotes",
+          src: "https://drive.google.com/file/d/1G-E4zXNWsHwgxrevEDQaCpsGzM6CV8aJ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Carl Jung Quotes",
+          src: "https://drive.google.com/file/d/1qJGXrf90tULBw4AHwofEiKlJuewsjQfX/preview"
+        },
+        {
+          type: "pdf",
+          label: "Abraham Maslow Quotes",
+          src: "https://drive.google.com/file/d/1rmwyqOgg3bm47sICrwp32U9R916nh7TO/preview"
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["wayne dyer", "elephant", "animal", "gratitude", "neville goddard", "patanjali",
+          "carl jung", "abraham maslow"],
+
+    topic: {
+      title: "Wayne Dyer",
+      items: [
+        {
+          type: "text",
+          label: "watch DVD - The Shift",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
