@@ -23604,7 +23604,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "chakra-images/201506-sacral-properties.png"
+          src: "chakra-images/201506-sacral-properties.jpg"
         },
         {
           type: "pdf",
@@ -23704,16 +23704,6 @@ const meetings = {
           type: "image",
           label: "Reprogram Your Subconscious CD Cover",
           src: "topic-images/201506-reprogram-subc-cd-cover.png"  
-        },
-        {
-          type: "image",
-          label: "Reprogram Your Subconscious CD Lessons 1 & 2",
-          src: "topic-images/201506-reprogram-subc-cd-lessons1&2.png"  
-        }, 
-        {
-          type: "image",
-          label: "Reprogram Your Subconscious CD Lessons 3 & 4",
-          src: "topic-images/201506-reprogram-subc-cd-lessons1&2.png"  
         },
         {
           type: "pdf",
@@ -23819,6 +23809,187 @@ const meetings = {
 
     ]
   },
+
+   "201505": {
+    title: "May 2015",
+    month: "May",
+    year: 2015,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1v2pY1p3wsPCkFxjM6XRads9WXbXUGEXS/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1HfVf4eqplm_KUL748N5u1CFL_E1hV-WK/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Dove",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201505-dove.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201505-dove-properties.png"
+        },
+        {
+          type: "image",
+          label: "Dove Token Front",
+          src: "monthly-focus-images/201505-dove-token-front.png"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "topic-images/no-topic.jpg"  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+
 
 }
 
