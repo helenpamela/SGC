@@ -23881,6 +23881,11 @@ const meetings = {
           type: "image",
           src: "animal-images/201505-dove-properties.png"
         },
+        {
+          type: "image",
+          label: "Dove Token Front",
+          src: "monthly-focus-images/201505-dove-token-front.jpg"
+        },
         
         {
           type: "image",
@@ -23903,14 +23908,14 @@ const meetings = {
           src: "daily-practice-images/201505-cd-label-let-it-go-surrender.jpg"
         },
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "image",
+          label: "CD 1 Song List",
+          src: "201505-let-go-cd-song-list-1.png"
         },
          {
-          type: "",
-          label: "",
-          src: ""
+          type: "image",
+          label: "CD 2 Song List",
+          src: "201505-let-go-cd-song-list-2.png"
         },
        
        
