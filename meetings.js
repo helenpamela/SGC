@@ -22842,6 +22842,14 @@ const meetings = {
 
       items: [
         {
+          type: "image",
+          src: "animal-images/201510-elephant.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201510-elephant-properties.png"
+        },
+        {
           type: "pdf",
           label: "Elephant Quotes",
           src: "https://drive.google.com/file/d/1O9-em7VA0LKFGtfU2MNIE4zyfmkrPGHM/preview"
@@ -22966,6 +22974,831 @@ const meetings = {
           label: "Inspiring Quotes - article",
           src: "https://drive.google.com/file/d/16Cdpmk7bHjS5U_w6Sh22fTF3N9y7tmMt/preview"  
         }
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201509": {
+    title: "September 2015",
+    month: "September",
+    year: 2015,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201509-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201508": {
+    title: "August 2015",
+    month: "Augst",
+    year: 2015,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/16sIHlAVeAQ4ri9fUGBhrYmIVOD1hAd3q/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "no-images/no-monthly-focus.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "topic-images/no-topic.jpg"  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201507": {
+    title: "July 2015",
+    month: "July",
+    year: 2015,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1BHKD58-IklLPGzhDP_TqNONctiYn6nMb/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1KSpx0CjInVj5fUO_gh7OVqHfqY-hVJp7/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Bald Eagle",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/201507-bald-eagle.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/201507-bald-eagle-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Eagle Quotes",
+          src: "https://drive.google.com/file/d/1uNDlLazlMsncGUfM9ahZ7eXv_s0XpQR-/preview"
+        },
+        {
+          type: "pdf",
+          label: "Eagle Symbolism",
+          src: "https://drive.google.com/file/d/1yHyLvUNPyhEdXbb3Bf6_GJWPRGcTZgkd/preview"
+        },
+        {
+          type: "pdf",
+          label: "Eagle Power",
+          src: "https://drive.google.com/file/d/1DHoqkj5xvJuIpri0ToUqbfA2Bi2eKTvr/preview"
+        },
+   
+      ]
+    },
+
+    practice: {
+      title: "Gratitude & Journaling",
+      items: [
+        {
+          type: "pdf",
+          label: "Gratitude Quote",
+          src: "https://drive.google.com/file/d/15zSEALtzk2CFyChBNWz_aAr6KUrNc170/preview"
+        },
+        {
+          type: "pdf",
+          label: "How Gratitude Can Change Your Life",
+          src: "https://drive.google.com/file/d/1hLEeNcenggLuLjxeJD7XbCVRIn5kOdPC/preview"
+        },
+        {
+          type: "pdf",
+          label: "Top 10 Ways Gratitude Enhances Your Life",
+          src: "https://drive.google.com/file/d/1RcPyhmezNnYG-cxnkhq4xHma6MIvcdaR/preview"
+        },
+        {
+          type: "pdf",
+          label: "Journal to Have Fun",
+          src: "https://drive.google.com/file/d/1QpzmvIUdpmgJ3tdgFr1NJ3uv_KdwYdT3/preview"
+        },
+        {
+          type: "pdf",
+          label: "Health Benefits of Journaling",
+          src: "https://drive.google.com/file/d/1g9GXkf1c17FOsbI8Ot2B15QKVNfOYN6X/preview"
+        },
+        {
+          type: "pdf",
+          label: "Daily Benefits of Journaling",
+          src: "https://drive.google.com/file/d/1C7SZxchTU6BcqXhnKKP9a6NDQdGi9kSb/preview"
+        },
+        {
+          type: "pdf",
+          label: "30 Journaling Prompts",
+          src: "https://drive.google.com/file/d/10vhQZTcqkGlhFRFMR9bvl5I-KcFkeJ85/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["eagle", "bald eagle", "animal", "journal", "gratitude", "reprogram", "subconscious"],
+
+    topic: {
+      title: "Reprogram Your Subconscious (Continued)",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201506": {
+    title: "June 2015",
+    month: "June",
+    year: 2015,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1ffFzYv2yh9_dBKW1Ym--CEVIW2HZDB4o/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1wtX6LEKlwZomgzpbJ0VLsCZQJNrucJ4j/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Sacral Chakra",
+
+      items: [
+        {
+          type: "image",
+          src: "chakra-images/201506-sacral.png"
+        },
+        {
+          type: "image",
+          src: "chakra-images/201506-sacral-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "The Sacral Chakra",
+          src: "https://drive.google.com/file/d/1hViWwFyMKYjevlRnmPpr1sLs2wv_WYst/preview"
+        },
+         {
+          type: "pdf",
+          label: "Sacral Chakra at a Glance",
+          src: "https://drive.google.com/file/d/13Qq06mWtKumUT36uGjiZdvWLs-r7BNK6/preview"
+        },
+         {
+          type: "pdf",
+          label: "Sacral Chakra Associations",
+          src: "https://drive.google.com/file/d/1x_njIDioBBlWaCRMY6hrKZ2UHZMrIhQ6/preview"
+        },
+         {
+          type: "pdf",
+          label: "Sacral Chakra - 2nd Chakra",
+          src: "https://drive.google.com/file/d/1a1MaKO64tDB0nUrCEw2BDFDeON_92w02/preview"
+        },
+         {
+          type: "pdf",
+          label: "Sacral Chakra Healing Cheat Sheet",
+          src: "https://drive.google.com/file/d/1vrqt66aiYySsdpySzqt5yACBIX0bPINP/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Abraham's Creative Workshop",
+      items: [
+        {
+          type: "pdf",
+          label: "Abraham Quote - Being Happy",
+          src: "https://drive.google.com/file/d/1skd0d1l6kobtvG6jUUeMMfR6AOZKeDro/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Colette Baron-Reid",
+      items: [
+        {
+          type: "image",
+          label: "Colette Baron-Reid",
+          src: "luminary-images/201506-colette-baron-reid.png"
+        }   
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["sacral", "chakra", "2nd", "abraham", "creative workshop", "happy", "colette", "baron-reid",
+          "reprogram", "subsconscious"],
+
+    topic: {
+      title: "Reprogram Your Subconscious Mind",
+      items: [
+        {
+          type: "image",
+          label: "Reprogram Your Subconscious CD Cover",
+          src: "topic-images/201506-reprogram-subc-cd-cover.png"  
+        },
+        {
+          type: "image",
+          label: "Reprogram Your Subconscious CD Lessons 1 & 2",
+          src: "topic-images/201506-reprogram-subc-cd-lessons1&2.png"  
+        }, 
+        {
+          type: "image",
+          label: "Reprogram Your Subconscious CD Lessons 3 & 4",
+          src: "topic-images/201506-reprogram-subc-cd-lessons1&2.png"  
+        },
+        {
+          type: "pdf",
+          label: "Course Description",
+          src: "https://drive.google.com/file/d/1CWdA85CPUUSPHXOHZ9Ql5_9PhBsODyFS/preview"  
+        },
+        
+        {
+          type: "pdf",
+          label: "Lesson 1 Video Descriptions",
+          src: "https://drive.google.com/file/d/1ahRsTSY11W9DR1UQhVEYxbiz24VPLdVH/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 1 Processes",
+          src: "https://drive.google.com/file/d/1L2yGi7Vf_K3j3A0l_7an5WQS3mpcOGka/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 1 Homeplay",
+          src: "https://drive.google.com/file/d/1PiMEjOlMZpD18HnAOseXG2JOcr4YShpP/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 1 Reflection Questions",
+          src: "https://drive.google.com/file/d/1dSnNVOlPS0AZP9It8_UIgFTggPxNtoBY/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 2 Video Descriptions",
+          src: "https://drive.google.com/file/d/1JGCR5T9DFlMNu3YAGtdOHySUXvTd9NRw/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 2 Processes",
+          src: "https://drive.google.com/file/d/1WcppHhapdGdclIiv8ABnlt3X885J2p7s/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 2 Homeplay",
+          src: "https://drive.google.com/file/d/1awbiyViVq-3ArFX-9Np96E-JtJncuUtY/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 2 Reflection Questions",
+          src: "https://drive.google.com/file/d/1OYci9DLJnn72AsRwCPt9YcDqsZwmgIgL/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 3 Video Descriptions",
+          src: "https://drive.google.com/file/d/18Lm9qmiEGL4IAxYW-TMFWRyEBQ_MiOye/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 3 Processes",
+          src: "https://drive.google.com/file/d/1STRu6oCmN-dtvxT8swnF6ZBppWzTW4kw/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 3 Homeplay",
+          src: "https://drive.google.com/file/d/1_xjs8lVD7dazQLx-e8TZjo-Z3agy5tia/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Lesson 4 Video Descriptions",
+          src: "https://drive.google.com/file/d/124ochrDidDKiEv2B03-N9Hd_j9gLus84/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lesson 4 Processes",
+          src: "https://drive.google.com/file/d/1BtCVP0nk2zlhCMLaGLfE8xnLdJkw6EIb/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Lesson 4 Homeplay",
+          src: "https://drive.google.com/file/d/1GmkkePMJlVJCk5y9TBmZfzf9WnMBeQV7/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Lesson 4 Reflection Questions",
+          src: "https://drive.google.com/file/d/1zpGL4xmXgtVRQcaOWPNET88-R1gfHLt6/preview"  
+        },
+
+        
+
   
           
 
