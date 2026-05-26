@@ -23910,12 +23910,12 @@ const meetings = {
         {
           type: "image",
           label: "CD 1 Song List",
-          src: "201505-let-go-cd-song-list-1.png"
+          src: "daily-practice-images/201505-let-go-cd-song-list-1.png"
         },
          {
           type: "image",
           label: "CD 2 Song List",
-          src: "201505-let-go-cd-song-list-2.png"
+          src: "daily-practice-images/201505-let-go-cd-song-list-2.png"
         },
        
        
@@ -24042,7 +24042,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Laws of Impeccable Communication",
-          src: "https://drive.google.com/file/d/1Aw8aobWxUr7Dsygluof94eBDuJLSztXy/preview"  
+          src: "https://drive.google.com/file/d/1343eg7XJogF98o5a_J5DHO4u7CpfeWl7/preview"  
         }, 
         {
           type: "pdf",
