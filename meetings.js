@@ -23881,10 +23881,11 @@ const meetings = {
           type: "image",
           src: "animal-images/201505-dove-properties.png"
         },
+        
         {
           type: "image",
-          label: "Dove Token Front",
-          src: "monthly-focus-images/201505-dove-token-front.png"
+          label: "Dove Token Back",
+          src: "monthly-focus-images/201505-dove-token-back.jpg"
         },
       
         
@@ -23894,12 +23895,12 @@ const meetings = {
     },
 
     practice: {
-      title: "",
+      title: "Listen to Music",
       items: [
         {
           type: "image",
-          label: "",
-          src: "none-images/no-daily-practice.png"
+          label: "Let It Go / Surrender CD cover",
+          src: "daily-practice-images/201505-cd-label-let-it-go-surrender.jpg"
         },
         {
           type: "",
@@ -23948,26 +23949,111 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["let go", "letting go", "surrender", "animal", "dove", "cd", "music" ],
 
     topic: {
-      title: "",
+      title: "Let Go & Surrender",
       items: [
         {
-          type: "image",
-          label: "",
-          src: "topic-images/no-topic.jpg"  
+          type: "text",
+          label: "Listened to Denise Linn meditation: Let Go & Surrender",
+          src: ""  
         },
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Why You Should Let Go",
+          src: "https://drive.google.com/file/d/1BIi6gHI_vDRQrGOIAMNkKwmnPVOcgWkE/preview"  
         }, 
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Victory By Surrender",
+          src: "https://drive.google.com/file/d/1tk_H0VRiZOv229HmZdeuFVYfN2XIZnRC/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Top Ten Tips",
+          src: "https://drive.google.com/file/d/1-xBNEo-0Iby8EGFjbgTA1J595Gz-n5PK/preview"  
         }, 
+        {
+          type: "pdf",
+          label: "The Surrender Test",
+          src: "https://drive.google.com/file/d/1Mg_2JsuHCsyppJa8Txs8CcFKHvXmgjzp/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "The Power of Surrender",
+          src: "https://drive.google.com/file/d/1-8e3DJQLLJgLw93HgRyCY5iFg3X6gE7N/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Surrender to Spirit - Heart Meditation",
+          src: "https://drive.google.com/file/d/1787EB7XBliVfxorynFVZjXHuOXMCPCR_/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Surrender to Miracles",
+          src: "https://drive.google.com/file/d/1Ld4a3i5sM4rE8tsEKFBjp9Jm8l7z5CF8/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Surrender",
+          src: "https://drive.google.com/file/d/1165V-mvmBYJxX0b8ha8ngvsaDWWPLppH/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Letting Go - Oracle Card",
+          src: "https://drive.google.com/file/d/1xrL4UZ8Vi2sJ9vstitAJbLalwDBO5GVh/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Letting Go Quotes",
+          src: "https://drive.google.com/file/d/13qrNFBnejdVZP2FneKhrWD_Te1s8pr1Z/preview"
+        },
+        {
+          type: "pdf",
+          label: "Letting Go Meditation",
+          src: "https://drive.google.com/file/d/1atwLOfJhx9Tm1GZmNBXRXGJU-TLlRb9h/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Letting Go List",
+          src: "https://drive.google.com/file/d/1TnjHdx8iRjovDSgBVvtS1epCa6xRPUiZ/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Letting Go - Deepak Chopra",
+          src: "https://drive.google.com/file/d/1O-byqZUBniGffgCm0L77NCGsVRGmaisU/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Let Go of Control",
+          src: "https://drive.google.com/file/d/1NzZNChEN52DYa_7gPQw1Gu5dhjbiiQVy/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Let Go Let Love",
+          src: "https://drive.google.com/file/d/1Aw8aobWxUr7Dsygluof94eBDuJLSztXy/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Laws of Impeccable Communication",
+          src: "https://drive.google.com/file/d/1Aw8aobWxUr7Dsygluof94eBDuJLSztXy/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "I Surrender",
+          src: "https://drive.google.com/file/d/1Gho7zHnjiw9uG9XaE4-7JtG8cnMYU2gY/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "How Do You Let It Go",
+          src: "https://drive.google.com/file/d/1IvVGecrYZC177LZdMF0zIBHvn8WSVQYn/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Daily Word",
+          src: "https://drive.google.com/file/d/18qiKMQIkBqyy9ydoalImwh8MkvqPpaN5/preview"  
+        }  
   
           
 
@@ -23976,9 +24062,9 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "pdf",
+        label: "Form: What I Love About Myself",
+        src: "https://drive.google.com/file/d/1sYe4AJHjxPMRy3Xxf1_bETPB5sKKy6Cs/preview"
       },
       {
         type: "",
