@@ -24080,7 +24080,416 @@ const meetings = {
     ]
   },
 
+  "201504": {
+    title: "April 2015",
+    month: "April",
+    year: 2015,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1rbFT580s6SL1Ze5gzT2GmG4Fxr8qrTqJ/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "no-images/no-monthly-focus.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["painting", "brush", "bar"],
+
+    topic: {
+      title: "Painting at Brush Bar",
+      items: [
+        {
+          type: "image",
+          label: "Finished Paintings",
+          src: "topic-images/201504-brush-bar-firefly-paintings.jpg"  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201503": {
+    title: "March 2015",
+    month: "March",
+    year: 2015,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1q_cTNemnMzdjerbt5Iwqd1rYF1hSiubG/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/16R73PQaVHuR1nGxIhOUbtP3egrRC0-ku/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "Gratitude (Arizona Republic)",
+        src: "https://drive.google.com/file/d/1vi0C7R9FX8oD4ATUkPwkbyarJBhYsB2F/preview"
+      },
+      {
+        type: "pdf",
+        label: "4 Steps for Cultivating Patience",
+        src: "https://drive.google.com/file/d/1fXl5cieUMzR9_-1ckAh4v_zcnh1qWI9_/preview"
+      } 
+    ],
+
+
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Aventurine",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201503-aventurine.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201503-aventurine-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Aventurine (from Crystal Bible)",
+          src: "https://drive.google.com/file/d/1nh2FbAHVCtSAQYJpVKOLER7DIAre4GsG/preview"
+        },
+        {
+          type: "pdf",
+          label: "Charms of Light",
+          src: "https://drive.google.com/file/d/10W7FN1DMpEjh1YgBmyNr2AnOGkhLYYBf/preview"
+        }
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "What Do I Want?",
+      items: [
+        {
+          type: "text",
+          label: "Play CD: Abraham's Creative Workshop (8 min)",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "Form: 100 Things I Want (Page 1)",
+          src: "https://drive.google.com/file/d/1PHQjo4FZHGzSeR2tmADI4-5qF3cpNm8B/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Dr. Patch Adams & Steve Wilson",
+      items: [
+        {
+          type: "image",
+          label: "Dr. Patch Adams",
+          src: "luminary-images/201503-patch-adams.png"
+        },
+        {
+          type: "image",
+          label: "Steve Wilson (Laughter Club)",
+          src: "luminary-images/201503-steve-wilson.png"
+        },
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["aventrine", "crystal", "laughter", "steve wilson", "patch adams", "abraham", "creative", "workshop"],
+
+    topic: {
+      title: "Laughter",
+      items: [
+        {
+          type: "pdf",
+          label: "World Laughter Tour Brochure",
+          src: "https://drive.google.com/file/d/1ddQtHoq92kJReee3CSSAeg3sSThWG6Vd/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Why Laughter is Good for You",
+          src: "https://drive.google.com/file/d/1RJrdbELtAND1vNEbJCzeCQtG69ALFXfa/preview"  
+        }, 
+        
+        {
+          type: "pdf",
+          label: "The Benefits of Laughter",
+          src: "https://drive.google.com/file/d/1wPr-Sg4iOf1oetEyOsvduWE4duCcE9Jw/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Laughter Quotes",
+          src: "https://drive.google.com/file/d/1VSXGRTRnxImfxAAV0tQq_4S6zW_ssz0A/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Laughter Exercises A to Z",
+          src: "https://drive.google.com/file/d/1KW6t3e5s0mNQDJE2GqrZoDLg05JhzWhF/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "How to Practice Your Inner Smile",
+          src: "https://drive.google.com/file/d/18Fl2l7KgX_rcBvmSKNi0qY3lzA-CQz_5/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Good-Hearted Living by Steve Wilson",
+          src: "https://drive.google.com/file/d/1vMXmrtNXCGfZF2WcKUwoVKTa0DCA5BB0/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Favorite Laughter Exercises for Stress Relief",
+          src: "https://drive.google.com/file/d/1VSx7kRS8A8JkAo8erYHKxePO813G7a6V/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Benefits of Laughter Club Program",
+          src: "https://drive.google.com/file/d/12YGbHt38w2LRvgQvPR7ujIetoQZj9TKf/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "23 Benefits of Laughter",
+          src: "https://drive.google.com/file/d/10sGs3VZJRXF84nXfFVou9uKlnTPP3o2U/preview"  
+        }
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Crowns for the Queenagers",
+        src: "topic-images/201503-crowns.jpg"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 }
 
