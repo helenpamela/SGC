@@ -24340,7 +24340,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Aventurine (from Crystal Bible)",
-          src: "https://drive.google.com/file/d/1nh2FbAHVCtSAQYJpVKOLER7DIAre4GsG/preview"
+          src: "https://drive.google.com/file/d/1BHXJCIr_HWMy1CseRm3YJNQzA-7TyWek/preview"
         },
         {
           type: "pdf",
