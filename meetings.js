@@ -24696,5 +24696,194 @@ const meetings = {
     ]
   },
 
+  "201501": {
+    title: "January 2015",
+    month: "January",
+    year: 2015,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Eucalyptus",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201501-eucalyptus.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201501-eucalyptus-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Eucalyptus - from Flower Book",
+          src: "https://drive.google.com/file/d/1HPLRRXWj2g-vrMm9Xl3J2QwMybANlIIR/preview"
+        },
+         {
+          type: "pdf",
+          label: "10 Uses of Eucalyptus Essential Oil",
+          src: "https://drive.google.com/file/d/1N6zbJJHP6J2im-e5BPNElf_C9Uv9EuRD/preview"
+        },
+         {
+          type: "pdf",
+          label: "Eucalyptus - PC's Notes",
+          src: "https://drive.google.com/file/d/1bew_iMJYbRgwmJYqmh8p1cPKGsiAJbA0/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Activate the Future",
+      items: [
+        {
+          type: "text",
+          label: "Denise Linn - CD4 Trk2 - Activate the Future"
+        }
+      ]
+    },
+
+    tags: ["vision", "board", "eucalyptus", "balance", "wheel", "denise linn"],
+
+    topic: {
+      title: "Vision Boards",
+      items: [
+        {
+          type: "image",
+          label: "Our Vision Boards",
+          src: "topic-images/201501-our-vision-boards.jpg"  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
