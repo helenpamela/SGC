@@ -24560,7 +24560,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "chakra-images/201502-heart-properties.png"
+          src: "chakra-images/201502-heart-properties.jpg"
         },
         {
           type: "pdf",
