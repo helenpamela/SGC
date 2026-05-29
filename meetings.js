@@ -24491,5 +24491,210 @@ const meetings = {
     ]
   },
 
+  "201502": {
+    title: "February 2015",
+    month: "February",
+    year: 2015,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1E3kHf-hQrUt0V-Rehi9P9K_iq1vVt2pO/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1FwlRMLGdsu6KX6nbmTYu0nFHNjiCKok2/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Heart Chakra",
+
+      items: [
+        {
+          type: "image",
+          src: "chakra-images/201502-heart.png"
+        },
+        {
+          type: "image",
+          src: "chakra-images/201502-heart-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Heart Chakra",
+          src: "https://drive.google.com/file/d/1XKweci0_JilvbHOzEuU9aj983T5hl0NC/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chakra Affirmations",
+          src: "https://drive.google.com/file/d/1nM8_Dp2KTusMjtjk3j8kMrGxmDEceXgd/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chakra Healing Chart",
+          src: "https://drive.google.com/file/d/1gW09fhQAoJ1f3lNBF05UbTQfK5-UCbz4/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Mirror Work & Affirmations",
+      items: [     
+        {
+          type: "pdf",
+          label: "Mirror Work",
+          src: "https://drive.google.com/file/d/1FYL9L01mixclVsCNldY3gh69q6eVAfhZ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Love Mantras",
+          src: "https://drive.google.com/file/d/1n_9fwkP7V3Y00xTgNcG3mNtVLZrF2pqF/preview"
+        },
+        {
+          type: "pdf",
+          label: "Louise Hay - Mirror Mirror",
+          src: "https://drive.google.com/file/d/1LWJfmWKs7qo-LpWJVZ4lPonFbkVn-K1t/preview"
+        },
+        {
+          type: "pdf",
+          label: "Heart Affirmations",
+          src: "https://drive.google.com/file/d/1QpK6ySkpDw60RO9yEyUY63aDJUJHEFFB/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Love Tree",
+          src: "https://drive.google.com/file/d/1xeSHkr3bTwKGcqiv77xybnzoJ63OPMCl/preview"
+        },
+        {
+          type: "pdf",
+          label: "My Promises to Me",
+          src: "https://drive.google.com/file/d/1xxL79a4Z_NhduLPsYYfGvKOC4Tk8XjWy/preview"
+        },
+
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["heart", "chakra", "mirror", "affirmation", "louise hay", "cliff notes"],
+
+    topic: {
+      title: "Cliff Notes Update",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
