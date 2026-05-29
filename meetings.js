@@ -24982,9 +24982,9 @@ const meetings = {
           src: "https://drive.google.com/file/d/1SgaukOXSGgHV-bewXIvGzcxSsKUDcR6H/preview"
         },
          {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "The Importance of Celebration",
+          src: "https://drive.google.com/file/d/16eB7ZEJEm9unebPwvT_yB8LHQYi-6EsM/preview"
         },
        
        
