@@ -24885,5 +24885,184 @@ const meetings = {
     ]
   },
 
+  "201412": {
+    title: "December 2014",
+    month: "December",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1J-NyyPosAKtRXRlqQT1J_rAL2qk5nKWN/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1A0H8RMcdSTk5H1xwQhfqeapLoCH_Zc5Y/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Poinsettia",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201412-poinsettia.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201412-poinsettia-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Poinsettia - from Flower Therapy book",
+          src: "https://drive.google.com/file/d/1Ldr39bqPdwVH09t8yehP71fUEiYTFS5m/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Celebration",
+      items: [
+        {
+          type: "pdf",
+          label: "The Importance of Celebrating",
+          src: "https://drive.google.com/file/d/16eB7ZEJEm9unebPwvT_yB8LHQYi-6EsM/preview"
+        },
+        {
+          type: "pdf",
+          label: "Why It's Important to Celebrate",
+          src: "https://drive.google.com/file/d/1SgaukOXSGgHV-bewXIvGzcxSsKUDcR6H/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["flower", "poinsettia", "celebrate", "vision"],
+
+    topic: {
+      title: "Vision for SGC in 2015",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
