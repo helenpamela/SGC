@@ -25137,6 +25137,11 @@ const meetings = {
         },
         {
           type: "pdf",
+          label: "Solar Plexus Chakra",
+          src: "https://drive.google.com/file/d/16dGV9dMtPJ447Nh795wv6ZWXKqjo5Wer/preview"
+        },
+        {
+          type: "pdf",
           label: "Solar Plexus Affirmations",
           src: "https://drive.google.com/file/d/1sf2Alpbt5Iyk0odGsuG1-u_BYVecFIzp/preview"
         },
@@ -25151,9 +25156,9 @@ const meetings = {
       title: "Affirmations",
       items: [
         {
-          type: "image",
+          type: "",
           label: "",
-          src: "none-images/no-daily-practice.png"
+          src: ""
         },
         {
           type: "",
@@ -25210,7 +25215,7 @@ const meetings = {
         {
           type: "pdf",
           label: "When You Truly Accept Yourself",
-          src: "https://drive.google.com/file/d/10pLpbQ5Ef3Y3HH_mMt5BEEZ_muWumQvx/previewk"  
+          src: "https://drive.google.com/file/d/10pLpbQ5Ef3Y3HH_mMt5BEEZ_muWumQvx/preview"  
         },
         {
           type: "pdf",
