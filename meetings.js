@@ -25064,5 +25064,219 @@ const meetings = {
     ]
   },
 
+  "201411": {
+    title: "November 2014",
+    month: "November",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Eg2qtN4Q7bJpGCtnh9ARn7bnbL5qcalO/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1PB9RlCB472sgnZ-CmR-tFo3zVOSUynKj/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Solar Plexus Chakra",
+
+      items: [
+        {
+          type: "image",
+          src: "chakra-images/201411-solar-plexus.png"
+        },
+        {
+          type: "image",
+          src: "chakra-images/201411-solar-plexus-properties.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Solar Plexus Affirmations",
+          src: "https://drive.google.com/file/d/1sf2Alpbt5Iyk0odGsuG1-u_BYVecFIzp/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Affirmations",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Who I Am is Enough",
+      items: [
+        {
+          type: "text",
+          label: "Denise Linn - CD1 Trk1 - Who I Am is Enough"
+        }
+      ]
+    },
+
+    tags: ["chakra", "solar plexus", "affirmation", "self-acceptance", "denise linn"],
+
+    topic: {
+      title: "Self-Acceptance",
+      items: [
+        {
+          type: "pdf",
+          label: "When You Truly Accept Yourself",
+          src: "https://drive.google.com/file/d/10pLpbQ5Ef3Y3HH_mMt5BEEZ_muWumQvx/previewk"  
+        },
+        {
+          type: "pdf",
+          label: "Self-Love Quotes",
+          src: "https://drive.google.com/file/d/1tBf8IVOBnlHXoaf_v4RCebBv11qpwwhq/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Self-Judgment - Panache Desai",
+          src: "https://drive.google.com/file/d/1gvu2ykYJAngGn0CxfSJOYoxrP3tgb-iM/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Louise Hay - Self-Love",
+          src: "https://drive.google.com/file/d/1wy5nbqnU6dem0ss9c49_AYMZ5jd38o-1/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Letter - I Love You",
+          src: "https://drive.google.com/file/d/1XAT-H4OqRmJyZh4k2qehaZTjTsRx36hM/preview"  
+        }, 
+         {
+          type: "pdf",
+          label: "5 Ways to Self-Acceptance",
+          src: "https://drive.google.com/file/d/1hvE5lShNM23n-EMIHZqgzQCol5X4xWMx/preview"  
+        }, 
+         {
+          type: "pdf",
+          label: "2 Steps to Self-Acceptance",
+          src: "https://drive.google.com/file/d/1bayMm3avITlKBJLt_IX_Ng7xYUT1Nz1N/preview"  
+        }, 
+         {
+          type: "pdf",
+          label: "Thoughts to Help Increase Self-Acceptance",
+          src: "https://drive.google.com/file/d/1Chthdx2PnpKlYxe0V4Wkmm0At4hQnVdg/preview"  
+        }, 
+         {
+          type: "pdf",
+          label: "8 Techniques for Self-Acceptance",
+          src: "https://drive.google.com/file/d/1GM4mbPYR_qIFTRf6O_R6IDOVii10wav4/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Form: What I Love about Myself",
+          src: "https://drive.google.com/file/d/15HmMdf_gn4CwSsa2hRmNE1YPUM7J57PK/preview"  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
