@@ -25426,7 +25426,7 @@ const meetings = {
       ]
     },
 
-    tags: ["root", "chakra", "universal", "law" ],
+    tags: ["root", "chakra", "universal", "law", "deepak chopra", "diana cooper", "denise linn" ],
 
     topic: {
       title: "Universal Laws Part 2",
@@ -25439,7 +25439,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Summary of The Seven Spiritual Laws of Success by Deepak Chopra",
-          src: "https://drive.google.com/file/d/1oE3LLBsvv15d7vqOw9unWW_aQVRg0qbT/preview"  
+          src: "https://drive.google.com/file/d/1-wHHqTcpnMAbLqu9AXD0GXz9fETySVs5/preview"  
         },
         {
           type: "pdf",
