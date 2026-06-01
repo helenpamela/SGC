@@ -25477,6 +25477,204 @@ const meetings = {
     ]
   },
 
+  "201409": {
+    title: "September 2014",
+    month: "September",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1s-wtXJe_IXhr-uomSWFz4-KPPKmOsPrx/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1mNNnpwI_O_qc50xvHMW1hAO3PPxXC-cW/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: " 1) Sept 14 Karen Drucker at Unity of Mesa. 2) Oct 26 SWIHA Health Fair.",     
+        src: ""
+      }, 
+      {
+        type: "pdf",
+        label: "Lyrics - I'll Light a Candle by Karen Drucker and John Hoy",
+        src: "https://drive.google.com/file/d/1cqOGO8ssVFPwwfI4ydmYKvje3bUUnqeu/view?usp=drive_link"
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Archangel Zadkiel",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/201409-zadkiel.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/201409-zadkiel-propertiess.png"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Zadkiel - Compassion",
+          src: "https://drive.google.com/file/d/1_I9gMiQ9nmMrp_pka_q1IOyIHtk3aDwa/preview"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Zadkiel Info",
+          src: "https://drive.google.com/file/d/1_I9gMiQ9nmMrp_pka_q1IOyIHtk3aDwa/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Forgiveness",
+      items: [
+        {
+          type: "pdf",
+          label: "Forgiveness - from Science of Mind",
+          src: "https://drive.google.com/file/d/164MXQz0Ax43g-GNZ9NsamTyX_HxH6-IE/preview"
+        },
+        {
+          type: "pdf",
+          label: "Steps to Forgiveness",
+          src: "https://drive.google.com/file/d/1K_SLTLzsdplMHy6Uqp-erc8sKDObRyla/preview"
+        },
+        {
+          type: "pdf",
+          label: "Self-Forgiveness",
+          src: "https://drive.google.com/file/d/1l2tY0FmM0sYzrubNpGr34a31PCoM6gSN/preview"
+        },
+        {
+          type: "pdf",
+          label: "Angels of Forgiveness",
+          src: "https://drive.google.com/file/d/1RXwwCo2MTopU0Y_TBeBHMAVK4HGm6e1Q/preview"
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness - Positivity Blog",
+          src: "https://drive.google.com/file/d/107k18hvUKRHQM31FxD5SARPYxmk34oWb/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["forgive", "archangel", "zadkiel", "universal", "laws"],
+
+    topic: {
+      title: "Universal Laws Part 1",
+      items: [
+        {
+          type: "pdf",
+          label: "The Twelve Universal Laws",
+          src: "https://drive.google.com/file/d/1MSM3pkjW3z-IzySgukpWEY0DEGeVRFp_/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The 7 Natural Laws of the Universe",
+          src: "https://drive.google.com/file/d/1DGh-NP5BCc2Jx5FJPHz3FaUj9HWPPZ18/preview"  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 }
 
