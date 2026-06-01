@@ -25283,5 +25283,200 @@ const meetings = {
     ]
   },
 
+"201410": {
+    title: "October 2014",
+    month: "October",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1xVBJj4LyMEZ2sixPFchiEEXAjmB4r6zj/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1DNTSPVpfYPoZvHUmezzEGiFCCpWOra9_/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Root Chakra",
+
+      items: [
+        {
+          type: "image",
+          src: "chakra-images/201410-root.png"
+        },
+        {
+          type: "image",
+          src: "chakra-images/201410-root-properties.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Root Chakra Qualities and Attributes",
+          src: "https://drive.google.com/file/d/1170jCuzlOesGZ0gh64pzzodaQYyR0vO8/preview"
+        },
+        {
+          type: "pdf",
+          label: "Root Chakra Info from ChakraEnergy.com",
+          src: "https://drive.google.com/file/d/1EDt5u5OlCm2zK02yh8BfOPk9UtCqyLCQ/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Awareness of Universal Laws",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Balance the Chakras",
+      items: [
+        {
+          type: "text",
+          label: "Did meditation before Invocation: Denise Linn CD3 Trk 5 Balance the Chakras"
+        }
+      ]
+    },
+
+    tags: ["root", "chakra", "universal", "law" ],
+
+    topic: {
+      title: "Universal Laws Part 2",
+      items: [
+        {
+          type: "pdf",
+          label: "A Little Light on the Spiritual Laws by Diana Cooper",
+          src: "https://drive.google.com/file/d/1c1Rky5f9kWD3aRCzg9l4vs1m87YRSkFb/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Summary of The Seven Spiritual Laws of Success by Deepak Chopra",
+          src: "https://drive.google.com/file/d/1oE3LLBsvv15d7vqOw9unWW_aQVRg0qbT/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Seven Spiritual Laws with Symbols",
+          src: "https://drive.google.com/file/d/19T8vXLAmpU_3gtc779BffZhMhgpX-R5R/preview"  
+        },
+    
+        {
+          type: "pdf",
+          label: "Deepak Chopra Quotes",
+          src: "https://drive.google.com/file/d/1oE3LLBsvv15d7vqOw9unWW_aQVRg0qbT/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Deepak Chopra's Seven Spiritual Laws of Success by Deon Du Plessis",
+          src: "https://drive.google.com/file/d/1Bfy-fdw4JxnJDpm4NEynmjMdAid5a619/preview"  
+        }
+
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+
 }
 
