@@ -1,7 +1,7 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "May 21, 2026",
+  "lastUpdated": "May 31, 2026",
 
   "event": [
       {
@@ -33,7 +33,7 @@
      },
  
     {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/cruise-ship.jpg",
       "type": "Meeting",  
       "datetime": "",
@@ -42,7 +42,7 @@
      },
 
      {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/picnic.png",
       "type": "Lunch",  
       "datetime": "Saturday May 30 11:30 am",
