@@ -26123,7 +26123,7 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "Archangel Uriel Ingo",
+          label: "Archangel Uriel Info",
           src: "https://drive.google.com/file/d/1RrjDO_JiM7OmgjYGl6jzMN0H6VODYTi4/preview"
         },
       
