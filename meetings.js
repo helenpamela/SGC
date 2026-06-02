@@ -26050,5 +26050,201 @@ const meetings = {
     ]
   },
 
+  "201406": {
+    title: "June 2014",
+    month: "June",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1vajnLMXCdiacasoQ8mekBVaXQFOxHubJ/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/16vAHhCAo1KFG9ae2CCPpaeFSUGKkMwtT/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Archangel Uriel",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/201406-uriel.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/201406-uriel-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Uriel Ingo",
+          src: "https://drive.google.com/file/d/1RrjDO_JiM7OmgjYGl6jzMN0H6VODYTi4/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Water Blessings",
+      items: [
+        {
+          type: "text",
+          label: "Water Blessings:  TheSpiritOfWater.com",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "Effects of Emotions on Water Crystals",
+          src: "https://drive.google.com/file/d/1rcDbqdypWFHxbvRLWur3EPa2Mjt9kfAM/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Dr. Masaru Emoto; Will, Betsy, & Mark (producers of What the Bleep)",
+      items: [
+        {
+          type: "image",
+          label: "Dr. Masaru Emoto",
+          src: "luminary-images/201406-dr-masaru-emoto.png"
+        },
+        {
+          type: "image",
+          label: "William Arntz",
+          src: "luminary-images/201406-william-arntz.png"
+        },
+        {
+          type: "image",
+          label: "Betsy Chasse",
+          src: "luminary-images/201406-betsy-chasse.png"
+        },
+        {
+          type: "image",
+          label: "Mark Vicente",
+          src: "luminary-images/201406-mark-vicente.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["what the bleep", "uriel", "archangel", "water", "bless", "dr. emoto", "masaru emoto",
+           "William Arntz", "Betsy Chasse", "Mark Vicente"],
+
+    topic: {
+      title: "DVD: What the Bleep Do We Know? (10-year anniversary)",
+      items: [  
+       {
+          type: "pdf",
+          label: "What the Bleep BLOG",
+          src: "https://drive.google.com/file/d/1ERtRLNHr77HY3UDtda8LEOPBG5DA0SRh/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Lao Tzu Quote",
+          src: "https://drive.google.com/file/d/1bgxn9pAiDWS_8W_2eWMAD8qSQrwa0wYh/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Create My Day - Dr. Joe Dispenza",
+          src: "https://drive.google.com/file/d/1rV3JRq_Y4qJnTpq1LXng3DIgglo1i8Uh/preview"  
+        },
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
