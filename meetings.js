@@ -25514,7 +25514,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Lyrics - I'll Light a Candle by Karen Drucker and John Hoy",
-        src: "https://drive.google.com/file/d/1cqOGO8ssVFPwwfI4ydmYKvje3bUUnqeu/view?usp=drive_link"
+        src: "https://drive.google.com/file/d/1cqOGO8ssVFPwwfI4ydmYKvje3bUUnqeu/preview"
       }, 
     ],
 
@@ -25551,7 +25551,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "archangel-images/201409-zadkiel-propertiess.png"
+          src: "archangel-images/201409-zadkiel-properties.png"
         },
         {
           type: "pdf",
@@ -25561,7 +25561,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Archangel Zadkiel Info",
-          src: "https://drive.google.com/file/d/1_I9gMiQ9nmMrp_pka_q1IOyIHtk3aDwa/preview"
+          src: "https://drive.google.com/file/d/1LZ9Jbj5w6hvfCFQZ_mc1lWMIJmpVKdaX/preview"
         },
       
         
@@ -25655,6 +25655,380 @@ const meetings = {
           label: "",
           src: ""  
         }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201408": {
+    title: "August 2014",
+    month: "August",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1sJSepJAzbSLyzqfVxG6Bls3ctTRSq4JN/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "no-images/no-monthly-focus.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "topic-images/no-topic.jpg"  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201407": {
+    title: "July 2014",
+    month: "July",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1XpAnlGUWMay0rqmMvoNHxJ5o6-1AXkEO/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1mibF7Q_x4thlm4iZoRwUPwSULyBpx10c/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread LovingKindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Pink Rose",
+
+      items: [
+        {
+          type: "pdf",
+          label: "Pink Rose (from Flower book)",
+          src: "https://drive.google.com/file/d/1LW_GAquDMLBuoT_3jvxlRNzL6H3wmmxV/preview"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Gratitude",
+      items: [
+        {
+          type: "pdf",
+          label: "Form: I am Grateful For",
+          src: "https://drive.google.com/file/d/1uE0hlrwKKtP4WpdaNnDojUs4Lch_bwog/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["gratitude", "pink", "rose", "flower", "houston"],
+
+    topic: {
+      title: "Tools For Life (Houston presentation)",
+      items: [
+        {
+          type: "pdf",
+          label: "Houston Presentation - Part 1",
+          src: "https://drive.google.com/file/d/1S__ddIlCRHHicDjEz881dSfRP3ZpxS-x/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Houston Presentation - Part 2",
+          src: "https://drive.google.com/file/d/1qTMU4yDB-evyUStOq5nPuC1yFiEe4bRR/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Houston Presentation - Part 3",
+          src: "https://drive.google.com/file/d/1uXOEi-Yoim42q2REd7pYS-AhDdk6alIv/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Houston Presentation - Part 4",
+          src: "https://drive.google.com/file/d/11kO9bE8_YmHesFp9hjDle4IokvBAG4Dw/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Future Self Visualization",
+          src: "https://drive.google.com/file/d/1M64ELTwuDJH5LFUbtRJRq2grZ3jPDUut/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Resources",
+          src: "https://drive.google.com/file/d/1Vo24LGARJv7BvGq-9tIAgpfMMh5iKGx9/preview"  
+        },  
   
           
 
