@@ -25695,8 +25695,8 @@ const meetings = {
     teacher_only: {
       working_agenda: [
         {
-          type: "pdf",
-          label: "Working Agenda",
+          type: "",
+          label: "",
           src: ""
         },
 
@@ -25729,9 +25729,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -25741,7 +25741,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "no-images/no-monthly-focus.png"
+          src: "none-images/no-monthly-focus.png"
         },
         {
           type: "",
@@ -25814,7 +25814,7 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["trudi", "bbq", 'allison'],
 
     topic: {
       title: "",
@@ -25822,7 +25822,7 @@ const meetings = {
         {
           type: "image",
           label: "",
-          src: "topic-images/no-topic.jpg"  
+          src: "none-images/no-topic.jpg"  
         },
         {
           type: "",
