@@ -25452,11 +25452,32 @@ const meetings = {
           label: "Deepak Chopra Quotes",
           src: "https://drive.google.com/file/d/1oE3LLBsvv15d7vqOw9unWW_aQVRg0qbT/preview"  
         },
+        ,
+        {
+          type: "pdf",
+          label: "Deepak Chopra's Seven Spiritual Laws of Success by Zen Actor Lanaya",
+          src: "https://drive.google.com/file/d/1Yq5DYErB6iG2IkYKDVyIvhkH_qLrVr3R/preview"  
+        },
         {
           type: "pdf",
           label: "Deepak Chopra's Seven Spiritual Laws of Success by Deon Du Plessis",
           src: "https://drive.google.com/file/d/1Bfy-fdw4JxnJDpm4NEynmjMdAid5a619/preview"  
-        }
+        },
+        {
+          type: "pdf",
+          label: "The Seven Spiritual Laws - in Color",
+          src: "https://drive.google.com/file/d/1qJb-jhvv6Aqz7mypNi3s7TFv16Dx0NPM/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Seven Spiritual Laws - Poster",
+          src: "https://drive.google.com/file/d/1VlY77I2IkTkzTSRQHzBCrp29PdB5qyyi/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Ten Keys to Happiness - Deepak Chopra",
+          src: "https://drive.google.com/file/d/18XUkaV8mVva1bQLd1MZYNXWgdaVzukLM/preview"  
+        },
 
 
       ]
