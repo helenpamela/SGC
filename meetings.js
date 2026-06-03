@@ -26246,5 +26246,195 @@ const meetings = {
     ]
   },
 
+  "201405": {
+    title: "May 2014",
+    month: "May",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/177P4avXZszSLhC0VQ-MUpAZKzBJEE3Kz/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1XwjCC7H3b0o2_XUtaHSj_0eXGywETU92/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Gerbera",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201405-gerbera.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201405-gerbera-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Gerbera (from Flower Therapy book)",
+          src: "https://drive.google.com/file/d/1zQxPdg0BBUOUosWeB24bol8KuyL1IKrO/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Golden Rule",
+      items: [
+        {
+          type: "pdf",
+          label: "The Golden Rule in Various Traditions",
+          src: "https://drive.google.com/file/d/1eLUyswg94PYEpes8b56dO8LNnVt5UTtF/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Golden Rule in 8 Faiths",
+          src: "https://drive.google.com/file/d/1N2QdXEmatbbOMGSgRZ9zPzZeRL58remb/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Golden Rule - Quotes",
+          src: "https://drive.google.com/file/d/1cQMWZixdqxANQeMPcpgKSCwvksizbrGG/preview"
+        },
+        {
+          type: "pdf",
+          label: "Golden Rules - Do and Do Not",
+          src: "https://drive.google.com/file/d/1BhQtb_wbYlTWPdfDysKnT7_Un-WjD9kk/preview"
+        },
+        {
+          type: "pdf",
+          label: "18 Practical Tips for Living the Golden Rule",
+          src: "https://drive.google.com/file/d/1Y8ny23F54tOPRtLZX3If7Ojt5nGbDleX/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["golden rule", "rule", "gerbera", "flower", "review", "all about me", "cliff notes",
+      "A to Z", "A-Z"],
+
+    topic: {
+      title: "Review",
+      items: [
+        {
+          type: "text",
+          label: "1) Read A to Z aloud, 2) Review All About Me pages",
+          src: ""  
+        },
+        {
+          type: "text",
+          label: "3) Do Body A-Z, 4) Cliff Notes - read Intentions",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "A Vision for Joy and Delight",
+        src: "https://drive.google.com/file/d/1wdpdtMTjvEhKbb4Uv8os4hIbsZ4qTqhi/preview"
+      },
+      {
+        type: "pdf",
+        label: "The Power of Color and Light - Positive and Negative",
+        src: "https://drive.google.com/file/d/1JYvJqI2YAW-x7XO012hUHiVrT22IaLUx/preview"
+      }
+
+    ]
+  },
+
 }
 
