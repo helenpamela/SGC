@@ -2,6 +2,190 @@
 
 const meetings = {
 
+"202606": {
+    title: "June 2026",
+    month: "June",
+    year: 2026,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1qW-3fSdDEIksZv64jHyCpT36ta8791jR/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1wzQ65DVfJUZTNX0WAKFN7H-WYdMkFfy0/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Capybara",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202606-capybara.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202606-capybara-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Caybara - AI Info",
+          src: "https://drive.google.com/file/d/1Pky8hBsXOkG7pkwMnus9jMNeg0o7ym1g/preview"
+        },
+        {
+          type: "image",
+          label: "Stuffed 'Comfort' Capybara from Linda",
+          src: "monthly-focus-images/202606-stuffed-capybara.png"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Get On Your Bird",
+      items: [
+        {
+          type: "text",
+          label: "Meditation: Get On Your Bird from Reprogram Your Subconscious CD (June 2015)",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202606-affirmation.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "See Topic"
+        }
+      ]
+    },
+
+    tags: ["capybara", "animal", "get on your bird", "colette baron-reid", "meditation"],
+
+    topic: {
+      title: "Meditation",
+      items: [
+        {
+          type: "video",
+          label: "10 Minute Meditation for Letting Go posted by GreatMeditation",
+          src: "https://www.youtube.com/embed/O-jcmB6BUvY?si=nxTQBcncZmMGKKGD"   
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
   "202605": {
     title: "May 2026",
     month: "May",
@@ -22356,7 +22540,7 @@ const meetings = {
     },
 
     tags: ["white stone", "ceremony", "vision", "board", "cliff notes", "mike dooley", 
-          "fabienne fredrickson", "embrace", "magnificent", "magnificence"],
+          "fabienne fredrickson", "embrace", "magnificent", "magnificence", "easy", "prosperity"],
 
     topic: {
       title: "Cliff Notes Update & Vision Board",
@@ -23695,7 +23879,7 @@ const meetings = {
     },
 
     tags: ["sacral", "chakra", "2nd", "abraham", "creative workshop", "happy", "colette", "baron-reid",
-          "reprogram", "subsconscious"],
+          "reprogram", "subconscious", "get on your bird"],
 
     topic: {
       title: "Reprogram Your Subconscious Mind",
@@ -26452,6 +26636,204 @@ const meetings = {
         type: "pdf",
         label: "The Power of Color and Light - Positive and Negative",
         src: "https://drive.google.com/file/d/1JYvJqI2YAW-x7XO012hUHiVrT22IaLUx/preview"
+      }
+
+    ]
+  },
+
+  "201404": {
+    title: "April 2014",
+    month: "April",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1dIptulpD7RybnwkLgIwOV3QSO3xuLCxT/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/17S620vBcYP1Tr6NR1hzct_ZTimpGu7BD/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Fuchsite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201404-fuchsite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201404-fuchsite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Fuchsite Images",
+          src: "https://drive.google.com/file/d/16w2UYfDUC4if1PrqFdEuZqdeQuK4-336/preview"
+        },
+        {
+          type: "pdf",
+          label: "Fuchsite Healing Properties",
+          src: "https://drive.google.com/file/d/1Jm5sHf0PD6bAZ06UaPyg1sFc1kGb836o/preview"
+        }
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Complaint Awareness",
+      items: [
+        {
+          type: "pdf",
+          label: "Four Stages to Competency",
+          src: "https://drive.google.com/file/d/1ex4lwrz_dQ6d0m-aQHrKurA8LhlWui7J/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Will Bowen & Rhonda Byrne",
+      items: [
+        {
+          type: "image",
+          src: "luminary-images/201404-will-bowen.png"
+        },
+        {
+          type: "image",
+          src: "luminary-images/201404-complaint-free-world.png"
+        },
+        {
+          type: "image",
+          src: "luminary-images/201404-rhonda-byrne.png"
+        },
+        {
+          type: "image",
+          src: "luminary-images/201404-daily-teachings.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["secret", "rhonda byrne", "fuchsite", "complaint","competent", "competency", "will bowen",
+           "desiderata", "stages", "crystal", "bracelet" ],
+
+    topic: {
+      title: "Complaint-Free World",
+      items: [
+        {
+          type: "image",
+          label: "Watched DVD & received bracelets that we snap whenever we are complaining (lots of snapping)",
+          src: "topic-images/201404-complaint-free-bracelet.png"  
+        },
+        {
+          type: "pdf",
+          label: "Complaint-Free World Quotes",
+          src: "https://drive.google.com/file/d/1lD4Zb-Uz7kt0nBuAwmrw4AB1R7tm5uwW/preview"  
+        }, 
+        
+        {
+          type: "pdf",
+          label: "Desiderata",
+          src: "https://drive.google.com/file/d/1PTzRb6FHzRpG6juDA96nHAhkr5WxNRL9/preview"  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
       }
 
     ]
