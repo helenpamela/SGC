@@ -27032,5 +27032,236 @@ const meetings = {
     ]
   },
 
+  "201402": {
+    title: "February 2014",
+    month: "February",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1aO8Db9TobSAcEot2yBnQJmIw6uge9rY3/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1ams5QKCdfXR_vhV4G-EmL-NXlWBHrT6z/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "1) National Random Kindness Week, 2) Celebrate Your Life, 3) Tapping Summit",
+        src: ""
+      },
+      {
+        type: "pdf",
+        label: "National Random Acts of Kindness Week",
+        src: "https://drive.google.com/file/d/1TkrA2oCpDY3Uu8oTIsN2XkmOvu5RKigh/preview"     
+      },
+      {
+        type: "pdf",
+        label: "10 Kindness Ideas",
+        src: "https://drive.google.com/file/d/170UvSsMSkoe8Cwzkg3JSSyjw6-45B14i/preview"     
+      }, 
+      {
+        type: "pdf",
+        label: "Kindness - Pass It On",
+        src: "https://drive.google.com/file/d/1VMz6OIRmiSb_tZH4mcc7wpWKbcjOppl2/preview"     
+      }, 
+
+
+      
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Archangel Zadkiel & Kwan Yin",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/201409-zadkiel.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/201409-zadkiel-properties.png"
+        },
+        {
+          type: "image",
+          src: "ascended-master-images/201402-kwan-yin.png"        
+        },
+        {
+          type: "image",
+          src: "ascended-master-images/201402-kwan-yin-properties.png"         
+        },
+        {
+          type: "pdf",
+          label: "Archangel Zadkiel",
+          src: "https://drive.google.com/file/d/1vTsbB2dn74auOP4uK67jfjDc2IOUGiYr/preview"         
+        },
+        {
+          type: "pdf",
+          label: "Kwan Yin",
+          src: "https://drive.google.com/file/d/1Lq2kYog1HkOhRWAz1Ua1nuEAOhWSHfUw/preview"         
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "LovingKindness Meditation",
+      items: [
+        {
+          type: "pdf",
+          label: "LovingKindness Prayer by Lama Surya Das",
+          src: "https://drive.google.com/file/d/1bjyH3IhiNsM8XAKIh59Ew427TniztZm1/preview"
+        },
+        {
+          type: "pdf",
+          label: "LovingKindness Prayer - green",
+          src: "https://drive.google.com/file/d/15xTEQAp_RoN3VJtz6BYX8JqxfpDrMdGL/preview"
+        },
+        {
+          type: "pdf",
+          label: "Kindness Meditation Practice",
+          src: "https://drive.google.com/file/d/1OGA9eP6nYTnDtX6mIyXMMnofeOCDPqp0/preview"
+        },
+        {
+          type: "pdf",
+          label: "LovingKindness Diagram",
+          src: "https://drive.google.com/file/d/1ETNkICLLfm36XYvXqQuvyn3lAUTZEGCH/preview"
+        },
+         {
+          type: "pdf",
+          label: "10 Ways to Deepen Your LovingKindness Practice",
+          src: "https://drive.google.com/file/d/1zprstxvNrEXpuvAQOMIOnrfkaQkv-jMN/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["archangel", "zadkiel", "kwan yin", "compassion", "lovingkindness", "kindness",
+           "random acts of kindness"],
+
+    topic: {
+      title: "Compassion",
+      items: [
+        {
+          type: "pdf",
+          label: "What Is Compassion?",
+          src: "https://drive.google.com/file/d/10vgse3ZANakp7P8XNTk1R5H5GNbYP-EA/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Cultivating Compassion",
+          src: "https://drive.google.com/file/d/1bZPSMsGWs3z2BOZj7UHpj74yQKlHdUCI/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "A Guide to Cultivating Compassion",
+          src: "https://drive.google.com/file/d/1I_qCNxVC4myH1entctOdej_XIirDxCwQ/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "12 Steps to a Compassionate Life",
+          src: "https://drive.google.com/file/d/1zKJtNhKtQRY3osWuLhz8lZVFuczxvtXN/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Get Compassionate to Get Happy",
+          src: "https://drive.google.com/file/d/1lABmcMjUHJ4lyg0sVl9XaWogsrQlKsNk/preview"  
+        },
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
