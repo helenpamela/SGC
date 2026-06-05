@@ -27263,5 +27263,184 @@ const meetings = {
     ]
   },
 
+  "201401": {
+    title: "January 2014",
+    month: "January",
+    year: 2014,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1aDBpQRbHUx2b4L0If8EMBdgpdpx2WPw_/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1300Sf15Iq4Iq1skXA-ognB0nRV91jT8k/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "We are starting Year 5",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Nephrite (Jade)",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201401-nephrite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201401-nephrite-roperties.png"
+        },
+        {
+          type: "pdf",
+          label: "Jade",
+          src: "https://drive.google.com/file/d/1RDjt7JoF3jgWipgNWc5VZgI4FhzBR0_2/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Journaling",
+      items: [
+        {
+          type: "pdf",
+          label: "Journaling Page",
+          src: "https://drive.google.com/file/d/1WnNMdiKK0c6RSh5wfPy-_9rWQ5aY1IDs/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["crystal", "jade", "nephrite", "journal", "journaling", "vision", "vision board"],
+
+    topic: {
+      title: "Vision Board",
+      items: [
+        {
+          type: "pdf",
+          label: "Possible Vision List",
+          src: "https://drive.google.com/file/d/1gKHsLjv0zlrgnBBeKJlU7fzjqDF0oZYX/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Using Your Completed Vision Board",
+          src: "https://drive.google.com/file/d/1e-Rake05X90HLFERs_cGPD1Mgn0arg3s/preview"  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
