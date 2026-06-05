@@ -27332,7 +27332,7 @@ const meetings = {
         },
         {
           type: "image",
-          src: "crystal-images/201401-nephrite-roperties.png"
+          src: "crystal-images/201401-nephrite-properties.png"
         },
         {
           type: "pdf",
@@ -27417,9 +27417,9 @@ const meetings = {
           src: "https://drive.google.com/file/d/1e-Rake05X90HLFERs_cGPD1Mgn0arg3s/preview"  
         }, 
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "image",
+          label: "Our Completed Vision Boards",
+          src: "topic-images/201401-vision-boards.jpg"  
         }, 
   
           
