@@ -27725,9 +27725,9 @@ const meetings = {
       title: "Gratitude",
       items: [
         {
-          type: "image",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Begin Each Day with a Grateful Heart",
+          src: "https://drive.google.com/file/d/149dmNN_j7g9wypd4ziNkI9u68ycoY9q0/preview"
         },
         {
           type: "",
@@ -27791,19 +27791,70 @@ const meetings = {
       title: "Magic & Mystery",
       items: [
         {
-          type: "image",
-          label: "",
-          src: "none-images/no-topic.jpg"  
+          type: "pdf",
+          label: "Magic & Mystery Quotes",
+          src: "https://drive.google.com/file/d/1_VZqEZHKbgJuwd4OjWUOD89fe15JyD_b/preview"  
         },
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Finding the Magic in the Mundane",
+          src: "https://drive.google.com/file/d/1KrsUbswPzxYFawylh7u7PcY7_iKxWN3T/preview"  
         }, 
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Embrace the Mystery of Life",
+          src: "https://drive.google.com/file/d/1p8OFqmTyKFb8P53G9PiJSpT3EKHCsEWg/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "A Series of Miracles",
+          src: "https://drive.google.com/file/d/1jujUloXoY1JEt7Mw-NA21jiZc9HxtNEe/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Notice the Miracles",
+          src: "https://drive.google.com/file/d/1jnQw3yGjMJAVFO6wvzUxVY9H93bGfwqp/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Real Magic",
+          src: "https://drive.google.com/file/d/1UW9iK8vXbFgizcjWiNs_J8Hqf9DjConC/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "What's a Magical Moment?",
+          src: "https://drive.google.com/file/d/1RseJAmIBc3UkVaiZsbHyZCCprBzed7iV/preview"  
+        }, 
+        {
+          type: "image",
+          label: "Magic CD - Cover",
+          src: "topic-images/201311-magic-cd-cover.png"  
+        }, 
+        {
+          type: "pdf",
+          label: "Magic CD - Song List",
+          src: "https://drive.google.com/file/d/1ffuv7Hyow0PxeJY3bV_W1cMb0ZQCtyOJ/preview"  
+        }, 
+        {
+          type: "image",
+          label: "Mystery CD - Cover",
+          src: "topic-images/201311-mystery-cd-cover.png"  
+        }, 
+        
+        {
+          type: "pdf",
+          label: "Mystery CD - Song List",
+          src: "https://drive.google.com/file/d/14jtEIttpYkyBnXMznI025yAe2Tn7ovIC/preview"  
+        }, 
+        {
+          type: "image",
+          label: "Miracles CD - Cover",
+          src: "topic-images/201311-miracles-cd-cover.png"  
+        },
+        {
+          type: "pdf",
+          label: "Miracles CD - Song List",
+          src: "https://drive.google.com/file/d/15eAajHNjjNGPOlCyqNAr3UOXhV9FyofI/view?usp=drive_link"  
         }, 
   
           
