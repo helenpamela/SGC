@@ -2,6 +2,8 @@
 
 const meetings = {
 
+
+
 "202606": {
     title: "June 2026",
     month: "June",
@@ -14,16 +16,16 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: "https://drive.google.com/file/d/1qW-3fSdDEIksZv64jHyCpT36ta8791jR/preview"
+        src: "https://drive.google.com/file/d/149dmNN_j7g9wypd4ziNkI9u68ycoY9q0/preview"
       }
     ],
 
     teacher_only: {
       working_agenda: [
         {
-          type: "pdf",
+          type: "",
           label: "Working Agenda",
-          src: "https://drive.google.com/file/d/1wzQ65DVfJUZTNX0WAKFN7H-WYdMkFfy0/preview"
+          src: ""
         },
 
         
@@ -55,33 +57,33 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
+        type: "",
         label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        src: ""
       }
     ],
 
     focus: {
-      title: "Capybara",
+      title: "",
 
       items: [
         {
-          type: "image",
-          src: "animal-images/202606-capybara.png"
+          type: "",
+          src: ""
         },
         {
-          type: "image",
-          src: "animal-images/202606-capybara-properties.png"
+          type: "",
+          src: ""
         },
         {
-          type: "pdf",
-          label: "Caybara - AI Info",
-          src: "https://drive.google.com/file/d/1Pky8hBsXOkG7pkwMnus9jMNeg0o7ym1g/preview"
+          type: "",
+          label: "",
+          src: ""
         },
         {
-          type: "image",
-          label: "Stuffed 'Comfort' Capybara from Linda",
-          src: "monthly-focus-images/202606-stuffed-capybara.png"
+          type: "",
+          label: "",
+          src: ""
         },
       
         
@@ -91,11 +93,11 @@ const meetings = {
     },
 
     practice: {
-      title: "Get On Your Bird",
+      title: "",
       items: [
         {
-          type: "text",
-          label: "Meditation: Get On Your Bird from Reprogram Your Subconscious CD (June 2015)",
+          type: "",
+          label: "",
           src: ""
         },
         {
@@ -116,8 +118,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "affirmation-images/202606-affirmation.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -129,8 +131,8 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "image",
-          src: "none-images/no-luminaries.png"
+          type: "",
+          src: ""
         }
       ]
     },
@@ -139,21 +141,21 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "text",
-          label: "See Topic"
+          type: "",
+          label: ""
         }
       ]
     },
 
-    tags: ["capybara", "animal", "get on your bird", "colette baron-reid", "meditation"],
+    tags: [],
 
     topic: {
-      title: "Meditation",
+      title: "",
       items: [
         {
-          type: "video",
-          label: "10 Minute Meditation for Letting Go posted by GreatMeditation",
-          src: "https://www.youtube.com/embed/O-jcmB6BUvY?si=nxTQBcncZmMGKKGD"   
+          type: "",
+          label: "",
+          src: ""   
         },
         {
           type: "",
@@ -26804,7 +26806,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          label: "Watched DVD & received bracelets that we snap whenever we are complaining (lots of snapping)",
+          label: "Watched DVD & received Complaint-Free World bracelets",
           src: "topic-images/201404-complaint-free-bracelet.png"  
         },
         {
@@ -26827,7 +26829,12 @@ const meetings = {
           type: "video",
           label: "YouTube: Will Bowen - Complaint-Free World - 2014 - 1:25:14 ",
           src:  "https://www.youtube.com/embed/AYHP0VzYKQU?si=D_99roIFuGA2At00"  
-        },  
+        },
+        {
+          type: "video",
+          label: "YouTube: Will Bowen - Complaint-Free Revolution - 2025 - 31:00 ",
+          src: "https://www.youtube.com/embed/kGF8HnTqpJI?si=hOdannPst7mf4K3G"   
+        },   
 
 
         
@@ -27423,6 +27430,538 @@ const meetings = {
         }, 
   
           
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201312": {
+    title: "December 2013",
+    month: "December",
+    year: 2013,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1sjV95SKaNCr4NIYbPUZBJvgwBUQLfXC8/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1HXLtcECowolqSxtP5zNPVaU6p0DHSEOa/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "no-images/no-monthly-focus.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Denise Linn",
+      items: [
+        {
+          type: "text",
+          label: "Denise Lynn CD6 Trk1 Sparkling Joy,Shimmering Blessings"
+        }
+      ]
+    },
+
+    tags: ["meditation", "denise linn", "christmas"],
+
+    topic: {
+      title: "Christmas Festivities",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201311": {
+    title: "November 2013",
+    month: "November",
+    year: 2013,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/135f7dDi4SHHIk1o_LEZvQPD0waRsxtAy/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1G7LNA9CheZocEjla5xU-_-iNEmmfbMJg/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Merlinite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201311-merlinite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201311-merlinite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Merlinite",
+          src: "https://drive.google.com/file/d/1aFb4RDV-aLb2zQ0exy-4-7NaWIPEx3oJ/preview"
+        },
+         {
+          type: "pdf",
+          label: "Merlinite - from Crystal Directory",
+          src: "https://drive.google.com/file/d/1XcB4cBltYqCAbWgo2yATsIRXnG9Ed_T-/preview"
+        },
+         {
+          type: "pdf",
+          label: "Crystals Damaged by Water and/or Sunlight",
+          src: "https://drive.google.com/file/d/1i3-8MPMcema_QtL66m8ZGPhN0DqtJX4f/preview"
+        }
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Gratitude",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Wayne Dyer, Rhonda Byrne, John Wellwood",
+      items: [
+        {
+          type: "image",
+          src: "none-images/201311-real-magic-by-wayne-dyer.png"
+        },
+        {
+          type: "image",
+          src: "luminary-images/201311-the-magic-by-rhonda-byrne.png"
+        },
+        {
+          type: "image",
+          src: "luminary-images/201311-the-magic-by-rhonda-byrne.png"
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["crystal", "merlinite", "gratitude", "magic", "mystery"],
+
+    topic: {
+      title: "Magic & Mystery",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201310": {
+    title: "October 2013",
+    month: "October",
+    year: 2013,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201310-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
 
       ]
     },
