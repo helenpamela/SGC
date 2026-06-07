@@ -4,71 +4,18 @@
   "lastUpdated": "June 6, 2026",
 
   "event": [
-      {
-      "status": "archived",
-      "image": "logo/sgc_icon.png",
-      "type": "Meeting",  
-      "datetime": "Saturday March 21 Noon",
-      "location": "Linda's House",
-      "note": "Bring Cliff Notes binders!"
-     },
-
-     {
-      "status": "archived",
-      "image": "events-images/holding-hands.jpg",
-      "type": "Meeting",  
-      "datetime": "Saturday April 11 Noon",
-      "time": "Noon",
-      "location": "Linda's House",
-      "note": "Bring Cliff Notes binders (again)! Celebrating birthdays: Trudi and Pam"
-     },
-
-     {
-      "status": "archived",
-      "image": "events-images/cancelled.png",
-      "type": "Lunch",  
-      "datetime": "Saturday April 18 Noon",
-      "location": "",
-      "note": "CANCELLED"
-     },
- 
-    {
-      "status": "archived",
-      "image": "events-images/cruise-ship.jpg",
-      "type": "Meeting",  
-      "datetime": "",
-      "location": "",
-      "note": "No meeting in May due to travel"
-     },
-
-     {
-      "status": "archived",
-      "image": "events-images/picnic.png",
-      "type": "Lunch",  
-      "datetime": "Saturday May 30 11:30 am",
-      "location": "Location TBD",
-      "note": "Birthday & Farewell 😪 for PC "
-     },
-
-     {
-      "status": "archived",
-      "image": "events-images/pink-flamingo.jpg",
-      "type": "Meeting",  
-      "datetime": "Saturday June 6 Noon",
-      "location": "Linda's House",
-      "note": "Bring your pen!"
-     },
+     
      {
       "status": "active",
       "image": "events-images/sandwich.jpg",
       "type": "Lunch",  
-      "datetime": "wednesday July 1 11:30 AM",
+      "datetime": "Wednesday July 1 - 11:30 AM",
       "location": "Village Tavern",
       "note": ""
      },
      {
       "status": "active",
-      "image": "events-images/4-women.jpg",
+      "image": "events-images/4-women.png",
       "type": "Meeting",  
       "datetime": "Saturday July 18 Noon",
       "location": "Linda's House",
@@ -78,13 +25,13 @@
       "status": "active",
       "image": "events-images/salad.png",
       "type": "Lunch",  
-      "datetime": "Wednesday July 29 NoonTime TBD",
+      "datetime": "Wednesday July 29 - Time TBD",
       "location": "Location TBD",
       "note": ""
      },
      {
       "status": "active",
-      "image": "events-images/meeting.jpg",
+      "image": "events-images/meeting.png",
       "type": "Meeting",  
       "datetime": "Saturday July 18 Noon",
       "location": "Linda's House",
