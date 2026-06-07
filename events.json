@@ -1,7 +1,7 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "May 31, 2026",
+  "lastUpdated": "June 6, 2026",
 
   "event": [
       {
@@ -51,12 +51,45 @@
      },
 
      {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/pink-flamingo.jpg",
       "type": "Meeting",  
       "datetime": "Saturday June 6 Noon",
       "location": "Linda's House",
       "note": "Bring your pen!"
+     },
+     {
+      "status": "active",
+      "image": "events-images/sandwich.jpg",
+      "type": "Lunch",  
+      "datetime": "wednesday July 1 11:30 AM",
+      "location": "Village Tavern",
+      "note": ""
+     },
+     {
+      "status": "active",
+      "image": "events-images/4-women.jpg",
+      "type": "Meeting",  
+      "datetime": "Saturday July 18 Noon",
+      "location": "Linda's House",
+      "note": "Bring handouts from June meeting!"
+     },
+     {
+      "status": "active",
+      "image": "events-images/salad.png",
+      "type": "Lunch",  
+      "datetime": "Wednesday July 29 NoonTime TBD",
+      "location": "Location TBD",
+      "note": ""
+     },
+     {
+      "status": "active",
+      "image": "events-images/meeting.jpg",
+      "type": "Meeting",  
+      "datetime": "Saturday July 18 Noon",
+      "location": "Linda's House",
+      "note": "Happy 250th Birthday USA!"
      }
+
    ]
 }
