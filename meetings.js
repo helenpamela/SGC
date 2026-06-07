@@ -27727,7 +27727,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Begin Each Day with a Grateful Heart",
-          src: "https://drive.google.com/file/d/149dmNN_j7g9wypd4ziNkI9u68ycoY9q0/preview"
+          src: "https://drive.google.com/file/d/1ZhbmCKQTBxOeXxzzUoFt65FnQwHnIGkZ/preview"
         },
         {
           type: "",
@@ -27761,7 +27761,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "none-images/201311-real-magic-by-wayne-dyer.png"
+          src: "luminary-images/201311-real-magic-by-wayne-dyer.png"
         },
         {
           type: "image",
@@ -27769,8 +27769,14 @@ const meetings = {
         },
         {
           type: "image",
-          src: "luminary-images/201311-the-magic-by-rhonda-byrne.png"
+          src: "luminary-images/201311-ordinary-magic-by-john-wellwood.png"
         },
+        {
+          type: "image",
+          src: "luminary-images/201311-the-age-of-miracles-by-marianne-williamson.png"
+        },
+        
+
 
       ]
     },
@@ -27854,7 +27860,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Miracles CD - Song List",
-          src: "https://drive.google.com/file/d/15eAajHNjjNGPOlCyqNAr3UOXhV9FyofI/view?usp=drive_link"  
+          src: "https://drive.google.com/file/d/15eAajHNjjNGPOlCyqNAr3UOXhV9FyofI/preview"  
         }, 
   
           
