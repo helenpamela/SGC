@@ -27791,7 +27791,7 @@ const meetings = {
       ]
     },
 
-    tags: ["crystal", "merlinite", "gratitude", "magic", "mystery"],
+    tags: ["crystal", "merlinite", "gratitude", "magic", "mystery", "miracles"],
 
     topic: {
       title: "Magic & Mystery",
