@@ -48,12 +48,47 @@ const memories = {
       year: 2014
     },
     {
+      src: "member-images/2014-pam_sunflowers.jpg",
+      caption: "Sunflowers 2014 🌻",
+      year: 2014
+    },
+    {
+      src: "member-images/2014-trudi-knitted-vest.jpg",
+      caption: "Trudi Knitted Vest 2014 🌻",
+      year: 2014
+    },
+    {
+      src: "member-images/2014-pc-birthday.jpg",
+      caption: "PC Birthday 2014 💐",
+      year: 2014
+    },
+    {
+      src: "member-images/2014-mystery-birthday.jpg",
+      caption: "Mystery Birthday 2014 🎉",
+      year: 2014
+    },
+    {
+      src: "member-images/2014-linda-birthday.jpg",
+      caption: "Linda Birthday 2014 🎂🎈🎉",
+      year: 2014
+    },
+    {
+      src: "member-images/2014-linda-pretty-in-purple.jpg",
+      caption: "Linda Pretty in Purple 2014 🪻",
+      year: 2014
+    },
+    {
+      src: "member-images/2014-linda-statue.jpg",
+      caption: "Linda with Statue 2014 🌷",
+      year: 2014
+    },
+    {
       src: "member-images/2014-pam.jpg",
       caption: "Pam 2014 😃",
       year: 2014
     },
     {
-      src: "member-images/2014-pc.jpg",
+      src: "member-images/2014-pc-face.jpg",
       caption: "PC 2014 😃",
       year: 2014
     },
@@ -61,19 +96,62 @@ const memories = {
       src: "member-images/2014-trudy-selma.jpg",
       caption: "Trudi & Selma 2014 🐶",
       year: 2014
-    },    
+    }, 
+    {
+      src: "member-images/2014-linda-trudi-kathy-outdoors.jpg",
+      caption: "Outdoors 2014 🌳",
+      year: 2014
+    },
+    {
+      src: "member-images/2014-pam-goddess-wear.jpg",
+      caption: "Pam Goddess Wear 2014 🪷",
+      year: 2014
+    },
+    {
+      src: "member-images/2014-linda-pam-goddess-wear.jpg",
+      caption: "Linda & Pam 2014 🪷",
+      year: 2014
+    },  
+    {
+      src: "member-images/2014-pc.jpg",
+      caption: "PC 2014 🙃",
+      year: 2014
+    },   
+
+    {
+      src: "member-images/2014-glasses-pedestal-plates.jpg",
+      caption: "Pedestal Plates 2014 🌟",
+      year: 2014
+    },  
     {
       src: "member-images/2014-vision-boards.jpg",
       caption: "Vision Boards 2014 🖼️",
       year: 2014
-    },  
+    }, 
+     {
+      src: "member-images/2014-pc-vision-board.jpg",
+      caption: "PC Vision Board 2014 🖼️",
+      year: 2014
+    },
 
     {
       src: "member-images/2014-kathy.jpg",
       caption: "Kathy 2014 😃",
       year: 2014
+    },
+    {
+      src: "member-images/2014-christmas.jpg",
+      caption: "Christmas 2014 🎄",
+      year: 2014
+    },
+    {
+      src: "member-images/2014-christmas-presents.jpg",
+      caption: "Christmas Presents 2014 🎄",
+      year: 2014
     }
 
+
+    
   ],
 
 
