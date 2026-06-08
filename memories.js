@@ -368,10 +368,144 @@ const memories = {
       year: 2017
     },
     {
+      src: "member-images/2019-vision-boards.jpg",
+      caption: "Vision Boards 2019 🖼️",
+      year: 2019
+    },
+    {
       src: "member-images/2019-cliff-notes.jpg",
       caption: "Cliff Notes 2019 📖",
       year: 2019
     },
+    {
+      src: "member-images/2019-blank-canvas.jpg",
+      caption: "Blank Canvas 2019 🎨",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-blowing-bubbles.jpg",
+      caption: "Blowing Bubbles 2019 🫧",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-kathy-bubbles.jpg",
+      caption: "Kathy Blowing Bubbles 2019 🫧",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-blue-winged-creatures.jpg",
+      caption: "Blue Winged Creatures 2019 🦛",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-butterflies.jpg",
+      caption: "Butterflies 2019 🦋",
+      year: 2019
+    },
+{
+      src: "member-images/2019-pc-birthday.jpg",
+      caption: "PC Birthday 2019 🎂",
+      year: 2019
+    },
+
+    {
+      src: "member-images/2019-cheers!.jpg",
+      caption: "Cheers! 2019 🍹",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-choose-kind.jpg",
+      caption: "Choose Kind 2019 💌",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-drinks-at-village-tavern.jpg",
+      caption: "Bloody Marys at Village Tavern 2019 🍺",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-flogging-molly.jpg",
+      caption: "Flogging Molly 2019 🎸",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-joy-to-the-world.jpg",
+      caption: "Joy to the World 2019 ☺️",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-linda-davidl-pc.jpg",
+      caption: "Linda David PC 2019 🧑‍🤝‍🧑",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-walter-linda-kenny.jpg",
+      caption: "Walter Linda Kenny 2019 ❤️",
+      year: 2019
+    },
+
+    {
+      src: "member-images/2019-linda-pam-green-scarves.jpg",
+      caption: "Green Scarves 2019 🧣",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-linda-pam-sign.jpg",
+      caption: "Sign 2019 🪧",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-linda-walter.jpg",
+      caption: "Linda Walter & Lei 2019 🌸",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-lion.jpg",
+      caption: "Lion 2019 🦁",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-pam-snuggled-up.jpg",
+      caption: "Snuggled Up 2019 🤗",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-pc-swaddled.jpg",
+      caption: "Swaddled 2019 🤗",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-sunggled-up.jpg",
+      caption: "Cozy 2019 🤗",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-pc-trudi-pam-kathy.jpg",
+      caption: "Smiles 2019 👄",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-tree-hugger.jpg",
+      caption: "Tree Huggers 2019 🌳",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-trudi.jpg",
+      caption: "Trudi 2019 🌻",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-trudi-brrrr.jpg",
+      caption: "Brrrr 2019 ❄️",
+      year: 2019
+    },
+    {
+      src: "member-images/2019-trudi-pam.jpg",
+      caption: "Trudi & Pam 2019 🌷",
+      year: 2019
+    },
+   
+
     {
       src: "member-images/2020-bookmarks.jpg",
       caption: "Bookmarks 2020 🔖",
