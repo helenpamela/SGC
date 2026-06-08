@@ -1280,10 +1280,31 @@ const memories = {
 
   undated: [
     {
-   src: "member-images/undated-pink-scarves.jpg",
+      src: "member-images/undated-pink-scarves.jpg",
       caption: "Pink Scarves 🧣",
       year: "undated"
+    },
+    {
+      src: "member-images/undated-spa-day1.jpg",
+      caption: "Spa Day - Trudi & Linda 👄",
+      year: "undated"
+    },
+    {
+      src: "member-images/undated-spa-day2.jpg",
+      caption: "Spa Day 👄",
+      year: "undated"
+    },
+    {
+      src: "member-images/undated-spa-day3.jpg",
+      caption: "Spa Day - Trudi & Kathy 👄",
+      year: "undated"
+    },
+    {
+      src: "member-images/undated-spa-day4.jpg",
+      caption: "Spa Day - Linda 👄",
+      year: "undated"
     }
+
 
 
   ]
