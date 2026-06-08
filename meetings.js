@@ -28038,5 +28038,244 @@ const meetings = {
     ]
   },
 
+  "201309": {
+    title: "September 2013",
+    month: "September",
+    year: 2013,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1tOvJiR5zslfWWwBfMFydXw4Msus0KOk0/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1tHFDqXySUm634h0N-qL7ol1p7alFNREQ/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [      
+      {
+        type: "pdf",
+        label: "Loving-Kindness for Beginners",
+        src: "https://drive.google.com/file/d/1cZLoMjjK2fKVMx8p50xKjZ2nxI6ml9NW/preview"
+      },
+      {
+        type: "pdf",
+        label: "Meta Loving-Kindness Meditation",
+        src: "https://drive.google.com/file/d/1VX7gcCWu4er8xYHGnRrdWJM6Ll_6qgcJ/preview"
+      },
+      {
+        type: "pdf",
+        label: "Loving-Kindness Meditation",
+        src: "https://drive.google.com/file/d/1ygHxiNAO6teKqQ0IxkaMvTIr10Uy7t0W/preview"
+      },
+      {
+        type: "pdf",
+        label: "Loving-Kindness Meditation",
+        src: "https://drive.google.com/file/d/1Su9ZTK9s20RIt1uqsO61jrXX-m1Ufe1U/preview"
+      },
+      {
+        type: "pdf",
+        label: "Loving-Kindness Meditation (blue)",
+        src: "https://drive.google.com/file/d/1Su9ZTK9s20RIt1uqsO61jrXX-m1Ufe1U/preview"
+      },
+      {
+        type: "pdf",
+        label: "Metta Meditation Phrases",
+        src: "https://drive.google.com/file/d/1DFdUfFj3vxOtId3N3Is9T6j9BjCR8Ey6/preview"
+      },
+
+    ],
+
+    focus: {
+      title: "Archangel Metatron",
+
+      items: [
+        {
+          type: "image",
+          src: "monthly-focus-images/201309-cd-cover-metatron-meditation.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Affirmations",
+      items: [
+        {
+          type: "pdf",
+          label: "30-Day Affirmation Challenge",
+          src: "https://drive.google.com/file/d/19xG-Nz03RD1iUc_XJIVaxG7ZIsDdioWN/preview"
+        },
+        {
+          type: "pdf",
+          label: "Attitude",
+          src: "https://drive.google.com/file/d/1Q1tGJfSxhPCal-kbA-iclPQE-LQA2cJy/preview"
+        },
+         {
+          type: "pdf",
+          label: "Three Affirmations",
+          src: "https://drive.google.com/file/d/1ZZM1iJr-zRdfWTSVs7nN1Rh0rYzfLaf0/preview"
+        },
+        {
+          type: "pdf",
+          label: "Prosperity Affirmations",
+          src: "https://drive.google.com/file/d/1WIW63rym4e75p7Kghyf2YyrDT8NendVc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Joy Affirmations",
+          src: "https://drive.google.com/file/d/1nGq2s5YzecMpQpHb4b7DwmKj-fuboAFr/preview"
+        },
+        {
+          type: "pdf",
+          label: "Affirmations for Releasing",
+          src: "https://drive.google.com/file/d/1OeejyQOf7uuB2oGi7hIzUicxoODK2Idh/preview"
+        },
+        {
+          type: "pdf",
+          label: "Affirmations for Love",
+          src: "https://drive.google.com/file/d/1-FUt2nUyMJJAriwxjuGr9pLpeaPHo3Zm/preview"
+        },
+        {
+          type: "pdf",
+          label: "My Affirmations",
+          src: "https://drive.google.com/file/d/1WWHtOOIc3H1zuxmbAm6kHIsXOaUfYPEc/view?usp=drive_link"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "David Friedman",
+      items: [
+        {
+          type: "image",
+          src: "luminary-images/201309-david-friedman.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["archangel", "metatron", "affirmation", "aromatherapy", "thought exchange"],
+
+    topic: {
+      title: "Aromatherapy & Thought Exchange",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Living a Fulfilling Life by James Van Praagh ",
+        src: "https://drive.google.com/file/d/1iGYgSLCI63TfzwYlM1lVnanVKsqVexGT/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
