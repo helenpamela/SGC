@@ -368,6 +368,83 @@ const memories = {
       year: 2017
     },
     {
+      src: "member-images/2018-gorgeous-in-green.jpg",
+      caption: "Gorgeous in Green 2018 ☘️",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-st-pat-pam-linda.jpg",
+      caption: "St. Patricks Day 2018 ☘️",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-st-pat-walter.jpg",
+      caption: "Walter 2018 ☘️",
+      year: 2018
+    },
+
+    {
+      src: "member-images/2018-pocket-tokens.jpg",
+      caption: "Pocket Tokens 2018 🪙",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-sgc-electronic-photos.jpg",
+      caption: "SGC Electronic Photos 2018 📸",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-lindas-tattoo.jpg",
+      caption: "Linda's Tattoo 2018 🕉️",
+      year: 2018
+    },
+    
+    {
+      src: "member-images/2018-birthday-girl.jpg",
+      caption: "Birthday Girl 2018 🎉",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-buddha-book.jpg",
+      caption: "Buddha Book 2018 📖",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-christmas-calendar.jpg",
+      caption: "Christmas - Time for a new Calendar! 2018 📅",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-mistletoe.jpg",
+      caption: "Mistletoe 2018 🎅🏻",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-mistletoe-on-easy-street.jpg",
+      caption: "Mistletoe on East Street 2018 🎅🏻",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-kathy-with-goodies.jpg",
+      caption: "Kathy with Goodies 2018 🎄",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-burning-bowl-ceremony.jpg",
+      caption: "Burning Bowl Ceremony 2018 🔥",
+      year: 2018
+    },
+    {
+      src: "member-images/2018-kathy-enjoying-burning-bowl.jpg",
+      caption: "Kathy Enjoying Burning Bowl 2018 🔥",
+      year: 2018
+    },
+
+
+
+
+
+    {
       src: "member-images/2019-vision-boards.jpg",
       caption: "Vision Boards 2019 🖼️",
       year: 2019
