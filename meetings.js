@@ -28273,5 +28273,198 @@ const meetings = {
     ]
   },
 
+  "201308": {
+    title: "August 2013",
+    month: "August",
+    year: 2013,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Q3s5FE2hdb-LeJeeo49zRQBh2Kzl4su2/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1fRBJeZyd7F6kzU2qYP2CuXVoYnUw3hML/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "There was a dragonfly in the kitchen!",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Archangel Gabriel",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/201308-gabriel.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/201308-gabriel-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Working with Archangel Gabriel",
+          src: "https://drive.google.com/file/d/1TZRTJZJaP2-ODouqFWx_fngS5alhCBWS/preview"
+        },
+        {
+          type: "pdf",
+          label: "Prayer from Archangel Gabriel",
+          src: "https://drive.google.com/file/d/1Un29tvNT_bRJhWUcloTkttp0Bv0uLlor/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Kristen Neff",
+      items: [
+        {
+          type: "image",
+          src: "luminary-images/201308-kristin-neff.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["archangel", "gabriel", "science of mind", "kristin neff", "self-compassion", "review"],
+
+    topic: {
+      title: "Review",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
