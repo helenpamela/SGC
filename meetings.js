@@ -28466,5 +28466,195 @@ const meetings = {
     ]
   },
 
+  "201307": {
+    title: "July 2013",
+    month: "July",
+    year: 2013,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1DIZut3UWC0qFIir4iDVQWNq8Z8bROG7C/preview"
+      
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1i3k8j1Noh0hL4uC0CQcPSj8HeBUqjYrI/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "1) Yarnell firefighters, 2) SF plane crash",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Crackle Quartz",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201307-crackle-quartz.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201307-crackle-quartz-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Joy! Crackle Quartz",
+          src: "https://drive.google.com/file/d/1bAQaH9SmIrYlY7dM0FguY9I1a6HJlWdf/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "Atlantis",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["crystal", "crackle quartz", "thought exchange", "atlantis"],
+
+    topic: {
+      title: "Thought Exchange",
+      items: [
+        {
+          type: "text",
+          label: "Watched Thought Exchange DVD",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+
 }
 
