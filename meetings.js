@@ -28105,11 +28105,7 @@ const meetings = {
         label: "Loving-Kindness Meditation",
         src: "https://drive.google.com/file/d/1ygHxiNAO6teKqQ0IxkaMvTIr10Uy7t0W/preview"
       },
-      {
-        type: "pdf",
-        label: "Loving-Kindness Meditation",
-        src: "https://drive.google.com/file/d/1Su9ZTK9s20RIt1uqsO61jrXX-m1Ufe1U/preview"
-      },
+  
       {
         type: "pdf",
         label: "Loving-Kindness Meditation (blue)",
@@ -28188,7 +28184,7 @@ const meetings = {
         {
           type: "pdf",
           label: "My Affirmations",
-          src: "https://drive.google.com/file/d/1WWHtOOIc3H1zuxmbAm6kHIsXOaUfYPEc/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1WWHtOOIc3H1zuxmbAm6kHIsXOaUfYPEc/preview"
         },
        
        
@@ -28266,7 +28262,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Living a Fulfilling Life by James Van Praagh ",
-        src: "https://drive.google.com/file/d/1iGYgSLCI63TfzwYlM1lVnanVKsqVexGT/preview"
+        src: "https://drive.google.com/file/d/1sUFvjjdvMgPoHnhUjVw3n51qzDof6Nfk/preview"
       },
       {
         type: "",
