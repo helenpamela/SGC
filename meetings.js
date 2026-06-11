@@ -16,16 +16,16 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: "https://drive.google.com/file/d/149dmNN_j7g9wypd4ziNkI9u68ycoY9q0/preview"
+        src: "https://drive.google.com/file/d/1E-j3qFECwfmNfBChP7iPptpgO925jd4O/preview"
       }
     ],
 
     teacher_only: {
       working_agenda: [
         {
-          type: "",
+          type: "pdf",
           label: "Working Agenda",
-          src: ""
+          src: "https://drive.google.com/file/d/12j3dbr2NCwHRweUGIBCsJL605c-ZOoM4/preview"
         },
 
         
@@ -28655,6 +28655,374 @@ const meetings = {
     ]
   },
 
+"201306": {
+    title: "June 2013",
+    month: "June",
+    year: 2013,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1E-j3qFECwfmNfBChP7iPptpgO925jd4O/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/12j3dbr2NCwHRweUGIBCsJL605c-ZOoM4/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Bloodstone",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201306-bloodstone.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201306-bloodstone-properties.png"
+        },
+        
+        {
+          type: "pdf",
+          label: "Bloodstone Healing Properties",
+          src: "https://drive.google.com/file/d/1N2KzJYnNeYSdasvRN2VQBMwqOAjru3j4/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bloodstone Meaning",
+          src: "https://drive.google.com/file/d/1TXvdQMq4HRNu8P_r3TOny5ThfNYi3KOS/preview"
+        },
+        {
+          type: "pdf",
+          label: "Bloodstone - Crystal Directory",
+          src: "https://drive.google.com/file/d/17QD6d4lRxvGQQpmpBXXnZOEnFj7kt385/preview"
+        },
+        {
+          type: "text",
+          label: "Handed out cage pendulum with Andalusite inside",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "Andalusite / Chiastolite",
+          src: "https://drive.google.com/file/d/1YwxNT_NjuL9a4hSt8H6saUQ8d3vYKc4P/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chiastolite",
+          src: "https://drive.google.com/file/d/1ffzyjPMq1RosQFkIkXUh45c3ZaIRjLzK/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Segment Intending",
+      items: [
+        {
+          type: "pdf",
+          label: "Segment Intending",
+          src: "https://drive.google.com/file/d/1iSacUpZkXlsM8JwCbViBXLK8_l4wZloH/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-luminaries.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["crystal", "bloodstone", "chiastolite", "segment intending", "segment", "intend", "dvd"],
+
+    topic: {
+      title: "Watch DVD - People vs State of Illusion",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+    "201305": {
+    title: "May 2013",
+    month: "May",
+    year: 2013,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201305-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 }
 
