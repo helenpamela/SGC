@@ -28869,7 +28869,7 @@ const meetings = {
     ]
   },
 
-    "201305": {
+  "201305": {
     title: "May 2013",
     month: "May",
     year: 2013,
@@ -29005,6 +29005,208 @@ const meetings = {
           src: ""
         },
    
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201304": {
+    title: "April 2013",
+    month: "April",
+    year: 2013,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1zz8qmDhzmJeIYu-oQQGU9Noh-R_SZoBk/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1ERpM3YBJ7-c9k5nnnEIdApWUxN_7eKCh/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rutilated Quartz",
+
+      items: [
+        {
+          type: "image",
+          src: "201304-rutilated-quartz.png"
+        },
+        {
+          type: "image",
+          src: "201304-rutilated-quartz-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Rutilated Quartz - Crystal Directory",
+          src: "https://drive.google.com/file/d/12ONVIkEInCsFlYOIsDj6jmHm-fgVBZbP/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        }
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Play",
+      items: [
+        {
+          type: "pdf",
+          label: "Mandala for Coloring",
+          src: "https://drive.google.com/file/d/1TBhBF7INL2xyehpg0dsLBqVzc3g32NLv/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        }
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "Nick Ortner & Brene Brown",
+      items: [
+        {
+          type: "image",
+          src: "luminary-images/201304-nick-ortner.jpg"
+        },
+        {
+          type: "image",
+          src: "luminary-images/201304-brene-brown.jpg"
+        },
+        {
+          type: "video",
+          label: "Brene Brown - The Power of Vulnerability",
+          src: "https://www.youtube.com/embed/iCvmsMzlF7o?si=yXLvtoePgA9TFoaN"
+        },
+        {
+          type: "video",
+          label: "Brene Brown - Listening to Shame",
+          src: "https://www.youtube.com/embed/psN1DORYYV0?si=hp59TYwnOxPW55WX"
+        }
+
+        
+ 
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["crystal", "quartz", "rutilated", "nick ortner", "brene brown", "vulnerability", "play",
+          "mandala", "shame"],
+
+    topic: {
+      title: "Watch DVD",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
 
       ]
     },
