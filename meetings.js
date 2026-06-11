@@ -29089,11 +29089,11 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "201304-rutilated-quartz.png"
+          src: "crystal-images/201304-rutilated-quartz.png"
         },
         {
           type: "image",
-          src: "201304-rutilated-quartz-properties.png"
+          src: "crystal-images/201304-rutilated-quartz-properties.png"
         },
         {
           type: "pdf",
