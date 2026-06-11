@@ -29159,6 +29159,16 @@ const meetings = {
           src: "luminary-images/201304-brene-brown.jpg"
         },
         {
+          type: "pdf",
+          label: "10 Guideposts for Wholehearted Living",
+          src: "https://drive.google.com/file/d/1P3-EvDYDS4wGuyHmwv01J0fVxtTK_vyD/preview"
+        },
+        {
+          type: "pdf",
+          label: "Wholehearted Parenting Manifesto",
+          src: "https://drive.google.com/file/d/1gQ7i9nw6z_GRAOMBP7Dh9Bae4Toev7Z9/preview"
+        },
+        {
           type: "video",
           label: "Brene Brown - The Power of Vulnerability",
           src: "https://www.youtube.com/embed/iCvmsMzlF7o?si=yXLvtoePgA9TFoaN"
