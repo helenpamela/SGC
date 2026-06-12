@@ -2577,7 +2577,7 @@ const meetings = {
       items: [
         {
           type: "pdf",
-          label: "More of Less Form",
+          label: "More or Less Form",
           src: "https://drive.google.com/file/d/1SJ6bczbAXVjbnUERdRgUyZMCVgwSIraM/preview"
         },
         {
