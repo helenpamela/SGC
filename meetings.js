@@ -29364,7 +29364,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Mother Teresa - Do It Anyway",
-          src: "https://drive.google.com/file/d/13Ny3EZJDxRxx9oUjljQoQSB5_M63SYGZ/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/13Ny3EZJDxRxx9oUjljQoQSB5_M63SYGZ/preview"
         },
         {
           type: "pdf",
@@ -29440,6 +29440,498 @@ const meetings = {
         type: "pdf",
         label: "Vision Alignment Project",
         src: "https://drive.google.com/file/d/1yO7j7jdgPYprhi2SwHQ5O0QkTcF-oEzX/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201302": {
+    title: "February 2013",
+    month: "February",
+    year: 2013,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1h4Q1rwOxZfKVmNFNGfE1Bw-ZLKusPP4X/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1eg7dWotHLskr52V1Ea9rhx3UN94i43EE/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "image",
+        label: "Chinese New Year bracelet - present from Linda",
+        src: "announcement-images/201302-bracelet.jpg"
+      },
+      {
+        type: "text",
+        label: "Listened to Goddess meditation from Pam",
+        src: ""
+      },  
+
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Emerald, Rhodonite, Baby's Breath",
+
+      items: [
+        {
+          type: "image",
+          src: "201302-emerald.png"
+        },
+        {
+          type: "image",
+          src: "201302-emerald-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Emerald",
+          src: "https://drive.google.com/file/d/1yImbg5QxeuGuqmwqkbqxJl5Q_siO0wkr/preview"
+        },
+        {
+          type: "image",
+          src: "201302-rhodonite.png"
+        },
+        {
+          type: "image",
+          src: "201302-rhodonite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Rhodonite",
+          src: "https://drive.google.com/file/d/1Kfw0mp1Pd2MHVBoe4C92fLG81WCwvaYE/preview"
+        },
+        {
+          type: "pdf",
+          label: "Baby's Breath",
+          src: "https://drive.google.com/file/d/1_6A73ofRxPyKy_23kfY7F8WbWWn4kf-v/preview"
+        }
+
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Mirror Work & Affirmations",
+      items: [
+        {
+          type: "pdf",
+          label: "Mirror, Mirror by Louise Hay",
+          src: "https://drive.google.com/file/d/1Lo7B9lQx7KvI1p6-FI44pmMGqI_tYA18/preview"
+        },
+        {
+          type: "pdf",
+          label: "Mirror, Mirror by Cheryl Richardson",
+          src: "https://drive.google.com/file/d/18Bb-knc_uiQuumqCGVpZZEMFvri-dq6V/preview"
+        },
+         {
+          type: "pdf",
+          label: "Mirror Work Affirmation",
+          src: "https://drive.google.com/file/d/1_EwYbBoUqKfGJtr4peIxvfYWXVY7lz0C/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Buddhist Newsletter",
+      items: [
+        {
+          type: "image",
+          label: "Peace tote bags - present from Linda",
+          src: "luminary-images/201302-peace-totes.jpg"
+        },
+        {
+          type: "image",
+          src: "luminary-images/201302-inspiration-cd-label.png"
+        },
+        {
+          type: "image",
+          src: "luminary-images/201302-inspiration-cd-song-list.png"
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["cd", "inspiration", "peace", "tote", "crystal", "emerald", "rhodonite", "baby's breath", "chinese new year",
+          "bracelet", "linda", "intention", "set intentions", "self-love", "love", "mirror", "mirror work",
+           "resolutions", "abraham", "susan jeffers"],
+
+    topic: {
+      title: "Set Intentions for 2013 & Self-Love Part 1",
+      items: [
+        {
+          type: "pdf",
+          label: "5 Keys for Setting Intentions",
+          src: "https://drive.google.com/file/d/18egz5ox2DNbvrTdd5r9PBO2PniOIquN3/preview"  
+        },
+        {
+          type: "pdf",
+          label: "10 Ways to Set a Powerful Intent",
+          src: "https://drive.google.com/file/d/1z0qFPvcKWyi7h_d4EoZfiAlPObU7WpfV/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "30 Power Words to Activate Intention Setting",
+          src: "https://drive.google.com/file/d/1tfJSWS2rJ9UA6lNiiaoYNwE4ljo89eQt/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Abraham on Intentions and Joy",
+          src: "https://drive.google.com/file/d/1cGMjmiyJl87-KNoHLWHLAh1cA7o5Qx1M/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "How to Shape Your Intentions",
+          src: "https://drive.google.com/file/d/1kXUT_L5R6eUIMjzZNnayTIUUCxQuEFv-/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Intentions and Resolutions Images",
+          src: "https://drive.google.com/file/d/1H21sl6K4udbsnDbMWE81hyLKZLFKQqtx/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "New Vision Intention Setting Form",
+          src: "https://drive.google.com/file/d/1nn6JKb7exyQyMHxlVp4eOad0_rnLH0I-/preview"  
+        },
+        {
+          type: "pdf",
+          label: "New Years Resolution Form",
+          src: "https://drive.google.com/file/d/1ysdfk7TmPlF6wa_s5LchxKM69ybZSZPD/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Setting Intentions - from Unity",
+          src: "https://drive.google.com/file/d/1tDYFhA0EbEPi4TvaXpJt9RiPX81mux6o/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Best of Intentions",
+          src: "https://drive.google.com/file/d/1x1RHR-yCz74XdIWug8fPEXfmslypaORS/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Life Purpose from Toni",
+          src: "https://drive.google.com/file/d/15BzdiqjLr96C4oarTLLIfqBcWCPsrhwb/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Unity - Intentions Moving to Manifesting Abundance",
+          src: "https://drive.google.com/file/d/1qCJiaspWS6S_QmWsj1XBtwhkF9giS3Y0/preview"  
+        },
+        {
+          type: "pdf",
+          label: "More of Less form",
+          src: "https://drive.google.com/file/d/1DNLixU-zoZhtK4cF7OOLV2nIYcSx2G6m/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Balance Wheel form",
+          src: "https://drive.google.com/file/d/1ix-kPabaZGucQwMKlRJm3cB1m2TJwO5N/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Louise Hay - 12 Commandments",
+          src: "https://drive.google.com/file/d/1_sInC2ZE6kBEj6Qu2e1AaF3VL0OT4jcT/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Life Loves You - Louise Hay",
+          src: "https://drive.google.com/file/d/1h_NWnOI-lIqO6puabuJqUwOmoLLZ8KyQ/preview"  
+        },
+        {
+          type: "pdf",
+          label: "I Love Myself affirmation - Louise Hay",
+          src: "https://drive.google.com/file/d/1KBRxprUKr80SGQNdaPm-KMEYbIR9_ogk/preview"  
+        },
+        {
+          type: "pdf",
+          label: "You are Enough",
+          src: "https://drive.google.com/file/d/1PpyA7tbwXvIq5F9di6iSKp-hQ0R5yBdA/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Today I Choose Myself",
+          src: "https://drive.google.com/file/d/1j9O6ian0FfxgG7KYViuxsE_TbXecpXgq/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Self-Love Images",
+          src: "https://drive.google.com/file/d/1GGq5dvGNX86b55FFNSejCQZDUsKoxsv-/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Abraham on Self-Appreciation and Self-Love",
+          src: "https://drive.google.com/file/d/1o7EA7qambRuTr4rO9UbkzqIs65oBIwNo/preview"  
+        },
+        {
+          type: "pdf",
+          label: "17 Ways to Love Yourself",
+          src: "https://drive.google.com/file/d/1Z8IX75oILOsIw3sy_Hj8Gmby9OSNrxt9/preview"  
+        },
+        {
+          type: "pdf",
+          label: "What I Love About Myself form",
+          src: "https://drive.google.com/file/d/1ALKs4qQ1JoeudX0vHZCJhSeLau0vBRwd/preview"  
+        },
+
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "The Community Code (old) from The Intenders of the Highest Good",
+        src: "https://drive.google.com/file/d/1OMsgK3CK1kgRgA6CGSdF1q3ZJ4LrG0U2/preview"
+      },
+      {
+        type: "pdf",
+        label: "The Code (new) from The Intenders of the Highest Good",
+        src: "https://drive.google.com/file/d/1Bs5JFEuVYrLbLsCNru18rtVzBnxttsu8/preview"
+      },
+      {
+        type: "pdf",
+        label: "Increase Mindfulness with Gratitude",
+        src: "https://drive.google.com/file/d/1ChDgEvTjo3Gf5YWIPrJ4InC0oZGzbjPc/preview"
+      },
+      {
+        type: "pdf",
+        label: "10 Things Life Has Taught Me by Susan Jeffers",
+        src: "https://drive.google.com/file/d/1g-qtabl6UkXsVQjjg8IYe1sjVla2necX/preview"
+      },
+      {
+        type: "pdf",
+        label: "7 Ways to Energize Yourself",
+        src: "https://drive.google.com/file/d/1sT1ZN8p9eRQZr3NkiX6OwPFCuwZaza5F/preview"
+      },
+      {
+        type: "pdf",
+        label: "5 Ways to Practice Presence",
+        src: "https://drive.google.com/file/d/1HZ6Z7u0u7VogqpF6_fBntAzuw5MDRc8l/preview"
+      }
+
+    ]
+  },
+
+"201301": {
+    title: "January 2013",
+    month: "January",
+    year: 2013,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201301-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
       },
       {
         type: "",
