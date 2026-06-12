@@ -29236,5 +29236,219 @@ const meetings = {
     ]
   },
 
+  "201303": {
+    title: "March 2013",
+    month: "March",
+    year: 2013,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1vYb5plCpjPcYDzvmFRucccP-lDEKZVzl/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1-xJH05bfW3NrFkpEA7Hv5CybTNSIaSYn/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Daisy",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201303-daisy.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201303-daisy-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Daisy",
+          src: "https://drive.google.com/file/d/1n785MV7YJNIva0-R0YmSC33LNPx1EQvG/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "100 Things I Want",
+      items: [
+        {
+          type: "pdf",
+          label: "100 Things I want - Page 1",
+          src: "https://drive.google.com/file/d/1PpbW074Ll0TkntbnQjmvrZ6DTYelzbFh/preview"
+        },
+        {
+          type: "pdf",
+          label: "100 Things I want - Page 2",
+          src: "https://drive.google.com/file/d/1YyLeh6OPMcAypR3jjGPkYXo4eyZYi-TV/preview"
+        },
+         {
+          type: "pdf",
+          label: "100 Things I want - Page 3",
+          src: "https://drive.google.com/file/d/1mTAUrWAcHWXM1B7cbEUvWvLgd4Qdw634/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Mother Teresa & Debbie Ford",
+      items: [
+        {
+          type: "image",
+          src: "luminary-images/201303-mother-teresa.png"
+        },
+        {
+          type: "pdf",
+          label: "Mother Teresa - Do It Anyway",
+          src: "https://drive.google.com/file/d/13Ny3EZJDxRxx9oUjljQoQSB5_M63SYGZ/view?usp=drive_link"
+        },
+        {
+          type: "pdf",
+          label: "Do It Anyway",
+          src: "https://drive.google.com/file/d/1dKKlg72RofqYQjGjkcRrnKrxF_8V-9Ce/preview"
+        },
+        {
+          type: "pdf",
+          label: "Original Do It Anyway",
+          src: "https://drive.google.com/file/d/1MMTPPWAA6Dn3BroUp1Tp_oKw7JXYpXwe/preview"
+        },
+
+        {
+          type: "image",
+          src: "luminary-images/201303-debbie-ford.png"
+        },
+        {
+          type: "pdf",
+          label: "Debbie Ford - The Right Questions",
+          src: "https://drive.google.com/file/d/1s7k_Ys_Qs_V2al4W7xEtGw4_Np_9WU5m/preview"
+        },
+        {
+          type: "pdf",
+          label: "Choose",
+          src: "https://drive.google.com/file/d/1EZx9NL6q3YJLnqsc-FPnQdFQI3sLS48z/preview"
+        },
+
+
+
+       
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["flower", "daisy", "mother teresa", "do it anyway", "debbie ford", "the right questions",
+          "expectations", "100 things I want", "choose", "vision", "alignment"],
+
+    topic: {
+      title: "Expectations",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Vision Alignment Project",
+        src: "https://drive.google.com/file/d/1yO7j7jdgPYprhi2SwHQ5O0QkTcF-oEzX/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
