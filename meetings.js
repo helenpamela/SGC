@@ -29521,11 +29521,11 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "201302-emerald.png"
+          src: "crystal-images/201302-emerald.png"
         },
         {
           type: "image",
-          src: "201302-emerald-properties.png"
+          src: "crystal-images/201302-emerald-properties.png"
         },
         {
           type: "pdf",
@@ -29534,11 +29534,11 @@ const meetings = {
         },
         {
           type: "image",
-          src: "201302-rhodonite.png"
+          src: "crystal-images/201302-rhodonite.png"
         },
         {
           type: "image",
-          src: "201302-rhodonite-properties.png"
+          src: "crystal-images/201302-rhodonite-properties.png"
         },
         {
           type: "pdf",
