@@ -30230,7 +30230,26 @@ const meetings = {
           label: "Gratitude Poster 2",
           src: "https://drive.google.com/file/d/185vj5TOy1HKecs80nPu7450E_wwF8ivA/preview"
         },
-    
+        {
+          type: "pdf",
+          label: "How Gratitude Can Change Your Life",
+          src: "https://drive.google.com/file/d/1oIoSkpj89nP8lC1glYfFMStLeylxCNq2/preview"
+        },
+        {
+          type: "pdf",
+          label: "Why a Life of Gratitude Can Make You Happy",
+          src: "https://drive.google.com/file/d/144uJWJ5r5-V8_ijSys5_Y-FdPXepzArr/preview"
+        },
+        {
+          type: "pdf",
+          label: "Kindness & Gratitude - Positivity Blog",
+          src: "https://drive.google.com/file/d/1waJl1jDXc6OkPwsXM-rwINxi0rfTxwx_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Gratitude Journal page",
+          src: "https://drive.google.com/file/d/1KLvldrfvIqL_mm-4OAhAdfbpeywcwZtk/preview"
+        },
         {
           type: "pdf",
           label: "Oprah Life Class with Joel Osteen - I AM",
@@ -30252,7 +30271,11 @@ const meetings = {
           label: "Oprah - Dream Big Lifework",
           src: "https://drive.google.com/file/d/1P23ezL-VFV-16eelU5-1MMy0olrpPdv7/preview"
         },
-       
+        {
+          type: "pdf",
+          label: "The Power of Your Words",
+          src: "https://drive.google.com/file/d/1X7ffEUNlpULE7vVWe1AGgCDAkRCekNn8/preview"
+        }
        
 
       ],
@@ -30300,29 +30323,30 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["flower", "cactus", "gratitude", "I AM", "joel osteen", "oprah", "2012", "DVD", "deepak chopra",
+          "gregg braden", "abraham"
+    ],
 
     topic: {
-      title: "Watch DVD: 2012 - The Odyssey",
+      title: "Watch SGC DVD: 2012",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Contents of DVD",
+          src: "https://drive.google.com/file/d/1KoBux30BSL1M_dHfoOKWVE8re6ew27a0/preview"  
         },
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "video",
+          label: "Gregg Braden - 2012 - living in an extraordinary time",
+          src: "https://www.youtube.com/embed/ayxFrK75hH0?si=Nd0OQy0mb-qkKAB2"  
         }, 
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "video",
+          label: "Is 2012 'the time of Awakening'? - AbrahamHicks",
+          src: "https://www.youtube.com/embed/G4PCBSDg5lQ?si=ok09QqHrPW13U7pJ" 
         }, 
   
           
-
       ]
     },
 
