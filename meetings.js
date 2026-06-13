@@ -30258,7 +30258,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Oprah - Changing Your Outlook (I AM) Lifework",
-          src: "https://drive.google.com/file/d/1FPWociwWntkQFDVKB8qUIHk3ongdCUiA/review"
+          src: "https://drive.google.com/file/d/1FPWociwWntkQFDVKB8qUIHk3ongdCUiA/preview"
         },
        
         {
@@ -30314,10 +30314,11 @@ const meetings = {
     },
 
     meditation: {
-      title: "Doreen Virtue - Clearing, Crystal Bed, Cut Cords, Colors on Each Chakra",
+      title: "Doreen Virtue",
       items: [
         {
-          type: "",
+          type: "text",
+          label: "Doreen Virtue - Clearing, Crystal Bed, Cut Cords, Colors on Each Chakra",
           src: ""
         }
       ]
