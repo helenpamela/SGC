@@ -1,0 +1,37 @@
+{
+  
+  "title": "Spiritual Principles Data",
+
+  "items": [
+      {   
+      "section": "Spiritual Principles",
+      "type": "PDF",
+      "file-name": "1_SpiritualPrinciplesList.pdf",
+      "label": "🌷 List of Spiritual Principles", 
+      "src1": "https://drive.google.com/file/d/1CXHp3v8RRkPMVKrvKbZlp8WkYJpvoBLQ/preview",
+      "src2": "",
+      "tags": ["spiritual principle", "list"]
+     },
+     {   
+      "section": "Spiritual Principles",
+      "type": "PDF",
+      "file-name": "2_PathToEnlightenment.pdf",
+      "label": "🕉️Path to Enlightenment", 
+      "src1": "https://drive.google.com/file/d/1QYmFXy557ImO9OczLRmCNVwsTK_3VBVK/preview",
+      "src2": "",
+      "tags": ["spiritual principle", "path", "enlightenment"]
+     },
+     {   
+      "section": "Spiritual Principles",
+      "type": "PDF",
+      "file-name": "3_EnlightenmentQuotes.pdf",
+      "label": "🛞 Enlightenment Quotes", 
+      "src1": "https://drive.google.com/file/d/1mqei_bgJm6HkIuG8uCzNqsdUHW070JR1/preview",
+      "src2": "",
+      "tags": ["spiritual principle", "quotes", "enlightenment"]
+     }
+    
+     
+
+   ]
+}
