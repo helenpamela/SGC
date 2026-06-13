@@ -80,7 +80,7 @@
       "type": "PDF",
       "file-name": "cn-fa06b-quotes-rumi.pdf",
       "label": "🐪 Rumi Quotes", 
-      "src1": "https://drive.google.com/file/d/1rDw-n-BWhcu0VmNTVkXOAUDQtRb7Ur6b/preview",
+      "src1": "https://drive.google.com/file/d/1Yqb7r6ptZSCWD6EnFBeozHl-MlSv5fmS/preview",
       "src2": "",
       "tags": ["poetry", "poem", "rumi", "mystic"]
      },
@@ -135,7 +135,7 @@
       "type": "PDF",
       "file-name": "cn-fa07a-quotations1.pdf",
       "label": "📢 Quotations", 
-      "src1": "https://drive.google.com/file/d/1i9O4YIxJlyKtWb5LXBg1tSbu-2iRM5UB/preview",
+      "src1": "https://drive.google.com/file/d/1VxvkqZE5_fTzKUKz35FGmya9jCERBvFF/preview",
       "src2": "",
       "tags": ["quote", "quotation"]
      },
@@ -408,16 +408,8 @@
       "src1": "https://drive.google.com/file/d/1jcpC5O5TUN_7MQGSVUoxFji4UJN6B8l4/preview",
       "src2": "",
       "tags": ["bird", "colette baron-reid" ]
-     },
-     {   
-      "section": "First Aid",
-      "type": "PDF",
-      "file-name": "cn-fa21-get-on-your-bird.pdf",
-      "label": "🦅 Get on Your Bird", 
-      "src1": "https://drive.google.com/file/d/1jcpC5O5TUN_7MQGSVUoxFji4UJN6B8l4/preview",
-      "src2": "",
-      "tags": ["bird", "colette baron-reid" ]
      }
+ 
 
    ]
 }
