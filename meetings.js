@@ -29376,7 +29376,11 @@ const meetings = {
           label: "Original Do It Anyway",
           src: "https://drive.google.com/file/d/1MMTPPWAA6Dn3BroUp1Tp_oKw7JXYpXwe/preview"
         },
-
+        {
+          type: "pdf",
+          label: "Mother Teresa Quotes",
+          src: "https://drive.google.com/file/d/1SRBL9CX0NTKsIcMLrs5-umz0UoedPf1z/preview"
+        },       
         {
           type: "image",
           src: "luminary-images/201303-debbie-ford.png"
@@ -29941,6 +29945,403 @@ const meetings = {
 
     ]
   },
+
+"201212": {
+    title: "December 2012",
+    month: "December",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1wNyp2bOsly6E1lpvGCbjKn5esM3NKbxP/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1OdwgdmDoeAxT5CMStpVSyx4xDiwujGYS/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Poinsettia",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201212-poinsettia.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201212-poinsettia-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Poinsettia",
+          src: "https://drive.google.com/file/d/1d953vWhlMWXazU22-fckxZBN1k_da_fg/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+"201211": {
+    title: "November 2012",
+    month: "November",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/11yIesDlCb4Y6RctPpIDtVAldAXVTZiaa/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1t-iI26vofq8c1Iy3euNBTIP8CTwJFD1z/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Cactus",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201211-cactus.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201211-cactus-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Cactus",
+          src: "https://drive.google.com/file/d/1wR0wH-r-cB4TX1HjJgNsmvC5iMY45dQ_/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Gratitude & I AM",
+      items: [
+        {
+          type: "pdf",
+          label: "Gratitude Poster 1",
+          src: "https://drive.google.com/file/d/1hLZufd5SE4HBx4cvS7FrnwmtimdkX6SO/preview"
+        },
+        {
+          type: "pdf",
+          label: "Gratitude Poster 2",
+          src: "https://drive.google.com/file/d/185vj5TOy1HKecs80nPu7450E_wwF8ivA/preview"
+        },
+    
+        {
+          type: "pdf",
+          label: "Oprah Life Class with Joel Osteen - I AM",
+          src: "https://drive.google.com/file/d/1FS2w7nOL7lo9MI55guh_VbmkS2yD7ayS/preview"
+        },
+        {
+          type: "pdf",
+          label: "Oprah - Changing Your Outlook (I AM) Lifework",
+          src: "https://drive.google.com/file/d/1FPWociwWntkQFDVKB8qUIHk3ongdCUiA/review"
+        },
+       
+        {
+          type: "pdf",
+          label: "Oprah Life Class with Joel Osteen - Dream Big!",
+          src: "https://drive.google.com/file/d/1_LRziqbn8rduiCZ1W9R16MBVQc-zQSYn/preview"
+        },
+        {
+          type: "pdf",
+          label: "Oprah - Dream Big Lifework",
+          src: "https://drive.google.com/file/d/1P23ezL-VFV-16eelU5-1MMy0olrpPdv7/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Joel Osteen, Deepak Chopra",
+      items: [
+        {
+          type: "image",
+          label: "Joel Osteen - I AM",
+          src: "luminary-images/201211-joel-osteen.png"
+        },
+        {
+          type: "image",
+          label: "Deepak Chopra - see articles on Oprah.com",
+          src: "luminary-images/201211-deepak-chopra.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "Doreen Virtue - Clearing, Crystal Bed, Cut Cords, Colors on Each Chakra",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "Watch DVD: 2012 - The Odyssey",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+
 
 }
 
