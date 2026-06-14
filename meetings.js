@@ -30632,5 +30632,269 @@ const meetings = {
     ]
   },
 
+  "201209": {
+    title: "September 2012",
+    month: "September",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1qtR1Fo7KueKZk2j4NnA_KjoVm_fmABNi/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/16T_U7hztBuQIcg9gsoohKRWJLDi7HkqI/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "1) Going to Peace of the Universe Oct 20; 2) SWIHA Oct 21",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Sunflower",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201209-sunflower.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201209-sunflower-properties.png"
+        },
+        {
+          type: "image",
+          label: "Smiling Sunflower",
+          src: "monthly-focus/201209-smiling-sunflower.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Sunflower - from Flower Healing book",
+          src: "https://drive.google.com/file/d/1M1pHbvcdZ3C-eGIgVFtNVD07QRQocPcE/preview"
+        },
+        {
+          type: "pdf",
+          label: "National Sunflower Association",
+          src: "https://drive.google.com/file/d/1PBlDFi8vubY1dLD-MEZ0CkMdJkxQIrXy/preview"
+        },
+         {
+          type: "pdf",
+          label: "The Story of the Sunflower - coloring book",
+          src: "https://drive.google.com/file/d/1PP55s7Tq0YToV9qYZYKTdXylBWVOca_b/preview"
+        },
+
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "EFT",
+      items: [
+        {
+          type: "pdf",
+          label: "Tapping Summit 2012",
+          src: "https://drive.google.com/file/d/1-wrZlp53Qi1AyvtgJatEgr280fbAaxVp/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "Sarah McLean - Science of Mind magazine",
+      items: [
+        {
+          type: "image",
+          src: "luminary-images/201209-sarah-mclean.png"
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "Sarah McLean Meditation",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["smiling", "sunflower", "flower", "eft", "sarah mclean", "smile"],
+
+    topic: {
+      title: "Smiling",
+      items: [
+        {
+          type: "image",
+          label: "Smiling CD Label",
+          src: "topic-images/201209-smiling-cd-label.png"  
+        },
+        {
+          type: "pdf",
+          label: "Smiling CD Song List",
+          src: "https://drive.google.com/file/d/1Be9TXlwyHx91xk14XjY__tw-m39EbK2H/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "SGC Smiling DVD Contents",
+          src: "https://drive.google.com/file/d/1Ui1lqalMvnVQwwe0xGIqfFeaBxWR1Zrt/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Smile Images",
+          src: "https://drive.google.com/file/d/1-yXJ3Yg0xVtHjhf-m2vC60jSi1PXgbj3/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Laughnet Funny Pages",
+          src: "https://drive.google.com/file/d/1Vf4XGhvZ898czohtpDd3MyMynek4S0Jv/preview"  
+        },
+        {
+          type: "pdf",
+          label: "5 Reasons Why You Should Smile",
+          src: "https://drive.google.com/file/d/1UadfX92N_iNe6aAw40D0C3JzycCOjeCS/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Top 10 Reasons to Smile",
+          src: "https://drive.google.com/file/d/1e0P0bUXHZWqXHYZBZ--hRSmrBiodrwUJ/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Untapped Power of Smiling",
+          src: "https://drive.google.com/file/d/18hINTQVtaJlwpaxRoK_f76ZKm_Umx6xx/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Smile Lyrics - Charlie Chaplin",
+          src: "https://drive.google.com/file/d/1T7pT6XZ1rVxO0vMOImHdj9fzFyMkDSJJ/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Smile and Others Smile with You",
+          src: "https://drive.google.com/file/d/1Qtsv3YITtfNKrqszlbr1h6qiCMKsAvcz/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Science of Mind - Smile Messages",
+          src: "https://drive.google.com/file/d/1mh6lcthhRo1863HySNO2jiGUUAF16RLh/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Little Known Benefits of Smiling",
+          src: "https://drive.google.com/file/d/1r495fjlqH1UnMiz70fbQDnpCIh9EFCGJ/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Facial Muscles",
+          src: "https://drive.google.com/file/d/1MEol5XonujGS0IbDdQcZeRZWQiAcgFza/preview"  
+        },
+        {
+          type: "pdf",
+          label: "A Smile Can...",
+          src: "https://drive.google.com/file/d/16UvqVeaM5YHi-3LY8RRDTInWdftkpnab/preview"  
+        },
+        {
+          type: "pdf",
+          label: "A Genuine Smile Goes a Long Way",
+          src: "https://drive.google.com/file/d/1qR5wOf-uk1Z6hp09NxwkWS9rLJQYRd_Y/preview"  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
