@@ -30366,7 +30366,271 @@ const meetings = {
     ]
   },
 
+  "201210": {
+    title: "October 2012",
+    month: "October",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1NHspwhLmfLby0_DfsF0Etld0iQd-n7N_/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1ckn0ze29xBBNgZiA6Xo7lC-JhwdLd6_c/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Lotus",
+
+      items: [
+        {
+          type: "image",
+          src: "flower-images/201210-lotus.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201210-lotus-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Lotus - from Flower Healing book",
+          src: "https://drive.google.com/file/d/1XWLtJd8s20uE9C5pXu_8k92eDUQ35MA0/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Ho'oponopono",
+      items: [
+        {
+          type: "pdf",
+          label: "Ho'oponopono poster",
+          src: "https://drive.google.com/file/d/1VEdLoj8iQW9lPm5qgNrf5ryuXZ3sNPfx/preview"
+        },
+        {
+          type: "pdf",
+          label: "Ho'oponopono Mantra",
+          src: "https://drive.google.com/file/d/1G2-u6KWlUHWg5IUmlJQZkLdgG8G-O0oe/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "See Topic",
+      items: [
+        {
+          type: "text",
+          label: "See Topic - Mantra Meditation",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["meditation", "mantra", "lotus", ],
+
+    topic: {
+      title: "Mantra Meditation",
+      items: [
+        {
+          type: "pdf",
+          label: "How to Meditate",
+          src: "https://drive.google.com/file/d/10qreBjUwSO_EyLsSS6artEmBqblTjv45/preview"  
+        },
+        {
+          type: "pdf",
+          label: "About Meditation",
+          src: "https://drive.google.com/file/d/1geZasVNUmtVNusG6LN01xB_WvYDPccLA/preview"  
+        }, 
+        
+        {
+          type: "pdf",
+          label: "Spiritual Practice - Meditation",
+          src: "https://drive.google.com/file/d/1pFZNVGcZq5DSTUrKuoFC8BJ1RGMUEk5y/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lotus - OM",
+          src: "https://drive.google.com/file/d/1ybHcz_GjkIH7QjqH2GSUQgg5C-s8nPiT/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "What Is a Mantra",
+          src: "https://drive.google.com/file/d/1cq1_9lInlll02mFHbZmLH2pLIslkE7jL/preview"  
+        }, 
+         {
+          type: "pdf",
+          label: "What Is a Mantra and How Does it Work?",
+          src: "https://drive.google.com/file/d/1aSmt4jbuGJWg0Za2OnwJr3OYNNscF9g8/preview"  
+        },
+         {
+          type: "pdf",
+          label: "Sounds and Silence: Mantra",
+          src: "https://drive.google.com/file/d/1zwpR_fJtNLQ6h3O7dKfgR6Cv_G1DNAB1/preview"  
+        },
+        {
+          type: "pdf",
+          label: "SGC Mantra DVD - Contents",
+          src: "https://drive.google.com/file/d/1zEN83HcF45HYqKzi2q5_SwQngkhffKXS/preview"  
+        },
+        {
+          type: "video",
+          label: "Best Mantra Meditation Technique - So Hum Healing Mantra - posted by Anmol Mehta",
+          src: "https://www.youtube.com/embed/38vYfQWa_ek?si=ggaozl4lqz9INY35"   
+        },
+        {
+          type: "video",
+          label: "Easy Mantra Meditation posted by Yoga Practice Videos - Yoga Vidya",
+          src: "https://www.youtube.com/embed/nYYgw-XsS74?si=Ks_mh7gPFeylSBL7"    
+        },
+        {
+          type: "video",
+          label: "Om Mani Padme Hum posted by Deva Premal - Topic",
+          src: "https://www.youtube.com/embed/2wBbL2xYVqQ?si=tLjQwNeNQXCCG98r"    
+        },
+        {
+          type: "video",
+          label: "Gayatri Mantra posted by Deva Premal - Topic",
+          src: "https://www.youtube.com/embed/3V0iwhq3jdA?si=dIDti7rykhj376p0"   
+        },
+        {
+          type: "video",
+          label: "Om Mani Padme Hum - Original Extended Version.wmv",
+          src: "https://www.youtube.com/embed/lWk_tSs6U8w?si=90j97YNdPqfMxo9v"  
+        },
+        {
+          type: "video",
+          label: "Magical Healing Mantra: Om Mani Padme Hum",
+          src: "https://www.youtube.com/embed/Gso1F69vOGQ?si=egpoi3o7f2KVZsV9" 
+        },
+        {
+          type: "video",
+          label: "OM Mantra",
+          src:  "https://www.youtube.com/embed/eGAMRXIHmFo?si=VpZOlZbDzaZF6M7M" 
+        },
+        {
+          type: "video",
+          label: "Magic Money Mantra",
+          src:  "https://www.youtube.com/embed/RMfiRHVfiHI?si=uX2hY9Mim1hTKVG-"
+        },
+        {
+          type: "video",
+          label: "Eternal OM",
+          src:  "https://www.youtube.com/embed/SyYiTvbNgrk?si=XzwfPEsUgrEreduE" 
+        },
+        
+       
+        
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Characteristics of Spiritual Growth",
+        src: "https://drive.google.com/file/d/1Xmwq2-7Wc1PWpOPnaKtEYX7uc90yOJrM/preview"
+      },
+      {
+        type: "pdf",
+        label: "The 'To Be' List",
+        src: "https://drive.google.com/file/d/1kdHyMVE288r3whte0T68FLXeIi8Rl18m/preview"
+      },
+      {
+        type: "pdf",
+        label: "EFTA by Henry Grayson",
+        src: "https://drive.google.com/file/d/12bWsmeeW0Ekceyf_VCUQgBDeIUBtC8pR/preview"
+      }
+
+    ]
+  },
 
 }
 
