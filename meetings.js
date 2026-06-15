@@ -31160,7 +31160,7 @@ const meetings = {
     teacher_only: {
       working_agenda: [
         {
-          type: "text",
+          type: "pdf",
           label: "Working Agenda",
           src: "https://drive.google.com/file/d/12kEa3twXEJoVJd-jqFseCcCoUmz07P-e/preview"
         },
