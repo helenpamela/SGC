@@ -30895,11 +30895,7 @@ const meetings = {
           label: "Make 'Em Laugh - Singin' in the Rain (1952)",
           src: "https://www.youtube.com/embed/iGCNBdCvzL4?si=cy8X4nKQN5M_g2uw"  
         },
-        {
-          type: "video",
-          label: "Smile - Charlie Chaplin - Modern Times 1936",
-          src: "https://www.youtube.com/embed/Ps6ck1ejoAw?si=TSO7STSFzPA0NBtm"  
-        },
+        
         {
           type: "video",
           label: "Top 10 Funny Baby Videos",
@@ -30952,6 +30948,390 @@ const meetings = {
         type: "",
         label: "",
         src: ""
+      }
+
+    ]
+  },
+
+  "201208": {
+    title: "August 2012",
+    month: "August",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1BmWMlwXotgmPPHOMP17vl3iXFMMMjdWG/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: ""
+        },
+        {
+          type: "image",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-topic.jpg"  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201207": {
+    title: "July 2012",
+    month: "July",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1USUkw1ar6xFt1Dkt_7myQGEGcDDA9b9b/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/12kEa3twXEJoVJd-jqFseCcCoUmz07P-e/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Archangel Raphael, Seraphinite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201208-seraphinite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201208-seraphinite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Seraphinite",
+          src: "https://drive.google.com/file/d/1dfWQBOguw25oTfBPad1Wi12ntgZVK75E/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-daily-practice.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "A New Order of Healing CD by Patricia Cota-Robles",
+      items: [
+        {
+          type: "image",
+          label: "Trk 4 - A New Order of Healing CD",
+          src: "meditation-images/201208-a-new-order-of-healing-cd-patti-cr.png"
+        }
+      ]
+    },
+
+    tags: ["crystal", "seraphinite", "raphael", "patricia cota-robles", "a new order of healing",
+          "hilarion", "I AM", "healing", "louise hay"
+    ],
+
+    topic: {
+      title: "Healing - Part 2",
+      items: [
+        {
+          type: "text",
+          label: "Watch Louise Hay DVD",
+          src: ""  
+        },
+        {
+          type: "pdf",
+          label: "List of Healing Videos",
+          src: "https://drive.google.com/file/d/1i3FQFrNbnCF4MVgIJzJbGiMFeTdaMzNv/preview"  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Physical, Etheric, Mental, and Emotional Bodies",
+        src: "https://drive.google.com/file/d/1kA1NeycNGe3AFwz1cT1iGpIuHyrYL9jR/preview"
+      },
+      {
+        type: "pdf",
+        label: "The I AM Presence",
+        src: "https://drive.google.com/file/d/19Q16EhEgBlv0B7zhIVgT28N1kzBaxXWV/preview"
+      },
+      {
+        type: "pdf",
+        label: "Hilarion",
+        src: "https://drive.google.com/file/d/12fWId8AkDtwVYMjm0veqh5NygbJDweTp/preview"
       }
 
     ]
