@@ -30706,7 +30706,7 @@ const meetings = {
         {
           type: "image",
           label: "Smiling Sunflower",
-          src: "monthly-focus/201209-smiling-sunflower.jpg"
+          src: "monthly-focus-images/201209-smiling-sunflower.jpg"
         },
         {
           type: "pdf",
@@ -30795,7 +30795,7 @@ const meetings = {
       ]
     },
 
-    tags: ["smiling", "sunflower", "flower", "eft", "sarah mclean", "smile"],
+    tags: ["smiling", "sunflower", "flower", "eft", "sarah mclean", "smile", "cd", "dvd"],
 
     topic: {
       title: "Smiling",
@@ -30869,15 +30869,76 @@ const meetings = {
           type: "pdf",
           label: "A Smile Can...",
           src: "https://drive.google.com/file/d/16UvqVeaM5YHi-3LY8RRDTInWdftkpnab/preview"  
-        },
+        },      
         {
           type: "pdf",
           label: "A Genuine Smile Goes a Long Way",
           src: "https://drive.google.com/file/d/1qR5wOf-uk1Z6hp09NxwkWS9rLJQYRd_Y/preview"  
         }, 
+        {
+          type: "video",
+          label: "Ron Gutman: The hidden power of smiling",
+          src: "https://www.youtube.com/embed/U9cGdRNMdQQ?si=mZPnbiY28075YvEF" 
+        }, 
+        {
+          type: "video",
+          label: "Snow White - A Smile and a Song",
+          src: "https://www.youtube.com/embed/hQZ6zzLpoNQ?si=iEdsEAK3-3u1w94i" 
+        },
+        {
+          type: "video",
+          label: "I Love to Laugh - Mary Poppins",
+          src: "https://www.youtube.com/embed/pOMqqI-kzHY?si=q4lWzA6ZJ66XwnDl"  
+        },
+        {
+          type: "video",
+          label: "Make 'Em Laugh - Singin' in the Rain (1952)",
+          src: "https://www.youtube.com/embed/iGCNBdCvzL4?si=cy8X4nKQN5M_g2uw"  
+        },
+        {
+          type: "video",
+          label: "Smile - Charlie Chaplin - Modern Times 1936",
+          src: "https://www.youtube.com/embed/Ps6ck1ejoAw?si=TSO7STSFzPA0NBtm"  
+        },
+        {
+          type: "video",
+          label: "Top 10 Funny Baby Videos",
+          src: "https://www.youtube.com/embed/Ex2PCZLp1Yc?si=oyt5F_FiXh1Xx4-O"  
+        },
+        {
+          type: "video",
+          label: "Top 10 Reasons to Smile - Tommy's Window Slideshow",
+          src: "https://www.youtube.com/embed/9hpK09TecD8?si=D8CR1BcUuho16blc" 
+        },
+        {
+          type: "video",
+          label: "World Smile Day - The Health Benefits of Smiling",
+          src: "https://www.youtube.com/embed/VMRZpKOpFjQ?si=mr4kNWYcwDNB_To5"
+        },
+        {
+          type: "video",
+          label: "[PMV] The Massive Smile Project Music Video",
+          src: "https://www.youtube.com/embed/UaG-JijAr-c?si=HTN-9Va4wUOzX1x8"
+        },
+        {
+          type: "video",
+          label: "Things that Make you Smile",
+          src: "https://www.youtube.com/embed/-WhBPLVC9QE?si=lHn23lRvxZTbGU8J" 
+        },
+        {
+          type: "video",
+          label: "Celtic Woman - Smile",
+          src: "https://www.youtube.com/embed/Jg4XTvtkKPs?si=AQRrmt0JBOaChhjo" 
+        },
+        {
+          type: "video",
+          label: "Uncle Kracker - Smile [Official Video]",
+          src: "https://www.youtube.com/embed/ffej15-Dgl0?si=peAC9lGAojuy-vzE"
+        },
+        
   
           
-
+ 
       ]
     },
 
