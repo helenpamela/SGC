@@ -31337,5 +31337,301 @@ const meetings = {
     ]
   },
 
+  "201206": {
+    title: "June 2012",
+    month: "June",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1VR9MkOmCOJAeXcwWSH52GtIP87wG-HZp/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Archangel Raphael",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/201206-raphael.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/201206-raphael-properties.png"
+        },
+        {
+          type: "image",
+          label: "Archangel Raphael",
+          src: "monthly-focus-images/201206-archangel-raphael-image.jpg"
+        },
+        {
+          type: "pdf",
+          label: "Call Upon Archangel Raphael",
+          src: "https://drive.google.com/file/d/131jxbbZz0p5Kj6hqeTIIvkxt2LxxfHG-/preview"
+        },
+        {
+          type: "pdf",
+          label: "Healing with Archangel Raphael - Doreen Virtue",
+          src: "https://drive.google.com/file/d/1Jr9HfjYfSIYIu9xBujP5Gmtyb9gEkgBy/preview"
+        },
+        {
+          type: "pdf",
+          label: "Healing with Archangel Raphael - Rev. Durka",
+          src: "https://drive.google.com/file/d/1ObRL4e2DEwpbqX1rwi0idPHXVtAn7cj3/preview"
+        },
+      
+
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Balance Wheel",
+      items: [
+        {
+          type: "pdf",
+          label: "Balance Wheel",
+          src: "https://drive.google.com/file/d/1zLUCYBOt89h1-p0w14QUC89ETxBCjODM/preview"
+        },
+        {
+          type: "pdf",
+          label: "How Do You Start Your Day - Louise Hay",
+          src: "https://drive.google.com/file/d/1MaSF9TVZM9gVS6kq5ilYmC2xgsKZH3AE/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["archangel", "raphael", "healing", "friend", "friendship", "gratitude", "dvd", "video",
+           "balance", "wheel", "balance wheel", "louise hay"
+     ],
+
+    topic: {
+      title: "Healing",
+      items: [
+        {
+          type: "pdf",
+          label: "Gratitude in Healing",
+          src: "https://drive.google.com/file/d/1T7Sm-3yMOEW__47t-afK8kVQD6FsdLdw/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Friendship",
+          src: "https://drive.google.com/file/d/1ZnKl6foBbq5buCrwVpXbgklpcm86uKHE/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "SGC DVD - Healing - Contents",
+          src: "https://drive.google.com/file/d/1ifbUfJJzaiSAkMa7yjPDJEzM908XXkjg/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "SGC DVD - Friends - Contents",
+          src: "https://drive.google.com/file/d/1Xgh0li7x-z65Mu__vjAypIcKlDIwIrEa/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lyrics of 'For Good' from Wicked",
+          src: "https://drive.google.com/file/d/1fobhZuVH9buxlB0iLgFTdGW2kafij_Ht/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "List of Healing Videos on YouTube",
+          src: "https://drive.google.com/file/d/1Y1HgoJCw1xEz8-pixG315DXZsvWQn2Iq/preview"  
+        }, 
+        {
+        type: "video",
+        label: "Sami Yusuf - Healing",
+        src: "https://www.youtube.com/embed/Tug63dI4MEY?si=LiIakm5Xe8fcH5x7"
+        },
+         {
+        type: "video",
+        label: "Spirit Medicine Healing Song - Lakota",
+        src: "https://www.youtube.com/embed/NwUxXQlKvHs?si=0F-7QEhNHNao9ANW"
+        },
+        {
+        type: "video",
+        label: "Navajo Healing Song by the Navajo & The Sioux",
+        src: "https://www.youtube.com/embed/x1uJidwo77s?si=27cHhHoqwf1ufzlU"
+        },
+        {
+        type: "video",
+        label: "Wash Your Spirit Clean (Song in Cherokee and English by Walela)",
+        src: "https://www.youtube.com/embed/vZKcNGEWI9w?si=H_9u5qKWpyj6P_wV"
+        },
+        {
+        type: "video",
+        label: "Amazing Grace in Cherokee",
+        src: "https://www.youtube.com/embed/8_qFbNskjCI?si=oTuXtk3ZAT36vbCl"
+        },
+        {
+        type: "video",
+        label: "Reiki/Music Native",
+        src: "https://www.youtube.com/embed/28OFOfSPIvw?si=txVfMOhla4L2CI53"
+        },
+        {
+        type: "video",
+        label: "Chakras - Reiki Music",
+        src: "https://www.youtube.com/embed/TlRCM2JLBvw?si=ZpJl2AELBqFHSE7K"
+        },
+        {
+        type: "video",
+        label: "Tatanaka National - Buffalo Healing Native American Indian Chant",
+        src: "https://www.youtube.com/embed/DddxBHLdvO0?si=_IOjLJT7h69kZmwG"
+        },
+        {
+        type: "video",
+        label: "Native American - Cherokee Morning Song",
+        src: "https://www.youtube.com/embed/P0lXvgLPy2w?si=kkZowNL4-e_AeH6q"
+        },
+        {
+        type: "video",
+        label: "SPIRIT OF NATURE - YANNI",
+        src: "https://www.youtube.com/embed/HMQzJyKTSrI?si=LmjwWk6J9JvHEfM2"
+        },
+        {
+        type: "video",
+        label: "Yanni - November Sky",
+        src: "https://www.youtube.com/embed/fgPIw5AnC1k?si=UunFcVWD1_hdvv-V"
+        },
+        {
+        type: "video",
+        label: "Yanni - Butterfly Dance",
+        src: "https://www.youtube.com/embed/vc6jrSOFlAE?si=8ANjQ8KECs3ABtDF"
+        },
+        {
+        type: "video",
+        label: "Remember Your True Nature: Icaro (healing song)",
+        src: "https://www.youtube.com/embed/QeFg2Xak_Cw?si=hGtyA8Bi1kUFVKC4"
+        },
+        {
+        type: "video",
+        label: "",
+        src: ""
+        },
+        {
+        type: "video",
+        label: "",
+        src: ""
+        },
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
