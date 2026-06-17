@@ -32078,5 +32078,409 @@ const meetings = {
     ]
   },
 
+  "201203": {
+    title: "March 2012",
+    month: "March",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1TvrxlE-zS3JOmn7EgWPAE_UBLWZEoaN2/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Fulgurite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201203-fulgurite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201203-fulgurite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Fulgurite",
+          src: "https://drive.google.com/file/d/1dgpI5104QhTHZzzUtP4VJpEaVEiEyYYF/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Centering",
+      items: [
+        {
+          type: "pdf",
+          label: "Spiritual Practice - Centering",
+          src: "https://drive.google.com/file/d/1gjAQM3QtqIHNtC2C0eSeTfpmA2TpeemB/preview"
+        },
+        {
+          type: "pdf",
+          label: "SGC DVD Label - Love is Letting Go of Fear",
+          src: "https://drive.google.com/file/d/1UB3uhClYmkZtnybPwEze90zNaOpT40MI/preview"
+        },
+        {
+          type: "pdf",
+          label: "SGC Believe DVD Contents ",
+          src: "https://drive.google.com/file/d/1YY9CbvP7C9QTdOFxESmE2vr487gdeH2W/preview"
+        },
+        {
+          type: "video",
+          label: "The Rose - WestLife",
+          src: "https://www.youtube.com/embed/VTCQBuYhq_s?si=dBzOwRUHa3qXcWZv"
+        },
+        {
+          type: "video",
+          label: "You Are Love",
+          src: "https://www.youtube.com/embed/NFzJw0P8J7c?si=KJKAQYgQib078a0p"
+        },
+        {
+          type: "video",
+          label: "Unconditional Love - The Simple Question",
+          src: "https://www.youtube.com/embed/U7_DFOVreZA?si=02cNEM1JM86CxMqq"
+        },
+        {
+          type: "video",
+          label: "The Power of One - Bomshel",
+          src: "https://www.youtube.com/embed/niYoH03GOdo?si=dkntKlNPP4wUzbwB"
+        },
+        {
+          type: "video",
+          label: "Just Believe",
+          src: "https://www.youtube.com/embed/OpECBDzOITE?si=QVA-9-tx4iS0UUjG"
+        },
+
+
+
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["crystal", "fulgurite", "believe", "belief"],
+
+    topic: {
+      title: "Believe / Beliefs",
+      items: [
+        {
+          type: "image",
+          label: "SGC Believe CD Label",
+          src: "topic-images/201203-believe-cd-label.png"  
+        },
+        {
+          type: "image",
+          label: "SGC Believe CD Song List",
+          src: "topic-images/201203-believe-cd-song-list.png"   
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201202": {
+    title: "February 2012",
+    month: "February",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1wHStqV6WgYf9DCPUKxRi5IFO4Ep1gvHj/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["field trip"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
