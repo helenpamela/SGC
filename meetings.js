@@ -31854,5 +31854,229 @@ const meetings = {
     ]
   },
 
+  "201204": {
+    title: "April 2012",
+    month: "April",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1XYsu0kXxt3O8L6wTEMaDAipbvuCyBvPi/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+        {
+          type: "text",
+          label: "For annual review: What are your top 3? is filed in Linda's binder under April",
+          src: ""
+        },
+
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Archangel Michael",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/201203-michael.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/201203-michael-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Archangel Michael",
+          src: "https://drive.google.com/file/d/1NpWHw67NKFSJbyEqiPulOsvE_j-6XlZg/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Guide Within",
+          src: "https://drive.google.com/file/d/1jsgLiy2AdegUAhgV6uHzw99T7vf-gAQO/preview"
+        },
+        {
+          type: "pdf",
+          label: "Drenched in Holiness",
+          src: "https://drive.google.com/file/d/1bXvGO6SH09k-xBOO5oVUrbVsIAah2pSD/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "EFT",
+      items: [
+        {
+          type: "pdf",
+          label: "EFT",
+          src: "https://drive.google.com/file/d/1WLEUUQ-vRYOURr4oWYgl4aKqgmwr8k1E/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["eft", "archange", "michael", "audit", "review"],
+
+    topic: {
+      title: "Annual Audit/Review",
+      items: [
+        {
+          type: "pdf",
+          label: "Living a Fulfilled Life - James Van Praagh",
+          src: "https://drive.google.com/file/d/1YGFwx-cH-lKCn3BuTGgJXd-NoTY2psCm/preview"  
+        },
+        {
+          type: "pdf",
+          label: "5 Things Happy People Do",
+          src: "https://drive.google.com/file/d/1gBUooySLnVNH7tQJE5xsTnITPfVRb34J/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Circle of Life Assessment",
+          src: "https://drive.google.com/file/d/1U0yDdpufSX33cE86RKNsZCJSzb_s-Fsy/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Circle Keywords & Descriptions",
+          src: "https://drive.google.com/file/d/1hw3HfEBUSGXCL4rECpDrN0YaaObMG37Z/preview"  
+        },        
+        {
+          type: "pdf",
+          label: "More of Less form",
+          src: "https://drive.google.com/file/d/1-OhtWJW_Yk9NF2DijuxW5m7HVfkaMKQA/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Wheel of Balance form",
+          src: "https://drive.google.com/file/d/13DNRLY_bjqiJlWLYTK970xJweW6bTmYW/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "What I Love About Myself",
+          src: "https://drive.google.com/file/d/1c4L0U0SaYTUXsVWtgeyfDHer7Aq5a9xJ/view?usp=drive_link"  
+        },
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "SGC Dance Party CD label",
+        src: "other-images/201204-dance-party-cd-label.png"
+      },
+      {
+        type: "",
+        label: "SGC Dance Party CD Song List",
+        src: "other-images/201204-dance-party-cd-song-list.png"
+      }
+
+    ]
+  },
+
 }
 
