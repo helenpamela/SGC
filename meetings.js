@@ -31500,7 +31500,7 @@ const meetings = {
       ]
     },
 
-    tags: ["archangel", "raphael", "healing", "friend", "friendship", "gratitude", "dvd", "video",
+    tags: ["archangel", "raphael", "healing", "gratitude", "dvd", "video",
            "balance", "wheel", "balance wheel", "louise hay"
      ],
 
@@ -31512,21 +31512,13 @@ const meetings = {
           label: "Gratitude in Healing",
           src: "https://drive.google.com/file/d/1T7Sm-3yMOEW__47t-afK8kVQD6FsdLdw/preview"  
         },
-        {
-          type: "pdf",
-          label: "Friendship",
-          src: "https://drive.google.com/file/d/1ZnKl6foBbq5buCrwVpXbgklpcm86uKHE/preview"  
-        }, 
+  
         {
           type: "pdf",
           label: "SGC DVD - Healing - Contents",
           src: "https://drive.google.com/file/d/1ifbUfJJzaiSAkMa7yjPDJEzM908XXkjg/preview"  
         }, 
-        {
-          type: "pdf",
-          label: "SGC DVD - Friends - Contents",
-          src: "https://drive.google.com/file/d/1Xgh0li7x-z65Mu__vjAypIcKlDIwIrEa/preview"  
-        }, 
+      
         {
           type: "pdf",
           label: "Lyrics of 'For Good' from Wicked",
@@ -31603,15 +31595,239 @@ const meetings = {
         src: "https://www.youtube.com/embed/QeFg2Xak_Cw?si=hGtyA8Bi1kUFVKC4"
         },
         {
-        type: "video",
+        type: "",
         label: "",
         src: ""
         },
         {
-        type: "video",
+        type: "",
         label: "",
         src: ""
         },
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201205": {
+    title: "May 2012",
+    month: "May",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1eO28dVIifVFAa2PTMO-tl3pdgH3RtG_T/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Archangel Ariel",
+
+      items: [
+        {
+          type: "image",
+          src: "archangel-images/201205-ariel.png"
+        },
+        {
+          type: "image",
+          src: "archangel-images/201205-ariel-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Gerald Jampolsky & Homeplay Review",
+      items: [
+        {
+          type: "pdf",
+          label: "Heal Your Mind",
+          src: "https://drive.google.com/file/d/1ns-GU-WYQSpMV1RRMvr3x4HrWoWZdNdx/preview"
+        },
+        {
+          type: "pdf",
+          label: "The 'To Be' List",
+          src: "https://drive.google.com/file/d/1Jb4te4XFFXJZJtj28jA0yr92Xa-CfXjM/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["archangel", "ariel", "jampolsky", "gerald jampolsky", "jerry jampolsky", "beliefs", "friendship"],
+
+    topic: {
+      title: "Beliefs - Friendship",
+      items: [
+        {
+          type: "pdf",
+          label: "Flush Out False Beliefs",
+          src: "https://drive.google.com/file/d/1NeSY3IN5oJ1Osuu-1055022jbe8TXHy5/preview"  
+        },
+        {
+          type: "pdf",
+          label: "I Believe",
+          src: "https://drive.google.com/file/d/1uioitiFzzH9WpGrWnuv6LBsiDTZvUX1e/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "24 Things to Remember",
+          src: "https://drive.google.com/file/d/1GmxuCvDEX9KdFWBLNOMHb63JCL6Ym4y6/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "The ABCs of Friendship",
+          src: "https://drive.google.com/file/d/1spSjDz__KS2cLMZ2vKwj55OGshUfCL1w/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Friendship",
+          src: "https://drive.google.com/file/d/1ZnKl6foBbq5buCrwVpXbgklpcm86uKHE/preview"  
+        },
+        {
+          type: "image",
+          label: "Friends CD Label",
+          src: "topic-images/201205-friends-cd-label.png"  
+        },
+        {
+          type: "image",
+          label: "Friends CD Song List 1",
+          src: "topic-images/201205-friends-cd-song-list-1.jpg"  
+        },
+        {
+          type: "image",
+          label: "Friends CD Song List 2",
+          src: "topic-images/201205-friends-cd-song-list-2.jpg"  
+        },
+        {
+          type: "image",
+          label: "Friends CD Song List 3",
+          src: "topic-images/201205-friends-cd-song-list-3.jpg"  
+        },
+     
+        {
+          type: "pdf",
+          label: "SGC DVD - Friends - Contents",
+          src: "https://drive.google.com/file/d/1Xgh0li7x-z65Mu__vjAypIcKlDIwIrEa/preview"  
+        },  
   
           
 
