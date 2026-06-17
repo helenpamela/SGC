@@ -31697,7 +31697,7 @@ const meetings = {
           src: "archangel-images/201205-ariel-properties.png"
         },
         {
-          type: "pdf",
+          type: "",
           label: "",
           src: ""
         },
@@ -31713,7 +31713,7 @@ const meetings = {
       items: [
         {
           type: "pdf",
-          label: "Heal Your Mind",
+          label: "Heal Your Mind, Heal Your World",
           src: "https://drive.google.com/file/d/1ns-GU-WYQSpMV1RRMvr3x4HrWoWZdNdx/preview"
         },
         {
@@ -31777,6 +31777,11 @@ const meetings = {
     topic: {
       title: "Beliefs - Friendship",
       items: [
+       {
+          type: "text",
+          label: "Wrote self-obituaries",
+          src: ""  
+        },
         {
           type: "pdf",
           label: "Flush Out False Beliefs",
