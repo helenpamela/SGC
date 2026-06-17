@@ -32044,7 +32044,7 @@ const meetings = {
         },        
         {
           type: "pdf",
-          label: "More of Less form",
+          label: "More or Less form",
           src: "https://drive.google.com/file/d/1-OhtWJW_Yk9NF2DijuxW5m7HVfkaMKQA/preview"  
         }, 
         {
@@ -32070,7 +32070,7 @@ const meetings = {
         src: "other-images/201204-dance-party-cd-label.png"
       },
       {
-        type: "",
+        type: "image",
         label: "SGC Dance Party CD Song List",
         src: "other-images/201204-dance-party-cd-song-list.png"
       }
