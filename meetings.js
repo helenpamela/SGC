@@ -32168,42 +32168,10 @@ const meetings = {
           type: "pdf",
           label: "Spiritual Practice - Centering",
           src: "https://drive.google.com/file/d/1gjAQM3QtqIHNtC2C0eSeTfpmA2TpeemB/preview"
-        },
-        {
-          type: "pdf",
-          label: "SGC DVD Label - Love is Letting Go of Fear",
-          src: "https://drive.google.com/file/d/1UB3uhClYmkZtnybPwEze90zNaOpT40MI/preview"
-        },
-        {
-          type: "pdf",
-          label: "SGC Believe DVD Contents ",
-          src: "https://drive.google.com/file/d/1YY9CbvP7C9QTdOFxESmE2vr487gdeH2W/preview"
-        },
-        {
-          type: "video",
-          label: "The Rose - WestLife",
-          src: "https://www.youtube.com/embed/VTCQBuYhq_s?si=dBzOwRUHa3qXcWZv"
-        },
-        {
-          type: "video",
-          label: "You Are Love",
-          src: "https://www.youtube.com/embed/NFzJw0P8J7c?si=KJKAQYgQib078a0p"
-        },
-        {
-          type: "video",
-          label: "Unconditional Love - The Simple Question",
-          src: "https://www.youtube.com/embed/U7_DFOVreZA?si=02cNEM1JM86CxMqq"
-        },
-        {
-          type: "video",
-          label: "The Power of One - Bomshel",
-          src: "https://www.youtube.com/embed/niYoH03GOdo?si=dkntKlNPP4wUzbwB"
-        },
-        {
-          type: "video",
-          label: "Just Believe",
-          src: "https://www.youtube.com/embed/OpECBDzOITE?si=QVA-9-tx4iS0UUjG"
-        },
+        }
+        
+        
+       
 
 
 
@@ -32268,6 +32236,41 @@ const meetings = {
           label: "SGC Believe CD Song List",
           src: "topic-images/201203-believe-cd-song-list.png"   
         }, 
+        {
+          type: "pdf",
+          label: "SGC DVD Label - Love is Letting Go of Fear",
+          src: "https://drive.google.com/file/d/1UB3uhClYmkZtnybPwEze90zNaOpT40MI/preview"
+        },
+        {
+          type: "pdf",
+          label: "SGC Believe DVD Contents ",
+          src: "https://drive.google.com/file/d/1YY9CbvP7C9QTdOFxESmE2vr487gdeH2W/preview"
+        },
+        {
+          type: "video",
+          label: "The Rose - WestLife",
+          src: "https://www.youtube.com/embed/VTCQBuYhq_s?si=dBzOwRUHa3qXcWZv"
+        },
+        {
+          type: "video",
+          label: "You Are Love",
+          src: "https://www.youtube.com/embed/NFzJw0P8J7c?si=KJKAQYgQib078a0p"
+        },
+        {
+          type: "video",
+          label: "Unconditional Love - The Simple Question",
+          src: "https://www.youtube.com/embed/U7_DFOVreZA?si=02cNEM1JM86CxMqq"
+        },
+         {
+          type: "video",
+          label: "The Power of One - Bomshel",
+          src: "https://www.youtube.com/embed/niYoH03GOdo?si=dkntKlNPP4wUzbwB"
+        },
+        {
+          type: "video",
+          label: "Just Believe",
+          src: "https://www.youtube.com/embed/OpECBDzOITE?si=QVA-9-tx4iS0UUjG"
+        },
         {
           type: "",
           label: "",
