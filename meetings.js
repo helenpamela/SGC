@@ -32571,7 +32571,7 @@ const meetings = {
           src: "crystal-images/201201-unakite-properties.png"
         },
         {
-          type: "pdf",
+          type: "",
           label: "",
           src: ""
         },
