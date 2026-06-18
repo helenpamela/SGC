@@ -32696,7 +32696,7 @@ const meetings = {
         {
           type: "pdf",
           label: "My Reason for Being - Nancy Smeltzer",
-          src: "https://drive.google.com/file/d/1AR_oKTgia3Qmo2xyj0aJvNqAzP5mRLFo/view?usp=drive_link"  
+          src: "https://drive.google.com/file/d/1AR_oKTgia3Qmo2xyj0aJvNqAzP5mRLFo/preview"  
         },
         {
           type: "pdf",
@@ -32712,7 +32712,7 @@ const meetings = {
     other: [
       {
         type: "text",
-        label: "During Healing moment: listened to Balloon Bouquet meditation and did releasing ceremony with fire with Karen Drucker 'I allow, I surrender'",
+        label: "During Healing moment: listened to Balloon Bouquet meditation and did fire releasing ceremony listening to Karen Drucker 'I allow, I surrender'",
         src: ""
       },
       {
