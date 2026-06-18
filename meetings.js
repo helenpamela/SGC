@@ -32485,5 +32485,244 @@ const meetings = {
     ]
   },
 
+  "201201": {
+    title: "January 2012",
+    month: "January",
+    year: 2012,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/17PQFCziJEsgLbUKZVyFVErfTqjzaEgwM/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "image",
+        label: "Announcements",
+        src: "announcement-images/201201-announcements.png"
+      }, 
+      {
+        type: "pdf",
+        label: "World Angel Day",
+        src: "https://drive.google.com/file/d/1MgwSAkDjhcUHj7oWmHshZH0nQMk1RaN5/preview"
+      }, 
+      {
+        type: "pdf",
+        label: "Happy Movie Poster",
+        src: "https://drive.google.com/file/d/16jPhH5lUzR7acyh0MkgFr1ecaNZLkHQO/preview"
+      },
+
+
+
+      
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Unakite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201201-unakite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201201-unakite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Schedule It!",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "Abraham's Creative Workshop",
+      items: [
+        {
+          type: "pdf",
+          label: "Abraham's Creative Workshop",
+          src: "https://drive.google.com/file/d/1Tl50n52ksFjIjz45Sbo7GE04LxnbE7CN/preview"
+        }
+      ]
+    },
+
+    tags: ["unakite", "abraham", "creative workshop", "intention", "intent", "intentions", "dvd"],
+
+    topic: {
+      title: "Intentions",
+      items: [
+        {
+          type: "image",
+          label: "SGC Intentions DVD Label",
+          src: "topic-images/201201-sgc-intention-dvd-label.png"  
+        },
+        {
+          type: "pdf",
+          label: "SGC Intentions DVD Contents",
+          src: "https://drive.google.com/file/d/1WzHmKX2T7SmJVuY3JdaXq_tt7SV_SZNX/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "The Inspired Life",
+          src: "https://drive.google.com/file/d/1tBqL0TuBORne2Gj5rD8ZuqIvLAMTp5K4/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "10 Ways to Set a Powerful Intent",
+          src: "https://drive.google.com/file/d/1JY3dgsUsvN7twQdSJG3xf0PyswlKTEkU/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "My Definition of Success",
+          src: "https://drive.google.com/file/d/1xM6V7YHtP8vl1SBgLnqX_aIbSt3uNeNp/preview"  
+        }, 
+        
+        {
+          type: "pdf",
+          label: "Pleasure List Worksheet",
+          src: "https://drive.google.com/file/d/1R_5kyV8CvvnA74hY8hjNJdvM7GbAEamK/preview"  
+        },
+        {
+          type: "pdf",
+          label: "How to Overcome Victim Mentality - Positivity Blog",
+          src: "https://drive.google.com/file/d/1ASmM24ve8b7aKQfQ9AA_Lif161frpKug/preview"  
+        },
+        {
+          type: "pdf",
+          label: "How to Love Yourself - Louise Hay's 12 Commandments",
+          src: "https://drive.google.com/file/d/1Oc6RWT2WYP4tl-xTvDXWr1aiCQKPC8yk/preview"  
+        },
+        {
+          type: "pdf",
+          label: "My Reason for Being - Nancy Smeltzer",
+          src: "https://drive.google.com/file/d/1AR_oKTgia3Qmo2xyj0aJvNqAzP5mRLFo/view?usp=drive_link"  
+        },
+        {
+          type: "pdf",
+          label: "This is Your Life - Phil Evans",
+          src: "https://drive.google.com/file/d/1LWv3modvjOszi9GGIIX--GywAaFnPQMk/preview"  
+        },    
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "text",
+        label: "During Healing moment: listened to Balloon Bouquet meditation and did releasing ceremony with fire with Karen Drucker 'I allow, I surrender'",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
