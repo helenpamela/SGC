@@ -33232,12 +33232,12 @@ const meetings = {
         {
           type: "pdf",
           label: "Abraham Worksheet - Blank",
-          src: "https://drive.google.com/file/d/1dPXQzgr9bvkbQtJNNmB42sV1RFK2Y36D/view?usp=drive_link"  
+          src: "https://drive.google.com/file/d/1dPXQzgr9bvkbQtJNNmB42sV1RFK2Y36D/preview"  
         },
         {
           type: "pdf",
           label: "Abraham Worksheet with Answers",
-          src: "https://drive.google.com/file/d/1AKNh27T4WW66kkABjqk6XspS_-KKVFRD/view?usp=drive_link"  
+          src: "https://drive.google.com/file/d/1AKNh27T4WW66kkABjqk6XspS_-KKVFRD/preview"  
         }, 
         {
           type: "pdf",
@@ -33334,7 +33334,7 @@ const meetings = {
           src: "https://drive.google.com/file/d/1xUZLFbIFSSlrg-YDSpyd-4NTenL3K_rx/preview"  
         },
         {
-          type: "pdf",
+          type: "",
           label: "",
           src: ""  
         },
