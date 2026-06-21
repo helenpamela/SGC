@@ -33066,5 +33066,300 @@ const meetings = {
     ]
   },
 
+  "201110": {
+    title: "October 2011",
+    month: "October",
+    year: 2011,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src:  "https://drive.google.com/file/d/1nvz35KFCSPy4_IE_R3XqOydz3bIi6S6r/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+        
+      }
+    ],
+
+    focus: {
+      title: "Pyrite & Tiger's Eye",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201110-pyrite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201110-pyrite-properties.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201110-tigers-eye.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201110-tigers-eye-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "The Colors of Abundance: Crystals for Prosperity",
+          src: "https://drive.google.com/file/d/1ngenHl-i8PVsayt9zA7qX3bH5bkx5rAV/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Ho'oponopono",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["abraham", "crystal", "pyrite", "tiger's eye", "tiger", "eye", "ho'oponopono", "the secret",
+          "vortex","emotional guidance system", "worksheet"
+    ],
+
+    topic: {
+      title: "Abraham",
+      items: [
+        {
+          type: "pdf",
+          label: "Abraham Worksheet - Blank",
+          src: "https://drive.google.com/file/d/1dPXQzgr9bvkbQtJNNmB42sV1RFK2Y36D/view?usp=drive_link"  
+        },
+        {
+          type: "pdf",
+          label: "Abraham Worksheet with Answers",
+          src: "https://drive.google.com/file/d/1AKNh27T4WW66kkABjqk6XspS_-KKVFRD/view?usp=drive_link"  
+        }, 
+        {
+          type: "pdf",
+          label: "Synopsis of Abraham's Teachings",
+          src: "https://drive.google.com/file/d/1dz1KqXNNmDGgFL2ARoOAsrjlt32M0liV/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Universal Laws",
+          src: "https://drive.google.com/file/d/15NW_uU1LP2tBpXEacsKWOOsNaXzXyFoA/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "What is the Law of Attraction?",
+          src: "https://drive.google.com/file/d/1uLNSyZq3D9GAiDqqVk1vR00MXjBF95er/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Law of Attraction - How Do We Attract?",
+          src: "https://drive.google.com/file/d/170kJ31aSh8Ww6d9k5TP_EDtgM2JS1mfq/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Your Emotional Guidance System",
+          src: "https://drive.google.com/file/d/1w0_97VSpgCjqrNp2KSnQj0v6pZYjzTQp/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Take the Emotional Journey",
+          src: "https://drive.google.com/file/d/1QhF3l2mMFRCFsrVGJFeR7fpWY7ZGz3c4/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Clarity Through Contrast Worksheet",
+          src: "https://drive.google.com/file/d/1dPKJsYBu9JwgRP5ta1N5f4MlDEO_2nNn/preview"  
+        }, 
+        
+        {
+          type: "pdf",
+          label: "Maintaining Positive Thoughts",
+          src: "https://drive.google.com/file/d/1HvgwZo33YGik1VdNFw7BMLRsM05_VF00/preview"  
+        },  
+        
+        {
+          type: "pdf",
+          label: "Set Point",
+          src: "https://drive.google.com/file/d/1NjRqXI_BgI7S8nYhizapF-DumWEl4nUy/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "In the Vortex",
+          src: "https://drive.google.com/file/d/1W5V7fvDFzoHniBLID5IB6e5DuVZOApQM/preview"  
+        },
+        {
+          type: "pdf",
+          label: "How to Attract Abundance",
+          src: "https://drive.google.com/file/d/1Mw3UG-nHMBvYT7-_Pq86HsOvnQobpwVg/preview"  
+        },
+        
+        {
+          type: "pdf",
+          label: "22 Processes",
+          src: "https://drive.google.com/file/d/1S8nADNW7MDuczYC3gK8dK3pINkDIExep/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Prosperity Game",
+          src: "https://drive.google.com/file/d/1xk_ECqi1i055pv2gNc_twWnrbrJzxp0E/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Abraham's Focus Wheel Process",
+          src: "https://drive.google.com/file/d/1-M7WyEMTG4CmQOcWjFIHmE8UTkmFaS-3/preview"
+        }, 
+        {
+          type: "pdf",
+          label: "To the Universe",
+          src: "https://drive.google.com/file/d/1SBP3u46v3ZuJTnpY3_c8KomXiVTGrS0d/preview"  
+        },
+        {
+          type: "pdf",
+          label: "3 Part Harmony",
+          src: "https://drive.google.com/file/d/1rAVC6zq6aZAfGVaOuAwoOQYDmb32XR4x/preview"  
+        },
+         
+        {
+          type: "pdf",
+          label: "The Secret - Summary of Teachings",
+          src: "https://drive.google.com/file/d/1o7TNGWlw3TEINuFiPPdUMPaYRKJnCh3U/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Secret - I Am So Happy Now... - Form",
+          src: "https://drive.google.com/file/d/1xUZLFbIFSSlrg-YDSpyd-4NTenL3K_rx/preview"  
+        },
+        {
+          type: "pdf",
+          label: "",
+          src: ""  
+        },
+         
+      
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
