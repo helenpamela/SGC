@@ -33361,5 +33361,381 @@ const meetings = {
     ]
   },
 
+  "201109": {
+    title: "September 2011",
+    month: "September",
+    year: 2011,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1btbMFq305_bUiCedM7p7Dtk54e1_6Vtd/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      }
+    ],
+
+    focus: {
+      title: "Rhodonite & Sugilite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201109-rhodonite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201109-rhodonite-properties.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201109-sugilite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201109-sugilite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Rhodonite",
+          src: "https://drive.google.com/file/d/1Z-8N3b7nnqXnGr5EEsYq97zIBYR3uLZd/preview"
+        },
+        
+        {
+          type: "pdf",
+          label: "Sugilite",
+          src: "https://drive.google.com/file/d/1gsUQZmTQanwR8-KWxRPP-dSDm29B_DJ9/preview"
+        },
+        {
+          type: "pdf",
+          label: "Sugilite - The Book of Stones",
+          src: "https://drive.google.com/file/d/1muWUfkKxga_Q-9pjGAl_IqPpFCeRettK/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "All About Me",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["forgive","forgiveness", "crystal", "rhodonite", "sugilite", "all about me"],
+
+    topic: {
+      title: "Forgiveness",
+      items: [
+        {
+          type: "pdf",
+          label: "2 Daily Messages on Forgiveness - Alan Cohen",
+          src: "https://drive.google.com/file/d/1h9J_TU4rQ-2-zN2xqoiK_8OFdBMvIZP6/preview"  
+        },
+        {
+          type: "pdf",
+          label: "3 Daily Messages on Forgiveness",
+          src: "https://drive.google.com/file/d/1GwJSF-i7k34LFNLzi8VuySeYMk8CRNVu/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "10 Stepping Stones - Jampolsky",
+          src: "https://drive.google.com/file/d/17iHmZeCUaP5no_TDBC3OpNcUbVKqRaM9/preview"  
+        },   
+        {
+          type: "pdf",
+          label: "Affirmations for Forgiveness",
+          src: "https://drive.google.com/file/d/1FnzdTC1E9lXYlt27sLZ7sWqSkZjj9wgU/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Choosing Forgiveness - Louise Hay",
+          src: "https://drive.google.com/file/d/1ENJ42k0omV-1gIZsfRkJM3MPEx6_Gwxg/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Circle of Prayer - Forgiveness",
+          src: "https://drive.google.com/file/d/1kPzVOl9WjV1UN7JJVzGyKr6N0Ov7xCsV/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Do You Give Your Power Away? - Louise Hay",
+          src: "https://drive.google.com/file/d/1eZYaWBNvCogZrKCzaluJs8dfF39pim0o/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Find Peace in Forgiveness - Wayne Dyer",
+          src: "https://drive.google.com/file/d/1eZYaWBNvCogZrKCzaluJs8dfF39pim0o/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Flip Side Forgiveness Exercise - Dan Joseph",
+          src: "https://drive.google.com/file/d/1zUGH18kQO7AVHsx5kNdS1NsgncIyiEIL/preview"  
+        },
+         {
+          type: "pdf",
+          label: "Forgiveness - Abraham",
+          src: "https://drive.google.com/file/d/1BlGgII11ryq-QpjM73EYDgGO5btB8BN5/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness - Letting Go of Grudges - Mayo Clinic",
+          src: "https://drive.google.com/file/d/1oSceCX1J-HSY13gMdTKchCNh64NPKYjp/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness - Lyrics - Leona Lewis",
+          src: "https://drive.google.com/file/d/1Rd3Ovi4LIiq--cqK_Y6LqOwxxCNHrFrl/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness - Positivity Blog",
+          src: "https://drive.google.com/file/d/171exyRAZTnSNmebMfcuHlYwFKW2yJH_p/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness Affirmations",
+          src: "https://drive.google.com/file/d/1IrokZ3_eRix4UjXjPwAShRFlSFgVPCbs/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness Exercise - Sri & Kira",
+          src: "https://drive.google.com/file/d/1X6fcYMMrqxHcY6qJTGjQr4Ck7HC4-_c0/preview"  
+        },
+        {
+          type: "pdf",
+          label: "forgiveness Gives You Wings - Robert Holden",
+          src: "https://drive.google.com/file/d/1vpd_PMy3dGIMTGVSqkhigG7zv8BcV3Pw/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness Images",
+          src: "https://drive.google.com/file/d/1mPFCD08Cp0jGEkUqlvJK1XUxTMFWCPNc/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgive Yourself - Wayne Dyer",
+          src: "https://drive.google.com/file/d/1E_C9fIJBq3AWvlsLrZjj1UYDzv8_9LdO/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiving Oneself",
+          src: "https://drive.google.com/file/d/1Gm8FP-vLj6ukHWpjG1j8gl71Q3k_0x5N/preview"  
+        },
+        {
+          type: "pdf",
+          label: "For I Give",
+          src: "https://drive.google.com/file/d/1eXhdbhKLsY4xw5C9wQWgihf0gR_nhvDN/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Has Anyone Told You",
+          src: "https://drive.google.com/file/d/1W_CixQwA363mePHGa6NI-oHG4m6jalRa/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Ho'oponopono - from Zero Limits",
+          src: "https://drive.google.com/file/d/1Qx_EH8ltbsevCMrvUJVMfZSkuKGRGXNR/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Ho'oponopono - Prayer",
+          src: "https://drive.google.com/file/d/187yj8gHTX4BXJVaIh6MCufRfjaPZJ7xr/preview"  
+        },
+    
+        {
+          type: "pdf",
+          label: "Ho'oponopono - Statements",
+          src: "https://drive.google.com/file/d/1CPQX1JoXOkpYhCX4ls-zVOaIghmksEYX/preview"  
+        },
+        {
+          type: "pdf",
+          label: "How to Forgive Yourself",
+          src: "https://drive.google.com/file/d/1KOTIJtzlCYTNILcsp4aAPdOy2gq4YTMm/preview"  
+        },
+         {
+          type: "pdf",
+          label: "Selections from Love Yourself, Heal Your Life",
+          src: "https://drive.google.com/file/d/111c6jqtcCPRXvWuyrwbQr-_mMgdLPOH9/preview"  
+        },
+        {
+          type: "pdf",
+          label: "My Forgiveness List form - from Connie Domino",
+          src: "https://drive.google.com/file/d/1kTzuHix-hRUYh5O4_gr6CdP-GM2naN1O/preview"  
+        },
+         {
+          type: "pdf",
+          label: "Nine Steps to Forgiveness - Oprah",
+          src: "https://drive.google.com/file/d/1hcZaI5Ku5aBC5xlT8UJyzI1cWctQ-3t9/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Simply Forgive",
+          src: "https://drive.google.com/file/d/108jV0_GcFHP0T_aZYA5x0fNqL3qOBeLm/preview"  
+        },
+         {
+          type: "pdf",
+          label: "The Forgiveness Road",
+          src: "https://drive.google.com/file/d/1GKeepQgG-LfjLN6L82CJ8EV9UacGuDDE/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Guest House - Rumi",
+          src: "https://drive.google.com/file/d/1oakOYc7_DuVJBx9qeL59oPzj2uHQlVuB/preview"  
+        },
+         {
+          type: "pdf",
+          label: "The Law of Forgiveness - Self-Talk - Connie Domino",
+          src: "https://drive.google.com/file/d/1lkqNL_BpWpWh_C9RUWgEZbZDxv_XZ3Dl/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Stages of Radical Forgiveness",
+          src: "https://drive.google.com/file/d/1_ZXZB8ddLAg-z5-veRw8hDTX7UzmKAxa/preview"  
+        },
+         {
+          type: "pdf",
+          label: "Three Forgiveness Affirmations",
+          src: "https://drive.google.com/file/d/13WfS-deIPK3SXzpjNp3SYwDZukiNR-Vt/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Wings of Forgiveness - Lyrics - India Arie",
+          src: "https://drive.google.com/file/d/1fDHmZxHEnM8MG-iEu1W9PMbEdLsHoZ5r/view?usp=drive_link"  
+        },
+         {
+          type: "pdf",
+          label: "SGC Forgiveness DVD Contents",
+          src: "https://drive.google.com/file/d/1l4_XTZ7goDK3cJug8Urq47q228xA1RNs/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness DVD - YouTube Links",
+          src: "https://drive.google.com/file/d/1ZV8Gji4ngsPqYHpwTbmpX0twFd-zKCng/preview"  
+        },
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
