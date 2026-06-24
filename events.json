@@ -25,9 +25,9 @@
       "status": "active",
       "image": "events-images/salad.png",
       "type": "Lunch",  
-      "datetime": "Wednesday July 29 - Time TBD",
-      "location": "Lou Malnati's Pizzeria",
-      "note": ""
+      "datetime": "Wednesday July 29 - Time 11:30 AM",
+      "location": "Lou Malnati's - Tempe Marketplace",
+      "note": "Pizza, anyone?"
      },
      {
       "status": "active",
