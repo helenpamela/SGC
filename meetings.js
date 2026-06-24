@@ -33570,7 +33570,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Find Peace in Forgiveness - Wayne Dyer",
-          src: "https://drive.google.com/file/d/1eZYaWBNvCogZrKCzaluJs8dfF39pim0o/preview"  
+          src: "https://drive.google.com/file/d/14qg1a6OTQOisPRhbLsiCUa4oJVCUomKI/preview"  
         },
         {
           type: "pdf",
@@ -33609,7 +33609,7 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "forgiveness Gives You Wings - Robert Holden",
+          label: "Forgiveness Gives You Wings - Robert Holden",
           src: "https://drive.google.com/file/d/1vpd_PMy3dGIMTGVSqkhigG7zv8BcV3Pw/preview"  
         },
         {
@@ -33661,7 +33661,7 @@ const meetings = {
          {
           type: "pdf",
           label: "Selections from Love Yourself, Heal Your Life",
-          src: "https://drive.google.com/file/d/111c6jqtcCPRXvWuyrwbQr-_mMgdLPOH9/preview"  
+          src: "https://drive.google.com/file/d/1GKZky0Ug-K7Xxl5zuD40fhvp1bomYsYL/preview"  
         },
         {
           type: "pdf",
@@ -33706,7 +33706,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Wings of Forgiveness - Lyrics - India Arie",
-          src: "https://drive.google.com/file/d/1fDHmZxHEnM8MG-iEu1W9PMbEdLsHoZ5r/view?usp=drive_link"  
+          src: "https://drive.google.com/file/d/1fDHmZxHEnM8MG-iEu1W9PMbEdLsHoZ5r/preview"  
         },
          {
           type: "pdf",
@@ -33718,6 +33718,40 @@ const meetings = {
           label: "Forgiveness DVD - YouTube Links",
           src: "https://drive.google.com/file/d/1ZV8Gji4ngsPqYHpwTbmpX0twFd-zKCng/preview"  
         },
+        {
+          type: "video",
+          label: "Forgiveness and the Freedom of Letting Go",
+          src:  "https://www.youtube.com/embed/3D4VMZb8wLY?si=_l_1fg3MGf_sRKxa"   
+        },
+        {
+          type: "video",
+          label: "Archbishop Desmond Tutu on Forgiveness",
+          src: "https://www.youtube.com/embed/raG6eIL-LM0?si=O66LthhLpXDNU6Rt"  
+        },
+        {
+          type: "video",
+          label: "Forgiveness is the Key - Jerry Schlei",
+          src: "https://www.youtube.com/embed/LZsYSH4f9QQ?si=TyUhWv5bwjSew4mS" 
+        },
+        {
+          type: "video",
+          label: "Forgiveness - Leona Lewis",
+          src: "https://www.youtube.com/embed/UvnQVONN1Gs?si=7iMXlSQ9saYCHf-_"  
+        },
+        {
+          type: "video",
+          label: "The Gift of Forgiveness",
+          src: "https://www.youtube.com/embed/erqJF_ppqbk?si=RRqzNuv8IPgSBYEH" 
+        },
+        {
+          type: "video",
+          label: "The Gift of Forgiveness",
+          src: "" 
+        }
+
+
+
+        
 
       ]
     },
