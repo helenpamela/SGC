@@ -39,12 +39,12 @@
       "src2": "",
       "tags": ["concept", "law of attraction", "abraham"]
      },
-     {   
+      {   
       "section": "Concepts",
       "type": "PDF",
-      "file-name": "C2d_AbrahamsEmotionalScale1.pdf",
-      "label": "😠 Abraham's Emotional Guidance Scale", 
-      "src1": "https://drive.google.com/file/d/1OP98JI0yzn_HNCto0vb3ZQIq1HRvC0WS/preview",
+      "file-name": "C2d_AbrahamsScaleOfEmotions1.pdf",
+      "label": "😠 Abraham's Scale of Emotions 1", 
+      "src1": "https://drive.google.com/file/d/1Evb9SkPzs20VcZrXFmqhv2xSDCdmAW7U/preview",
       "src2": "",
       "tags": ["concept", "law of attraction", "abraham", "emotions", "scale"]
      },
@@ -52,7 +52,16 @@
       "section": "Concepts",
       "type": "PDF",
       "file-name": "C2e_AbrahamsEmotionalScale2.pdf",
-      "label": "😢 Abraham's Emotional Guidance Scale 2", 
+      "label": "😠 Abraham's Emotional Guidance Scale 2", 
+      "src1": "https://drive.google.com/file/d/1OP98JI0yzn_HNCto0vb3ZQIq1HRvC0WS/preview",
+      "src2": "",
+      "tags": ["concept", "law of attraction", "abraham", "emotions", "scale"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C2f_AbrahamsEmotionalScale3.pdf",
+      "label": "😢 Abraham's Emotional Guidance Scale 3", 
       "src1": "https://drive.google.com/file/d/1A6gKYltTnRsIFVn2pz8k_95wB38UCU01/preview",
       "src2": "",
       "tags": ["concept", "law of attraction", "abraham", "emotions", "scale"]
@@ -99,6 +108,15 @@
       "file-name": "C4_BeHereNow.pdf",
       "label": "👀 Be Here Now", 
       "src1": "https://drive.google.com/file/d/1VCuY2aIFarAd9IIaAjxxDA3UcboV_PUj/preview",
+      "src2": "",
+      "tags": ["concept", "be here now", "ram dass", "mindfulness"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C4a_BeHereNow.pdf",
+      "label": "👀 Be Here Now AI", 
+      "src1": "https://drive.google.com/file/d/1s0Fn1S2ezXyk8HOlcjxvS5CQXPO2ysE0/preview",
       "src2": "",
       "tags": ["concept", "be here now", "ram dass", "mindfulness"]
      },
@@ -181,6 +199,26 @@
       "src2": "",
       "tags": ["concept", "belief", "system","limiting", "identify", "perspective",
                 "mindfulness", "self-reflection", "role model", "gratitude", "support"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C6d_LimitingBeliefsHowToOvercome.pdf",
+      "label": "🤔 How to Overcome Limiting Beliefs", 
+      "src1": "https://drive.google.com/file/d/15xNC0XA2uqDKCr2tpcBBPOqdNNGpAFnL/preview",
+      "src2": "",
+      "tags": ["concept", "belief", "system","limiting", "acknowledge", "question",
+                "reframe", "judgment", "self-limiting"]
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C6e_LimitingBeliefsNegVsPos.pdf",
+      "label": "🤔 Essential Affirmations to Replace Limiting Beliefs", 
+      "src1": "https://drive.google.com/file/d/1hROBsyWVbSXc3I8__kWY_E71Ad9S0qbK/preview",
+      "src2": "",
+      "tags": ["concept", "belief", "replace","limiting", "affirmation", "positive"
+              ]
      },
      {   
       "section": "Concepts",
@@ -857,7 +895,30 @@
       "tags": ["concept", "mindful", "here and now", "being", "observing", "sensing", 
               "describing", "noticing", "non-judgemental", "non-judgmental", "one thing",
               "meditation", "nonjudgment"]     
-     },     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C41b_Three Components of Mindfulness.pdf",
+      "label": "3️⃣ Three Components of Mindfulness", 
+      "src1": "https://drive.google.com/file/d/13zbmTA2RPALaDR9Ar8Bfi0B6oSxBg0s8/preview",
+      "src2": "",
+      "tags": ["concept", "mindful", "intention", "attention", "attitude", "sensing", 
+              "non-judgemental", "non-judgmental", "component",
+              "meditation", "nonjudgment"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C41c_9 Attitudes of Mindfulness.pdf",
+      "label": "9 Attitudes of Mindfulness", 
+      "src1": "https://drive.google.com/file/d/1-mYjcRJdzhPg7aIjtMRzVijf1iAuHFcG/preview",
+      "src2": "",
+      "tags": ["concept", "mindful", "patience", "beginner's mind", "gratitude", "generosity", 
+              "non-judgemental", "non-judgmental", "letting go", "trust", "non-striving", "acceptance",
+              "meditation", "nonjudgment"]     
+     },
+
      {   
       "section": "Concepts",
       "type": "PDF",
@@ -997,7 +1058,16 @@
       "src1": "https://drive.google.com/file/d/1K5Cdf3KyfCjpmYc-bqYRevT922DdONdS/preview",
       "src2": "",
       "tags": ["concept","imagine", "mental image", "brain", "new", "clarity", "innovative", "perspective" ]     
-     },    
+     }, 
+      {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C51d_Imagination.pdf",
+      "label": "💫 Imagination Quotes 2", 
+      "src1": "https://drive.google.com/file/d/13oDx4hScpX2ebQgiSc8og9qV3OHmCk0K/preview",
+      "src2": "",
+      "tags": ["concept","imagine", "mental image", "brain", "new", "clarity", "innovative", "perspective" ]     
+     },   
      {   
       "section": "Concepts",
       "type": "PDF",
@@ -1019,22 +1089,23 @@
      {   
       "section": "Concepts",
       "type": "PDF",
+      "file-name": "C52c_How Emotions Affect Body.pdf",
+      "label": "🤣 How Emotions Affect Body Systems", 
+      "src1": "https://drive.google.com/file/d/1KmXZOVLtcecz9_r_2383mv-qjUjRh5Fn/preview",
+      "src2": "",
+      "tags": ["concept","anger", "heart", "anxiety", "spleen", "lung", "sadness", "kidney", "fear",
+              "liver", "joy", "peace", "contentment", "gratitude", "happiness", "emotions", "body"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
       "file-name": "C53_Power of Words.pdf",
       "label": "🔠 Power of Words", 
       "src1": "https://drive.google.com/file/d/1Try_nM_E8eH6YMKSg3ixcL_RhoLPvt9d/preview",
       "src2": "",
       "tags": ["concept","power", "word", "inspire", "motivate", "comfort", "heal" ]     
      },
-     {   
-      "section": "Concepts",
-      "type": "PDF",
-      "file-name": "C54_How Emotions Affect Body.pdf",
-      "label": "🤣 How Emotions Affect the Body", 
-      "src1": "https://drive.google.com/file/d/1KmXZOVLtcecz9_r_2383mv-qjUjRh5Fn/preview",
-      "src2": "",
-      "tags": ["concept", "body", "emotion", "anger", "heart", "worry", "spleen", "anger",
-               "liver", "fear", "kidney", "sad", "lung" ]     
-     },
+
      {   
       "section": "Concepts",
       "type": "PDF",
@@ -1056,6 +1127,16 @@
      {   
       "section": "Concepts",
       "type": "PDF",
+      "file-name": "C58_Let Them Theory.pdf",
+      "label": "😎 'Let Them' Theory", 
+      "src1": "https://drive.google.com/file/d/17yihewa9IrewrGvU-wrY7lwNmnPhld90/preview",
+      "src2": "",
+      "tags": ["concept", "let them", "release", "control", "peace", "let me", "allow", "accept"]     
+     },
+
+     {   
+      "section": "Concepts",
+      "type": "PDF",
       "file-name": "C59_How to Gain More Clarity AI.pdf",
       "label": "👓 How to Gain More Clarity", 
       "src1": "https://drive.google.com/file/d/1y5U1dAjzQMT5Q3Jk02-6Vb3gjO3shP0-/preview",
@@ -1071,14 +1152,24 @@
       "src2": "",
       "tags": ["concept", "clarity", "draining", "learn", "admire", "traits", "accomplishments",
               "goal", "declutter", "ideal"]     
+     },
+     {   
+      "section": "Concepts",
+      "type": "PDF",
+      "file-name": "C61_Perseverance.pdf",
+      "label": "💪🏻 Perseverance", 
+      "src1": "https://drive.google.com/file/d/1fX8l2HL1-V1ApDpJvA4AUabRX8Ct5Usp/preview",
+      "src2": "",
+      "tags": ["concept", "persevere", "perseverance", "overcome", "obstacles", "determined", "courage",
+              "keep going", "difficulty", "discourage"]     
      }
      
-
-
-
-
-
      
+
+
+
+
+
 
 
      
