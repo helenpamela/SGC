@@ -33995,5 +33995,206 @@ const meetings = {
     ]
   },
 
+  "201107": {
+    title: "July 2011",
+    month: "July",
+    year: 2011,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1l0p1ukquxrJzeZGVgvy6miXtvbVPSioM/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Carnelian & Heart Chakra & Root Chakra",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201107-carnelian.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201107-carnelian-properties.png"
+        },
+        {
+          type: "image",
+          src: "chakra-images/201410-root.png"
+        },
+        {
+          type: "image",
+          src: "chakra-images/201410-root-properties.jpg"
+        },
+        {
+          type: "image",
+          src: "chakra-images/201502-heart.png"
+        },
+        {
+          type: "image",
+          src: "chakra-images/201502-heart-properties.jpg"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "What I Love About Myself & All About Me",
+      items: [
+        {
+          type: "pdf",
+          label: "What I Love About Myself form",
+          src: "https://drive.google.com/file/d/1EI4nU3Kjb7mmKS-wIAIeoCJI5AmJj7Y5/preview"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["crystal", "chakra", "root", "heart", "shiva lingam", "jampolsky", "attitudial", "healing"],
+
+    topic: {
+      title: "Attitudinal Healing",
+      items: [
+        {
+          type: "pdf",
+          label: "Principles of Attitudinal Healing - Poster",
+          src: "https://drive.google.com/file/d/1PhtmPKXFRTSBo3nJmuTWnZVsc-WI598z/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Principles of Attitudinal Healing - from CAH",
+          src: "https://drive.google.com/file/d/1BxPkcZr3UuSTccmYbTtDN5x-g867PIn5/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Change Your Mind, Change Your Life by Jerry Jampolsky",
+          src: "https://drive.google.com/file/d/17Ts-0mNntrwCckUkZUosoe5cpfoPRvLK/preview"  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Shiva Lingam - from PC",
+        src: "https://drive.google.com/file/d/1EvATJoYTazkaO9TPo8C8iiLIF93E7FlE/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+
+
 }
 
