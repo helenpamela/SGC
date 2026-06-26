@@ -34194,6 +34194,255 @@ const meetings = {
     ]
   },
 
+  "201106": {
+    title: "June 2011",
+    month: "June",
+    year: 2011,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1nKIEf2iYQUyv4sZ4eikBBQT8ZZ8Vcujn/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Clear Quartx & All Chakras",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201106-quartz-clear.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201106-quartz-clear-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Chakras - from FolkNouveau",
+          src: "https://drive.google.com/file/d/1l0EPXhUXUaENgs12H4ieUMGpckKmry1B/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chakra Reference Chart",
+          src: "https://drive.google.com/file/d/1TCUMw2GsEfTCELv2n13GIU59hJmH-TFy/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chakra Overview Chart 1",
+          src: "https://drive.google.com/file/d/1p8J3Rg8ZSjOklOFKN-9tcK2kxmJwjv4E/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chakra Information Chart",
+          src: "https://drive.google.com/file/d/1_Hsw2PT3yLyPHJd8TcFUVc256AcBBDl5/preview"
+        },
+        {
+          type: "pdf",
+          label: "Image of Chakras",
+          src: "https://drive.google.com/file/d/1rZhM5LR3tcBcIaakLimdHQ7e5c1jfBxi/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chakra Chart from ChakraEnergy.com",
+          src: "https://drive.google.com/file/d/1DUTXLLApmh1Pz5LGkYEc5aZ4_sVxIhmn/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chakra Chart from book",
+          src: "https://drive.google.com/file/d/1qAZz_aPzAMOa9YzLJOrIhcIyDRWMTvbf/preview"
+        },
+      
+      
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Set Your Intention - Create Your Day",
+      items: [
+        {
+          type: "pdf",
+          label: "Create My Day - card",
+          src: "https://drive.google.com/file/d/1ZmXuMAdLO0gox63RvWQU-WS9adjfajs9/preview"
+        },
+        {
+          type: "pdf",
+          label: "Centering Process",
+          src: "https://drive.google.com/file/d/1j0VM2P6FEvx91Ee8kh6n_pr7adon-YRK/preview"
+        },
+        {
+          type: "pdf",
+          label: "Manage Your Choices",
+          src: "https://drive.google.com/file/d/10EVc2k3eg-c-EBAfCK1uh_02CHrcsVf3/preview"
+        },
+        {
+          type: "pdf",
+          label: "100 Most Important Life Choices",
+          src: "https://drive.google.com/file/d/1iSgjtmnHXXdS97zHA4oeiHZWY4jle6sN/preview"
+        },
+        {
+          type: "pdf",
+          label: "10 Steps to Making Choices",
+          src: "https://drive.google.com/file/d/1t0392yqCLGZUSmeeGcolvAzS4vcmguJE/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "Oneness Meditation",
+      items: [
+        {
+          type: "pdf",
+          label: "Oneness Meditation",
+          src: "https://drive.google.com/file/d/1XpJDP609op05CUltK6zCEYWG4hujRP_i/preview"
+        }
+      ]
+    },
+
+    tags: ["crystal", "chakra", "clear quartz", "create my day", "set intention", "intention",
+          "let your light shine"
+    ],
+
+    topic: {
+      title: "Choose to Let Your Light Shine",
+      items: [
+        {
+          type: "pdf",
+          label: "I Claim My Magnificence",
+          src: "https://drive.google.com/file/d/120ZsAbSDQeC0r8rrAs3tfPNO0ciBewy2/preview"  
+        },
+        {
+          type: "pdf",
+          label: "It's Safe to Let Your Light Shine - Archangel Gabriel",
+          src: "https://drive.google.com/file/d/17vdb1VuVW0Pbs3o4rgOYY-BOX7zbx5xr/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Let It Shine - Lyrics",
+          src: "https://drive.google.com/file/d/1l4WLXewejnZ8wp6ca3o5VMNXFZCLlzmI/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Let Your Light Shine - Marianne Williamson",
+          src: "https://drive.google.com/file/d/11xaRtmd5kufUJ0bvFTX70QwU7G9Nf3px/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Let Your Light Shine with Image - Marianne Williamson",
+          src: "https://drive.google.com/file/d/1qs2tO-9cAt_nF7ars0rCl69DFTRYpJYe/preview"  
+        }, 
+         {
+          type: "pdf",
+          label: "Shine Your Light - Daily Messages",
+          src: "https://drive.google.com/file/d/17Rf6tpW12MfrgqQ2fI2NnA_n6xgVi7-a/preview"  
+        }, 
+        
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Message from the Angels",
+        src: "https://drive.google.com/file/d/1ga8355ZRNNdu_t1LbRg5T0UNe4RI7F3y/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 
 
 }
