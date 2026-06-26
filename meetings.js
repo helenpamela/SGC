@@ -34254,7 +34254,7 @@ const meetings = {
     ],
 
     focus: {
-      title: "Clear Quartx & All Chakras",
+      title: "Clear Quartz & All Chakras",
 
       items: [
         {
