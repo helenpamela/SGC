@@ -34640,7 +34640,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Meditation - Crystal Links",
-          src: "https://drive.google.com/file/d/1J9KK9z5-I1b2Fft4fqw4YSqrCaL2Pgt5/view?usp=drive_link"  
+          src: "https://drive.google.com/file/d/1J9KK9z5-I1b2Fft4fqw4YSqrCaL2Pgt5/preview"  
         },
         
         {
@@ -34650,7 +34650,7 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "What Would it Take to Quiet Your Mind",
+          label: "What Would it Take to Be Still",
           src: "https://drive.google.com/file/d/1CMpGs321UbcBfkiDsuFurgidU1jkwUHm/preview"  
         },
         {
@@ -34664,7 +34664,7 @@ const meetings = {
           src: "https://drive.google.com/file/d/1wcdMd9G6xVVYR4vgrOrKH4nFwNSeC1ns/preview"  
         },
         {
-          type: "pdf",
+          type: "",
           label: "",
           src: ""  
         }
