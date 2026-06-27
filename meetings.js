@@ -34443,7 +34443,251 @@ const meetings = {
     ]
   },
 
+  "201105": {
+    title: "May 2011",
+    month: "May",
+    year: 2011,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1bU-WkjyTUoYIP9TCOBkhUGQo7Xpv3uzN/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Amethyst & Frankincense & Chakras",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201105-amethyst.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201105-amethyst-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Amethyst - Crystal Directory",
+          src: "https://drive.google.com/file/d/1OFtiQBxzzQliZ-_OeUNIEzqjVYVuH_nO/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chakra Reference Chart",
+          src: "https://drive.google.com/file/d/1VbFwxHIgrX4ESDS0r6yT5algr_papgaf/preview"
+        },
+        {
+          type: "pdf",
+          label: "Crystals & the Chakras",
+          src: "https://drive.google.com/file/d/1XYzBW7PaEFQC_ZVBxnLRqB9pdaupCUs-/preview"
+        },
+      
+    
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Gratitude - Easy World",
+      items: [
+        {
+          type: "pdf",
+          label: "What is Easy World?",
+          src: "https://drive.google.com/file/d/1WklH-ndKt51d1EPyy8I5_RjJpyfmv7Wj/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Key to Easy World",
+          src: "https://drive.google.com/file/d/1bu70pYPnTw1uzIdEGsit_j4wVvA8OsDP/preview"
+        },
+        {
+          type: "pdf",
+          label: "The Law of Easy World",
+          src: "https://drive.google.com/file/d/1LxNm91No3Zjq0LYkYBROfyjbEOcaYp9U/preview"
+        },
+        {
+          type: "pdf",
+          label: "I Live in Easy World - poster",
+          src: "https://drive.google.com/file/d/1RxpMymTNBodfDZujc6xx_v84MEx3Suha/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Choose Easy World - poster",
+          src: "https://drive.google.com/file/d/18LI72F9wjxwQI1oBdQPVd7tiiUJffu2u/preview"
+        },
+        {
+          type: "pdf",
+          label: "Lies that Keep You Out of Easy World",
+          src: "https://drive.google.com/file/d/1JlWxgKa4V36bMyfxurge4AaY42yc8rKK/preview"
+        },
+        {
+          type: "pdf",
+          label: "Recreating Eden",
+          src: "https://drive.google.com/file/d/1sPRqrZ86_byWkChUmQvYmIbsemOp-QTN/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["crystal", "amethyst", "flowers", "frankincense", "chakras", "gratitude", "easy world",
+           "meditation"
+    ],
+
+    topic: {
+      title: "Meditation",
+      items: [
+        {
+          type: "pdf",
+          label: "Meditation - Mayo Clinic",
+          src: "https://drive.google.com/file/d/1y-3bVc_iHO0ieLMYIK8DLgM8_bhDH46r/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Meditation - Meditation Society",
+          src: "https://drive.google.com/file/d/1zrfBdfBxxB-BWNQfn5Y3hjpWbPYHkGMy/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Meditation - Crystal Links",
+          src: "https://drive.google.com/file/d/1J9KK9z5-I1b2Fft4fqw4YSqrCaL2Pgt5/view?usp=drive_link"  
+        },
+        
+        {
+          type: "pdf",
+          label: "How to Quiet Your Mind - Chopra",
+          src: "https://drive.google.com/file/d/1JlgrNoyHk7rb9dITE6nyZG_vjGSc1MLs/preview"  
+        },
+        {
+          type: "pdf",
+          label: "What Would it Take to Quiet Your Mind",
+          src: "https://drive.google.com/file/d/1CMpGs321UbcBfkiDsuFurgidU1jkwUHm/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Seven Masters, One Path - Meditation & Article",
+          src: "https://drive.google.com/file/d/1iEcvfY8_xsA113mt7lilpNQlb3F-B-Ym/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Chakra Meditation",
+          src: "https://drive.google.com/file/d/1wcdMd9G6xVVYR4vgrOrKH4nFwNSeC1ns/preview"  
+        },
+        {
+          type: "pdf",
+          label: "",
+          src: ""  
+        }
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 }
 
