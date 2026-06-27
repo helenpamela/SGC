@@ -34689,5 +34689,198 @@ const meetings = {
     ]
   },
 
+  "201104": {
+    title: "April 2011",
+    month: "April",
+    year: 2011,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1wkutHlT0weQoGd8TpezwXMWBUxkEOHoK/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["review", "eft", "easy world", "pleasure"],
+
+    topic: {
+      title: "Review",
+      items: [
+        {
+          type: "pdf",
+          label: "List of Concepts, Tools, & Practices",
+          src: "https://drive.google.com/file/d/1Zy2WLA4ox1tvupyln0glgwDknQaLOIlJ/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Easy World Posters",
+          src: "https://drive.google.com/file/d/1KhyVbjcrZ3tVADbyG1IgchIuBk8XZg_S/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "EFT - Loving the Unlovable",
+          src: "https://drive.google.com/file/d/1Z0TR0LNKyXlgiWdNrqq4DTBxUkpgb9CW/preview"  
+        }, 
+         {
+          type: "pdf",
+          label: "Pleasure List Worksheet",
+          src: "https://drive.google.com/file/d/1UcswMQ8iUz82TOnFhsVFK-B-Q2wLRqP5/preview"  
+        },
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
