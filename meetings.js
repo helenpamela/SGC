@@ -34882,5 +34882,247 @@ const meetings = {
     ]
   },
 
+  "201103": {
+    title: "March 2011",
+    month: "March",
+    year: 2011,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Jnzl666Pl6ZeLH3oIqxaKZQQq_WgOr00/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Selenite & Blue Calcite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201103-calcite-blue.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201103-calcite-blue-properties.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201103-selenite.png"
+        },
+        {
+          type: "image",
+          label: "",
+          src: "crystal-images/201103-selenite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Calcite and Selenite",
+          src: "https://drive.google.com/file/d/10g-f1BHwYMeCOlZLPS3RoUoD4GD_qxHR/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Self-Love, Mirror Work, and Creating our World",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["peace", "crystal", "calcite", "blue calcite", "selenite"],
+
+    topic: {
+      title: "Peace",
+      items: [
+        {
+          type: "pdf",
+          label: "10 Steps to Inner Peace",
+          src: "https://drive.google.com/file/d/1qBjbzMbyOGDylS7jPLHBi4N73MzlHh9-/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Daily Messages on Peace",
+          src: "https://drive.google.com/file/d/1kxA2al_t70DkdFxTpJgXdLn9a6Us6DKu/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Dalai Lama - artistic portrait",
+          src: "https://drive.google.com/file/d/122CJ5s7BRwxLM04UGx2sZeTzmv-5rh4X/preview"  
+        },       
+        {
+          type: "pdf",
+          label: "Dalai Lama Quotes",
+          src: "https://drive.google.com/file/d/1CogQrflmWQNiRcICTFjKdUsgQSsF8W2T/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Desiderata",
+          src: "https://drive.google.com/file/d/1i5-iUOdKqNngv4zXoID-c05iqTbtDJ7o/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Find Peace of Mind",
+          src: "https://drive.google.com/file/d/1fsNWTFpjEMo3uL8dgQxBTBCpvwgTWthx/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Inner Peace",
+          src: "https://drive.google.com/file/d/1gobZTEZHEh1-rQiY2iUVXKFR1Kocxepq/preview"  
+        },  
+        {
+          type: "pdf",
+          label: "Life of Inner Peace",
+          src: "https://drive.google.com/file/d/1UrjfQnkLTpUmsIPxrBBjd1HSvX3mKm3o/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Pathways to Peace",
+          src: "https://drive.google.com/file/d/1H4cVveHp31YLegsFinjFM8o8lmdAzg2I/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Peace Poster",
+          src: "https://drive.google.com/file/d/15zSqonoxgueJJXeU0Ibf_rECufaq0Rjh/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Symptoms of Inner Peace",
+          src: "https://drive.google.com/file/d/1s5iCo3irhfGOKYvtGYYUPfkYneOa9Ie5/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Serenity Prayer",
+          src: "https://drive.google.com/file/d/1AFF9JiEe1PfMGwTNm9Eerry-H-wWBNRw/preview"  
+        }
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Prayer of St. Francit",
+        src: "https://drive.google.com/file/d/1aUClBD5Pi47vX6ldy9NgpboQCfLBCoUo/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
