@@ -35112,7 +35112,7 @@ const meetings = {
     other: [
       {
         type: "pdf",
-        label: "Prayer of St. Francit",
+        label: "Prayer of St. Francis",
         src: "https://drive.google.com/file/d/1aUClBD5Pi47vX6ldy9NgpboQCfLBCoUo/preview"
       },
       {
