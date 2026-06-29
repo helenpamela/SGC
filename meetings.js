@@ -35392,5 +35392,227 @@ const meetings = {
     ]
   },
 
+  "201101": {
+    title: "January 2011",
+    month: "January",
+    year: 2011,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/11us83XyZrQjSc9Y0W1RAttmO8FnVYsqi/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Citrine & Snowflake Obsidian & Chakras",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201101-citrine.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201101-citrine-properties.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201101-snowflake-obsidian.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201101-snowflake-obsidian-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Citrine",
+          src: "https://drive.google.com/file/d/12p5_Ytli3JIoPuMB9RMxgGOSnvhkOrtp/preview"
+        },
+        {
+          type: "pdf",
+          label: "Chakras",
+          src: "https://drive.google.com/file/d/1IwJbKZFm0veFeUQKcji3PqwzKyGsZsW7/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Set Intentions",
+      items: [
+        {
+          type: "text",
+          label: "Handed out Journal pages and listed intentions",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "Atlantis",
+      items: [
+        {
+          type: "text",
+          label: "Journey to Atlantis"
+        }
+      ]
+    },
+
+    tags: ["happy", "happiness", "crystal", "citrine", "obsidian", "snowflake", "atlantis", 
+           "set intentions", "chakras", "marci shimoff"],
+
+    topic: {
+      title: "Happiness",
+      items: [
+        {
+          type: "image",
+          label: "Happy CD Label",
+          src: "topic-images/201101-happy-cd.jpg"  
+        },
+        {
+          type: "pdf",
+          label: "Happy CD Song List",
+          src: "https://drive.google.com/file/d/1F0NkGcGidEyjrHmDt9G9GRi3Cyr6NomI/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Daily Messages on Happiness",
+          src: "https://drive.google.com/file/d/1CfuaXXupJCvCcs_FQbaDi8GQsecvjTsk/preview"  
+        }, 
+         {
+          type: "pdf",
+          label: "Happy For No Reason",
+          src: "https://drive.google.com/file/d/1VkMQDazvll5V0fryTnOYvLswvg2NH163/preview"  
+        }, 
+         {
+          type: "pdf",
+          label: "Happiness Bibliography",
+          src: "https://drive.google.com/file/d/1zRPX9SF9SSMbkLnwzS2BjmOQRAIhAzfO/preview"  
+        }, 
+         {
+          type: "pdf",
+          label: "Wheel of Balance",
+          src: "https://drive.google.com/file/d/1GnDiLYuFarkS_JDbnQAhz0MFzqle55Gb/preview"  
+        }, 
+         {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdf",
+        label: "Bookmark - Prayer of St Francis - present from Linda",
+        src: "https://drive.google.com/file/d/1ryRGj3DM0zJMwjWdiD4PUfbKbjzly6Vk/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
