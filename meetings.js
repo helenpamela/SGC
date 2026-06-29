@@ -35575,7 +35575,7 @@ const meetings = {
         }, 
          {
           type: "pdf",
-          label: "Happy For No Reason",
+          label: "Happy For No Reason Workbook",
           src: "https://drive.google.com/file/d/1VkMQDazvll5V0fryTnOYvLswvg2NH163/preview"  
         }, 
          {
