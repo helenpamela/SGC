@@ -35124,5 +35124,273 @@ const meetings = {
     ]
   },
 
+  "201102": {
+    title: "February 2011",
+    month: "February",
+    year: 2011,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1NdLtJb6BJugHaQ5XqXqYkpfrh6uXohbt/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201102-opal.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201102-opal-properties.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201102-rhodochrosite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201102-rhodochrosite-properties.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201102-rose-quartz.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201102-rose-quartz-properties.png"
+        },
+      
+        {
+          type: "pdf",
+          label: "Opal",
+          src: "https://drive.google.com/file/d/16dQBDYslHmIxo18sPSlhN1KfK8dmFXbh/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Flower Essences & What I Love about Myself",
+      items: [
+        {
+          type: "pdf",
+          label: "Flower Essences for Love",
+          src: "https://drive.google.com/file/d/1mTHxyzksHLCxtYZlnpgk9bdmO6gRBWlv/preview"
+        },
+        {
+          type: "pdf",
+          label: "What I Love about Myself form",
+          src: "https://drive.google.com/file/d/1OS6rEpKu8Nf6I2QcmxrmRsJwjwrSAM24/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          src: "none-images/no-meditation.jpg"
+        }
+      ]
+    },
+
+    tags: ["love", "crystal", "opal", "rose quartz", "rhodochrosite", "flower essence", "louise hay",
+          "love for no reason"
+    ],
+
+    topic: {
+      title: "Love", 
+      items: [
+        {
+          type: "image",
+          label: "Love CD",
+          src: "topic-images/201102-love-cd.png"  
+        },
+        {
+          type: "pdf",
+          label: "Love CD Song List",
+          src: "https://drive.google.com/file/d/1et1_zVgyFOsOTfJOWjMeORLvy8BMocx-/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Love For No Reason Workbook",
+          src: "https://drive.google.com/file/d/1Whnbr1r_BuRFu_YkKJtkxOVq7yGkvCev/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Louise Hay's 12 Commandments",
+          src: "https://drive.google.com/file/d/1_e9pJdVJATY18Pv7bZRRMrx69HggR6Nh/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Louise Hay's 'I Love Myself' Affirmations",
+          src: "https://drive.google.com/file/d/1l53_VhL6kXSleTG6UnoiPp5Ue3dZSqag/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Affirmations for Love",
+          src: "https://drive.google.com/file/d/16lELDa80k7hQ6iaLpZ_tHQBdEwRGevNp/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Forgiveness Affirmations",
+          src: "https://drive.google.com/file/d/1vbz5a5M44Y4cUcWfjBXmuI0sV0fjTSih/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Daily Messages about Love",
+          src: "https://drive.google.com/file/d/1B8xCi5VF7lvxJSV4GrdzHYczx7Wbft9S/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Hug Image",
+          src: "https://drive.google.com/file/d/19fLzHt3kQnoa6Czx1N5fqN3bTwulDSQW/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Kwan Yin",
+          src: "https://drive.google.com/file/d/1oTFRl5JVtaDoEhLMKquSezJ2fT1JtW9U/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Nine Hearts Exercise",
+          src: "https://drive.google.com/file/d/1Di9C-qBELzEI_svYbxxA0yGvPZIxccil/preview"  
+        },
+        
+        {
+          type: "pdf",
+          label: "The One Flaw in Women - poster",
+          src: "https://drive.google.com/file/d/1DJI3nAOAtDEzARl1A--5eEeT1yRFtLUV/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Power of Love - poster",
+          src: "https://drive.google.com/file/d/1oaKJbsl8qfBmIlRsih6wsu9xGoXHAJJT/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Self-Love Image",
+          src: "https://drive.google.com/file/d/1oKwYga7TFvZYSz-qGojK_rBXJL9SDT1u/preview"  
+        },
+         {
+          type: "pdf",
+          label: "Levels of Self-Love",
+          src: "https://drive.google.com/file/d/1GAoXWciFsF15XLtR7yTe8RvI1YC2Ci0w/preview"  
+        }
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
