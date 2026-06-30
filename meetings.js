@@ -36297,7 +36297,193 @@ const meetings = {
     ]
   },
 
+  "201008": {
+    title: "August 2010",
+    month: "August",
+    year: 2010,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1qHei-sYIiP5wksgab-fNa8cCTMsSpWcu/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["field trip", "yoga", "lunch"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 }
 
