@@ -35832,5 +35832,472 @@ const meetings = {
     ]
   },
 
+  "201011": {
+    title: "November 2010",
+    month: "November",
+    year: 2010,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201011-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+    "201010": {
+    title: "October 2010",
+    month: "October",
+    year: 2010,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201010-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+    "201009": {
+    title: "September 2010",
+    month: "September",
+    year: 2010,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201009-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+
+
 }
 
