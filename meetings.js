@@ -35614,5 +35614,223 @@ const meetings = {
     ]
   },
 
+  "201012": {
+    title: "December 2010",
+    month: "December",
+    year: 2010,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1xpVfAZzFKmupWecc4NbkhWSMBq9Y7zPS/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Rose Quartz & Green Fluorite",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201102-rose-quartz.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201102-rose-quartz-properties.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201012-green-fluorite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201012-green-fluorite-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Rose Quartz",
+          src: "https://drive.google.com/file/d/1OtkBLC0PhdNAUY1FC3nmW1a_qG23GP6l/preview"
+        },
+        {
+          type: "pdf",
+          label: "Fluorite",
+          src: "https://drive.google.com/file/d/1DHJubgVaJQjOuNPhW02GpiGSGQEXtu68/preview"
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Flower Essences & Aromatherapy",
+      items: [
+        {
+          type: "pdf",
+          label: "Flower Essences - General Information",
+          src: "https://drive.google.com/file/d/1zc_ukzJon9uYhozO-7PL_DmkQYqv2kdm/preview"
+        },
+        {
+          type: "pdf",
+          label: "Flower Essences - Powerful Remedies",
+          src: "https://drive.google.com/file/d/1Zd3Zo5-eWWWmdU8ok5FImaFa0geRcikS/preview"
+        },
+        {
+          type: "pdf",
+          label: "Choosing Flower Essences - As Assessment Guide",
+          src: "https://drive.google.com/file/d/1l1YvVbu_KI-BZTgMm9nYR6YVfGPFhnnd/preview"
+        },
+        {
+          type: "pdf",
+          label: "Emotional First Aid Kit",
+          src: "https://drive.google.com/file/d/1ieGTRZUYSimvFA1ZAUIO3f_GxSIJmoii/preview"
+        },
+        {
+          type: "pdf",
+          label: "List of FES Retailers",
+          src: "https://drive.google.com/file/d/1mscplK4Adp05XsUq1CxSrcd8ArUffpTg/preview"
+        },
+        {
+          type: "pdf",
+          label: "Sources of Pharmaceutical Grade Aromatherapy - from PC",
+          src: "https://drive.google.com/file/d/1ffWJD3Y891ejICfN_vQwAUsENZX2Ees3/preview"
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["crystal", "rose quartz", "quartz", "green fluorite", "fluorite", "flower essences",
+           "flowers", "aromatherapy", "gratitude"
+    ],
+
+    topic: {
+      title: "Gratitude",
+      items: [
+        {
+          type: "pdf",
+          label: "Daily Messages about Gratitude",
+          src: "https://drive.google.com/file/d/16WHdnEwYI71kU4jzU5XqxC_Nn0TxVXbU/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Treasures in You - poem",
+          src: "https://drive.google.com/file/d/1YIc0lXsF4pBeNp7OLbBVeNPwrwByaVb-/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Gratitude Journal - form",
+          src: "https://drive.google.com/file/d/1gqrWi0z9pfVyDsJVeMwn45MMBKL2Jyx7/preview"  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
