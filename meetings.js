@@ -37212,5 +37212,388 @@ const meetings = {
     ]
   },
 
+  "201003": {
+    title: "March 2010",
+    month: "March",
+    year: 2010,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1Sy1ms5oVGcizZV0jd9taxN847DC-S76L/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Lapis Lazuli",
+
+      items: [
+        {
+          type: "image",
+          src: "crystal-images/201003-lapis-lazuli-1.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201003-lapis-lazuli-1-properties.png"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Sing",
+      items: [
+        {
+          type: "text",
+          label: "Sang and did movements with Karen Drucker's song: I'm So Gratitude",
+          src: ""
+        },
+        {
+          type: "pdf",
+          label: "I'm So Gratitude Lyrics and Movements",
+          src: "https://drive.google.com/file/d/19DSPQV43YXR6DE4MXKlRHOLXESQuLFrs/preview"
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "none-images/no-affirmation2.png"
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Chakra Meditation - Doreen Virtue"
+        }
+      ]
+    },
+
+    tags: ["crystal", "lapis lazuli", "karen drucker", "grateful", "chakra", "meditation"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "201002": {
+    title: "February 2010",
+    month: "February",
+    year: 2010,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1oB43i7qYqCHXPvXI13I8mLB76UgAKLHj/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "text",
+          label: "NO WORKING AGENDA",
+          src: ""
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Values",
+      items: [
+        {
+          type: "pdf",
+          label: "Balance Wheel",
+          src: "https://drive.google.com/file/d/1-UAuxym508Np6k4pPHGZGkSAhAwoLvWi/preview"
+        },
+        {
+          type: "pdf",
+          label: "More or Less",
+          src: "https://drive.google.com/file/d/1cd2380KfgblOhGm6_idDep6l75Xuepng/preview"
+        },
+        {
+          type: "pdf",
+          label: "What I Like about Myself - form",
+          src: "https://drive.google.com/file/d/1RB3waun1T4TOI0WC2vxzQW1NrUrexleQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Examples of Wheels",
+          src: "https://drive.google.com/file/d/1pYoOclGxmG1dG1SAFET0s8bjf-FWAuSE/preview"
+        },
+       
+       
+
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Journey to Atlantis meditation - Doreen Virtue"
+        }
+      ]
+    },
+
+    tags: ["value", "balance", "wheel", "more or less"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""  
+        },
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "pdg",
+        label: "Lyrics for Karen Drucker's 'Let it Shine'",
+        src: "https://drive.google.com/file/d/1R6ysCgdOvzFJj5yCWbBTyLrsQsd1TkUB/preview"
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
