@@ -37300,12 +37300,12 @@ const meetings = {
       items: [
         {
           type: "text",
-          label: "Sang and did movements with Karen Drucker's song: I'm So Gratitude",
+          label: "Sang and did movements with Karen Drucker's song: I'm So Grateful",
           src: ""
         },
         {
           type: "pdf",
-          label: "I'm So Gratitude Lyrics and Movements",
+          label: "I'm So Grateful Lyrics and Movements",
           src: "https://drive.google.com/file/d/19DSPQV43YXR6DE4MXKlRHOLXESQuLFrs/preview"
         },
          {
@@ -37321,8 +37321,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -37582,7 +37582,7 @@ const meetings = {
 
     other: [
       {
-        type: "pdg",
+        type: "pdf",
         label: "Lyrics for Karen Drucker's 'Let it Shine'",
         src: "https://drive.google.com/file/d/1R6ysCgdOvzFJj5yCWbBTyLrsQsd1TkUB/preview"
       },
