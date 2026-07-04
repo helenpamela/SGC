@@ -36660,6 +36660,11 @@ const meetings = {
 
     other: [
       {
+        type: "image",
+        label: "Drew outline of our body and listed parts we love about ourselves",
+        src: "other-images/201006-body-outline.png"
+      },
+      {
         type: "",
         label: "",
         src: ""
@@ -36855,11 +36860,7 @@ const meetings = {
     },
 
     other: [
-      {
-        type: "image",
-        label: "Drew outline of our body and colored listed parts we love about ourselves",
-        src: "other-images/201006-body-outline.png"
-      },
+      
       {
         type: "",
         label: "",
