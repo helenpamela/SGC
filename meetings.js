@@ -36753,7 +36753,7 @@ const meetings = {
           src: "crystal-images/201006-turquoise-properties.png"
         },
         {
-          type: "pdf",
+          type: "",
           label: "",
           src: ""
         },
@@ -36856,9 +36856,9 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Drew outline of our body and colored listed parts we love about ourselves",
+        src: "other-images/201006-body-outline.png"
       },
       {
         type: "",
