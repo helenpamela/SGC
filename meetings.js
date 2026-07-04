@@ -37595,5 +37595,266 @@ const meetings = {
     ]
   },
 
+  "201001": {
+    title: "January 2010",
+    month: "January",
+    year: 2010,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1uHrNaDe6wxenMC8arQi59T0kv9tTvXYT/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Notes from June 6 Meeting",
+          src: "https://drive.google.com/file/d/1gel40fcWM-LW3Ii0QfsVziasOloHeOQQ/preview"
+        },
+        {
+          type: "pdf",
+          label: "Notes from June 20 Meeting",
+          src: "https://drive.google.com/file/d/1BHXsZX687ZknFxCJaMF5gY0FjDTDeRwv/preview"
+        },
+        {
+          type: "pdf",
+          label: "Checklist - Things to Take",
+          src: "https://drive.google.com/file/d/1X984sluEQ9B2Aihz9V8MsHAF78U1p2Tl/preview"
+        },
+        {
+          type: "pdf",
+          label: "Timeline",
+          src: "https://drive.google.com/file/d/1NoSlU3PssppqiieoNA8yEv3GZfQ2ZnP_/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Music List",
+          src: "https://drive.google.com/file/d/1MwYtgoStJyAv5_lcqmdUa_C8YdtM490S/preview"  
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+                    
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      },
+      {
+        type: "",
+        src: ""
+      },
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        },
+
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: ""
+        }
+      ]
+    },
+
+    tags: ["houston", ],
+
+    topic: {
+      title: "Houston Presentation",
+      items: [
+        {
+          type: "pdf",
+          label: "Presentation Slides - Part 1 of 4",
+          src: "https://drive.google.com/file/d/1_2rNQZL62qJq90cMUD6YLDsnxgqvWZZ2/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Presentation Slides - Part 2 of 4",
+          src: "https://drive.google.com/file/d/1Nifdil5LAN6jgImFGV99O_uIXOUnAjX0/preview"  
+        }, 
+        
+        {
+          type: "pdf",
+          label: "Presentation Slides - Part 3 of 4",
+          src: "https://drive.google.com/file/d/1ThPETCW0bhvmWZe1Hfm-lFZQkVYibejR/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Presentation Slides - Part 4 of 4",
+          src: "https://drive.google.com/file/d/1J2tdhplgrdRJvbKaXATYK2Ugp9aohSUG/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Resources",
+          src: "https://drive.google.com/file/d/1SFgF5v-ySmhJcQnOUIZPHFJnFZZ34yCr/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Gratitude and Well-Being",
+          src: "https://drive.google.com/file/d/1QG_oy3II1zMhKB5q1OxbJqNyybjpqdr9/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Future Visualization Script",
+          src: "https://drive.google.com/file/d/1KTwFVfZ5NWsu3zZ9XZDAWWzSJhn3fcuC/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Celebration Script",
+          src: "https://drive.google.com/file/d/1etJQ27fYWr0myUnj2MX2LvI9Ep5Lrk0O/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Values List",
+          src: "https://drive.google.com/file/d/1CPfcV0XPRmW2LqamMKT4zq1Ufu5VIS6n/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Wheel of Balance - Details",
+          src: "https://drive.google.com/file/d/1uYVvQb9pfxr5nTNYHM0t9MCDkRJX2cWX/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Wheel of Needs",
+          src: "https://drive.google.com/file/d/11GahhvZ-g2MoM5VgqwepGF9ALJhEcHyD/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Plan of Action",
+          src: "https://drive.google.com/file/d/1TXxVZj9dzLRYFBmIicQxpbt_jPDPHaaI/preview"  
+        },
+
+          
+
+
+        
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 }
 
