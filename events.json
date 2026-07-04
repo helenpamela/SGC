@@ -1,7 +1,7 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "July 1, 2026",
+  "lastUpdated": "July 4, 2026",
 
   "event": [
      
@@ -27,7 +27,7 @@
       "type": "Lunch",  
       "datetime": "Wednesday July 29 - Time 11:30 AM",
       "location": "Village Tavern - Scottsdale",
-      "note": ""
+      "note": "--> CHANGE IN LOCATION"
      },
      {
       "status": "active",
