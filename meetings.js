@@ -37235,6 +37235,11 @@ const meetings = {
           label: "NO WORKING AGENDA",
           src: ""
         },
+        {
+          type: "pdf",
+          label: "Chakra Chart",
+          src: "https://drive.google.com/file/d/101q6P4omL7F6ijuClsiW-6n_pFGCRV_E/preview"
+        },
 
         
       ]
@@ -37387,15 +37392,16 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Blew bubbles in back yard",
+        src: "other-images/201003-blowing-bubbles.png"
       },
       {
-        type: "",
-        label: "",
-        src: ""
-      }
+        type: "pdf",
+        label: "What I Love About Myself",
+        src: "https://drive.google.com/file/d/13fCiS4FHUdSAwEwERtkQ9xNYhiyLDykm/preview"
+      },
+      
 
     ]
   },
@@ -37484,28 +37490,19 @@ const meetings = {
     },
 
     practice: {
-      title: "Values",
+      title: "",
       items: [
         {
-          type: "pdf",
-          label: "Balance Wheel",
-          src: "https://drive.google.com/file/d/1-UAuxym508Np6k4pPHGZGkSAhAwoLvWi/preview"
+          type: "",
+          label: "",
+          src: ""
         },
         {
-          type: "pdf",
-          label: "More or Less",
-          src: "https://drive.google.com/file/d/1cd2380KfgblOhGm6_idDep6l75Xuepng/preview"
+          type: "",
+          label: "",
+          src: ""
         },
-        {
-          type: "pdf",
-          label: "What I Like about Myself - form",
-          src: "https://drive.google.com/file/d/1RB3waun1T4TOI0WC2vxzQW1NrUrexleQ/preview"
-        },
-        {
-          type: "pdf",
-          label: "Examples of Wheels",
-          src: "https://drive.google.com/file/d/1pYoOclGxmG1dG1SAFET0s8bjf-FWAuSE/preview"
-        },
+      
        
        
 
