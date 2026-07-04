@@ -37554,7 +37554,7 @@ const meetings = {
       ]
     },
 
-    tags: ["value", "balance", "wheel", "more or less"],
+    tags: ["values", "balance", "wheel", "more or less", "karen drucker", "let it shine"],
 
     topic: {
       title: "",
