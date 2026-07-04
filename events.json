@@ -1,7 +1,7 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "June 23, 2026",
+  "lastUpdated": "July 1, 2026",
 
   "event": [
      
@@ -19,15 +19,15 @@
       "type": "Meeting",  
       "datetime": "Saturday July 18 Noon",
       "location": "Linda's House",
-      "note": "Bring handouts from June meeting!"
+      "note": "Celebrating Kathy's birthday! (and bring handouts from June meeting!)"
      },
      {
       "status": "active",
       "image": "events-images/salad.png",
       "type": "Lunch",  
       "datetime": "Wednesday July 29 - Time 11:30 AM",
-      "location": "Lou Malnati's - Tempe Marketplace",
-      "note": "Pizza, anyone?"
+      "location": "Village Tavern - Scottsdale",
+      "note": ""
      },
      {
       "status": "active",
