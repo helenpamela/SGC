@@ -35715,7 +35715,7 @@ const meetings = {
       items: [
         {
           type: "pdf",
-          label: "Flower Essences - General Information",
+          label: "Flower Essences - General Introduction",
           src: "https://drive.google.com/file/d/1zc_ukzJon9uYhozO-7PL_DmkQYqv2kdm/preview"
         },
         {
