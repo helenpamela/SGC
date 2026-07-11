@@ -35411,9 +35411,9 @@ const meetings = {
     teacher_only: {
       working_agenda: [
         {
-          type: "text",
-          label: "NO WORKING AGENDA",
-          src: ""
+          type: "pdf",
+          label: "Hand Annotated Working Agenda",
+          src: "https://drive.google.com/file/d/1BU2czcxWPEsCTBfuLixVjqAGnJa5iYss/preview"
         },
 
         
@@ -35497,8 +35497,8 @@ const meetings = {
           src: ""
         },
         {
-          type: "",
-          label: "",
+          type: "text",
+          label: "Handed out water bottles and water labels and played Reiki music",
           src: ""
         },
          {
@@ -35581,7 +35581,7 @@ const meetings = {
          {
           type: "pdf",
           label: "Happiness Bibliography",
-          src: "https://drive.google.com/file/d/1zRPX9SF9SSMbkLnwzS2BjmOQRAIhAzfO/preview"  
+          src: "https://drive.google.com/file/d/1BU2czcxWPEsCTBfuLixVjqAGnJa5iYss/preview"  
         }, 
          {
           type: "pdf",
