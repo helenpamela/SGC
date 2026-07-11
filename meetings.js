@@ -34574,6 +34574,11 @@ const meetings = {
           label: "Recreating Eden",
           src: "https://drive.google.com/file/d/1sPRqrZ86_byWkChUmQvYmIbsemOp-QTN/preview"
         },
+        {
+          type: "pdf",
+          label: "Easy World Posters",
+          src: "https://drive.google.com/file/d/1KhyVbjcrZ3tVADbyG1IgchIuBk8XZg_S/preview"  
+        }, 
        
        
 
@@ -34846,11 +34851,7 @@ const meetings = {
           label: "List of Concepts, Tools, & Practices",
           src: "https://drive.google.com/file/d/1Zy2WLA4ox1tvupyln0glgwDknQaLOIlJ/preview"  
         },
-        {
-          type: "pdf",
-          label: "Easy World Posters",
-          src: "https://drive.google.com/file/d/1KhyVbjcrZ3tVADbyG1IgchIuBk8XZg_S/preview"  
-        }, 
+        
         {
           type: "pdf",
           label: "EFT - Loving the Unlovable",
@@ -35123,7 +35124,7 @@ const meetings = {
           type: "pdf",
           label: "Symptoms of Inner Peace",
           src: "https://drive.google.com/file/d/1dPwEQOeyEKPi18WD6Cu0oQi5JpaMTdHo/preview"  
-        }
+        },
         {
           type: "pdf",
           label: "The Serenity Prayer",
