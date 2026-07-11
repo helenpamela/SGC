@@ -35147,6 +35147,11 @@ const meetings = {
           label: "NO WORKING AGENDA",
           src: ""
         },
+        {
+          type: "text",
+          label: "Handed out mirrors and hearts to go with Self-Love Image",
+          src: ""
+        },
 
         
       ]
@@ -35238,9 +35243,9 @@ const meetings = {
           src: "https://drive.google.com/file/d/1OS6rEpKu8Nf6I2QcmxrmRsJwjwrSAM24/preview"
         },
          {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Emotional First Aid Kit",
+          src: "https://drive.google.com/file/d/1wWTfkEHcwfBwCtkKWhfpmYVk2jX1pfwB/preview"
         },
        
        
