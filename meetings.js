@@ -35044,6 +35044,27 @@ const meetings = {
       title: "Peace",
       items: [
         {
+          type: "text",
+          label: "Handed out pink scarves and notepads",
+          src: ""  
+        },
+        {
+          type: "text",
+          label: "Watched 'We Are the World' DVD",
+          src: ""  
+        },
+        {
+          type: "image",
+          label: "topic-images/201103-peace-cd.png",
+          src: ""  
+        },
+        {
+          type: "pdf",
+          label: "Peace CD Song List",
+          src: "https://drive.google.com/file/d/1kAH8awn8FkfLw48gt8EaG7dTXBa9KxSa/preview"  
+        },
+
+        {
           type: "pdf",
           label: "10 Steps to Inner Peace",
           src: "https://drive.google.com/file/d/1qBjbzMbyOGDylS7jPLHBi4N73MzlHh9-/preview"  
@@ -35066,12 +35087,17 @@ const meetings = {
         {
           type: "pdf",
           label: "Desiderata",
-          src: "https://drive.google.com/file/d/1i5-iUOdKqNngv4zXoID-c05iqTbtDJ7o/preview"  
+          src: "https://drive.google.com/file/d/141gNjhji-VYlhgzv8EqkjZARAQhux-UU/preview"  
         }, 
         {
           type: "pdf",
           label: "Find Peace of Mind",
           src: "https://drive.google.com/file/d/1fsNWTFpjEMo3uL8dgQxBTBCpvwgTWthx/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Peace Images",
+          src: "https://drive.google.com/file/d/1LBK_Ie_1uFzRdZN_ydQv9xROIJuDrkbe/preview"  
         },
         {
           type: "pdf",
@@ -35086,7 +35112,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Pathways to Peace",
-          src: "https://drive.google.com/file/d/1H4cVveHp31YLegsFinjFM8o8lmdAzg2I/preview"  
+          src: "https://drive.google.com/file/d/15y7_7a9FCLMkcUxQO0zrsPC83x8_8-l4/preview"  
         },
         {
           type: "pdf",
@@ -35096,8 +35122,8 @@ const meetings = {
         {
           type: "pdf",
           label: "Symptoms of Inner Peace",
-          src: "https://drive.google.com/file/d/1s5iCo3irhfGOKYvtGYYUPfkYneOa9Ie5/preview"  
-        },
+          src: "https://drive.google.com/file/d/1dPwEQOeyEKPi18WD6Cu0oQi5JpaMTdHo/preview"  
+        }
         {
           type: "pdf",
           label: "The Serenity Prayer",
