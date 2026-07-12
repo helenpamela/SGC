@@ -33421,7 +33421,7 @@ const meetings = {
     ],
 
     focus: {
-      title: "Rhodonite & Sugilite",
+      title: "Rhodonite & Sugilite & Howlite",
 
       items: [
         {
@@ -33441,11 +33441,18 @@ const meetings = {
           src: "crystal-images/201109-sugilite-properties.png"
         },
         {
+          type: "image",
+          src: "crystal-images/201109-howlite.png"
+        },
+        {
+          type: "image",
+          src: "crystal-images/201109-howlite-properties.png"
+        },
+        {
           type: "pdf",
           label: "Rhodonite",
           src: "https://drive.google.com/file/d/1Z-8N3b7nnqXnGr5EEsYq97zIBYR3uLZd/preview"
-        },
-        
+        },        
         {
           type: "pdf",
           label: "Sugilite",
@@ -33456,10 +33463,12 @@ const meetings = {
           label: "Sugilite - The Book of Stones",
           src: "https://drive.google.com/file/d/1muWUfkKxga_Q-9pjGAl_IqPpFCeRettK/preview"
         },
-      
-        
-         
-   
+        {
+          type: "pdf",
+          label: "Howlite",
+          src: "https://drive.google.com/file/d/1_xf8RPVw2OpD1ITKZeWt9LtZ1xlUfOQ6/preview"
+        },
+            
       ]
     },
 
@@ -33527,11 +33536,16 @@ const meetings = {
       ]
     },
 
-    tags: ["forgive","forgiveness", "crystal", "rhodonite", "sugilite", "all about me"],
+    tags: ["forgive","forgiveness", "crystal", "rhodonite", "sugilite", "howlite", "all about me"],
 
     topic: {
       title: "Forgiveness",
       items: [
+        {
+          type: "pdf",
+          label: "Forgiveness - Key Concepts",
+          src: "https://drive.google.com/file/d/1POXveXS7k-1unGXENNMStHtu4S0J3V-G/preview"  
+        },
         {
           type: "pdf",
           label: "2 Daily Messages on Forgiveness - Alan Cohen",
@@ -33586,6 +33600,11 @@ const meetings = {
           type: "pdf",
           label: "Forgiveness - Letting Go of Grudges - Mayo Clinic",
           src: "https://drive.google.com/file/d/1oSceCX1J-HSY13gMdTKchCNh64NPKYjp/preview"  
+        },
+         {
+          type: "pdf",
+          label: "Forgiveness - Mind Map",
+          src: "https://drive.google.com/file/d/1c1PGy44DPMCaZll0ZFzJEe1cmOAYflZJ/preview"  
         },
         {
           type: "pdf",
@@ -33830,6 +33849,11 @@ const meetings = {
           label: "NO WORKING AGENDA",
           src: ""
         },
+        {
+          type: "text",
+          label: "Meeting planned by Kathy and Trudi",
+          src: ""
+        }
 
         
       ]
@@ -33954,14 +33978,14 @@ const meetings = {
       ]
     },
 
-    tags: ["kathy"],
+    tags: ["kathy", "acceptance"],
 
     topic: {
       title: "Acceptance",
       items: [
         {
-          type: "",
-          label: "",
+          type: "text",
+          label: "Created and decorated Acceptance Message on dry erase board",
           src: ""  
         },
         {
