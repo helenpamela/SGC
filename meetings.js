@@ -34007,7 +34007,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: "https://drive.google.com/file/d/1l0p1ukquxrJzeZGVgvy6miXtvbVPSioM/preview"
+        src: "https://drive.google.com/file/d/1pUhVGEqZw9cmy5KaYrvk_O3RWoyjs12J/preview"
       }
     ],
 
@@ -34147,8 +34147,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "image",
-          src: "none-images/no-meditation.jpg"
+          type: "text",
+          label: "Listened to Balloon Bouquet Meditation",
+          src: ""
         }
       ]
     },
@@ -34158,6 +34159,11 @@ const meetings = {
     topic: {
       title: "Attitudinal Healing",
       items: [
+        {
+          type: "text",
+          label: "Watched two DVDs: 'Attitudinal Healing' and 'Love is Letting Go of Fear'",
+          src: ""  
+        },
         {
           type: "pdf",
           label: "Principles of Attitudinal Healing - Poster",
@@ -34173,6 +34179,17 @@ const meetings = {
           label: "Change Your Mind, Change Your Life by Jerry Jampolsky",
           src: "https://drive.google.com/file/d/17Ts-0mNntrwCckUkZUosoe5cpfoPRvLK/preview"  
         }, 
+        {
+          type: "pdf",
+          label: "Lyrics - Love Is Letting Go of Fear",
+          src: "https://drive.google.com/file/d/1ZifHLqmmWhgOlj3qPlk-6Ix_FptddGxc/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "Lyrics - I Choose Love",
+          src: "https://drive.google.com/file/d/1Bng69nubD4NWpErtjzFd0O7rOBLSqY52/preview"  
+        }, 
+
   
           
 
