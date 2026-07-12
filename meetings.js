@@ -32645,26 +32645,11 @@ const meetings = {
           label: "Abraham's Creative Workshop",
           src: "https://drive.google.com/file/d/1Tl50n52ksFjIjz45Sbo7GE04LxnbE7CN/preview"
         },
-        {
-          type: "image",
-          label: "Feel Good Now CD Label",
-          src: "meditation-images/201201-feel-good-now-cd.png"  
-        },
-        {
-          type: "image",
-          label: "Feel Good Now CD1 Song List",
-          src: "meditation-images/201201-feel-good-now-cd1-song-list.jpg"  
-        },
-        {
-          type: "image",
-          label: "Feel Good Now CD2 Song List",
-          src: "meditation-images/201201-feel-good-now-cd2-song-list.jpg"  
-        },
+       
       ]
     },
 
-    tags: ["unakite", "abraham", "creative workshop", "intention", "intent", "intentions", 
-      "feel good now", "cd", "dvd"],
+    tags: ["unakite", "abraham", "creative workshop", "intention", "intent", "intentions",  "dvd"],
 
     topic: {
       title: "Intentions",
@@ -33239,8 +33224,8 @@ const meetings = {
       ]
     },
 
-    tags: ["abraham", "abundance", "cd", "crystal", "pyrite", "tiger's eye", "tiger", "eye", 
-          "ho'oponopono", "the secret", "vortex","emotional guidance system", "worksheet"
+    tags: ["abraham", "abundance", "cd", "feel good now", "crystal", "pyrite", "tiger's eye", "tiger", 
+          "eye", "ho'oponopono", "the secret", "vortex","emotional guidance system", "worksheet"
     ],
 
     topic: {
@@ -33261,7 +33246,21 @@ const meetings = {
           label: "Abundance CD1 Song List",
           src: "topic-images/201110-abundance-cd2-song-list.jpg"  
         },
-        
+         {
+          type: "image",
+          label: "Feel Good Now CD Label",
+          src: "meditation-images/201201-feel-good-now-cd.png"  
+        },
+        {
+          type: "image",
+          label: "Feel Good Now CD1 Song List",
+          src: "meditation-images/201201-feel-good-now-cd1-song-list.jpg"  
+        },
+        {
+          type: "image",
+          label: "Feel Good Now CD2 Song List",
+          src: "meditation-images/201201-feel-good-now-cd2-song-list.jpg"  
+        },
         {
           type: "pdf",
           label: "Abraham Worksheet - Blank",
@@ -33311,7 +33310,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Maintaining Positive Thoughts",
-          src: "https://drive.google.com/file/d/1HvgwZo33YGik1VdNFw7BMLRsM05_VF00/preview"  
+          src: "https://drive.google.com/file/d/1UlOfu-TtDsahqm5QruNpIXB2NXOJqSFx/preview"  
         },  
         
         {
