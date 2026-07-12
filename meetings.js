@@ -5552,6 +5552,11 @@ const meetings = {
       items: [
         {
           type: "image",
+          label: "Imagination CD Label",
+          src: "topic-images/202310-imagination-cd.png"
+        },
+        {
+          type: "image",
           label: "Imagination CD 1 - Song List",
           src: "topic-images/202310-cd1-song-list.png"
         },
@@ -31772,7 +31777,8 @@ const meetings = {
       ]
     },
 
-    tags: ["archangel", "ariel", "jampolsky", "gerald jampolsky", "jerry jampolsky", "beliefs", "friendship"],
+    tags: ["archangel", "ariel", "jampolsky", "gerald jampolsky", "jerry jampolsky", "beliefs", 
+          "friends", "cd", "friendship"],
 
     topic: {
       title: "Beliefs - Friendship",
@@ -32017,11 +32023,12 @@ const meetings = {
       ]
     },
 
-    tags: ["eft", "archange", "michael", "audit", "review"],
+    tags: ["eft", "archange", "michael", "audit", "review", "dance", "cd"],
 
     topic: {
       title: "Annual Audit/Review",
       items: [
+ 
         {
           type: "pdf",
           label: "Living a Fulfilled Life - James Van Praagh",
@@ -32170,13 +32177,7 @@ const meetings = {
           src: "https://drive.google.com/file/d/1gjAQM3QtqIHNtC2C0eSeTfpmA2TpeemB/preview"
         }
         
-        
-       
-
-
-
-       
-       
+              
 
       ],
     },
@@ -32221,7 +32222,7 @@ const meetings = {
       ]
     },
 
-    tags: ["crystal", "fulgurite", "believe", "belief"],
+    tags: ["crystal", "fulgurite", "believe", "belief", "cd"],
 
     topic: {
       title: "Believe / Beliefs",
@@ -32643,11 +32644,27 @@ const meetings = {
           type: "pdf",
           label: "Abraham's Creative Workshop",
           src: "https://drive.google.com/file/d/1Tl50n52ksFjIjz45Sbo7GE04LxnbE7CN/preview"
-        }
+        },
+        {
+          type: "image",
+          label: "Feel Good Now CD Label",
+          src: "meditation-images/201201-feel-good-now-cd.png"  
+        },
+        {
+          type: "image",
+          label: "Feel Good Now CD1 Song List",
+          src: "meditation-images/201201-feel-good-now-cd1-song-list.jpg"  
+        },
+        {
+          type: "image",
+          label: "Feel Good Now CD2 Song List",
+          src: "meditation-images/201201-feel-good-now-cd2-song-list.jpg"  
+        },
       ]
     },
 
-    tags: ["unakite", "abraham", "creative workshop", "intention", "intent", "intentions", "dvd"],
+    tags: ["unakite", "abraham", "creative workshop", "intention", "intent", "intentions", 
+      "feel good now", "cd", "dvd"],
 
     topic: {
       title: "Intentions",
@@ -33222,13 +33239,29 @@ const meetings = {
       ]
     },
 
-    tags: ["abraham", "crystal", "pyrite", "tiger's eye", "tiger", "eye", "ho'oponopono", "the secret",
-          "vortex","emotional guidance system", "worksheet"
+    tags: ["abraham", "abundance", "cd", "crystal", "pyrite", "tiger's eye", "tiger", "eye", 
+          "ho'oponopono", "the secret", "vortex","emotional guidance system", "worksheet"
     ],
 
     topic: {
       title: "Abraham",
       items: [
+        {
+          type: "image",
+          label: "Abundance CD Label",
+          src: "topic-images/201110-abundance-cd.png"  
+        },
+        {
+          type: "image",
+          label: "Abundance CD1 Song List",
+          src: "topic-images/201110-abundance-cd1-song-list.jpg"  
+        },
+        {
+          type: "image",
+          label: "Abundance CD1 Song List",
+          src: "topic-images/201110-abundance-cd2-song-list.jpg"  
+        },
+        
         {
           type: "pdf",
           label: "Abraham Worksheet - Blank",
@@ -34430,7 +34463,7 @@ const meetings = {
     },
 
     tags: ["crystal", "chakra", "clear quartz", "create my day", "set intention", "intention",
-          "let your light shine"
+          "let your light shine", "shine your light", "cd"
     ],
 
     topic: {
@@ -34700,7 +34733,7 @@ const meetings = {
       ]
     },
 
-    tags: ["crystal", "amethyst", "flowers", "frankincense", "chakras", "gratitude", "easy world",
+    tags: ["crystal", "amethyst", "flowers", "frankincense", "chakras", "gratitude", "cd", "easy world",
            "meditation"
     ],
 
@@ -35114,7 +35147,7 @@ const meetings = {
       ]
     },
 
-    tags: ["peace", "crystal", "calcite", "blue calcite", "selenite"],
+    tags: ["peace", "cd", "crystal", "calcite", "blue calcite", "selenite"],
 
     topic: {
       title: "Peace",
@@ -35395,7 +35428,7 @@ const meetings = {
       ]
     },
 
-    tags: ["love", "crystal", "opal", "rose quartz", "rhodochrosite", "flower essence", "louise hay",
+    tags: ["love", "cd", "crystal", "opal", "rose quartz", "rhodochrosite", "flower essence", "louise hay",
           "love for no reason"
     ],
 
@@ -35659,7 +35692,7 @@ const meetings = {
       ]
     },
 
-    tags: ["happy", "happiness", "crystal", "citrine", "obsidian", "snowflake", "atlantis", 
+    tags: ["happy", "cd", "happiness", "crystal", "citrine", "obsidian", "snowflake", "atlantis", 
            "set intentions", "chakras", "marci shimoff"],
 
     topic: {
