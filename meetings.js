@@ -32798,7 +32798,7 @@ const meetings = {
           src: ""
         },
         {
-          type: "pdf",
+          type: "",
           label: "",
           src: ""
         },
@@ -32866,8 +32866,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "image",
-          src: "none-images/no-meditation.jpg"
+          type: "text",
+          label: "Celebration meditation by Linda Bennett",
+          src: ""
         }
       ]
     },
@@ -33238,12 +33239,12 @@ const meetings = {
         },
         {
           type: "image",
-          label: "Abundance CD1 Song List",
+          label: "Abundance CD 1 Song List",
           src: "topic-images/201110-abundance-cd1-song-list.jpg"  
         },
         {
           type: "image",
-          label: "Abundance CD1 Song List",
+          label: "Abundance CD 2 Song List",
           src: "topic-images/201110-abundance-cd2-song-list.jpg"  
         },
          {
