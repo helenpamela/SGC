@@ -33250,17 +33250,17 @@ const meetings = {
          {
           type: "image",
           label: "Feel Good Now CD Label",
-          src: "meditation-images/201201-feel-good-now-cd.png"  
+          src: "topic-images/201201-feel-good-now-cd.png"  
         },
         {
           type: "image",
           label: "Feel Good Now CD1 Song List",
-          src: "meditation-images/201201-feel-good-now-cd1-song-list.jpg"  
+          src: "topic-images/201201-feel-good-now-cd1-song-list.jpg"  
         },
         {
           type: "image",
           label: "Feel Good Now CD2 Song List",
-          src: "meditation-images/201201-feel-good-now-cd2-song-list.jpg"  
+          src: "topic-images/201201-feel-good-now-cd2-song-list.jpg"  
         },
         {
           type: "pdf",
