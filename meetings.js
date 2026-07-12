@@ -34258,6 +34258,10 @@ const meetings = {
 
       items: [
         {
+          type: "text",
+          label: "Watched Illumination DVD"
+        },
+        {
           type: "image",
           src: "crystal-images/201106-quartz-clear.png"
         },
@@ -34392,6 +34396,16 @@ const meetings = {
       title: "Choose to Let Your Light Shine",
       items: [
         {
+          type: "image",
+          label: "Shine Your Light CD Label",
+          src: "topic-images/201106-shine-your-light-cd.png"  
+        },
+        {
+          type: "image",
+          label: "Shine Your Light CD Song List",
+          src: "topic-images/201106-shine-your-light-cd-song-list.png" 
+        },        
+        {
           type: "pdf",
           label: "I Claim My Magnificence",
           src: "https://drive.google.com/file/d/120ZsAbSDQeC0r8rrAs3tfPNO0ciBewy2/preview"  
@@ -34399,7 +34413,7 @@ const meetings = {
         {
           type: "pdf",
           label: "It's Safe to Let Your Light Shine - Archangel Gabriel",
-          src: "https://drive.google.com/file/d/17vdb1VuVW0Pbs3o4rgOYY-BOX7zbx5xr/preview"  
+          src: "https://drive.google.com/file/d/1FrkuvBBilOtUiQljV5MDKnNeF103uCD7/preview"  
         }, 
         {
           type: "pdf",
@@ -34416,11 +34430,20 @@ const meetings = {
           label: "Let Your Light Shine with Image - Marianne Williamson",
           src: "https://drive.google.com/file/d/1qs2tO-9cAt_nF7ars0rCl69DFTRYpJYe/preview"  
         }, 
-         {
+        {
           type: "pdf",
           label: "Shine Your Light - Daily Messages",
           src: "https://drive.google.com/file/d/17Rf6tpW12MfrgqQ2fI2NnA_n6xgVi7-a/preview"  
         }, 
+        {
+          type: "pdf",
+          label: "Manage Your Choices",
+          src: "https://drive.google.com/file/d/183jX8lXmMJ_BRWtFaj0umRUQuyiaqFZP/preview"  
+        }, 
+
+
+
+        
         
   
           
@@ -34432,7 +34455,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Message from the Angels",
-        src: "https://drive.google.com/file/d/1ga8355ZRNNdu_t1LbRg5T0UNe4RI7F3y/preview"
+        src: "https://drive.google.com/file/d/1Eyt8Z2Y66VpJdk2jdkq7F4JNgeSFXS_Y/preview"
       },
       {
         type: "",
@@ -34859,7 +34882,7 @@ const meetings = {
       items: [
         {
           type: "pdf",
-          label: "List of Concepts, Tools, & Practices",
+          label: "Review Spreadsheet - List of Concepts, Tools, & Practices",
           src: "https://drive.google.com/file/d/1Zy2WLA4ox1tvupyln0glgwDknQaLOIlJ/preview"  
         },
         
