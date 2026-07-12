@@ -34540,6 +34540,16 @@ const meetings = {
       title: "Gratitude - Easy World",
       items: [
         {
+          type: "image",
+          label: "Gratitude CD Label",
+          src: "daily-practice-images/201105-gratitude-cd.png"
+        },
+        {
+          type: "image",
+          label: "Gratitude CD Song List",
+          src: "daily-practice-images/201105-gratitude-cd-song-list.png"
+        },
+        {
           type: "pdf",
           label: "What is Easy World?",
           src: "https://drive.google.com/file/d/1WklH-ndKt51d1EPyy8I5_RjJpyfmv7Wj/preview"
@@ -34597,7 +34607,7 @@ const meetings = {
     ],
 
     luminary: {
-      title: "",
+      title: "Book: Choosing Easy World by Julia Rogers Hamrick",
       items: [
         {
           type: "",
@@ -34619,7 +34629,8 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "image",
+          type: "text",
+          label: "Watched Shirley MacLaine DVD",
           src: "none-images/no-meditation.jpg"
         }
       ]
@@ -34669,9 +34680,9 @@ const meetings = {
           src: "https://drive.google.com/file/d/1wcdMd9G6xVVYR4vgrOrKH4nFwNSeC1ns/preview"  
         },
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Mandala for Coloring",
+          src: "https://drive.google.com/file/d/10WzIBDb-9dCGlhBKlsQx1Ap-Rr3zUlir/preview"  
         }
   
           
@@ -35056,8 +35067,8 @@ const meetings = {
         },
         {
           type: "image",
-          label: "topic-images/201103-peace-cd.png",
-          src: ""  
+          label: "Peace CD Label",
+          src: "topic-images/201103-peace-cd.png"  
         },
         {
           type: "pdf",
