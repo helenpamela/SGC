@@ -7741,7 +7741,7 @@ const meetings = {
         {
           type: "image",
           label: "Happy 2 CD Song List",
-          src: "topic-images/202209-cd-happy2-song-list.png" 
+          src: "topic-images/202209-cd-happy2-song-list.jpg" 
         },
         
    
