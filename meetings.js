@@ -22796,7 +22796,7 @@ const meetings = {
       ]
     },
 
-    tags: ["animal", "reindeer", "christmas", "giving", "receiving"],
+    tags: ["animal", "reindeer", "christmas", "giving", "receiving", "cd", "pan flute", "easy listening"],
 
     topic: {
       title: "Christmas Party",
@@ -22824,14 +22824,19 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Easy Listening CD Label",
+        src: "other-images/201512-cd-easy-listening.png"
       },
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Easy Listening CD 1 Song List",
+        src: "other-images/201512-cd1-easy-listening-song-list.jpg"
+      },
+      {
+        type: "image",
+        label: "Easy Listening CD 2 Song List",
+        src: "other-images/201512-cd2-easy-listening-song-list.jpg"
       }
 
     ]
