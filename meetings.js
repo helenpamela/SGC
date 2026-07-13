@@ -19739,7 +19739,7 @@ const meetings = {
       ]
     },
 
-    tags: ["mary", "gratitude", "stand", "compassion", "cd", "stand up for yourself"],
+    tags: ["mary", "gratitude", "stand", "compassion", "cd", "stand up for yourself", "self-compassion"],
 
     topic: {
       title: "Self-Compassion Online Class - Part 2",
@@ -27192,6 +27192,11 @@ const meetings = {
           label: "10 Ways to Deepen Your LovingKindness Practice",
           src: "https://drive.google.com/file/d/1zprstxvNrEXpuvAQOMIOnrfkaQkv-jMN/preview"
         },
+        {
+          type: "image",
+          label: "LovingKindness Meditation - CD Label",
+          src: "daily-practice-images/201402-cd-loving-kindness-meditation.png"
+        },
        
        
 
@@ -27229,7 +27234,7 @@ const meetings = {
       ]
     },
 
-    tags: ["archangel", "zadkiel", "kwan yin", "compassion", "lovingkindness", "kindness",
+    tags: ["archangel", "zadkiel", "kwan yin", "compassion", "cd", "lovingkindness", "kindness",
            "random acts of kindness"],
 
     topic: {
@@ -27525,7 +27530,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          src: "no-images/no-monthly-focus.png"
+          src: "none-images/no-monthly-focus.png"
         },
         {
           type: "",
@@ -28243,7 +28248,7 @@ const meetings = {
       ]
     },
 
-    tags: ["archangel", "metatron", "affirmation", "aromatherapy", "thought exchange"],
+    tags: ["cd", "archangel", "metatron", "affirmation", "aromatherapy", "thought exchange"],
 
     topic: {
       title: "Aromatherapy & Thought Exchange",
