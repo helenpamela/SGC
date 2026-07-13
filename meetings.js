@@ -11254,7 +11254,7 @@ const meetings = {
       ]
     },
 
-    tags: ["flower", "christmas", "tree", "burning", "bowl", "ceremony", "chanting"],
+    tags: ["flower", "christmas", "tree", "burning", "bowl", "ceremony", "chanting", "chant", "cd"],
 
     topic: {
       title: "Celebrate Christmas & Burning Bowl Ceremony",
@@ -21885,7 +21885,7 @@ const meetings = {
       {
         type: "image",
         label: "Beatles CD Song List",
-        src: "other-images/201604-cd-song-list.jpg"
+        src: "other-images/201604-cd-beatles-song-list.jpg"
       }
 
     ]
@@ -22500,12 +22500,12 @@ const meetings = {
         },
         {
         type: "image",
-        label: "CD - You Are The Best",
+        label: "You Are The Best - CD Label",
         src: "daily-practice-images/201601-cd-you-are-the-best.jpg"
         },
         {
         type: "image",
-        label: "CD - You Are The Best",
+        label: "You Are The Best - CD Song List",
         src: "daily-practice-images/201601-cd-you-are-the-best-song-list.jpg"
         },
         
