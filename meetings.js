@@ -7547,17 +7547,12 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: [],
 
     topic: {
       title: "",
       items: [
-        {
-          type: "",
-          label: "",
-          src: ""
-  
-        },
+        
     
         {
           type: "",
@@ -7706,7 +7701,7 @@ const meetings = {
       ]
     },
 
-    tags: ["animal", "happy", "happiness", "quokka", "smile", "smiling"],
+    tags: ["cd", "happy", "happy2", "animal", "happy", "happiness", "quokka", "smile", "smiling"],
 
     topic: {
       title: "Happiness",
@@ -7737,7 +7732,18 @@ const meetings = {
           type: "pdf",
           label: "Different Types of Happiness",
           src: "https://drive.google.com/file/d/1BTBnCnMTDX16t0p4QhpZgpGxEWTyrKCk/preview"
-        }
+        },
+        {
+          type: "image",
+          label: "Happy 2 CD Label",
+          src: "topic-images/202210-cd-happy2.png" 
+        },
+        {
+          type: "image",
+          label: "Happy 2 CD Song List",
+          src: "topic-images/202210-cd-happy2-song-list.png" 
+        },
+        
    
 
         
@@ -22742,6 +22748,17 @@ const meetings = {
           label: "The Law of Giving & Receiving Commitments",
           src: "https://drive.google.com/file/d/1wzMzJyBFj2dOk5kbRcdxW_T7GkyeFU98/preview"
         },
+        {
+          type: "image",
+          label: "Pan Flute CD Label",
+          src: "daily-practice-images/201512-cd-pan-flute.png"
+        },
+        {
+          type: "image",
+          label: "Pan Flute CD Song List",
+          src: "daily-practice-images/201512-cd-pan-flute-song-list.jpg"
+        },
+
        
        
 
@@ -23366,8 +23383,8 @@ const meetings = {
     teacher_only: {
       working_agenda: [
         {
-          type: "pdf",
-          label: "Working Agenda",
+          type: "text",
+          label: "NO WORKING AGENDA",
           src: ""
         },
 
