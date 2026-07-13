@@ -17061,7 +17061,7 @@ const meetings = {
       ]
     },
 
-    tags: ["ascended", "worksheet", "shame", "brene brown", "crab apple", "jesus", "pele", "wholehearted"],
+    tags: ["cd", "potpourri", "ascended", "worksheet", "shame", "brene brown", "crab apple", "jesus", "pele", "wholehearted"],
 
     topic: {
       title: "",
@@ -17163,14 +17163,19 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Potpourri CD Label",
+        src: "other-images/201805-cd-potpourri.png"
       },
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Potpourri CD 1 Song List",
+        src: "other-images/201805-cd1-potpourri-song-list.jpg"
+      },
+      {
+        type: "image",
+        label: "Potpourri CD 2 Song List",
+        src: "other-images/201805-cd2-potpourri-song-list.jpg"
       }
 
     ]
