@@ -7736,12 +7736,12 @@ const meetings = {
         {
           type: "image",
           label: "Happy 2 CD Label",
-          src: "topic-images/202210-cd-happy2.png" 
+          src: "topic-images/202209-cd-happy2.png" 
         },
         {
           type: "image",
           label: "Happy 2 CD Song List",
-          src: "topic-images/202210-cd-happy2-song-list.png" 
+          src: "topic-images/202209-cd-happy2-song-list.png" 
         },
         
    
@@ -22796,7 +22796,7 @@ const meetings = {
       ]
     },
 
-    tags: ["animal", "reindeer", "christmas", "giving", "receiving", "cd", "pan flute", "easy listening"],
+    tags: ["cd", "animal", "reindeer", "christmas", "giving", "receiving", "cd", "pan flute", "easy listening"],
 
     topic: {
       title: "Christmas Party",
