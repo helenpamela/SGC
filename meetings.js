@@ -22502,7 +22502,13 @@ const meetings = {
         type: "image",
         label: "CD - You Are The Best",
         src: "daily-practice-images/201601-cd-you-are-the-best.jpg"
-      },
+        },
+        {
+        type: "image",
+        label: "CD - You Are The Best",
+        src: "daily-practice-images/201601-cd-you-are-the-best-song-list.jpg"
+        },
+        
        
        
 
@@ -22546,7 +22552,7 @@ const meetings = {
       ]
     },
 
-    tags: ["white stone", "ceremony", "vision", "board", "cliff notes", "mike dooley", 
+    tags: ["white stone", "ceremony", "vision", "board", "cliff notes", "mike dooley", "cd", "you are the best",
           "fabienne fredrickson", "embrace", "magnificent", "magnificence", "easy", "prosperity"],
 
     topic: {
@@ -23886,7 +23892,7 @@ const meetings = {
     },
 
     tags: ["sacral", "chakra", "2nd", "abraham", "creative workshop", "happy", "colette", "baron-reid",
-          "reprogram", "subconscious", "get on your bird"],
+          "reprogram", "subconscious", "get on your bird", "cd"],
 
     topic: {
       title: "Reprogram Your Subconscious Mind",
@@ -27796,7 +27802,7 @@ const meetings = {
       ]
     },
 
-    tags: ["crystal", "merlinite", "gratitude", "magic", "mystery", "miracles"],
+    tags: ["crystal", "merlinite", "gratitude", "magic", "mystery", "miracles", "cd"],
 
     topic: {
       title: "Magic & Mystery",
