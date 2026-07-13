@@ -19739,7 +19739,7 @@ const meetings = {
       ]
     },
 
-    tags: ["mary", "gratitude", "stand", "compassion"],
+    tags: ["mary", "gratitude", "stand", "compassion", "cd", "stand up for yourself"],
 
     topic: {
       title: "Self-Compassion Online Class - Part 2",
