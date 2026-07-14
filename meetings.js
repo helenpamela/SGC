@@ -35724,8 +35724,14 @@ const meetings = {
       title: "Atlantis",
       items: [
         {
-          type: "text",
-          label: "Journey to Atlantis"
+          type: "image",
+          label: "Atlantis",
+          src: "meditation-images/201101-atlantis-healing-temple.jpg"
+        },
+        {
+          type: "audio",
+          label: "Going Back to Atlantis - Doreen Virtue",
+          src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
     },

@@ -551,6 +551,14 @@
         if (item.type === "text") {
           content = `<p>${item.label}</p>`;
         }
+        
+        if (item.type === "audio") {
+          content += `
+            <audio controls>
+            <source src="${item.src}" type="audio/mpeg">
+            </audio>
+        `;
+}
 
         div.innerHTML += `<div class="card">${content}</div>`;
       });
