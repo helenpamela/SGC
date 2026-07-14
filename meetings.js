@@ -2197,9 +2197,14 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "text",
-          label: "Doreen Virtue - Atlantis 🐬",
-          src: ""
+          type: "image",
+          label: "🐬Going Back to Atlantis",
+          src: "meditation-images/201101-atlantis-healing-temple.jpg"
+        },
+        {
+          type: "audio",
+          label: "Going Back to Atlantis - Doreen Virtue",
+          src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
     },
@@ -4441,9 +4446,14 @@ const meetings = {
       title: "Atlantis",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "image",
+          label:  "🐬Going Back to Atlantis",
+          src: "meditation-images/201101-atlantis-healing-temple.jpg"
+        },
+        {
+          type: "audio",
+          label: "Going Back to Atlantis - Doreen Virtue",
+          src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
     },
@@ -7872,8 +7882,14 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "text",
-          label: "Atlantis by Doreen Virtue"
+          type: "image",
+          label:  "🐬Going Back to Atlantis",
+          src: "meditation-images/201101-atlantis-healing-temple.jpg"
+        },
+        {
+          type: "audio",
+          label: "Going Back to Atlantis - Doreen Virtue",
+          src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
     },
@@ -10367,8 +10383,14 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "",
-          src: ""
+          type: "image",
+          label:  "🐬Going Back to Atlantis",
+          src: "meditation-images/201101-atlantis-healing-temple.jpg"
+        },
+        {
+          type: "audio",
+          label: "Going Back to Atlantis - Doreen Virtue",
+          src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
     },
@@ -16875,9 +16897,14 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "text",
-          label: "Meditation: Journey to Atlantis",
-          src: ""
+          type: "image",
+          label:  "🐬Going Back to Atlantis",
+          src: "meditation-images/201101-atlantis-healing-temple.jpg"
+        },
+        {
+          type: "audio",
+          label: "Going Back to Atlantis - Doreen Virtue",
+          src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
     },
@@ -21989,14 +22016,14 @@ const meetings = {
       title: "Meditation",
       items: [
         {
-          type: "text",
-          label: "Atlantis - Doreen Virtue",
-          src: ""
+          type: "image",
+          label:  "🐬Going Back to Atlantis",
+          src: "meditation-images/201101-atlantis-healing-temple.jpg"
         },
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "audio",
+          label: "🐬Going Back to Atlantis",
+          src: "audio/201101-going-back-to-atlantis.mp3"
         },
          {
           type: "",
@@ -22034,13 +22061,13 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "image",
-          src: "none-images/no-meditation.jpg"
+          type: "",
+          src: ""
         }
       ]
     },
 
-    tags: ["meditation", "anita moorjani", "labradorite", "self-love", "worksheet"],
+    tags: ["meditation", "atlantis", "anita moorjani", "labradorite", "self-love", "worksheet"],
 
     topic: {
       title: "Self-Love",
@@ -28651,8 +28678,14 @@ const meetings = {
       title: "Atlantis",
       items: [
         {
-          type: "",
-          src: ""
+          type: "image",
+          label: "🐬Going Back to Atlantis",
+          src: "meditation-images/201101-atlantis-healing-temple.jpg"
+        },
+        {
+          type: "audio",
+          label: "Going Back to Atlantis - Doreen Virtue",
+          src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
     },
@@ -35725,7 +35758,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          label: "Atlantis",
+          label: "🐬Going Back to Atlantis",
           src: "meditation-images/201101-atlantis-healing-temple.jpg"
         },
         {
