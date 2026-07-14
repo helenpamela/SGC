@@ -557,6 +557,7 @@
             <audio controls>
             <source src="${item.src}" type="audio/mpeg">
             </audio>
+            ${item.label ? `<p>${item.label}</p>` : ""}
         `;
 }
 
