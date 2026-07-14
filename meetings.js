@@ -2198,12 +2198,12 @@ const meetings = {
       items: [
         {
           type: "image",
-          label: "🐬Going Back to Atlantis",
+          label: "Atlantis Healing Temple",
           src: "meditation-images/201101-atlantis-healing-temple.jpg"
         },
         {
           type: "audio",
-          label: "Going Back to Atlantis - Doreen Virtue",
+          label: "🐬Going Back to Atlantis - Doreen Virtue",
           src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
@@ -4447,12 +4447,12 @@ const meetings = {
       items: [
         {
           type: "image",
-          label:  "🐬Going Back to Atlantis",
+          label:  "Atlantis Healing Temple",
           src: "meditation-images/201101-atlantis-healing-temple.jpg"
         },
         {
           type: "audio",
-          label: "Going Back to Atlantis - Doreen Virtue",
+          label: "🐬Going Back to Atlantis - Doreen Virtue",
           src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
@@ -7883,12 +7883,12 @@ const meetings = {
       items: [
         {
           type: "image",
-          label:  "🐬Going Back to Atlantis",
+          label:  "Atlantis Healing Temple",
           src: "meditation-images/201101-atlantis-healing-temple.jpg"
         },
         {
           type: "audio",
-          label: "Going Back to Atlantis - Doreen Virtue",
+          label: "🐬Going Back to Atlantis - Doreen Virtue",
           src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
@@ -10384,12 +10384,12 @@ const meetings = {
       items: [
         {
           type: "image",
-          label:  "🐬Going Back to Atlantis",
+          label:  "Atlantis Healing Temple",
           src: "meditation-images/201101-atlantis-healing-temple.jpg"
         },
         {
           type: "audio",
-          label: "Going Back to Atlantis - Doreen Virtue",
+          label: "🐬Going Back to Atlantis - Doreen Virtue",
           src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
@@ -16898,12 +16898,12 @@ const meetings = {
       items: [
         {
           type: "image",
-          label:  "🐬Going Back to Atlantis",
+          label:  "Atlantis Healing Temple",
           src: "meditation-images/201101-atlantis-healing-temple.jpg"
         },
         {
           type: "audio",
-          label: "Going Back to Atlantis - Doreen Virtue",
+          label: "🐬Going Back to Atlantis - Doreen Virtue",
           src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
@@ -22017,7 +22017,7 @@ const meetings = {
       items: [
         {
           type: "image",
-          label:  "🐬Going Back to Atlantis",
+          label:  "Atlantis Healing Temple",
           src: "meditation-images/201101-atlantis-healing-temple.jpg"
         },
         {
@@ -28679,12 +28679,12 @@ const meetings = {
       items: [
         {
           type: "image",
-          label: "🐬Going Back to Atlantis",
+          label: "Atlantis Healing Temple",
           src: "meditation-images/201101-atlantis-healing-temple.jpg"
         },
         {
           type: "audio",
-          label: "Going Back to Atlantis - Doreen Virtue",
+          label: "🐬Going Back to Atlantis - Doreen Virtue",
           src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
@@ -35758,12 +35758,12 @@ const meetings = {
       items: [
         {
           type: "image",
-          label: "🐬Going Back to Atlantis",
+          label: "Atlantis Healing Temple",
           src: "meditation-images/201101-atlantis-healing-temple.jpg"
         },
         {
           type: "audio",
-          label: "Going Back to Atlantis - Doreen Virtue",
+          label: "🐬Going Back to Atlantis - Doreen Virtue",
           src: "audio/201101-going-back-to-atlantis.mp3"
         }
       ]
