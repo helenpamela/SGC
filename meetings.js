@@ -37044,13 +37044,19 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "text",
-          label: "Listened to Rainbow Garden meditation"
+          type: "image",
+          label: "Rainbow Garden",
+          src: "meditation-images/201006-rainbow-garden.png"
+        },
+        {
+          type: "audio",
+          label: "Rainbow Garden meditation",
+          src: "audio/201006-rainbow-garden.mp3"
         }
       ]
     },
 
-    tags: ["crystal", "turquoise", "blue chalcedony"],
+    tags: ["crystal", "turquoise", "blue chalcedony", "rainbow garden", "meditation", "vision board"],
 
     topic: {
       title: "Vision Board",
