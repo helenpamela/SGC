@@ -35781,6 +35781,11 @@ const meetings = {
           src: "topic-images/201101-happy-cd.jpg"  
         },
         {
+          type: "audio",
+          label: "What a Wonderful World - Louis Armstrong",
+          src: "audio/201101-what-a-wonderful-world.mp3"
+        },
+        {
           type: "pdf",
           label: "Happy CD Song List",
           src: "https://drive.google.com/file/d/1F0NkGcGidEyjrHmDt9G9GRi3Cyr6NomI/preview"  
