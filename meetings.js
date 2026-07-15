@@ -35512,6 +35512,11 @@ const meetings = {
           src: "topic-images/201102-love-cd.png"  
         },
         {
+          type: "audio",
+          label: "All You Need is Love - The Beatles",
+          src: "audio/201102-all-you-need-Is-love.mp3"  
+        },
+        {
           type: "pdf",
           label: "Love CD Song List",
           src: "https://drive.google.com/file/d/1et1_zVgyFOsOTfJOWjMeORLvy8BMocx-/preview"  
