@@ -34712,6 +34712,11 @@ const meetings = {
           label: "Gratitude CD Label",
           src: "daily-practice-images/201105-gratitude-cd.png"
         },
+          {
+          type: "audio",
+          label: "I Am So Blessed - Karen Drucker",
+          src: "audio/201105-i-am-so-blessed.mp3"  
+        },
         {
           type: "image",
           label: "Gratitude CD Song List",
@@ -35237,6 +35242,11 @@ const meetings = {
           type: "image",
           label: "Peace CD Label",
           src: "topic-images/201103-peace-cd.png"  
+        },
+        {
+          type: "audio",
+          label: "Let There Be Peace on Earth - The Angel Choir",
+          src: "audio/201103-let-there-be-peace-on-earth.mp3"  
         },
         {
           type: "pdf",
