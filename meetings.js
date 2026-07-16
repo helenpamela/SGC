@@ -32304,8 +32304,8 @@ const meetings = {
           src: "topic-images/201203-believe-cd-label.png"  
         },
         {
-          type: "uadio",
-          label: "Con't Stop Believin' - Journey",
+          type: "audio",
+          label: "Don't Stop Believin' - Journey",
           src: "audio/201203-dont-stop-believin.mp3"  
         },
         {
