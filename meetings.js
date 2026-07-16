@@ -33309,6 +33309,11 @@ const meetings = {
           src: "topic-images/201110-abundance-cd.png"  
         },
         {
+          type: "audio",
+          label: "Pennies from Heaven - Frank Sinatra",
+          src: "audio/201110-pennies-from-heaven.mp3"  
+        },
+        {
           type: "image",
           label: "Abundance CD 1 Song List",
           src: "topic-images/201110-abundance-cd1-song-list.jpg"  
@@ -34544,6 +34549,11 @@ const meetings = {
           type: "image",
           label: "Shine Your Light CD Label",
           src: "topic-images/201106-shine-your-light-cd.png"  
+        },
+        {
+          type: "audio",
+          label: "Aquarius - Let the Sunshine In - The 5th Dimension",
+          src: "audio/20201106-aquarius-let-the-sunshine-in.mp3"  
         },
         {
           type: "image",
