@@ -32304,6 +32304,11 @@ const meetings = {
           src: "topic-images/201203-believe-cd-label.png"  
         },
         {
+          type: "uadio",
+          label: "Con't Stop Believin' - Journey",
+          src: "audio/201203-dont-stop-believin.mp3"  
+        },
+        {
           type: "image",
           label: "SGC Believe CD Song List",
           src: "topic-images/201203-believe-cd-song-list.png"   
@@ -33327,6 +33332,11 @@ const meetings = {
           type: "image",
           label: "Feel Good Now CD Label",
           src: "topic-images/201110-feel-good-now-cd.png"  
+        },
+        {
+          type: "audio",
+          label: "Feel So Good - Chuck Mangione",
+          src: "audio/201110-feels-so-good.mp3"  
         },
         {
           type: "image",
