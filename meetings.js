@@ -24159,6 +24159,11 @@ const meetings = {
           src: "daily-practice-images/201505-cd-label-let-it-go-surrender.jpg"
         },
         {
+          type: "audio",
+          label: "Morning Prayer - I Will Surrender - Karen Drucker",
+          src: "audio/201505-morning-prayer-i will-surrender.mp3"
+        },
+        {
           type: "image",
           label: "CD 1 Song List",
           src: "daily-practice-images/201505-let-go-cd-song-list-1.png"
@@ -27938,7 +27943,7 @@ const meetings = {
         },
         {
           type: "audio",
-          label: "",
+          label: "The Fool on the Hill - The Beatles",
           src: "audio/201311-the-fool-on-the-hill.mp3"  
         }, 
         {
