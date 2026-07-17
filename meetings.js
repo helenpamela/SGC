@@ -27907,6 +27907,11 @@ const meetings = {
           src: "topic-images/201311-magic-cd-cover.png"  
         }, 
         {
+          type: "audio",
+          label: "Do You Believe in Magic - The Lovin' Spoonful",
+          src: "audio/201311-do-you-believe-in-magic.mp3"  
+        },
+        {
           type: "pdf",
           label: "Magic CD - Song List",
           src: "https://drive.google.com/file/d/1ffuv7Hyow0PxeJY3bV_W1cMb0ZQCtyOJ/preview"  
@@ -27916,7 +27921,11 @@ const meetings = {
           label: "Mystery CD - Cover",
           src: "topic-images/201311-mystery-cd-cover.png"  
         }, 
-        
+        {
+          type: "audio",
+          label: "Sing - The Carpenters",
+          src: "audio/201311-sing.mp3"  
+        }, 
         {
           type: "pdf",
           label: "Mystery CD - Song List",
@@ -27927,6 +27936,11 @@ const meetings = {
           label: "Miracles CD - Cover",
           src: "topic-images/201311-miracles-cd-cover.png"  
         },
+        {
+          type: "audio",
+          label: "",
+          src: "audio/201311-the-fool-on-the-hill.mp3"  
+        }, 
         {
           type: "pdf",
           label: "Miracles CD - Song List",
