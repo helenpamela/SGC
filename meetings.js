@@ -21921,6 +21921,11 @@ const meetings = {
         src: "other-images/201604-cd-beatles.jpg"
       },
       {
+        type: "audio",
+        label: "Imagine - John Lennon",
+        src: "audio/201604-imagine.mp3"
+      },
+      {
         type: "image",
         label: "Beatles CD Song List",
         src: "other-images/201604-cd-beatles-song-list.jpg"
@@ -22542,6 +22547,11 @@ const meetings = {
         src: "daily-practice-images/201601-cd-you-are-the-best.jpg"
         },
         {
+        type: "audio",
+        label: "The Best - Tina Turner",
+        src: "daily-practice-images/201601-the-best.mp3"
+        },       
+        {
         type: "image",
         label: "You Are The Best - CD Song List",
         src: "daily-practice-images/201601-cd-you-are-the-best-song-list.jpg"
@@ -22784,6 +22794,11 @@ const meetings = {
           type: "image",
           label: "Pan Flute CD Label",
           src: "daily-practice-images/201512-cd-pan-flute.png"
+        },
+        {
+          type: "audio",
+          label: "Chanson - Brad White & Pierre Grill",
+          src: "audio/201512-cd-pan-flute.png"
         },
         {
           type: "image",
