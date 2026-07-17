@@ -30882,6 +30882,11 @@ const meetings = {
           src: "topic-images/201209-smiling-cd-label.png"  
         },
         {
+          type: "audio",
+          label: "Laughter in the Rain - Neil Sedaka",
+          src: "audio/201209-laughter-in-the-rain.mp3"  
+        },       
+        {
           type: "pdf",
           label: "Smiling CD Song List",
           src: "https://drive.google.com/file/d/1Be9TXlwyHx91xk14XjY__tw-m39EbK2H/preview"  
@@ -31891,8 +31896,8 @@ const meetings = {
         },
         {
           type: "audio",
-          label: "We are Family - Sister Sledge",
-          src: "audio/201205-we-are-family.mp3"  
+          label: "With a Little Help from My Friends - The Beatles",
+          src: "audio/201205-with-a-little-help-from-my-friends.mp3"  
         },
         {
           type: "image",
