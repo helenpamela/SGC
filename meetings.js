@@ -17195,6 +17195,11 @@ const meetings = {
         src: "other-images/201805-cd-potpourri.png"
       },
       {
+        type: "audio",
+        label: "Potpourri CD Label",
+        src: "audio/201805-uptown-funk.mp3"
+      },
+      {
         type: "image",
         label: "Potpourri CD 1 Song List",
         src: "other-images/201805-cd1-potpourri-song-list.jpg"
@@ -19708,6 +19713,11 @@ const meetings = {
           label: "CD Label",
           src: "daily-practice-images/201704-cd-label-stand-up-for-yourself.jpg"
         },
+        {
+          type: "audio",
+          label: "I'll Stand By You - Glee Cast",
+          src: "audio/201704-ill-stand-by-you.mp3"
+        },        
         {
           type: "image",
           label: "CD Song List",
