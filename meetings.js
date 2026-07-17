@@ -1738,6 +1738,11 @@ const meetings = {
         src: "announcement-images/202507-cd-music-to-lift-your-heart.jpg"
       },
       {
+        type: "audio",
+        label: "Here Comes the Sun - The Beatles",
+        src: "audio/202507-here-comes-the-sun.mp3"
+      },
+      {
         type: "image",
         label: "CD Song List",
         src: "announcement-images/202507-cd-song-list.jpg"
@@ -5566,6 +5571,11 @@ const meetings = {
           src: "topic-images/202310-imagination-cd.png"
         },
         {
+          type: "audio",
+          label: "Just My Imagination - The Temptations",
+          src: "audio/202310-just-my-imagination.mp3"
+        },
+        {
           type: "image",
           label: "Imagination CD 1 - Song List",
           src: "topic-images/202310-cd1-song-list.png"
@@ -7747,6 +7757,11 @@ const meetings = {
           type: "image",
           label: "Happy 2 CD Label",
           src: "topic-images/202209-cd-happy2.png" 
+        },
+        {
+          type: "audio",
+          label: "I Will Survive - Gloria Gaynor",
+          src: "audio/202209-i-will-survive.mp3" 
         },
         {
           type: "image",
