@@ -31890,6 +31890,11 @@ const meetings = {
           src: "topic-images/201205-friends-cd-label.png"  
         },
         {
+          type: "audio",
+          label: "We are Family - Sister Sledge",
+          src: "audio/201205-we-are-family.mp3"  
+        },
+        {
           type: "image",
           label: "Friends CD Song List 1",
           src: "topic-images/201205-friends-cd-song-list-1.jpg"  
@@ -32146,6 +32151,11 @@ const meetings = {
         type: "image",
         label: "SGC Dance Party CD label",
         src: "other-images/201204-dance-party-cd-label.png"
+      },
+      {
+        type: "audio",
+        label: "Dancing in the Streets - Martha & The Vandellas",
+        src: "audio/201204-dancing-in-the-streets.mpg"
       },
       {
         type: "image",
