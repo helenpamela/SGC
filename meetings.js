@@ -18123,8 +18123,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -18336,8 +18336,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -18581,8 +18581,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -18757,8 +18757,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -18936,8 +18936,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -19178,8 +19178,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -19534,8 +19534,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -19783,8 +19783,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -19985,8 +19985,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -20183,8 +20183,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -21014,8 +21014,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -21821,8 +21821,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -22078,8 +22078,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -22288,8 +22288,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -22600,8 +22600,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -22849,8 +22849,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -23198,8 +23198,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -23560,8 +23560,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -23766,8 +23766,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -23965,8 +23965,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -24231,8 +24231,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -24495,8 +24495,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -24685,8 +24685,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -24932,8 +24932,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -25121,8 +25121,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -25300,8 +25300,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -25484,8 +25484,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -25703,8 +25703,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -25933,8 +25933,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -26112,8 +26112,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -26292,8 +26292,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -26486,8 +26486,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -26692,8 +26692,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -26877,8 +26877,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -27314,8 +27314,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -27504,8 +27504,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -27683,8 +27683,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -27872,8 +27872,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -28526,8 +28526,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -28715,8 +28715,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -28935,8 +28935,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -29283,8 +29283,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -29490,8 +29490,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -29733,8 +29733,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -30207,8 +30207,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -30435,8 +30435,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -30627,8 +30627,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -30909,8 +30909,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -31219,8 +31219,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -31407,8 +31407,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -31619,8 +31619,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -31891,8 +31891,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -32142,8 +32142,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -32352,8 +32352,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -32782,8 +32782,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -33007,8 +33007,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -33360,8 +33360,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -33714,8 +33714,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -34355,8 +34355,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -34606,8 +34606,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
@@ -34887,8 +34887,8 @@ const meetings = {
 
     affirmation: [
       {
-        type: "image",
-        src: "none-images/no-affirmation2.png"
+        type: "",
+        src: ""
       },
       {
         type: "",
