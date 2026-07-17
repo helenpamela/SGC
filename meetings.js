@@ -9689,7 +9689,7 @@ const meetings = {
     announcements: [
       {
         type: "text",
-        label: "Colin Powell died.",
+        label: "Sad news:  Colin Powell has died.",
         src: ""
       }, 
     ],
@@ -9749,7 +9749,7 @@ const meetings = {
         },
         {
           type: "audio",
-          label: "Raise Your Spirits CD",
+          label: "The Prayer - Celine Dion & Josh Groban",
           src: "audio/202110-the-prayer-with-josh-groban.mp3"
         },
         {
