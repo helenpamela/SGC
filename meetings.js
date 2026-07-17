@@ -9733,6 +9733,11 @@ const meetings = {
           src: "daily-practice-images/202110-cd-raise-your-spirits.png"
         },
         {
+          type: "audio",
+          label: "Raise Your Spirits CD",
+          src: "audio/202110-the-prayer-with-josh-groban.mp3"
+        },
+        {
           type: "pdf",
           label: "Raise Your Spirits CD Song List",
           src: "https://drive.google.com/file/d/1NmFow0QbNiBzibBm2LIje-vS-5axIe9d/preview"
@@ -11241,6 +11246,11 @@ const meetings = {
           label: "Chants CD Cover",
           src: "daily-practice-images/202102-chants-cd-cover.png"
         },
+        {
+          type: "audio",
+          label: "Om Namo Bhagavate - Deva Premal",
+          src: "audio/202102-om-namo-bhagavate.mp3"
+        },        
         {
           type: "image",
           label: "Chants CD Song List",
