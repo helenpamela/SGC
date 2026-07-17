@@ -32164,9 +32164,10 @@ const meetings = {
       },
       {
         type: "image",
-        label: "SGC Dance Party CD Song List",
-        src: "other-images/201204-dance-party-cd-song-list.png"
+        label: "SGC Dance Party CDs 3 & 4 Song List",
+        src: "other-images/201204-dance-party-cd-song-list - 3&4.png"
       }
+
 
     ]
   },
