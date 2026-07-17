@@ -29683,10 +29683,17 @@ const meetings = {
         },
         {
           type: "image",
+          label: "Inspiration CD Label",
           src: "luminary-images/201302-inspiration-cd-label.png"
         },
         {
+          type: "audio",
+          label: "Gonna Fly Now (Theme from Rocky)",
+          src: "audio/201302-gonna-fly-now-theme-from-rocky.mp3"
+        },
+        {
           type: "image",
+          label: "Inspiration CD Song List",
           src: "luminary-images/201302-inspiration-cd-song-list.png"
         },
 
@@ -32160,7 +32167,12 @@ const meetings = {
       {
         type: "audio",
         label: "Dancing in the Streets - Martha & The Vandellas",
-        src: "audio/201204-dancing-in-the-streets.mpg"
+        src: "audio/201204-dancing-In-the-streets.mp3"
+      },
+      {
+        type: "image",
+        label: "SGC Dance Party CDs 1 & 2 Song List",
+        src: "other-images/201204-dance-party-cd-song-list-1&2.png"
       },
       {
         type: "image",
