@@ -59,8 +59,14 @@ const meetings = {
       {
         type: "",
         label: "Spread Lovingkindness Prayer",
-        src: ""
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
+
     ],
 
     focus: {
@@ -147,7 +153,7 @@ const meetings = {
       ]
     },
 
-    tags: [],
+    tags: ["audio"],
 
     topic: {
       title: "",
@@ -366,6 +372,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -490,6 +501,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -633,6 +649,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -799,6 +820,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -911,6 +937,7 @@ const meetings = {
         label: "Agenda",
         src: "https://drive.google.com/file/d/1kvaZLh739rCA-3ZaDNBVF-x2i5XERDjn/preview"
       }
+      
     ],
 
     teacher_only: {
@@ -936,6 +963,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -1053,6 +1085,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -1212,6 +1249,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -1536,6 +1578,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -1764,6 +1811,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -1960,6 +2012,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -2129,6 +2186,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -2301,6 +2363,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -2490,6 +2557,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -2724,6 +2796,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -2898,6 +2975,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -3608,6 +3690,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -3813,6 +3900,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -3986,6 +4078,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -4174,6 +4271,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -4380,6 +4482,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -4543,6 +4650,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -4675,6 +4787,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -4859,6 +4976,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -5066,6 +5188,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -5198,6 +5325,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -5331,6 +5463,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -5473,6 +5610,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -5713,6 +5855,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -5846,6 +5993,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -6073,6 +6225,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -6374,6 +6531,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -6532,6 +6694,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -6679,6 +6846,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -6831,6 +7003,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -7013,6 +7190,11 @@ const meetings = {
         type: "pdf",
         label: "Spread Lovingkindness Prayer",
         src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -7180,9 +7362,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -7359,9 +7541,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -7642,9 +7824,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -7834,9 +8016,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -8140,9 +8322,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -8298,9 +8480,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -8535,9 +8717,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -8706,9 +8888,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -8900,9 +9082,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -9171,9 +9353,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -9373,9 +9555,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -9537,9 +9719,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -9711,9 +9893,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -9936,9 +10118,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -10135,9 +10317,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -10333,9 +10515,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -10658,9 +10840,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -10841,9 +11023,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -11037,9 +11219,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -11215,9 +11397,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -11719,9 +11901,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -12066,9 +12248,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -12268,9 +12450,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -13434,10 +13616,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -13619,10 +13801,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -13790,10 +13972,10 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
-      }
+         type: "",
+        label: "",
+        src: ""
+      },
     ],
 
     focus: {
@@ -13817,7 +13999,7 @@ const meetings = {
           type: "pdf",
           label: "Archangel Chamuel Quotes",
           src: "https://drive.google.com/file/d/1-F8Wl_wmKQKa7wmcnYcPw7kY7sC4-aX1/preview"
-        },
+        }
 
     
 
@@ -13836,9 +14018,9 @@ const meetings = {
           type: "pdf",
           label: "The Little Book of Kindness - gift from Linda",
           src: "https://drive.google.com/file/d/141DXrwAjrY5jLnS0WAB3jT8Oh1s0uv34/preview"
-        },        
+        }       
 
-      ],
+      ]
     },
 
     affirmation: [
@@ -14141,10 +14323,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -14312,10 +14494,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -14628,9 +14810,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -14787,12 +14969,12 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
-    ],
-
+    ], 
+    
     focus: {
       title: "Lion",
 
@@ -14959,9 +15141,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -15147,10 +15329,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -15382,10 +15564,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -15573,9 +15755,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -15760,10 +15942,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -15931,9 +16113,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -16129,9 +16311,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -16288,9 +16470,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -16461,10 +16643,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -16649,9 +16831,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -16845,9 +17027,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -17029,10 +17211,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+         type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -17457,9 +17639,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -17646,9 +17828,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -17868,9 +18050,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -18067,9 +18249,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -18265,9 +18447,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -18508,9 +18690,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -18704,9 +18886,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -18880,9 +19062,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -19120,9 +19302,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -19475,9 +19657,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -19675,9 +19857,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -19930,10 +20112,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -20108,9 +20290,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -20936,9 +21118,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -21759,9 +21941,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -22021,10 +22203,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -22229,10 +22411,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -22493,9 +22675,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -22727,9 +22909,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -23132,9 +23314,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -23504,9 +23686,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -23683,9 +23865,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -23889,9 +24071,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -24163,10 +24345,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -24625,9 +24807,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -24850,9 +25032,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -25055,9 +25237,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -25244,9 +25426,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -25423,9 +25605,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -25642,9 +25824,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -25862,9 +26044,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -26235,9 +26417,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread LovingKindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -26430,9 +26612,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -26626,9 +26808,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -26816,9 +26998,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -27229,10 +27411,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -27448,9 +27630,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -27627,9 +27809,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -27806,9 +27988,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -28465,9 +28647,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -28659,9 +28841,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -28853,9 +29035,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -29221,10 +29403,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -29433,10 +29615,10 @@ const meetings = {
     ],
 
     lovingkindness: [
-      {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+     {
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -29658,9 +29840,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -30151,9 +30333,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -30339,9 +30521,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -30571,9 +30753,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -30837,9 +31019,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -31163,9 +31345,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -31351,9 +31533,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -31547,9 +31729,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -31835,9 +32017,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -32076,9 +32258,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -32306,9 +32488,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -32726,9 +32908,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
@@ -33630,9 +33812,9 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
-        label: "Spread Lovingkindness Prayer",
-        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+        type: "",
+        label: "",
+        src: ""
       }
     ],
 
