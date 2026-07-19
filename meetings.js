@@ -31977,13 +31977,9 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "Healing with Archangel Raphael - Rev. Durka",
+          label: "Healing with Archangel Raphael - Rev. Kudra",
           src: "https://drive.google.com/file/d/1ObRL4e2DEwpbqX1rwi0idPHXVtAn7cj3/preview"
-        },
-      
-
-        
-         
+        },         
    
       ]
     },
@@ -31998,9 +31994,11 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "How Do You Start Your Day - Louise Hay",
-          src: "https://drive.google.com/file/d/1MaSF9TVZM9gVS6kq5ilYmC2xgsKZH3AE/preview"
+          label: "More or Less",
+          src: "https://drive.google.com/file/d/1ARVLTNAPwLDqI_7Lx7hUJTiukabUMzXB/preview"
         },
+        
+       
          {
           type: "",
           label: "",
@@ -32024,15 +32022,17 @@ const meetings = {
     ],
 
     luminary: {
-      title: "",
+      title: "Rhonda Byrne & Martha Beck",
       items: [
         {
-          type: "",
-          src: ""
+          type: "image",
+          label: "Rhonda Byrne",
+          src: "luminary-images/201206-rhonda-byrne.png"
         },
         {
-          type: "",
-          src: ""
+          type: "image",
+          label: "Martha Beck",
+          src: "luminary-images/201206-martha-beck.png"
         },
         {
           type: "",
@@ -32063,8 +32063,12 @@ const meetings = {
           type: "pdf",
           label: "Gratitude in Healing",
           src: "https://drive.google.com/file/d/1T7Sm-3yMOEW__47t-afK8kVQD6FsdLdw/preview"  
+        }, 
+        {
+          type: "pdf",
+          label: "How Do You Start Your Day - Louise Hay",
+          src: "https://drive.google.com/file/d/1MaSF9TVZM9gVS6kq5ilYmC2xgsKZH3AE/preview"
         },
-  
         {
           type: "pdf",
           label: "SGC DVD - Healing - Contents",
