@@ -207,8 +207,8 @@ const meetings = {
     other: [
       {
         type: "image",
-        label: "Edinburgh Pen - present from Vickie",
-        src: "other-images/202607-edinburgh-pen-from-vickie.jpg"
+        label: "Edinburgh Pen - present from Vicky",
+        src: "other-images/202607-edinburgh-pen-from-vicky.jpg"
       },
  
 
