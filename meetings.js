@@ -31978,7 +31978,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Healing with Archangel Raphael - Rev. Kudra",
-          src: "https://drive.google.com/file/d/1ObRL4e2DEwpbqX1rwi0idPHXVtAn7cj3/preview"
+          src: "https://drive.google.com/file/d/1eZA7l1JTcg2zuD5WPcqDphgqnODUZz52/preview"
         },         
    
       ]
