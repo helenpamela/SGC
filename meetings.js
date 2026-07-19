@@ -124,21 +124,21 @@ const meetings = {
 
     practice: {
       title: "Get On Your Bird",
-      items: [
+      items: [       
         {
+          type: "pdf",
+          label: "Reprogram Your Subconscious (Cliff Notes Tools)",
+          src: "https://drive.google.com/file/d/1V2HYi-4a908o2krwMeocInFIt1nk0mSO/preview"
+        },
+         {
+          type: "pdf",
+          label: "Get On Your Bird (Cliff Notes First Aid)",
+          src: "https://drive.google.com/file/d/1Up8JfQ2xp8RmxyQ732sDcIr7yAxiUuTK/preview"
+        },
+         {
           type: "audio",
           label: "Meditation: Get On Your Bird from Reprogram Your Subconscious CD (June 2015)",
           src: "audio/202607-get-on-your-bird-meditation.mp3"
-        },
-        {
-          type: "",
-          label: "",
-          src: ""
-        },
-         {
-          type: "",
-          label: "",
-          src: ""
         },
        
        
@@ -173,7 +173,7 @@ const meetings = {
       items: [
         {
           type: "text",
-          label: "Didn't watch the following meditation",
+          label: "Didn't watch the Letting Go meditation",
           src: ""  
         },
         {
@@ -187,16 +187,15 @@ const meetings = {
     },
 
     tags: ["capybara", "animal", "get on your bird", "colette baron-reid", "meditation", "letting go",
-          "reprogram", "subconscious", "let go"],
+          "reprogram", "subconscious", "let go", "calendar", "happiness", "vicky"],
 
     topic: {
       title: "",
       items: [
         
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "image",
+          src: "none-images/no-topic.jpg"  
         }, 
   
           
@@ -210,9 +209,11 @@ const meetings = {
         label: "Edinburgh Pen - present from Vicky",
         src: "other-images/202607-edinburgh-pen-from-vicky.jpg"
       },
- 
-
-
+      {
+        type: "pdf",
+        label: "July 2026 Happiness Calendar (from https://greatergood.berkeley.edu/)",
+        src: "https://drive.google.com/file/d/1iT7Iygk5UqqRlKD7se3Af-dHdHh52bTB/preview"
+      }
     ]
   },
 
