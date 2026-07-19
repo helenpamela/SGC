@@ -32504,8 +32504,6 @@ const meetings = {
           label: "Drenched in Holiness",
           src: "https://drive.google.com/file/d/1bXvGO6SH09k-xBOO5oVUrbVsIAah2pSD/preview"
         },
-      
-        
          
    
       ]
@@ -32516,13 +32514,8 @@ const meetings = {
       items: [
         {
           type: "pdf",
-          label: "EFT",
-          src: "https://drive.google.com/file/d/1WLEUUQ-vRYOURr4oWYgl4aKqgmwr8k1E/preview"
-        },
-        {
-          type: "",
-          label: "",
-          src: ""
+          label: "EFT - Loving the Unlovable",
+          src: "https://drive.google.com/file/d/17uVAYi4QLkRHF2YeUgPFkKGns4M3hMrg/preview"
         },
          {
           type: "",
@@ -32580,11 +32573,21 @@ const meetings = {
     topic: {
       title: "Annual Audit/Review",
       items: [
- 
+        {
+          type: "pdf",
+          label: "SGC Review - Concepts/Tools/Practices",
+          src: "https://drive.google.com/file/d/1xnVtrk1zsYDBZ0wzUguMEqFR-403fxbG/preview"  
+        },
+        {
+          type: "pdf",
+          label: "SGC Review - Coming Attractions",
+          src: "https://drive.google.com/file/d/1VVsZf_pEyv0arocyJc-QoyP7T-mKhayq/preview"  
+        },
+        
         {
           type: "pdf",
           label: "Living a Fulfilled Life - James Van Praagh",
-          src: "https://drive.google.com/file/d/1YGFwx-cH-lKCn3BuTGgJXd-NoTY2psCm/preview"  
+          src: "https://drive.google.com/file/d/1aqa8tG5EzmPsFlKrDJrCv6ZQcPBtowXa/preview"  
         },
         {
           type: "pdf",
@@ -32623,6 +32626,11 @@ const meetings = {
     },
 
     other: [
+      {
+        type: "text",
+        label: "Handed out Cubby Baskets with names and photos.  Inside: blanket, stuffed animal, notebook, pen & pencil, animal crackers, mini water bottles, stickers, crayons, socks",
+        src: ""
+      },
       {
         type: "image",
         label: "SGC Dance Party CD label",
@@ -32811,11 +32819,6 @@ const meetings = {
           label: "Belief Definition",
           src: "https://drive.google.com/file/d/1JqxU_p3d4vUfbwjV9mqqZo6dlYOIBwmG/preview"
         },{
-          type: "pdf",
-          label: "Beliefs - Linda's Notes",
-          src: "https://drive.google.com/file/d/1W0AMWlr5Pbr1uPT08eCGzcbHxZcLFXvL/preview"
-        },
-        {
           type: "pdf",
           label: "Beliefs - Linda's Notes",
           src: "https://drive.google.com/file/d/1W0AMWlr5Pbr1uPT08eCGzcbHxZcLFXvL/preview"
