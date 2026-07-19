@@ -32070,12 +32070,6 @@ const meetings = {
           label: "SGC DVD - Healing - Contents",
           src: "https://drive.google.com/file/d/1ifbUfJJzaiSAkMa7yjPDJEzM908XXkjg/preview"  
         }, 
-      
-        {
-          type: "pdf",
-          label: "Lyrics of 'For Good' from Wicked",
-          src: "https://drive.google.com/file/d/1fobhZuVH9buxlB0iLgFTdGW2kafij_Ht/preview"  
-        }, 
         {
           type: "pdf",
           label: "List of Healing Videos on YouTube",
@@ -32274,9 +32268,9 @@ const meetings = {
           src: "https://drive.google.com/file/d/1Jb4te4XFFXJZJtj28jA0yr92Xa-CfXjM/preview"
         },
          {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "To Be List",
+          src: "https://drive.google.com/file/d/1WIBnnhaeZh80yzqMN2fzIFG-3tXtWFYc/preview"
         },
        
        
@@ -32330,11 +32324,7 @@ const meetings = {
     topic: {
       title: "Beliefs - Friendship",
       items: [
-       {
-          type: "text",
-          label: "Wrote self-obituaries",
-          src: ""  
-        },
+      
         {
           type: "pdf",
           label: "Flush Out False Beliefs",
@@ -32360,6 +32350,31 @@ const meetings = {
           label: "Friendship",
           src: "https://drive.google.com/file/d/1ZnKl6foBbq5buCrwVpXbgklpcm86uKHE/preview"  
         },
+        {
+          type: "pdf",
+          label: "Eulogy - Trudi",
+          src: "https://drive.google.com/file/d/1wqC5C3rNzBfCROsVqgzmTYRRp9VAPpVZ/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Eulogy - Kathy",
+          src: "https://drive.google.com/file/d/16sw5QL3UNDh0slViAJd8etPkG0cyZ9Lq/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Eulogy - Pam",
+          src: "https://drive.google.com/file/d/1ApaTsbEXkFkvNEIBp8m1W-pMxvDUyTfN/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Eulogy - Linda",
+          src: "https://drive.google.com/file/d/13JwTl6TDme-Tfb2DkRUt-MuOXfmA8vcQ/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Lyrics of 'For Good' from Wicked",
+          src: "https://drive.google.com/file/d/1fobhZuVH9buxlB0iLgFTdGW2kafij_Ht/preview"  
+        }, 
         {
           type: "image",
           label: "Friends CD Label",
@@ -32391,7 +32406,7 @@ const meetings = {
           label: "SGC DVD - Friends - Contents",
           src: "https://drive.google.com/file/d/1Xgh0li7x-z65Mu__vjAypIcKlDIwIrEa/preview"  
         },  
-  
+ 
           
 
       ]
