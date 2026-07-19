@@ -31884,7 +31884,18 @@ const meetings = {
         type: "pdf",
         label: "Hilarion",
         src: "https://drive.google.com/file/d/12fWId8AkDtwVYMjm0veqh5NygbJDweTp/preview"
-      }
+      },
+      {
+        type: "pdf",
+        label: "I Am Co-creating the New Earth - Patricia Cota-Roblea",
+        src: "https://drive.google.com/file/d/1mI2M7i2XaEWZv-SKLb6WksanBKf1hxeH/preview"
+      },
+      {
+        type: "audio",
+        label: "Healing My Earthly Bodies",
+        src: "audio/201207-healing-my-earthly-bodies.mp3"
+      },
+
 
     ]
   },
