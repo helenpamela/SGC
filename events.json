@@ -14,7 +14,7 @@
       "note": ""
      },
      {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/4-women.png",
       "type": "Meeting",  
       "datetime": "Saturday July 18 Noon",
@@ -25,10 +25,11 @@
       "status": "active",
       "image": "events-images/salad.png",
       "type": "Lunch",  
-      "datetime": "Wednesday July 29 - Time 11:30 AM",
+      "datetime": "Saturday August 1 - Time 11:30 AM",
       "location": "Village Tavern - Scottsdale",
-      "note": "--> CHANGE IN LOCATION"
+      "note": "--> CHANGE IN DATE <--"
      },
+     
      {
       "status": "active",
       "image": "events-images/meeting.png",
@@ -36,6 +37,22 @@
       "datetime": "Saturday August 8 Noon",
       "location": "Linda's House",
       "note": "Happy Birthday Linda!"
+     },
+     {
+      "status": "active",
+      "image": "events-images/salad.png",
+      "type": "Lunch",  
+      "datetime": "Wednesday September 9 - Time 11:30 AM",
+      "location": "Lou Malnati's - Tempe Marketplace",
+      "note": ""
+     },
+     {
+      "status": "active",
+      "image": "events-images/meeting.png",
+      "type": "Meeting",  
+      "datetime": "Saturday September 19 Noon",
+      "location": "Linda's House",
+      "note": ""
      }
 
    ]
