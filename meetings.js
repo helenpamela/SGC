@@ -2,7 +2,233 @@
 
 const meetings = {
 
+"202607": {
+    title: "JulY 2026",
+    month: "JulY",
+    year: 2026,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
 
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1vzKlwqcPMxMLrXEhkeYk11Ca9i0-Zd9Q/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1z8ls2nCuZCb67DgW17QJt7M_bQ5bHk8E/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      {
+        type: "text",
+        label: "All handouts were handed out in June. Didn't follow June agenda. Farewell chatting with PC",
+        src: ""
+      }, 
+      {
+        type: "pdf",
+        label: "Dealing with Negative Thoughts",
+        src: "https://drive.google.com/file/d/1DTuq15_ShhMHs0yL2IhqTBf4oeO5uMFF/preview"
+      }, 
+
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "image",
+        label: "Happy 250th Birthday USA",
+        src: "our-vision-images/202607-happy-250th-usa.png"
+      },
+      {
+        type: "video",
+        label: "Barack Obama at opening of Obama Presidential Center",
+        src: "https://www.youtube.com/embed/i1xUxoMtYMg?si=NC8qUAzoq2tgvzUl"
+      },
+     {
+        type: "video",
+        label: "Michelle Obama at opening of Obama Presidential Center",
+        src: "https://www.youtube.com/embed/waUjBY1oaOE?si=00b40X6cK3PXBVD5"
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
+      }
+    ],
+
+    focus: {
+      title: "Capybara",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202606-capybara.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202606-capybara-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Caybara - AI Info",
+          src: "https://drive.google.com/file/d/1Pky8hBsXOkG7pkwMnus9jMNeg0o7ym1g/preview"
+        },
+        {
+          type: "image",
+          label: "Stuffed 'Comfort' Capybaras from Linda",
+          src: "monthly-focus-images/202606-capybaras.jpg"
+        },
+        {
+          type: "image",
+          label: "Emotional Comfort Capybaras in Basket",
+          src: "monthly-focus-images/202606-emotiona-comfort-capybara-basket.jpg"
+        },
+        {
+          type: "image",
+          label: "Basket of Capybaras",
+          src: "monthly-focus-images/202606-capybara-basket.jpg"
+        },
+
+      
+        
+         
+   
+      ]
+    },
+
+    practice: {
+      title: "Get On Your Bird",
+      items: [
+        {
+          type: "audio",
+          label: "Meditation: Get On Your Bird from Reprogram Your Subconscious CD (June 2015)",
+          src: "audio/202607-get-on-your-bird-meditation.mp3"
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+         {
+          type: "",
+          label: "",
+          src: ""
+        },
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202606-affirmation.png"
+      },
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "pdf",
+          label: "Tribute to Jean Houston",
+          src: "https://drive.google.com/file/d/1xoiI033j0jocARSLMdHn35VF_r8zhd0B/preview"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "text",
+          label: "Didn't watch the following meditation",
+          src: ""  
+        },
+        {
+          type: "video",
+          label: "10 Minute Meditation for Letting Go posted by GreatMeditation",
+          src: "https://www.youtube.com/embed/O-jcmB6BUvY?si=nxTQBcncZmMGKKGD"   
+        }
+       
+        
+      ]
+    },
+
+    tags: ["capybara", "animal", "get on your bird", "colette baron-reid", "meditation", "letting go",
+          "reprogram", "subconscious", "let go"],
+
+    topic: {
+      title: "",
+      items: [
+        
+        {
+          type: "",
+          label: "",
+          src: ""  
+        }, 
+  
+          
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Medical Pens - present from Linda",
+        src: "other-images/202606-medical-pens.jpg"
+      },
+      {
+        type: "image",
+        label: "June Happiness Calenda from Greater Good Science Center",
+        src: "other-images/202606-june-happiness-calendar-from-ggsc.jpg"
+      },
+      {
+        type: "image",
+        label: "Joyful June Calenda from Action for Happiness",
+        src: "other-images/202606-joyful-june-calendar-from-afh.jpg"
+      },
+      {
+        type: "pdf",
+        label: "Dealing with Negative Thoughts by David Nicholas from Pam",
+        src: "https://drive.google.com/file/d/1cHxFQVF0hj2c8ocABwVbAaCodWwkqPCX/preview"
+      },
+
+
+    ]
+  },
 
 "202606": {
     title: "June 2026",
