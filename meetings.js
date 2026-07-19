@@ -3,8 +3,8 @@
 const meetings = {
 
 "202607": {
-    title: "JulY 2026",
-    month: "JulY",
+    title: "July 2026",
+    month: "July",
     year: 2026,
     meetingCancelled: false, // or false
     cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
@@ -21,7 +21,7 @@ const meetings = {
     teacher_only: {
       working_agenda: [
         {
-          type: "",
+          type: "pdf",
           label: "Working Agenda",
           src: "https://drive.google.com/file/d/1z8ls2nCuZCb67DgW17QJt7M_bQ5bHk8E/preview"
         },
@@ -96,7 +96,7 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "Caybara - AI Info",
+          label: "Capybara - AI Info",
           src: "https://drive.google.com/file/d/1Pky8hBsXOkG7pkwMnus9jMNeg0o7ym1g/preview"
         },
         {
@@ -107,7 +107,7 @@ const meetings = {
         {
           type: "image",
           label: "Emotional Comfort Capybaras in Basket",
-          src: "monthly-focus-images/202606-emotiona-comfort-capybara-basket.jpg"
+          src: "monthly-focus-images/202606-emotional-comfort-capybara-basket.jpg"
         },
         {
           type: "image",
@@ -207,24 +207,10 @@ const meetings = {
     other: [
       {
         type: "image",
-        label: "Medical Pens - present from Linda",
-        src: "other-images/202606-medical-pens.jpg"
+        label: "Edinburgh Pen - present from Vickie",
+        src: "other-images/202607-edinburgh-pen-from-vickie.jpg"
       },
-      {
-        type: "image",
-        label: "June Happiness Calenda from Greater Good Science Center",
-        src: "other-images/202606-june-happiness-calendar-from-ggsc.jpg"
-      },
-      {
-        type: "image",
-        label: "Joyful June Calenda from Action for Happiness",
-        src: "other-images/202606-joyful-june-calendar-from-afh.jpg"
-      },
-      {
-        type: "pdf",
-        label: "Dealing with Negative Thoughts by David Nicholas from Pam",
-        src: "https://drive.google.com/file/d/1cHxFQVF0hj2c8ocABwVbAaCodWwkqPCX/preview"
-      },
+ 
 
 
     ]
@@ -407,15 +393,15 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "June Happiness Calendar from Greater Good Science Center",
+        src: "other-images/202606-june-happiness-calendar-from-ggsc.jpg"
       },
       {
-        type: "",
-        label: "",
-        src: ""
-      }
+        type: "image",
+        label: "Joyful June Calendar from Action for Happiness",
+        src: "other-images/202606-joyful-june-calendar-from-afh.jpg"
+      },
 
     ]
   },
