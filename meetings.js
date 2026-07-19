@@ -32779,8 +32779,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "image",
-          src: "none-images/no-meditation.jpg"
+          type: "audio",
+          label:  "Who I Am Is Enough - Denise Linn",
+          src: "audio/201201-who-i-am-is-enough.mp3"
         }
       ]
     },
@@ -32804,7 +32805,41 @@ const meetings = {
           type: "image",
           label: "SGC Believe CD Song List",
           src: "topic-images/201203-believe-cd-song-list.png"   
-        }, 
+        },
+        {
+          type: "pdf",
+          label: "Belief Definition",
+          src: "https://drive.google.com/file/d/1JqxU_p3d4vUfbwjV9mqqZo6dlYOIBwmG/preview"
+        },{
+          type: "pdf",
+          label: "Beliefs - Linda's Notes",
+          src: "https://drive.google.com/file/d/1W0AMWlr5Pbr1uPT08eCGzcbHxZcLFXvL/preview"
+        },
+        {
+          type: "pdf",
+          label: "Beliefs - Linda's Notes",
+          src: "https://drive.google.com/file/d/1W0AMWlr5Pbr1uPT08eCGzcbHxZcLFXvL/preview"
+        },
+        {
+          type: "pdf",
+          label: "How Baby Elephants are Trained",
+          src: "https://drive.google.com/file/d/1s-C6xf_rtxMyhuFIs_gxg_WGGuHkt2Pn/preview"
+        },
+        {
+          type: "pdf",
+          label: "Daily Messages - Beliefs",
+          src: "https://drive.google.com/file/d/1BXrcLLmm3FjQbG4hX4eFeiPMWWdA3Wu2/preview"
+        },
+        {
+          type: "pdf",
+          label: "Belief Images",
+          src: "https://drive.google.com/file/d/1LuJz1hUus7mrX3potxzeQ-cPznXNqO8n/preview"
+        },
+        {
+          type: "pdf",
+          label: "Belief Diagram",
+          src: "https://drive.google.com/file/d/1JqxU_p3d4vUfbwjV9mqqZo6dlYOIBwmG/preview"
+        },
         {
           type: "pdf",
           label: "SGC DVD Label - Love is Letting Go of Fear",
@@ -33098,9 +33133,11 @@ const meetings = {
         label: "Happy Movie Poster",
         src: "https://drive.google.com/file/d/16jPhH5lUzR7acyh0MkgFr1ecaNZLkHQO/preview"
       },
-
-
-
+      {
+        type: "pdf",
+        label: "People vs The State of Illusion -  Movie Poster",
+        src: "https://drive.google.com/file/d/1pagvzqcaXG2GYY74VUepvOMZdabOrBhZ/preview"
+      }
       
     ],
 
