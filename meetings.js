@@ -31569,15 +31569,15 @@ const meetings = {
 
       items: [
         {
-          type: "image",
+          type: "",
           src: ""
         },
         {
-          type: "image",
+          type: "",
           src: ""
         },
         {
-          type: "pdf",
+          type: "",
           label: "",
           src: ""
         },
@@ -31655,23 +31655,28 @@ const meetings = {
     tags: [""],
 
     topic: {
-      title: "",
+      title: "Outer Beauty ",
       items: [
         {
           type: "image",
-          label: "",
-          src: "none-images/no-topic.jpg"  
+          label: "Linda - Facial",
+          src: "member-images/2012-spa-day1.jpg"  
         },
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "image",
+          label: "Facials",
+          src: "member-images/2012-spa-day2.jpg"  
         }, 
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "image",
+          label: "Kathy - Facial",
+          src: "member-images/2012-spa-day3.jpg"  
         }, 
+        {
+          type: "image",
+          label: "Linda - Facial Mask",
+          src: "member-images/2012-spa-day4.jpg"  
+        }
   
           
 
@@ -31837,7 +31842,12 @@ const meetings = {
           type: "image",
           label: "Trk 4 - A New Order of Healing CD",
           src: "meditation-images/201208-a-new-order-of-healing-cd-patti-cr.png"
-        }
+        },
+        {
+        type: "audio",
+        label: "Healing My Earthly Bodies",
+        src: "audio/201207-healing-my-earthly-bodies.mp3"
+      },
       ]
     },
 
@@ -31890,11 +31900,7 @@ const meetings = {
         label: "I Am Co-creating the New Earth - Patricia Cota-Roblea",
         src: "https://drive.google.com/file/d/1mI2M7i2XaEWZv-SKLb6WksanBKf1hxeH/preview"
       },
-      {
-        type: "audio",
-        label: "Healing My Earthly Bodies",
-        src: "audio/201207-healing-my-earthly-bodies.mp3"
-      },
+   
 
 
     ]
