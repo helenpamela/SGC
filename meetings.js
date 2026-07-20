@@ -31336,8 +31336,9 @@ const meetings = {
       title: "Sarah McLean Meditation",
       items: [
         {
-          type: "",
-          src: ""
+          type: "video",
+          label: "Gratitude Meditation with Sarah McLean",
+          src: "https://www.youtube.com/embed/0XoymkknzJk?si=DtG8qrGdRCAnXHxl"
         }
       ]
     },
@@ -31379,6 +31380,11 @@ const meetings = {
         },
         {
           type: "pdf",
+          label: "I Love Lucy",
+          src: "https://drive.google.com/file/d/1MNK5zscQblcuH-4uFzCYJS22HMMD1yUz/preview"  
+        },        
+        {
+          type: "pdf",
           label: "5 Reasons Why You Should Smile",
           src: "https://drive.google.com/file/d/1UadfX92N_iNe6aAw40D0C3JzycCOjeCS/preview"  
         },
@@ -31404,7 +31410,7 @@ const meetings = {
         }, 
         {
           type: "pdf",
-          label: "Science of Mind - Smile Messages",
+          label: "Daily Messages - Smiling",
           src: "https://drive.google.com/file/d/1mh6lcthhRo1863HySNO2jiGUUAF16RLh/preview"  
         }, 
         {
@@ -31652,10 +31658,10 @@ const meetings = {
       ]
     },
 
-    tags: [""],
+    tags: ["outer beauty", "trudi"],
 
     topic: {
-      title: "Outer Beauty ",
+      title: "Outer Beauty",
       items: [
         {
           type: "image",
