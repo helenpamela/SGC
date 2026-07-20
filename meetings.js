@@ -31898,18 +31898,14 @@ const meetings = {
     },
 
     meditation: {
-      title: "A New Order of Healing CD by Patricia Cota-Robles",
+      title: "A New Order of Healing by Patricia Cota-Robles",
       items: [
         {
-          type: "image",
-          label: "Trk 4 - A New Order of Healing CD",
-          src: "meditation-images/201208-a-new-order-of-healing-cd-patti-cr.png"
+          type: "video",
+          label: "Our Next Level of Healing - Patricia Cota-Robles - 2025 VLOG 92",
+          src: "https://www.youtube.com/embed/h-1SI1y9LR8?si=2NtUhk_OlJIV7PUy"
         },
-        {
-        type: "audio",
-        label: "Healing My Earthly Bodies",
-        src: "audio/201207-healing-my-earthly-bodies.mp3"
-      },
+    
       ]
     },
 
@@ -33349,8 +33345,8 @@ const meetings = {
         {
           type: "pdf",
           label: "Abraham's Creative Workshop",
-          src: "https://drive.google.com/file/d/1Tl50n52ksFjIjz45Sbo7GE04LxnbE7CN/preview"
-        },
+          src: "https://drive.google.com/file/d/1aeiIAQMpex8M-nms6EvQgAr8hIzQ1Q3y/preview"
+        }
        
       ]
     },
