@@ -33346,7 +33346,13 @@ const meetings = {
           type: "pdf",
           label: "Abraham's Creative Workshop",
           src: "https://drive.google.com/file/d/1aeiIAQMpex8M-nms6EvQgAr8hIzQ1Q3y/preview"
+        },
+        {
+          type: "audio",
+          label: "Abraham's Creative Workshop",
+          src: "audio/201201-abrahams-creative-workshop.mp3"
         }
+
        
       ]
     },
