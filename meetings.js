@@ -30822,7 +30822,17 @@ const meetings = {
           type: "pdf",
           label: "The Power of Your Words",
           src: "https://drive.google.com/file/d/1X7ffEUNlpULE7vVWe1AGgCDAkRCekNn8/preview"
-        }
+        },
+        {
+          type: "pdf",
+          label: "Gratitude Symbol",
+          src: "https://drive.google.com/file/d/1t5gQNxxW6rFEVOsyUs8KxSRJSGWi8_M9/preview"
+        },
+        {
+          type: "pdf",
+          label: "Discover Abundance through Gratitude",
+          src: "https://drive.google.com/file/d/1q1_pAr4bMD3gHdS0q2F9I5MnQBBSXTWB/preview"
+        },
        
 
       ],
@@ -30861,11 +30871,10 @@ const meetings = {
     },
 
     meditation: {
-      title: "Doreen Virtue",
+      title: "",
       items: [
         {
-          type: "text",
-          label: "Doreen Virtue - Clearing, Crystal Bed, Cut Cords, Colors on Each Chakra",
+          type: "",
           src: ""
         }
       ]
@@ -30901,7 +30910,7 @@ const meetings = {
     other: [
       {
         type: "",
-        label: "",
+        label: "Angel Medicine #1 - Doreen Virtue",
         src: ""
       },
       {
