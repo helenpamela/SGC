@@ -30973,9 +30973,13 @@ const meetings = {
     ],
 
     focus: {
-      title: "Lotus",
+      title: "Lotus & Flower Essences",
 
       items: [
+        {
+          type: "text",
+          label: "Handed out water bottles & water blessing labels, put Jasmine & Pine FE in water"
+        },
         {
           type: "image",
           src: "flower-images/201210-lotus.png"
@@ -30989,6 +30993,44 @@ const meetings = {
           label: "Lotus - from Flower Healing book",
           src: "https://drive.google.com/file/d/1XWLtJd8s20uE9C5pXu_8k92eDUQ35MA0/preview"
         },
+        {
+          type: "pdf",
+          label: "Lotus Image",
+          src: "https://drive.google.com/file/d/1CiHjiMFbl-S6pvJpTuTa2zwjp67knAgU/preview"
+        },
+        {
+          type: "pdf",
+          label: "Lotus Flower Essence",
+          src: "https://drive.google.com/file/d/1hWEmzOd7AwYHJ1WD3OfL9AQYTknhaOBL/preview"
+        },
+        {
+          type: "pdf",
+          label: "Flower Essence Profile - Lotus",
+          src: "https://drive.google.com/file/d/1-P6y1Hfmr8AKNo88NJul9nPusmmth0HR/preview"
+        },
+        {
+          type: "pdf",
+          label: "Flower Essence Chart - Lotus ",
+          src: "https://drive.google.com/file/d/1n6zh0rGrEm0w70WUCtDiX-cwM7KXrn5_/preview"
+        },
+        {
+          type: "pdf",
+          label: "Jasmine",
+          src: "https://drive.google.com/file/d/1X30Np1zzW41AYCuvUTxOzAH1vZ8wOEc0/preview"
+        },
+        {
+          type: "pdf",
+          label: "Pine",
+          src: "https://drive.google.com/file/d/1V51pkhEnPv5rOL50bmTQPLpSqlnn4fUh/preview"
+        },
+        {
+          type: "pdf",
+          label: "Pine Qualities",
+          src: "https://drive.google.com/file/d/1m5qY9EHSrrggCkPIavoHfrwgECi9hZsq/preview"
+        },
+
+
+
       
         
          
@@ -31010,9 +31052,9 @@ const meetings = {
           src: "https://drive.google.com/file/d/1G2-u6KWlUHWg5IUmlJQZkLdgG8G-O0oe/preview"
         },
          {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Ho'oponopono Statements",
+          src: "https://drive.google.com/file/d/15JkhnlkmTPq-O54AfIR17Ahz11O-qXcq/preview"
         },
        
        
@@ -31092,12 +31134,17 @@ const meetings = {
           label: "What Is a Mantra",
           src: "https://drive.google.com/file/d/1cq1_9lInlll02mFHbZmLH2pLIslkE7jL/preview"  
         }, 
-         {
+        {
           type: "pdf",
           label: "What Is a Mantra and How Does it Work?",
           src: "https://drive.google.com/file/d/1aSmt4jbuGJWg0Za2OnwJr3OYNNscF9g8/preview"  
         },
-         {
+        {
+          type: "pdf",
+          label: "The Power of Mantra Meditation ",
+          src: "https://drive.google.com/file/d/1fjwx0sIqux1F0y9za12DoKucpDRaHq_I/preview"  
+        },
+        {
           type: "pdf",
           label: "Sounds and Silence: Mantra",
           src: "https://drive.google.com/file/d/1zwpR_fJtNLQ6h3O7dKfgR6Cv_G1DNAB1/preview"  
