@@ -82,6 +82,14 @@ const meetings = {
       }
     ],
 
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
     focus: {
       title: "Capybara",
 
@@ -28658,13 +28666,15 @@ const meetings = {
 
       items: [
         {
+          type: "pdf",
+          label: "Metatron",
+          src: "https://drive.google.com/file/d/1T3FvS1XfAEG8PEaOnRr2mC1CZrcbTZJo/preview"
+        },
+        {
           type: "image",
           src: "monthly-focus-images/201309-cd-cover-metatron-meditation.png"
         },
-        {
-          type: "",
-          src: ""
-        },
+        
         {
           type: "",
           label: "",
@@ -28772,13 +28782,13 @@ const meetings = {
       title: "Aromatherapy & Thought Exchange",
       items: [
         {
-          type: "",
-          label: "",
+          type: "text",
+          label: "Watched Thought Exchange DVD",
           src: ""  
         },
         {
-          type: "",
-          label: "",
+          type: "text",
+          label: "PC discussed geranium, fir, and lime",
           src: ""  
         }, 
         {
@@ -28894,15 +28904,40 @@ const meetings = {
    
       ]
     },
+       
+     
+  
+     
 
+  
     practice: {
-      title: "",
+      title: "LovingKindness",
       items: [
-        {
-          type: "image",
-          label: "",
-          src: ""
-        },
+         {
+           type: "pdf",
+           label: "Loving-Kindness for Beginners",
+            src: "https://drive.google.com/file/d/1cZLoMjjK2fKVMx8p50xKjZ2nxI6ml9NW/preview"
+         },
+         {
+           type: "pdf",
+           label: "Meta Loving-Kindness Meditation",
+           src: "https://drive.google.com/file/d/1VX7gcCWu4er8xYHGnRrdWJM6Ll_6qgcJ/preview"
+         },
+         {
+           type: "pdf",
+           label: "Loving-Kindness Meditation",
+           src: "https://drive.google.com/file/d/1ygHxiNAO6teKqQ0IxkaMvTIr10Uy7t0W/preview"
+         },
+         {
+           type: "pdf",
+           label: "Loving-Kindness Meditation (blue)",
+           src: "https://drive.google.com/file/d/1Su9ZTK9s20RIt1uqsO61jrXX-m1Ufe1U/preview"
+         },
+         {
+           type: "pdf",
+           label: "Metta Meditation Phrases",
+           src: "https://drive.google.com/file/d/1DFdUfFj3vxOtId3N3Is9T6j9BjCR8Ey6/preview"
+         },
         {
           type: "",
           label: "",
@@ -28938,8 +28973,9 @@ const meetings = {
           src: "luminary-images/201308-kristin-neff.png"
         },
         {
-          type: "",
-          src: ""
+          type: "image",
+          label:  "Handed out Self-Compassion book",
+          src: "luminary-images/201308-self-compassion-book.png"
         },
         {
           type: "",
@@ -28959,7 +28995,9 @@ const meetings = {
       ]
     },
 
-    tags: ["archangel", "gabriel", "science of mind", "kristin neff", "self-compassion", "review"],
+    tags: ["archangel", "gabriel", "science of mind", "kristin neff", "self-compassion", "review",
+            "lovingkindness", "loving kindness", "lovingKindness", "cliff notes"
+    ],
 
     topic: {
       title: "Review",
@@ -29031,8 +29069,8 @@ const meetings = {
 
     announcements: [
       {
-        type: "text",
-        label: "1) Yarnell firefighters, 2) SF plane crash",
+        type: "",
+        label: "",
         src: ""
       }, 
     ],
@@ -29056,6 +29094,14 @@ const meetings = {
       {
         type: "",
         label: "",
+        src: ""
+      }
+    ],
+
+    invocation: [
+      {
+        type: "text",
+        label: "1) Yarnell firefighters, 2) SF plane crash",
         src: ""
       }
     ],
