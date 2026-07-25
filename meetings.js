@@ -30223,7 +30223,7 @@ const meetings = {
         }, 
         {
           type: "pdf",
-          label: "Setting Intentions - from Unity",
+          label: "Setting Intentions - from Unifying.com",
           src: "https://drive.google.com/file/d/1tDYFhA0EbEPi4TvaXpJt9RiPX81mux6o/preview"  
         },
         {
@@ -30250,6 +30250,11 @@ const meetings = {
           type: "pdf",
           label: "Balance Wheel form",
           src: "https://drive.google.com/file/d/1ix-kPabaZGucQwMKlRJm3cB1m2TJwO5N/preview"  
+        },
+        {
+          type: "image",
+          label: "Handed out 'Love Stones'",
+          src: "topic-images/201302-love-stone.png"  
         },
         {
           type: "pdf",
