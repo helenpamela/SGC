@@ -29353,12 +29353,12 @@ const meetings = {
         {
           type: "image",
           label: "Esther & Jerry Hicks (and Abraham)",
-          src: "luminary-images/abraham-hicks.jpg"
+          src: "luminary-images/201306-abraham-hicks.jpg"
         },
         {
           type: "image",
           src: "Segment Intending",
-          src: "luminary-images/segment-intending.jpg"
+          src: "luminary-images/201306-segment-intending.jpg"
         },
         {
           type: "",
