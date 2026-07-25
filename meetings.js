@@ -28109,8 +28109,9 @@ const meetings = {
       title: "Denise Linn",
       items: [
         {
-          type: "text",
-          label: "Denise Lynn CD6 Trk1 Sparkling Joy,Shimmering Blessings"
+          type: "audio",
+          label: "Denise Lynn CD6 Trk1 Sparkling Joy,Shimmering Blessings",
+          src: "audio/DeniseLinn_SparklingJoy.mp3"
         }
       ]
     },
@@ -28186,9 +28187,9 @@ const meetings = {
 
     announcements: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "pdf",
+        label: "Tribute to Candace Pert",
+        src: "https://drive.google.com/file/d/1cNcpNhsmppjL-Zm4n2p9_zzidx6NQpTI/preview"
       }, 
     ],
 
@@ -28229,8 +28230,8 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "Merlinite",
-          src: "https://drive.google.com/file/d/1aFb4RDV-aLb2zQ0exy-4-7NaWIPEx3oJ/preview"
+          label: "Merlinite - The Magic Bearer",
+          src: "https://drive.google.com/file/d/16JjWjanXD6Ln_bdypHUKu6oY8HlK5KoQ/preview"
         },
          {
           type: "pdf",
@@ -28783,18 +28784,19 @@ const meetings = {
       items: [
         {
           type: "text",
-          label: "Watched Thought Exchange DVD",
-          src: ""  
-        },
-        {
-          type: "text",
           label: "PC discussed geranium, fir, and lime",
           src: ""  
         }, 
         {
-          type: "",
-          label: "",
+          type: "text",
+          label: "Watched Thought Exchange DVD",
           src: ""  
+        },
+        
+        {
+          type: "pdf",
+          label: "Thought Exchange poster",
+          src: "https://drive.google.com/file/d/1HG743FvcdgGIKzC4Y2GHpj1ULsJ51djh/preview"  
         }, 
   
           
@@ -28970,6 +28972,7 @@ const meetings = {
       items: [
         {
           type: "image",
+          label: "Kristin Neff",
           src: "luminary-images/201308-kristin-neff.jpg"
         },
         {
