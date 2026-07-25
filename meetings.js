@@ -5922,7 +5922,7 @@ const meetings = {
       ]
     },
 
-    tags: ["animal", "imaginagion", "denise linn", "cd", "amy purdy", "barbra streisand", "reba",
+    tags: ["animal", "imagination", "denise linn", "cd", "amy purdy", "barbra streisand", "reba",
            "three bones", "unicorn"],
 
     topic: {
