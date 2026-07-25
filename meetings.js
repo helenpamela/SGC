@@ -4539,9 +4539,9 @@ const meetings = {
       title: "Meditation",
       items: [
         {
-          type: "video",
-          label: "Picnic at the Park",
-          src: "https://www.youtube.com/embed/8HuEsyEoAZk?si=dkLL9sY8T2RmX6bF"
+          type: "audio",
+          label: "Creating Your Perfect Day - Denise Linn",
+          src: "audio/DeniseLinn_CreatingYourPerfectDay.mp3"
         }
 
       ]
@@ -4559,9 +4559,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "audio",
-          label: "Creating Your Perfect Day - Denise Linn",
-          src: "audio/DeniseLinn_CreatingYourPerfectDay.mp3"
+          type: "",
+          label: "",
+          src: ""
         }
       ]
     },
