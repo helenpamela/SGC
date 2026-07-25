@@ -28966,11 +28966,11 @@ const meetings = {
     ],
 
     luminary: {
-      title: "Kristen Neff",
+      title: "Kristin Neff",
       items: [
         {
           type: "image",
-          src: "luminary-images/201308-kristin-neff.png"
+          src: "luminary-images/201308-kristin-neff.jpg"
         },
         {
           type: "image",
