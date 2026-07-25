@@ -29806,8 +29806,8 @@ const meetings = {
 
     announcements: [
       {
-        type: "",
-        label: "",
+        type: "text",
+        label: "Cleaned out cubbies",
         src: ""
       }, 
     ],
@@ -29839,6 +29839,11 @@ const meetings = {
       title: "Daisy",
 
       items: [
+        {
+        type: "text",
+        label: "Listend to Linda Bennett's Reflection Meditation",
+        src: ""
+        }, 
         {
           type: "image",
           src: "flower-images/201303-daisy.png"
@@ -29953,25 +29958,45 @@ const meetings = {
     },
 
     tags: ["flower", "daisy", "mother teresa", "do it anyway", "debbie ford", "the right questions",
-          "expectations", "100 things I want", "choose", "vision", "alignment"],
+          "expectations", "100 things I want", "choose", "vision", "alignment", "disappointment", "louise hay"],
 
     topic: {
       title: "Expectations",
       items: [
         {
-          type: "image",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Exectations - Images",
+          src: "https://drive.google.com/file/d/1Jnflozs4VRipnFvSfUdiHMH4WLFVlKmc/preview"  
         },
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Managing Expectations - from notes",
+          src: "https://drive.google.com/file/d/1rZ8dt_ykhQURQLNQW5SVBYLjexcrwkRu/preview"  
         }, 
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Managing Expectations",
+          src: "https://drive.google.com/file/d/1VAUvJfH36It0uDc9jKOCoc1UpSZ_lAf6/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Article - Toss Your Expectations into the Ocean",
+          src: "https://drive.google.com/file/d/13T7jIcE2Vaa6i9R8Ntk5ncnGMlou20nS/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Article - 10 Tips on How to Avoid Disappointment",
+          src: "https://drive.google.com/file/d/1eBwpDza8BMqvum61R50V1qPI2UP9E1X-/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Article - Your Thoughts Create Your Tomorrows - Louise Hay",
+          src: "https://drive.google.com/file/d/1Z-XpwwBZjGOID4JCNr18yXKqIfVlhbEv/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Scientific American Article - Expectations and 'Bending Reality' ",
+          src: "https://drive.google.com/file/d/1jGo-zGFH3npUKOjDlp8Gf1Jp2PHybAel/preview"  
         }, 
   
           
@@ -30216,6 +30241,11 @@ const meetings = {
           label: "New Vision Intention Setting Form",
           src: "https://drive.google.com/file/d/1nn6JKb7exyQyMHxlVp4eOad0_rnLH0I-/preview"  
         },
+        {
+          type: "pdf",
+          label: "Intention Process Sheet from Intenders of the Highest Good",
+          src: "https://drive.google.com/file/d/1bOAH-Vv70T3natOzKHsPWr0dEVb0jhiX/preview"  
+        },       
         {
           type: "pdf",
           label: "New Years Resolution Form",
