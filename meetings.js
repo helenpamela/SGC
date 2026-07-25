@@ -1854,9 +1854,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "video",
-          label: "Denise Linn - Who You Are is Enough",
-          src: "https://www.youtube.com/embed/sMrb-itIjxY?si=Fnb4kk0GYhWrtsAK"
+          type: "audio",
+          label: "Denise Linn - Who I Am is Enough",
+          src: "audio/DeniseLinn_WhoIAmIsEnough.mp3"
         }
       ]
     },
@@ -4559,9 +4559,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "image",
-          label: "",
-          src: "none-images/no-meditation.jpg"
+          type: "audio",
+          label: "Creating Your Perfect Day - Denise Linn",
+          src: "audio/DeniseLinn_CreatingYourPerfectDay.mp3"
         }
       ]
     },
@@ -5298,9 +5298,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "video",
-          label: "Denise Linn - Open Your Heart",
-          src: "https://www.youtube.com/embed/mlMvBl2D2Ug?si=ouoNeeCN4ir5QUnV"
+          type: "audio",
+          label: "Denise Linn - Opening to Love",
+          src: "audio/DeniseLinn_OpeningToLove.mp3"
         }
       ]
     },
@@ -5915,9 +5915,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "text",
+          type: "audio",
           label: "Denise Linn - Manifest Your Dreams",
-          src: ""
+          src: "audio/DeniseLinn_ManifestingYourDreams.mp3"
         }
       ]
     },
@@ -9014,8 +9014,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "text",
-          label: "Denise Linn - Creating Your Perfect Day"
+          type: "audio",
+          label: "Denise Linn - Creating Your Perfect Day",
+          src: "audio/DeniseLinn_CreatingYourPerfectDay.mp3"
         }
       ]
     },
@@ -9846,9 +9847,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "video",
+          type: "audio",
           label: "Denise Linn - Serene Inner Peace",
-          src: "https://www.youtube.com/embed/53E4ExkkBD8?si=2IwQYuhYMlsKHnZm"
+          src: "audio/DeniseLinn_SereneInnerPeace.mp3"
         }
       ]
     },
@@ -10015,9 +10016,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "video",
-          label: "Denise Linn - Exuberant Self-Esteem",
-          src: "https://www.youtube.com/embed/5TKxGm07xIw?si=e_oVJQ3a455KK0ZC"
+          type: "audio",
+          label: "Denise Linn - I am Powerful",
+          src: "audio/DeniseLinn_IAmPowerful.mp3"
         }
       ]
     },
@@ -10226,9 +10227,9 @@ const meetings = {
       title: "",
       items: [
         {
-          type: "pdf",
-          label: "Meditation Info",
-          src: "https://drive.google.com/file/d/1hKAqtakdhB9c2kkVZTto-4I3CqpSVnvx/preview"
+          type: "audio",
+          label: "Sparkling Joy, Shimmering Blessiongs - Denise Linn",
+          src: "audio/DeniseLinn_SparklingJoy.mp3"
         }
       ]
     },
@@ -25547,8 +25548,9 @@ const meetings = {
       title: "Activate the Future",
       items: [
         {
-          type: "text",
-          label: "Denise Linn - CD4 Trk2 - Activate the Future"
+          type: "audio",
+          label: "Denise Linn - CD4 Trk2 - Activate an Awesome Future",
+          src: "audio/DeniseLinn_ActivatingAnAwesomeFuture.mp3"
         }
       ]
     },
@@ -25910,8 +25912,9 @@ const meetings = {
       title: "Who I Am is Enough",
       items: [
         {
-          type: "text",
-          label: "Denise Linn - CD1 Trk1 - Who I Am is Enough"
+          type: "audio",
+          label: "Denise Linn - CD1 Trk1 - Who I Am is Enough",
+          src: "audio/DeniseLinn_WhoIAmIsEnough.mp3"
         }
       ]
     },
@@ -26051,6 +26054,14 @@ const meetings = {
       }
     ],
 
+    invocation: [
+      {
+        type: "audio",
+        label: "Balance the Chakras - Denise Linn",
+        src: "audio/DeniseLinn_BalancingChakras.mp3"
+      }
+    ],
+
     focus: {
       title: "Root Chakra",
 
@@ -26126,11 +26137,11 @@ const meetings = {
     },
 
     meditation: {
-      title: "Balance the Chakras",
+      title: "",
       items: [
         {
-          type: "text",
-          label: "Did meditation before Invocation: Denise Linn CD3 Trk 5 Balance the Chakras"
+          type: "",
+          label: ""
         }
       ]
     },
@@ -29307,7 +29318,7 @@ const meetings = {
       {
         type: "audio",
         label: "Creating Your Perfect Day - Denise Linn",
-        src: "audio/201306-creating-your-perfect-day.mp3"
+        src: "audio/DeniseLinn_CreatingYourPerfectDay.mp3"
       }
     ],
 
