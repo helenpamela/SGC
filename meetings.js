@@ -29254,6 +29254,14 @@ const meetings = {
       }
     ],
 
+    invocation: [
+      {
+        type: "audio",
+        label: "Creating Your Perfect Day - Denise Linn",
+        src: "audio/201306-creating-your-perfect-day.mp3"
+      }
+    ],
+
     focus: {
       title: "Bloodstone",
 
@@ -29340,15 +29348,17 @@ const meetings = {
     ],
 
     luminary: {
-      title: "",
+      title: "Abraham-Hicks",
       items: [
         {
           type: "image",
-          src: "none-images/no-luminaries.png"
+          label: "Esther & Jerry Hicks (and Abraham)",
+          src: "luminary-images/abraham-hicks.jpg"
         },
         {
-          type: "",
-          src: ""
+          type: "image",
+          src: "Segment Intending",
+          src: "luminary-images/segment-intending.jpg"
         },
         {
           type: "",
@@ -29717,6 +29727,11 @@ const meetings = {
           type: "video",
           label: "Brene Brown - Listening to Shame",
           src: "https://www.youtube.com/embed/psN1DORYYV0?si=hp59TYwnOxPW55WX"
+        },
+        {
+          type: "pdf",
+          label: "Quote - It's not the critic",
+          src: "https://drive.google.com/file/d/1g27nw7zPTfB4Qj3TXUlu_3H2KqkpLTON/preview"
         }
 
         
@@ -29738,7 +29753,7 @@ const meetings = {
           "mandala", "shame"],
 
     topic: {
-      title: "Watch DVD",
+      title: "Watch DVD - People vs The State of Illusion [moved to June]",
       items: [
         {
           type: "",
