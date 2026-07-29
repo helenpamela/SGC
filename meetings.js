@@ -27901,14 +27901,14 @@ const meetings = {
           src: "https://drive.google.com/file/d/1WnNMdiKK0c6RSh5wfPy-_9rWQ5aY1IDs/preview"
         },
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Journaling as a Spiritual Practice - from Tending Garden",
+          src: "https://drive.google.com/file/d/1Yh9IyS3_obZTjOgn_DdwzD7MMei1Nl1U/preview"
         },
          {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Journaling as a Spiritual Practice - from Guideposts",
+          src: "https://drive.google.com/file/d/1-6eLlPBA6SAw_4au2IyCGJt8b242EVzB/preview"
         },
        
        
