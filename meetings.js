@@ -27350,15 +27350,15 @@ const meetings = {
         }, 
         {
           type: "pdf",
+          label: "Complaint-Free World Images",
+          src: "https://drive.google.com/file/d/1iuRSBxahFdBa5bnc6v_eC1fUhXhb4cg_/preview"  
+        },     
+        {
+          type: "pdf",
           label: "Complaint-Free Organization",
           src: "https://drive.google.com/file/d/1COrbPBr3tQZ0mCBh14sb-ZBjVn4fA2s8/preview"  
         }, 
         
-        {
-          type: "pdf",
-          label: "Desiderata",
-          src: "https://drive.google.com/file/d/1PTzRb6FHzRpG6juDA96nHAhkr5WxNRL9/preview"  
-        },
         {
           type: "video",
           label: "YouTube: Will Bowen - Complaint-Free World - 2014 - 1:25:14 ",
@@ -27368,21 +27368,16 @@ const meetings = {
           type: "video",
           label: "YouTube: Will Bowen - Complaint-Free Revolution - 2025 - 31:00 ",
           src: "https://www.youtube.com/embed/kGF8HnTqpJI?si=hOdannPst7mf4K3G"   
-        },   
-
-
-        
-  
-          
+        },            
 
       ]
     },
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "pdf",
+        label: "Desiderata",
+        src: "https://drive.google.com/file/d/1cp9rDoCe96fir4YmWkEx2FWXH2b0gawP/preview"  
       },
       {
         type: "",
@@ -27707,19 +27702,31 @@ const meetings = {
         },
         {
           type: "pdf",
+          label: "LovingKindness Images",
+          src: "https://drive.google.com/file/d/18oSIZVvMSAFE89ZvA0LYA2P-8dooQijx/preview"
+        },
+       
+        {
+          type: "pdf",
           label: "LovingKindness Diagram",
           src: "https://drive.google.com/file/d/1ETNkICLLfm36XYvXqQuvyn3lAUTZEGCH/preview"
         },
          {
           type: "pdf",
           label: "10 Ways to Deepen Your LovingKindness Practice",
-          src: "https://drive.google.com/file/d/1zprstxvNrEXpuvAQOMIOnrfkaQkv-jMN/preview"
+          src: "https://drive.google.com/file/d/1wHY7Hy1OC6obwHWdZ56L33C49HYW7zF1/preview"
         },
         {
           type: "image",
           label: "LovingKindness Meditation - CD Label",
           src: "daily-practice-images/201402-cd-loving-kindness-meditation.png"
         },
+        {
+          type: "audio",
+          label: "LovingKindness Meditation - UNH Health",
+          src: "audio/201402_LovingKindnessMeditation.mp3"
+        },
+
        
        
 
@@ -27766,7 +27773,7 @@ const meetings = {
         {
           type: "pdf",
           label: "What Is Compassion?",
-          src: "https://drive.google.com/file/d/10vgse3ZANakp7P8XNTk1R5H5GNbYP-EA/preview"  
+          src: "https://drive.google.com/file/d/18q1j1ay_EzF5AdZ2Sf96rtt3eYOsIWCn/preview"  
         },
         {
           type: "pdf",
@@ -27785,8 +27792,8 @@ const meetings = {
         }, 
         {
           type: "pdf",
-          label: "Get Compassionate to Get Happy",
-          src: "https://drive.google.com/file/d/1lABmcMjUHJ4lyg0sVl9XaWogsrQlKsNk/preview"  
+          label: "Get Compassionate to Get Happy - Dalai Lama",
+          src: "https://drive.google.com/file/d/1P8nd32VDlVCqnW6Y7fW3u-fflO56Jju4/preview"  
         },
   
           
