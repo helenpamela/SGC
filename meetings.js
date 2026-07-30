@@ -27171,7 +27171,12 @@ const meetings = {
         type: "pdf",
         label: "The Power of Color and Light - Positive and Negative",
         src: "https://drive.google.com/file/d/1JYvJqI2YAW-x7XO012hUHiVrT22IaLUx/preview"
-      }
+      },
+      {
+        type: "image",
+        label: "Mini Photo Frame - present from Linda",
+        src: "other-images/201405-mini-photo-frame.jpg"
+      },
 
     ]
   },
