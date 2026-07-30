@@ -26658,20 +26658,19 @@ const meetings = {
     focus: {
       title: "Pink Rose",
 
-      items: [
+      items: [    
+        {
+          type: "image",
+          src: "flower-images/201407-pink-rose.png"
+        },
+        {
+          type: "image",
+          src: "flower-images/201407-pink-rose-properties.png"
+        },
         {
           type: "pdf",
           label: "Pink Rose (from Flower book)",
           src: "https://drive.google.com/file/d/1LW_GAquDMLBuoT_3jvxlRNzL6H3wmmxV/preview"
-        },
-        {
-          type: "",
-          src: ""
-        },
-        {
-          type: "",
-          label: "",
-          src: ""
         },
       
         
@@ -27076,7 +27075,7 @@ const meetings = {
         {
           type: "pdf",
           label: "The Golden Rule in Various Traditions",
-          src: "https://drive.google.com/file/d/1eLUyswg94PYEpes8b56dO8LNnVt5UTtF/preview"
+          src: "https://drive.google.com/file/d/1ezjusjHduCKWk-UNX21N7m_RMYHHz2kX/preview"
         },
         {
           type: "pdf",
