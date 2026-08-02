@@ -25762,9 +25762,9 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "pdf",
+        label: "30 Days of Peace",
+        src: "https://drive.google.com/file/d/1SaEU2jL2TL08JOCTIwsRWYolWPJFboft/preview"
       },
       {
         type: "",
@@ -26185,6 +26185,16 @@ const meetings = {
         },
         {
           type: "pdf",
+          label: "The Seven Spiritual Laws Day by Day",
+          src: "https://drive.google.com/file/d/11ZjvUyR8ZhUD1Nd4OxO76T-iGhnww8BC/preview"  
+        },
+        {
+          type: "pdf",
+          label: "The Seven Spiritual Laws - Images",
+          src: "https://drive.google.com/file/d/1PbdeBG_3sI49VkbdVeRnhDeS6jfLkQOM/preview"  
+        },
+        {
+          type: "pdf",
           label: "The Seven Spiritual Laws - in Color",
           src: "https://drive.google.com/file/d/1qJb-jhvv6Aqz7mypNi3s7TFv16Dx0NPM/preview"  
         },
@@ -26384,17 +26394,17 @@ const meetings = {
         {
           type: "pdf",
           label: "The Twelve Universal Laws",
-          src: "https://drive.google.com/file/d/1MSM3pkjW3z-IzySgukpWEY0DEGeVRFp_/preview"  
+          src: "https://drive.google.com/file/d/1jLAhZ9tcdXvwmSynOMPbi3RHYSahgeNx/preview"  
         },
         {
           type: "pdf",
           label: "The 7 Natural Laws of the Universe",
-          src: "https://drive.google.com/file/d/1DGh-NP5BCc2Jx5FJPHz3FaUj9HWPPZ18/preview"  
+          src: "https://drive.google.com/file/d/1LpIIPWtPk1fZD5dthTOVYGNo8miwISOb/preview"  
         }, 
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "pdf",
+          label: "Universal Laws Just Are",
+          src: "https://drive.google.com/file/d/1hDQhfqW99-h0GcHUg5on1-sKD56X_DfD/preview"  
         }, 
   
           
