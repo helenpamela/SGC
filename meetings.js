@@ -24684,7 +24684,7 @@ const meetings = {
         {
           type: "audio",
           label: "Letting Go & Surrendering - Denise Linn",
-          src: "audio\DeniseLinn-LettingGoAndSurrendering.mp3"  
+          src: "audio/DeniseLinn_LettingGoAndSurrendering.mp3"  
         },
         {
           type: "pdf",
@@ -25088,20 +25088,11 @@ const meetings = {
     practice: {
       title: "What Do I Want?",
       items: [
-        {
-          type: "text",
-          label: "Play CD: Abraham's Creative Workshop (8 min)",
-          src: ""
-        },
+        
         {
           type: "pdf",
           label: "Form: 100 Things I Want (Page 1)",
           src: "https://drive.google.com/file/d/1PHQjo4FZHGzSeR2tmADI4-5qF3cpNm8B/preview"
-        },
-         {
-          type: "",
-          label: "",
-          src: ""
         },
         {
           type: "audio",
