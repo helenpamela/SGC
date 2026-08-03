@@ -23315,6 +23315,11 @@ const meetings = {
         src: "other-images/201512-cd-easy-listening.png"
       },
       {
+        type: "audio",
+        label: "Theme from The Apartment",
+        src: "audio/201512-theme-from-the-apartment.mp3"
+      },
+      {
         type: "image",
         label: "Easy Listening CD 1 Song List",
         src: "other-images/201512-cd1-easy-listening-song-list.jpg"
@@ -23514,7 +23519,7 @@ const meetings = {
     announcements: [
       {
         type: "text",
-        label: "Wayne Dyer has passed away.  1940-2015",
+        label: "1) Wayne Dyer has passed away.  1940-2015, 2) Deepak Chopra coming to Unity of Phoenix, Oct 30 Class at Banner - Integrative Therapies",
         src: ""
       }, 
     ],
@@ -23565,10 +23570,16 @@ const meetings = {
           src: "https://drive.google.com/file/d/1OKAbDfQXlo6g3YL5Fzk_jv_0bitwnZm2/preview"
         },
         {
+          type: "pdf",
+          label: "Are You A Scurvy Elephant?",
+          src: "https://drive.google.com/file/d/1IbER11VkbSCPmisCMCCgq1lLcUw3vQhz/preview"
+        },
+        {
           type: "image",
           label: "Stuffed Elephants",
           src: "member-images/2015-elephants.jpg"
-        }
+        },
+
       
         
          
@@ -23919,8 +23930,8 @@ const meetings = {
 
       items: [
         {
-          type: "image",
-          src: "no-images/no-monthly-focus.png"
+          type: "",
+          src: ""
         },
         {
           type: "",
@@ -24144,6 +24155,11 @@ const meetings = {
         },
         {
           type: "pdf",
+          label: "Form: I Am Grateful For",
+          src: "https://drive.google.com/file/d/1rSyN6-5scGPFW--2oy5FK-9ddVW_RcY1/preview"
+        },
+        {
+          type: "pdf",
           label: "Journal to Have Fun",
           src: "https://drive.google.com/file/d/1QpzmvIUdpmgJ3tdgFr1NJ3uv_KdwYdT3/preview"
         },
@@ -24270,8 +24286,8 @@ const meetings = {
 
     announcements: [
       {
-        type: "",
-        label: "",
+        type: "text",
+        label: "1) Celebrate Your Life 20th Anniv, 2) Oprah & Deepak 21-day Meditation 'Manifesting Grace through Gratitude' ",
         src: ""
       }, 
     ],
@@ -24312,6 +24328,11 @@ const meetings = {
           src: "chakra-images/201506-sacral-properties.jpg"
         },
         {
+          type: "audio",
+          label: "We Are Family",
+          src: "audio/201505-we-are-family.mp3"
+        },
+        {
           type: "pdf",
           label: "The Sacral Chakra",
           src: "https://drive.google.com/file/d/1hViWwFyMKYjevlRnmPpr1sLs2wv_WYst/preview"
@@ -24346,17 +24367,13 @@ const meetings = {
     practice: {
       title: "Abraham's Creative Workshop",
       items: [
+ 
         {
-          type: "pdf",
-          label: "Abraham Quote - Being Happy",
-          src: "https://drive.google.com/file/d/1skd0d1l6kobtvG6jUUeMMfR6AOZKeDro/preview"
+          type: "audio",
+          label: "Abraham's Creative Workshop",
+          src: "audio/201201-abrahams-creative-workshop.mp3"
         },
         {
-          type: "",
-          label: "",
-          src: ""
-        },
-         {
           type: "",
           label: "",
           src: ""
@@ -24613,6 +24630,11 @@ const meetings = {
           src: "daily-practice-images/201505-cd-label-let-it-go-surrender.jpg"
         },
         {
+          type: "pdf",
+          label: "Music - Images & Quotes",
+          src: "https://drive.google.com/file/d/1jZrfOnXMgsCZF705_lb6yHrLALWpAtgI/preview"
+        },
+        {
           type: "audio",
           label: "Morning Prayer - I Will Surrender - Karen Drucker",
           src: "audio/201505-morning-prayer-i will-surrender.mp3"
@@ -24690,7 +24712,12 @@ const meetings = {
           type: "pdf",
           label: "Why You Should Let Go",
           src: "https://drive.google.com/file/d/1BIi6gHI_vDRQrGOIAMNkKwmnPVOcgWkE/preview"  
-        }, 
+        },
+        {
+          type: "pdf",
+          label: "Letting Go & Surrendering - Images",
+          src: "https://drive.google.com/file/d/15yQZD0jmxumoL0oq-h9P_B67vpqNGbMm/preview"  
+        },
         {
           type: "pdf",
           label: "Victory By Surrender",
