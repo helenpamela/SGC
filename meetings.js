@@ -23237,7 +23237,7 @@ const meetings = {
         {
           type: "audio",
           label: "Chanson - Brad White & Pierre Grill",
-          src: "audio/201512-cd-pan-flute.mp3"
+          src: "audio/201512-chanson.mp3"
         },
         {
           type: "image",
