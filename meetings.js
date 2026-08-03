@@ -23237,7 +23237,7 @@ const meetings = {
         {
           type: "audio",
           label: "Chanson - Brad White & Pierre Grill",
-          src: "audio/201512-cd-pan-flute.png"
+          src: "audio/201512-cd-pan-flute.mp3"
         },
         {
           type: "image",
@@ -23519,7 +23519,7 @@ const meetings = {
     announcements: [
       {
         type: "text",
-        label: "1) Wayne Dyer has passed away.  1940-2015, 2) Deepak Chopra coming to Unity of Phoenix, Oct 30 Class at Banner - Integrative Therapies",
+        label: "1) Wayne Dyer has passed away.  1940-2015, 2) Deepak Chopra coming to Unity of Phoenix, 3) Oct 30 Class at Banner - Integrative Therapies",
         src: ""
       }, 
     ],
@@ -24625,15 +24625,16 @@ const meetings = {
       title: "Listen to Music",
       items: [
         {
-          type: "image",
-          label: "Let It Go / Surrender CD cover",
-          src: "daily-practice-images/201505-cd-label-let-it-go-surrender.jpg"
-        },
-        {
           type: "pdf",
           label: "Music - Images & Quotes",
           src: "https://drive.google.com/file/d/1jZrfOnXMgsCZF705_lb6yHrLALWpAtgI/preview"
         },
+        {
+          type: "image",
+          label: "Let It Go / Surrender CD cover",
+          src: "daily-practice-images/201505-cd-label-let-it-go-surrender.jpg"
+        },
+        
         {
           type: "audio",
           label: "Morning Prayer - I Will Surrender - Karen Drucker",
