@@ -25073,7 +25073,12 @@ const meetings = {
           type: "pdf",
           label: "Charms of Light",
           src: "https://drive.google.com/file/d/10W7FN1DMpEjh1YgBmyNr2AnOGkhLYYBf/preview"
-        }
+        },
+        {
+          type: "image",
+          label: "Aventurine Laugh Worry Stone - present from Linda",
+          src: "topic-images/201503-laugh-stone.jpg"  
+        },
         
          
    
@@ -25098,6 +25103,11 @@ const meetings = {
           label: "",
           src: ""
         },
+        {
+          type: "audio",
+          label: "Abraham's Creative Workshop",
+          src: "audio/201201-abrahams-creative-workshop.mp3"
+        }
        
        
 
@@ -25132,13 +25142,9 @@ const meetings = {
     },
 
     meditation: {
-      title: "Abraham's Creative Workshop",
+      title: "",
       items: [
-        {
-          type: "audio",
-          label: "Abraham's Creative Workshop",
-          src: "audio/201201-abrahams-creative-workshop.mp3"
-        }
+     
       ]
     },
 
@@ -25199,11 +25205,7 @@ const meetings = {
           label: "23 Benefits of Laughter",
           src: "https://drive.google.com/file/d/10sGs3VZJRXF84nXfFVou9uKlnTPP3o2U/preview"  
         },
-        {
-          type: "image",
-          label: "Aventurine Laugh Worry Stone - present from Linda",
-          src: "topic-images/201503-laugh-stone.jpg"  
-        },
+        
   
           
 
