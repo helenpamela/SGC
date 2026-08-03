@@ -24645,12 +24645,24 @@ const meetings = {
     ],
 
     luminary: {
-      title: "",
+      title: "Louise Hay, Robert Holden, Judith Orloff",
       items: [
         {
           type: "image",
-          src: "none-images/no-luminaries.png"
-        }
+          label: "Louise Hay",
+          src: "luminary-images/201505-louise-hay.png"
+        },
+        {
+          type: "image",
+          label: "Robert Holden",
+          src: "luminary-images/201505-robert-holden.png"
+        },
+        {
+          type: "image",
+          label: "Dr. Judith Orloff",
+          src: "luminary-images/201505-judith-orloff.png"
+        },
+
       ]
     },
 
@@ -24664,15 +24676,15 @@ const meetings = {
       ]
     },
 
-    tags: ["let go", "letting go", "surrender", "animal", "dove", "cd", "music" ],
+    tags: ["let go", "letting go", "surrender", "animal", "dove", "cd", "music", "denise linn" ],
 
     topic: {
       title: "Let Go & Surrender",
       items: [
         {
-          type: "text",
-          label: "Listened to Denise Linn meditation: Let Go & Surrender",
-          src: ""  
+          type: "audio",
+          label: "Letting Go & Surrendering - Denise Linn",
+          src: "audio\DeniseLinn-LettingGoAndSurrendering.mp3"  
         },
         {
           type: "pdf",
@@ -24809,8 +24821,8 @@ const meetings = {
     teacher_only: {
       working_agenda: [
         {
-          type: "pdf",
-          label: "Working Agenda",
+          type: "",
+          label: "",
           src: ""
         },
 
@@ -24999,6 +25011,11 @@ const meetings = {
 
     announcements: [
       {
+        type: "text",
+        label: "1) World Laughter Day, 2) Brush Bar is scheduled",
+        src: ""
+      },
+      {
         type: "pdf",
         label: "Gratitude (Arizona Republic)",
         src: "https://drive.google.com/file/d/1vi0C7R9FX8oD4ATUkPwkbyarJBhYsB2F/preview"
@@ -25115,16 +25132,18 @@ const meetings = {
     },
 
     meditation: {
-      title: "",
+      title: "Abraham's Creative Workshop",
       items: [
         {
-          type: "image",
-          src: "none-images/no-meditation.jpg"
+          type: "audio",
+          label: "Abraham's Creative Workshop",
+          src: "audio/201201-abrahams-creative-workshop.mp3"
         }
       ]
     },
 
-    tags: ["aventrine", "crystal", "laughter", "steve wilson", "patch adams", "abraham", "creative", "workshop"],
+    tags: ["aventurine", "crystal", "laughter", "laugh", "steve wilson", "patch adams", "abraham", 
+      "creative", "workshop"],
 
     topic: {
       title: "Laughter",
@@ -25179,7 +25198,12 @@ const meetings = {
           type: "pdf",
           label: "23 Benefits of Laughter",
           src: "https://drive.google.com/file/d/10sGs3VZJRXF84nXfFVou9uKlnTPP3o2U/preview"  
-        }
+        },
+        {
+          type: "image",
+          label: "Aventurine Laugh Worry Stone - present from Linda",
+          src: "topic-images/201503-laugh-stone.jpg"  
+        },
   
           
 
@@ -25325,10 +25349,8 @@ const meetings = {
         {
           type: "pdf",
           label: "My Promises to Me",
-          src: "https://drive.google.com/file/d/1xxL79a4Z_NhduLPsYYfGvKOC4Tk8XjWy/preview"
+          src: "https://drive.google.com/file/d/153QZpuMPwbyEBu3xxgVu09IO_VYiiIPq/preview"
         },
-
-       
        
 
       ],
