@@ -200,10 +200,20 @@
       /* 👈 centers visually under input */
     }
 
+
+
     .highlight {
-      background-color: #e6d9f5;
-      border-radius: 4px;
-      padding: 1px 3px;
+
+      background:#fff5a5;
+
+      color:#3c2f52;
+
+      padding:2px 5px;
+
+      border-radius:5px;
+
+      font-weight:700;
+
     }
 
     #modal-body {
@@ -322,6 +332,91 @@
       text-shadow:
         0 0 8px rgba(180, 150, 255, 0.4);
     }
+
+    .quote-card{
+
+      background:linear-gradient(
+        180deg,
+        #f8f3ff,
+        #eee5fb
+      );
+
+      border-radius:18px;
+
+      padding:22px;
+
+      margin-bottom:18px;
+
+      box-shadow:
+        0 8px 20px rgba(92,75,125,.15);
+
+      transition:.25s;
+    }
+
+    .quote-card:hover{
+
+      transform:translateY(-3px);
+
+      box-shadow:
+        0 14px 28px rgba(92,75,125,.22);
+    }
+
+    .quote-text {
+      font-size:22px;
+      line-height:1.5;
+      color:#4f4268;
+      font-style:italic;
+      margin-bottom:18px;
+    }
+
+    .quote-author {
+      text-align:right;
+      color:#6f5c91;
+      font-size:18px;
+      font-weight:600;
+      margin-bottom:14px;
+    }
+
+    .quote-tags {
+      font-size:14px;
+      color:#7d6ea3;
+    }
+
+    .tag-pill {
+      display:inline-block;
+      background:#e6d9f5;
+      color:#5c4b7d;
+      padding:4px 10px;
+      margin:3px;
+      border-radius:999px;
+      font-size:13px;
+    }
+
+    .page-subtitle {
+      color:#7d6ea3;
+      font-size:18px;
+      margin-top:-8px;
+      margin-bottom:24px;
+    }
+
+    .quote-card {
+      animation:fadeIn .35s ease;
+    }
+
+    @keyframes fadeIn{
+      from{
+        opacity:0;
+        transform:translateY(8px);
+      }
+      to{
+        opacity:1;
+        transform:translateY(0);
+      }
+    }
+
+
+
+
   </style>
 </head>
 
@@ -336,6 +431,12 @@
     </div>  
   
     <h2 id="quotations-title">Discover Quotations</h2>
+
+    <p class="page-subtitle">
+
+       Words of wisdom gathered from years of our Spiritual Growth Club journey.
+
+    </p>
 
     <input type="text" id="searchInput" placeholder="Discover quotations..."
       onkeyup="searchQuotations()"
@@ -450,19 +551,41 @@
 
         const li = document.createElement("li");
 
-        li.innerHTML = `
-          <a href="quote.html?id=${quote.id}">
-            ${quote.text}
-          </a>`;
+    const tags = quote.tags
+      ? quote.tags.slice(0,5).join(" • ")
+      : "";
+
+    const extraTags =
+      quote.tags && quote.tags.length > 5
+        ? ` +${quote.tags.length-5}`
+        : "";
+
+    li.innerHTML = `
+      <div class="quote-card">
+
+        <div class="quote-text">
+          "${formatTags(quote.tags,input)}"
+        </div>
+
+        <div class="quote-author">
+          — ${highlightText(quote.author, input)}
+        </div>
+
+        <div class="quote-tags">
+          🏷️ ${highlightText(tags, input)}${extraTags}
+        </div>
+
+        </div>
+   `;
 
         results.appendChild(li);
 
         
       }
     });
-
-    document.getElementById("resultCount").textContent =
-     `Found ${matches.length} quotation${matches.length===1?"":"s"}`;
+    
+     document.getElementById("resultCount").innerHTML =
+    `✨ Found <strong>${matches.length}</strong> quotation${matches.length===1?"":"s"}`;
 
     // 👇 SAVE RESULTS
     localStorage.setItem("searchResults", JSON.stringify(matches));
@@ -486,6 +609,21 @@
 
     // const regex = new RegExp(`(${searchTerm})`, "gi");
     return text.replace(regex, '<span class="highlight">$1</span>');
+  }
+
+  function formatTags(tags,input){
+
+    if(!tags) return "";
+
+    return tags
+      .slice(0,5)
+      .map(tag=>`
+        <span class="tag-pill">
+            ${highlightText(tag,input)}
+        </span>
+      `)
+      .join("");
+
   }
 
 </script>
