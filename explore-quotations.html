@@ -414,6 +414,12 @@
     if (!input) {
       localStorage.removeItem("searchResults"); // 👈 clear old results
       localStorage.removeItem("isSearchMode");
+
+      document.getElementById("searchHint").style.display = "block";
+
+      document.getElementById("resultCount").textContent = "";
+
+      results.innerHTML = "";
       return;
     }
 
@@ -451,10 +457,12 @@
 
         results.appendChild(li);
 
-        document.getElementById("resultCount").textContent =
-          `Found ${matches.length} quotation${matches.length===1?"":"s"}`;
+        
       }
     });
+
+    document.getElementById("resultCount").textContent =
+     `Found ${matches.length} quotation${matches.length===1?"":"s"}`;
 
     // 👇 SAVE RESULTS
     localStorage.setItem("searchResults", JSON.stringify(matches));
