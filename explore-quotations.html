@@ -564,7 +564,7 @@
       <div class="quote-card">
 
         <div class="quote-text">
-          "${highlightText(quote.text, input)}"
+          “${highlightText(quote.text, input)}”
         </div>
 
         <div class="quote-author">
@@ -583,7 +583,7 @@
     });
     
      document.getElementById("resultCount").innerHTML =
-    `✨ Found <strong>${matches.length}</strong> quotation${matches.length===1?"":"s"}`;
+    `✨ <strong>${matches.length}</strong> quotation${matches.length===1?"":"s found"}`;
 
     // 👇 SAVE RESULTS
     localStorage.setItem("searchResults", JSON.stringify(matches));
