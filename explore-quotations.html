@@ -355,7 +355,7 @@
 </body>
 
 <script src="app.js"></script>
-<script src="inspiration.json"></script>
+// <script src="inspiration.json"></script>
 
 
 <script>
@@ -367,6 +367,9 @@
     .then(data => {
       document.getElementById('header-placeholder').innerHTML = data;
   });
+  
+  const response = await fetch("inspiration.json");
+  const quotations = await response.json();
 
   // Search Quotations
  function searchQuotations() {
