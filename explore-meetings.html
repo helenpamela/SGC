@@ -1,0 +1,502 @@
+<head>
+  <title>Explore Meetings</title>
+
+  <link rel="stylesheet" href="header-styles.css">
+
+  <style>
+    .explore-banner h1 {
+      position: relative;
+      color: #5c4b7d;
+      font-weight: 600;
+      font-size: 38px;
+      text-shadow:
+        0 2px 6px rgba(255, 255, 255, 0.9),
+        0 0 8px rgba(92, 75, 125, 0.2);
+    }
+
+    .explore-banner img {
+      width: 100px;
+      margin-bottom: 10px;
+    }
+
+    .explore-banner {
+      background-image: url('explore-images/explore-header.jpg');
+      /* <-- your image path */
+      background-size: cover;
+      background-position: center;
+
+      padding: 40px 20px;
+      border-radius: 16px;
+      margin-bottom: 25px;
+      text-align: center;
+
+      position: relative;
+    }
+
+    /* Soft overlay so text is readable */
+    .explore-banner::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(255, 255, 255, 0.35);
+      /* soft white glow */
+      border-radius: 16px;
+    }
+
+
+    body {
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      margin: 0;
+      background: #f6f3f9;
+    }
+
+    select {
+      font-size: 18px;
+      padding: 8px;
+    }
+
+    label {
+      font-size: 18px;
+    }
+
+    button {
+      font-size: 18px;
+      padding: 10px 16px;
+    }
+
+    input {
+      font-size: 18px;
+    }
+
+    select,
+    input {
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 800px;
+      margin: 30px auto;
+      background: #ffffff;
+      padding: 30px 25px;
+      border-radius: 18px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    }
+
+    h1 {
+      text-align: center;
+      color: #5c4b7d;
+    }
+
+    body {
+      background: linear-gradient(180deg, #f6f3f9, #ffffff);
+    }
+
+    .card {
+      padding: 15px;
+      border-radius: 12px;
+      background: #ffffff;
+      margin-bottom: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    }
+
+    .button {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 14px;
+      background: #e6d9f5;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+
+    }
+
+    .button:hover {
+      background: #d6c6f0;
+      box-shadow: 0 0 10px rgba(180, 150, 255, 0.4);
+    }
+
+    .home-button {
+      display: inline-block;
+      margin-bottom: 20px;
+      padding: 12px 20px;
+      font-size: 16px;
+      background: #dcd0f0;
+      border-radius: 10px;
+      text-decoration: none;
+      color: #5c4b7d;
+    }
+
+    .container img {
+      width: 120px;
+      margin-bottom: 10px;
+    }
+
+    @keyframes gentleGlow {
+      0% {
+        box-shadow: 0 0 10px rgba(200, 170, 255, 0.25);
+      }
+
+      50% {
+        box-shadow: 0 0 16px rgba(200, 170, 255, 0.45);
+      }
+
+      100% {
+        box-shadow: 0 0 10px rgba(200, 170, 255, 0.25);
+      }
+    }
+
+    #searchResults li {
+      list-style: none;
+      margin: 8px 0;
+    }
+
+    #searchResults a {
+      text-decoration: none;
+      color: #5c4b7d;
+      background: #f3ecfb;
+      padding: 10px;
+      border-radius: 8px;
+      display: block;
+    }
+
+    #searchResults a:hover {
+      background: #e6d9f5;
+    }
+
+    #results li {
+      list-style: none;
+      margin-bottom: 10px;
+    }
+
+    #results a {
+      display: block;
+      background: #f3ecfb;
+      padding: 14px;
+      border: 1px solid rgba(180, 150, 255, 0.2);
+      border-radius: 12px;
+      text-decoration: none;
+      color: #5c4b7d;
+      font-size: 16px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    #results a:hover {
+      background: #e6d9f5;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 14px rgba(180, 150, 255, 0.25);
+    }
+
+    #results {
+      display: grid;
+      grid-template-columns: repeat(2, 300px);
+      gap: 16px;
+      justify-content: center;
+      margin: 0 auto;
+      /* 👈 helps */
+      max-width: 650px;
+      /* 👈 centers visually under input */
+    }
+
+    .highlight {
+      background-color: #e6d9f5;
+      border-radius: 4px;
+      padding: 1px 3px;
+    }
+
+    #modal-body {
+      text-align: center;
+      transition: opacity 0.2s ease;
+
+    }
+
+    #modal-body img {
+      width: 100%;
+      max-width: 700px;
+      border-radius: 14px;
+      display: block;
+      margin: 0 auto 15px auto;
+
+      box-shadow: 0 10px 25px rgba(92, 75, 125, 0.25);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+
+    }
+
+    #modal-body img:hover {
+      transform: scale(1.02);
+      box-shadow: 0 16px 35px rgba(92, 75, 125, 0.35);
+    }
+
+    .modal {
+      position: fixed;
+      z-index: 9999;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.5);
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s ease;
+    }
+
+    .modal.show {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .modal-content {
+      background: linear-gradient(180deg, #ffffff, #f9f6fc);
+      padding: 25px;
+      border-radius: 18px;
+      max-width: 900px;
+      width: 90%;
+      max-height: 80vh;
+      overflow-y: auto;
+
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2),
+        0 0 25px rgba(180, 150, 255, 0.25);
+
+      position: relative;
+      animation: popIn 0.25s ease;
+
+    }
+
+    @keyframes popIn {
+      from {
+        transform: scale(0.9);
+        opacity: 0;
+      }
+
+      to {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+
+    .modal-content button {
+      background: #e6d9f5;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .modal-content button:hover {
+      background: #d6c6f0;
+    }
+
+    .feature-card {
+      position: relative;
+      background: linear-gradient(180deg, #ffffff, #f6f0ff);
+      border-radius: 18px;
+      padding: 20px 20px 12px 20px;
+      margin-bottom: 20px;
+
+      text-align: center;
+
+      box-shadow:
+        0 10px 25px rgba(92, 75, 125, 0.2),
+        0 0 25px rgba(180, 150, 255, 0.25);
+    }
+
+    .feature-image {
+      width: 180px;
+      border-radius: 12px;
+      margin: 0 auto 10px auto;
+      display: block;
+
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    }
+
+    .feature-title {
+      font-size: 26px;
+      font-weight: 600;
+      color: #5c4b7d;
+      margin-top: 5px;
+
+      text-shadow:
+        0 0 8px rgba(180, 150, 255, 0.4);
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="header-placeholder"></div>
+
+  <div class="container">
+
+    <div class="explore-banner">
+      <h1>Explore Meetings</h1>
+    </div>
+
+    <h2>Search Meetings by Date</h2>
+
+    <label>Month:</label><br>
+    <select id="month">
+      <option value="01">January</option>
+      <option value="02">February</option>
+      <option value="03">March</option>
+      <option value="04">April</option>
+      <option value="05">May</option>
+      <option value="06">June</option>
+      <option value="07">July</option>
+      <option value="08">August</option>
+      <option value="09">September</option>
+      <option value="10">October</option>
+      <option value="11">November</option>
+      <option value="12">December</option>
+    </select>
+
+    <br><br>
+
+    <label>Year:</label><br>
+    <select id="year"></select>
+
+    <br><br>
+
+    <button onclick="goToMeeting()">Go</button>
+
+    <h2>Search Meetings by Topic</h2>
+
+    <input type="text" id="searchInput" placeholder="Enter topic, monthly focus, or daily practice..."
+      onkeyup="searchMeetings()" style="width: 100%; padding: 12px; margin-bottom: 20px;">
+
+    <ul id="searchResults"></ul>
+
+    <hr style="margin: 30px 0;">
+
+    <h2 id="cliff-notes-title">Search Cliff Notes ✨</h2>
+
+    <input type="text" id="exploreSearch" placeholder="✨ What are you looking for?"
+      style="width: 100%; padding: 12px; margin-bottom: 15px;">
+
+    <ul id="results"></ul>
+
+    <p id="noResults" style="display:none; color:#7a6c9d;">
+      No matches found ✨
+    </p>
+
+  </div>
+
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+        <button onclick="prevItem()">⬅️ Previous</button>
+        <button onclick="nextItem()">Next ➡️</button>
+      </div>
+
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+</body>
+
+<script src="app.js"></script>
+<script src="meetings.js"></script>
+
+<script>
+
+  fetch('header.html')
+    .then(response => response.text())
+    .then(data => {
+      document.getElementById('header-placeholder').innerHTML = data;
+    });
+
+  const yearSelect = document.getElementById("year");
+
+  const years = [...new Set(Object.values(meetings).map(m => m.year))];
+
+  years.sort((a, b) => b - a);
+
+  years.forEach(year => {
+    const option = document.createElement("option");
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  });
+
+
+  function goToMeeting() {
+    const month = document.getElementById("month").value;
+    const year = document.getElementById("year").value;
+
+    // ✅ ALL meetings (not filtered to one)
+    const allMeetings = Object.keys(meetings).sort();
+
+    // ✅ store full list
+    localStorage.setItem("meetingList", JSON.stringify(allMeetings));
+    localStorage.setItem("isSearchMode", "false");
+    localStorage.removeItem("searchResults");
+
+    // ✅ go to selected month
+    const id = `${year}${month}`;
+
+    window.location.href = `meetings.html?id=${id}`;
+  }
+
+
+  function searchMeetings() {
+    const input = document.getElementById("searchInput").value.toLowerCase();
+    const results = document.getElementById("searchResults");
+
+    console.log("SEARCH FUNCTION RUNNING");
+    results.innerHTML = "";
+
+    if (!input) {
+      localStorage.removeItem("searchResults"); // 👈 clear old results
+      localStorage.removeItem("isSearchMode");
+      return;
+    }
+
+    let matches = [];
+
+    Object.entries(meetings).forEach(([id, meeting]) => {
+      if (!meeting.title) {
+        console.log("Missing title:", id, meeting);
+      }
+
+      if (!meeting.tags) {
+        console.log("Missing tags:", id, meeting);
+      }
+
+
+      const titleMatch = meeting.title.toLowerCase().includes(input);
+      const tagMatch = meeting.tags?.some(tag =>
+        tag.toLowerCase().includes(input)
+      );
+
+      if (titleMatch || tagMatch) {
+        matches.push(id);
+
+        const li = document.createElement("li");
+        li.innerHTML = `
+        <a href="meetings.html?id=${id}">
+          ${meeting.title}
+        </a>
+      `;
+        results.appendChild(li);
+      }
+    });
+
+    // 👇 SAVE RESULTS
+    localStorage.setItem("searchResults", JSON.stringify(matches));
+    localStorage.setItem("isSearchMode", "true");
+
+    // Optional message
+    if (matches.length === 0) {
+      results.innerHTML = `<li style="color:#8a7fb0;">No results found 💜</li>`;
+    }
+
+    console.log("Saved searchResults:", matches); // 👈 debug
+
+  }
+
+</script>
+
