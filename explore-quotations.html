@@ -335,11 +335,36 @@
       <h1>Explore Quotations</h1>
     </div>  
   
-    <h2 id="quotations-title">Search Quotations by author or topic or words in the quotation</h2>
+    <h2 id="quotations-title">Discover Quotations</h2>
 
-    <input type="text" id="searchInput" placeholder="Enter author or topic..."
-      onkeyup="searchQuotations() "style="width: 100%; padding: 12px; margin-bottom: 20px;">
-
+    <input type="text" id="searchInput" placeholder="Discover quotations..."
+      onkeyup="searchQuotations()"
+      style="width: 100%; padding: 12px; margin-bottom: 20px;">
+     
+      <p id="resultCount"></p>
+    
+      <div id="searchHint" class="search-hint">
+    
+      🌸 <strong>Start typing to discover quotations.</strong>
+    
+      <p>
+        Search by author, topic, or any word in a quotation.
+      </p>
+    
+      <p style="font-size:15px;color:#7a6c9d;">
+        Examples:
+        <em>gratitude</em> •
+        <em>Rumi</em> •
+        <em>joy</em> •
+        <em>forgiveness</em> •
+        <em>mountain</em>
+      </p>
+    
+    </div>
+    
+    
+    
+    
     <ul id="searchResults"></ul>
 
     <hr style="margin: 30px 0;">
@@ -374,15 +399,7 @@
   })
   .catch(err => console.error(err));
   
-  
-  
-  
-  
-  
-  
-  
-  const response = await fetch("inspiration.json");
-  const quotations = await response.json();
+
 
   // Search Quotations
  function searchQuotations() {
@@ -392,6 +409,8 @@
     console.log("SEARCH QUOTATIONS RUNNING");
     results.innerHTML = "";
 
+    document.getElementById("searchHint").style.display = "none";
+    
     if (!input) {
       localStorage.removeItem("searchResults"); // 👈 clear old results
       localStorage.removeItem("isSearchMode");
@@ -429,9 +448,11 @@
           <a href="quote.html?id=${quote.id}">
             ${quote.text}
           </a>`;
-     
 
         results.appendChild(li);
+
+        document.getElementById("resultCount").textContent =
+          `Found ${matches.length} quotation${matches.length===1?"":"s"}`;
       }
     });
 
