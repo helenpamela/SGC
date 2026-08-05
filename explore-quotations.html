@@ -1,5 +1,5 @@
 <head>
-  <title>Explore Cliff Notes</title>
+  <title>Explore Quotations</title>
 
   <link rel="stylesheet" href="header-styles.css">
 
@@ -332,23 +332,8 @@
   <div class="container">
 
     <div class="explore-banner">
-      <h1>Explore Cliff Notes</h1>
-    </div>
-
-
-
-    <hr style="margin: 30px 0;">
-
-    <h2 id="cliff-notes-title">Search Cliff Notes ✨</h2>
-
-    <input type="text" id="exploreSearch" placeholder="✨ What are you looking for?"
-      style="width: 100%; padding: 12px; margin-bottom: 15px;">
-
-    <ul id="results"></ul>
-
-    <p id="noResults" style="display:none; color:#7a6c9d;">
-      No matches found ✨
-    </p>
+      <h1>Explore Quotations</h1>
+    </div>  
 
   </div>
 
@@ -367,19 +352,12 @@
 </body>
 
 <script src="app.js"></script>
+<script src="inspiration.json"></script>
+
 
 <script>
 
-
-   fetch('header.html')
-    .then(response => response.text())
-    .then(data => {
-      document.getElementById('header-placeholder').innerHTML = data;
-    });
-
-  
-
-// Search Cliff Notes
+  // Search Quotations
 
   let allItems = [];
   let filteredItems = [];
@@ -391,24 +369,12 @@
   }
 
   Promise.all([
-    safeFetch('cn-sacred-pages.json'),
-    safeFetch('cn-first-aid.json'),
-    safeFetch('cn-daily-practices.json'),
-    safeFetch('cn-concepts.json'),
-    safeFetch('cn-tools.json'),
-    safeFetch('cn-forms.json'),
-    safeFetch('cn-resources.json')
+    safeFetch('inspiration.json')
   ])
-    .then(([sacredPages, firstAid, practices, concepts, tools, forms, resources]) => {
+    .then(([inspiration]) => {
 
       allItems = [
-        ...sacredPages.items,
-        ...firstAid.items,
-        ...practices.items,
-        ...concepts.items,
-        ...tools.items,
-        ...forms.items,
-        ...resources.items
+        ...inspiration.quotes,
       ];
 
     });
@@ -436,24 +402,23 @@
 
     allItems.forEach((item, index) => {
 
-      const labelMatch = item.label.toLowerCase().includes(value);
-
-      const tagMatch = item.tags?.some(tag =>
+      const authorMatch= quote.author.toLowerCase().includes(value);
+      const tagMatch = quote.tags?.some(tag =>
         tag.toLowerCase().includes(value)
       );
 
-      if (labelMatch || tagMatch) {
+      if (authorMatch || tagMatch) {
 
         const li = document.createElement("li");
 
-        filteredItems.push(item);
+        filteredQuotes.push(quote);
 
-        const index = filteredItems.length - 1;
+        const index = filteredQuotes.length - 1;
 
         // find matching tag
         let matchText = "";
         if (value) {
-          const match = item.tags?.find(tag =>
+          const match = quote.tags?.find(tag =>
             tag.toLowerCase().includes(value)
           );
           if (match) matchText = `🔍 ${match}`;
@@ -461,18 +426,17 @@
 
         li.innerHTML = `
 
-          <a href="#" onclick="event.preventDefault(); openModal(${index})">
 
           <div style="font-size:13px; color:#7a6c9d;">
             ${matchText}
           </div>
 
-          <div style="font-size:12px; color:#a08fc4;">
-            ${item.section}
+          <div style="font-size:16px; font-weight:500;">
+            ${quote.author}
           </div>
 
           <div style="font-size:16px; font-weight:500;">
-            ${item.label}
+            ${quote.text}
           </div>
 
           </a>
@@ -483,117 +447,8 @@
       }
     });
 
-    // results.scrollIntoView({ behavior: "smooth" });
-    document.getElementById("cliff-notes-title").scrollIntoView({
-      behavior: "smooth"
-    });
-    noResults.style.display = matchCount === 0 ? "block" : "none";
+
   });
 
-  let currentIndex = 0;
-
-  function openModal(index) {
-    currentIndex = index;
-    showPage();
-
-    //document.getElementById("modal").style.display = "block";
-    document.getElementById("modal").classList.add("show");
-  }
-
-  function showPage() {
-    // document.getElementById("modal-body").innerHTML = "HELLO PAM 👋";
-
-    // console.log("Index:", currentIndex);
-    // console.log("Item:", allItems[currentIndex]);
-
-    const modalBody = document.getElementById("modal-body");
-
-    modalBody.style.opacity = 0;
-
-    setTimeout(() => {
-      const item = filteredItems[currentIndex];
-
-      if (item.type === "PDF") {
-        modalBody.innerHTML =
-          `<iframe src="${item.src1}" width="100%" height="600px"></iframe>`;
-      }
-      else if (item.type === "image") {
-
-        // let html = `<img src="${item.src1}">`;
-
-        let html = `
-          <div class="feature-card">
-          <img src="${item.src1}" class="feature-image">
-          <div class="feature-title">${item.label}</div>
-          </div>
-        `;
-
-        if (item.src2) {
-          html += `<img src="${item.src2}">`;
-        }
-        modalBody.innerHTML = html;
-      }
-      else {
-        modalBody.innerHTML = `<p>Oops! Couldn't load this item.</p>`;
-      }
-
-      let html = `
-        <div class="feature-card">
-          <img src="${item.src1}" class="feature-image">
-          <div class="feature-title">${item.label}</div>
-        </div>
-      `;
-
-      modalBody.style.opacity = 1;
-
-    }, 150);
-  }
-
-  function nextResult() {
-    let list = (searchResults && searchResults.length > 1)
-      ? searchResults
-      : Object.keys(meetings).sort();
-
-    let currentIndex = list.findIndex(x => String(x) === String(id));
-
-    if (currentIndex === -1) currentIndex = 0;
-
-    let nextId = list[(currentIndex + 1) % list.length];
-    window.location.href = `meetings.html?id=${nextId}`;
-  }
-
-  function prevResult() {
-    let list = (searchResults && searchResults.length > 1)
-      ? searchResults
-      : Object.keys(meetings).sort();
-
-    let currentIndex = list.findIndex(x => String(x) === String(id));
-
-    if (currentIndex === -1) currentIndex = 0;
-
-    let prevId = list[(currentIndex - 1 + list.length) % list.length];
-    window.location.href = `meetings.html?id=${prevId}`;
-  }
-
-  document.getElementById("modal").addEventListener("click", function (e) {
-    if (e.target === this) {
-      closeModal();
-    }
-  });
-
-  function closeModal() {
-    document.getElementById("modal").classList.remove("show");
-  }
-
-  function nextItem() {
-    currentIndex = (currentIndex + 1) % filteredItems.length;
-    showPage();
-  }
-
-  function prevItem() {
-    currentIndex = (currentIndex - 1 + filteredItems.length) % filteredItems.length;
-    showPage();
-  }
 
 
-</script>
