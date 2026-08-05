@@ -337,17 +337,20 @@
 
   </div>
 
-  <div id="modal" class="modal">
-    <div class="modal-content">
-      <span class="close" onclick="closeModal()">&times;</span>
-      <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-        <button onclick="prevItem()">⬅️ Previous</button>
-        <button onclick="nextItem()">Next ➡️</button>
-      </div>
 
-      <div id="modal-body"></div>
-    </div>
-  </div>
+
+  <h2 id="quotations-title">Search Quotations by Author or Topic</h2>
+
+    <input type="text" id="searchInput" placeholder="Enter author or topic..."
+      onkeyup="searchQuotations()"style="width: 100%; padding: 12px; margin-bottom: 20px;">
+
+    <ul id="searchResults"></ul>
+
+    <hr style="margin: 30px 0;">
+
+    <p id="noResults" style="display:none; color:#7a6c9d;">
+      No matches found ✨
+    </p>
 
 </body>
 
@@ -357,28 +360,70 @@
 
 <script>
 
-  // Search Quotations
-
-  let allItems = [];
-  let filteredItems = [];
-
-  function safeFetch(url) {
-    return fetch(url)
-      .then(res => res.ok ? res.json() : { items: [] })
-      .catch(() => ({ items: [] }));
-  }
-
-  Promise.all([
-    safeFetch('inspiration.json')
-  ])
-    .then(([inspiration]) => {
-
-      allItems = [
-        ...inspiration.quotes,
-      ];
-
+   fetch('header.html')
+    .then(response => response.text())
+    .then(data => {
+      document.getElementById('header-placeholder').innerHTML = data;
     });
 
+  // Search Quotations
+ function searchQuotations() {
+    const input = document.getElementById("searchInput").value.toLowerCase();
+    const results = document.getElementById("searchResults");
+
+    console.log("SEARCH FUNCTION RUNNING");
+    results.innerHTML = "";
+
+    if (!input) {
+      localStorage.removeItem("searchResults"); // 👈 clear old results
+      localStorage.removeItem("isSearchMode");
+      return;
+    }
+
+    let matches = [];
+
+    Object.entries(quotes).forEach(([id, quote]) => {
+      if (!quote.author) {
+        console.log("Missing author:", id, quote);
+      }
+
+      if (!quote.tags) {
+        console.log("Missing tags:", id, quote);
+      }
+
+
+      const authorMatch = quote.author.toLowerCase().includes(input);
+      const tagMatch = quote.tags?.some(tag =>
+        tag.toLowerCase().includes(input)
+      );
+
+      if (authorMatch || tagMatch) {
+        matches.push(id);
+
+        const li = document.createElement("li");
+        li.innerHTML = `
+        <a href="quote.html?id=${id}">
+          ${quote.text}
+        </a>
+      `;
+        results.appendChild(li);
+      }
+    });
+
+    // 👇 SAVE RESULTS
+    localStorage.setItem("searchResults", JSON.stringify(matches));
+    localStorage.setItem("isSearchMode", "true");
+
+    // Optional message
+    if (matches.length === 0) {
+      results.innerHTML = `<li style="color:#8a7fb0;">No results found 💜</li>`;
+    }
+
+    console.log("Saved searchResults:", matches); // 👈 debug
+
+  }
+
+ 
   function highlightText(text, searchTerm) {
     if (!searchTerm) return text;
 
@@ -389,6 +434,7 @@
     return text.replace(regex, '<span class="highlight">$1</span>');
   }
 
+  /*
   const search = document.getElementById("exploreSearch");
   const results = document.getElementById("results");
   const noResults = document.getElementById("noResults");
@@ -446,9 +492,11 @@
         matchCount++;
       }
     });
+    
 
 
   });
+  */
 
 
 

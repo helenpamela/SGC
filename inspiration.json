@@ -1,740 +1,890 @@
 {
   "quotes": [
     {
+      "id":  "001",
       "text": "For every minute you are angry you lose sixty seconds of happiness.",
       "author": "Ralph Waldo Emerson",
       "tags": ["anger", "happiness"]
     },
     
     {
+      "id":  "002",
       "text": "Peace comes from within.",
       "author": "Buddha",
       "tags": ["peace"]
     },
     {
+      "id":  "003",
       "text": "The way to gain a good reputation is to endeavor to be what you desire to appear.",
       "author": "Socrates",
       "tags": ["reputation", "being"]
     },
     {
+      "id":  "004",
       "text": "How good can it get?",
       "author": "Cynthia Sue Larson",
       "tags": ["quantum jumping", "shifting reality" ]
     },
     {
+      "id":  "005",
       "text": "Everything we call real is made of things that cannot be regarded as real. If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.",
       "author": "Niels Bohr",
       "tags": ["quantum jumping", "quantum mechanics"]
     },
     {
+      "id":  "006",
       "text": "Perseverance - the greater the obstacle, the greater the glory in overcoming it.",
       "author": "Unknown",
       "tags": ["perseverance", "obstacle", "glory"]
     },
     {
+      "id":  "007",
       "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
       "author": "Winston Churchill",
       "tags": ["perseverance", "success", "failure", "courage"]
     },
     {
+      "id":  "008",
       "text": "Perseverance, secret of triumphs.",
       "author": "Victor Hugo",
       "tags": ["perseverance"]
     },
     {
+      "id":  "009",
       "text": "Great works are performed not by strength but by perseverance.",
       "author": "Samuel Johnson",
       "tags": ["perseverance", "strength"]
     },
     {
+      "id":  "010",
       "text": "Energy and persistence conquer all things.",
       "author": "Benjamin Franklin",
       "tags": ["reputation", "energy"]
     },
     {
+      "id":  "011",
       "text": "Success is almost totally dependent upon drive and persistence.",
       "author": "Thomas Edison",
       "tags": ["perseverance", "success"]
     },
     {
+      "id":  "012",
       "text": "Fall down seven times, stand up eight",
       "author": "Japanese Proverb",
       "tags": ["perseverance", "failure"]
     },
     {
+      "id":  "013",
       "text": "You may encounter many defeats, but you must not be defeated.",
       "author": "Maya Angelou",
       "tags": ["perseverance", "defeat"]
     },
     {
+      "id":  "014",
       "text": "The brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.",
       "author": "Randy Pausch",
       "tags": ["perseverance", "obstacle", "desire"]
     },
     {
+      "id":  "015",
       "text": "Courage is not having the strength to go on; it is going on when you don’t have the strength.",
       "author": "Theodore Roosevelt",
       "tags": ["perseverance", "courage", "strength"]
     },
     {
+      "id":  "016",
       "text": "If you are going through hell, keep going.",
       "author": "Winston Churchill",
       "tags": ["perseverance"]
     },
     {
+      "id":  "017",
       "text": "If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.",
       "author": "Martin Luther King Jr.",
       "tags": ["perseverance", "moving forward"]
     },
     {
+      "id":  "018",
       "text": "The man who moves a mountain begins by carrying away small stones.",
       "author": "Confucius",
       "tags": ["perseverance", "small steps", "tiny steps", "steps"]
     },
     {
+      "id":  "019",
       "text": "By perseverance the snail reached the ark.",
       "author": "Charles Spurgeon",
       "tags": ["perseverance"]
     },
     {
+      "id":  "020",
       "text": "Enlightenment isn't a change into something better or more. It's a simple recognition of who we truly are.",
       "author": "Unknown",
       "tags": ["enlightenment"]
     },
     {
+      "id":  "021",
       "text": "The path to enlightenment is not a path at all, it's actually a metaphor for the time it takes for you to allow yourself to be happy with you already are, where you're already at, and what you already have - no matter what.",
       "author": "Mike Dooley",
       "tags": ["enlightenment", "path", "happiness"]
     },
     {
+      "id":  "022",
       "text": "Don't you know yet?  It is your light that lights the worlds.",
       "author": "Rumi",
       "tags": ["light"]
     },
     {
+      "id":  "023",
       "text": "You were born with wings, why prefer to crawl through life?",
       "author": "Rumi",
       "tags": ["enlightenment", "flying", "wings"]
     },
     {
+      "id":  "024",
       "text": "Do not feel lonely.  The entire universe is inside you.",
       "author": "Rumi",
       "tags": ["enlightenment", "universe", "within"]
     },
     {
+      "id":  "025",
       "text": "You are not a drop in the ocean.  You are the entire ocean, in a drop.",
       "author": "Rumi",
       "tags": ["enlightenment", "ocean"]
     },
     {
+      "id":  "026",
       "text": "Happiness is there for the taking - and the making.",
       "author": "Oprah",
       "tags": ["happiness"]
     },
     {
+      "id":  "027",
       "text": "To experience peace does not mean that your life is always blissful.  It means that you are capable of tapping into a blissful state of mind amidst the chaos of a normal hectic life.",
       "author": "Jill Bolte Taylor",
       "tags": ["peace", "bliss"]
     },
     {
+      "id":  "028",
       "text": "The best way to get rid of the pain is to feel the pain. And when you feel the pain and go beyond it, you'll see there's a very intense love that is wanting to awaken itself.",
       "author": "Deepak Chopra",
       "tags": ["pain", "love"]
     },
     {
+      "id":  "029",
       "text": "So many conditions of happiness are available; more than enough for you to be happy right now. You don't have to run into the future to get more.",
       "author": "Thich Nhat Hanh",
       "tags": ["happiness"]
     },
     {
+      "id":  "030",
       "text": "When we are unable to find tranquility within ourselves, it is useless to seek it elsewhere.",
       "author": "La Rochefoucauld",
       "tags": ["tranquility", "seek"]
     },
     {
+      "id":  "031",
       "text": "The greatest weapon against stress is our ability to choose one thought over another.",
       "author": "William James",
       "tags": ["stress", "choose", "thought"]
     },
     {
+      "id":  "032",
       "text": "Never doubt that a small group of thoughtful, committed citizens can change the world.  Indeed, it is the only thing that ever has.",
       "author": "Margaret Mead",
       "tags": ["change the world", "making a difference"]
     },
     {
+      "id":  "033",
       "text": "Instead of thinking outside the box, get rid of the box",
       "author": "Deepak Chopra",
       "tags": ["box", "thinking"]
     },
     {
+      "id":  "034",
       "text": "Be who you are and say what you feel because those who mind don't matter and those who matter don't mind",
       "author": "Dr Seuss",
       "tags": ["authentic"]
     },
     {
+      "id":  "035",
       "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
       "author": "Ralph Waldo Emerson",
       "tags": ["past", "future", "go within"]
     },
     {
+      "id":  "036",
       "text": "Be happy for no reason, like a child. If you're happy for a reason, you're in trouble, because that reason can be taken from you.",
       "author": "Deepak Chopra",
       "tags": ["happiness"]
     },
     {
+      "id":  "037",
       "text": "Begin challenging your own assumptions. Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.",
       "author": "Alan Alda",
       "tags": ["assumptions", "perspective", "beliefs"]
     },
     {
+      "id":  "038",
       "text": "Be the change that you wish to see in the world.",
       "author": "Mahatma Gandhi",
       "tags": ["change the world", "making a difference"]
     },
     {
+      "id":  "039",
       "text": "Life loves to be taken by the lapels and told, I am with you kid, let's go.",
       "author": "Maya Angelou",
       "tags": ["life", "let's go", "inspiration"]
     },
     {
+      "id":  "040",
       "text": "When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bonds: your mind transcends limitations, your consciousness expands in every direction, and you find yourself in a new, great, and wonderful world. Dormant forces, faculties, and talents become alive, and you discover yourself to be a greater person by far than you ever dreamed yourself to be.",
       "author": "Patanjali",
       "tags": ["inspiration", "consciousness", "limitations", "talent"]
     },
     {
+      "id":  "041",
       "text": "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
       "author": "Lao Tzu",
       "tags": ["simplicity", "patience", "compassion"]
     },
     {
+      "id":  "042",
       "text": "If you are depressed, you live in the past...If you are anxious, you live in the future...But, if you are at peace, you live in the present.",
       "author": "Lao Tzu",
       "tags": ["past", "future", "present", "depressed", "anxious", "peace"]
     },
     {
+      "id":  "043",
       "text": "A journey of a thousand miles begins with a single step.",
       "author": "Lao Tzu",
       "tags": ["step"]
     },
     {
+      "id":  "044",
       "text": "Doing nothing is better than being busy doing nothing.",
       "author": "Lao Tzu",
       "tags": ["busy", "doing nothing"]
     },
     {
+      "id":  "045",
       "text": "Watch your thoughts; they become words. Watch your words; they become actions. Watch your actions; they become habits. Watch your habits; they become character. Watch your character; it becomes your destiny",
       "author": "Lao Tzu",
       "tags": ["words", "actions", "habits", "character", "destiny", "watch"]
     },
     {
+      "id":  "046",
       "text": "If you do not change direction, you may end up where you are heading.",
       "author": "Lao Tzu",
       "tags": ["direction", "change", "end up"]
     },
     {
+      "id":  "047",
       "text": "Care about what other people think and you will always be their prisoner.",
       "author": "Lao Tzu",
       "tags": ["prisoner", "other people", "think"]
     },
     {
+      "id":  "048",
       "text": "New beginnings are often disguised as painful endings.",
       "author": "Lao Tzu",
       "tags": ["beginning", "ending"]
     },
     {
+      "id":  "049",
       "text": "If you want to awaken all of humanity, then awaken all of yourself. If you want to eliminate suffering in the world, then eliminate all that is dark and negative in yourself. Truly, the greatest gift you have to give is that of your own self-transformation.",
       "author": "Lao Tzu",
       "tags": ["awaken", "suffering", "gift", "self-transformation", "negative"]
     },
     {
+      "id":  "050",
       "text": "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.",
       "author": "Lao Tzu",
       "tags": ["content", "lack", "abundance"]
     },
     {
+      "id":  "051",
       "text": "It is not the critic who counts; not the man who points out how the strong man stumbles or where the doer of deeds could have done them better.  The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood...",
       "author": "Theodore Roosevelt",
       "tags": ["arena", "critic", "dust", "sweat"]
     },
     {
+      "id":  "052",
       "text": "You should sit in meditation for twenty minutes every day; Unless you are too busy; then you should sit for an hour.",
       "author": "Old Zen Adage",
       "tags": ["meditation", "busy"]
     },
     {
+      "id":  "053",
       "text": "Journaling: Paying attention to the inside for the purpose of living well from the inside out.",
       "author": "Lee Wise",
       "tags": ["journaling"]
     },
     {
+      "id":  "054",
       "text": "Keeping a journal will change your life in ways that you'd never imagine.",
       "author": "Oprah Winfrey",
       "tags": ["journaling", "change", "life"]
     },
     {
+      "id":  "055",
       "text": "As the number of studies increased, it became clear that writing was a far more powerful tool for healing than anyone had ever imagined.",
       "author": "James W. Pennebaker",
       "tags": ["journaling", "tool", "healing"]
     },
     {
+      "id":  "056",
       "text": "I can shake off everything as I write. My sorrows disappear. My courage is reborn.",
       "author": "Anne Frank",
       "tags": ["journaling", "sorrow", "courage"]
     },
     {
+      "id":  "057",
       "text": "Fill your paper with the breathings of your heart.",
       "author": "William Wordsworth",
       "tags": ["journaling", "heart"]
     },
     {
+      "id":  "058",
       "text": "Journal writing is a voyage to the interior.",
       "author": "Christina Baldwin",
       "tags": ["journaling", "voyage", "interior"]
     },
     {
+      "id":  "059",
       "text": "If the only prayer you said in your whole life was 'Thank you', that would suffice.",
       "author": "Master Eckhart",
       "tags": ["prayer", "gratitude", "thank you"]
     },
     {
+      "id":  "060",
       "text": "Gratitude can transform common days into thanksgiving, turn routine jobs into joy, and change ordinary opportunities into blessings.",
       "author": "William Arthur Ward",
       "tags": ["gratitude", "thanksgiving", "joy", "blessings"]
     },
     {
+      "id":  "061",
       "text": "Gratitude is one of the sweet shortcuts to finding peace of mind and happiness inside. No matter what is going on outside of us, there's always something we could be grateful for. ",
       "author": "Barry Neil Kaufman",
       "tags": ["gratitude", "peace", "happiness", "grateful"]
     },
     {
+      "id":  "062",
       "text": "Gratitude is the complete and full response of the heart to everything in the universe.",
       "author": "Wayne Dyer",
       "tags": ["gratitude", "heart", "universe", "response"]
     },
     {
+      "id":  "063",
       "text": "Love is the only miracle there is.",
       "author": "Osho",
       "tags": ["love", "miracle"]
     },
     {
+      "id":  "064",
       "text": "Every day in every way I’m getting better and better.",
       "author": "Laura Silva",
       "tags": ["day", "better"]
     },
     {
+      "id":  "065",
       "text": "I change my thoughts, I change my world.",
       "author": "Norman Vincent Peale",
       "tags": ["change", "thoughts", "world"]
     },
     {
+      "id":  "066",
       "text": "Living life without forgiveness is like drinking poison and waiting for the other person to die. Being able to forgive means you're also able to move forward.",
       "author": "Unknown",
       "tags": ["forgive", "poison", "forgiveness"]
     },
     {
+      "id":  "067",
       "text": "Forgiveness is giving up the hope that the past could've been different.",
       "author": "Oprah Winfrey",
       "tags": ["forgiveness", "hope"]
     },
     {
+      "id":  "068",
       "text": "To forgive is to set a prisoner free and discover that the prisoner was you.",
       "author": "Lewis R. Smede",
       "tags": ["forgive", "prisoner", "free"]
     },
     {
+      "id":  "069",
       "text": "The practice of forgiveness is our most important contribution to the healing of the world.",
       "author": "Marianne Williamson",
       "tags": ["forgiveness", "healing", "world", "contribution"]
     },
     {
+      "id":  "070",
       "text": "Forgiveness is the fragrance that the violet sheds on the heel that has crushed it.",
       "author": "Mark Twain",
       "tags": ["forgiveness", "fragrance", "violet", "heel", "crush"]
     },
     {
+      "id":  "071",
       "text": "When I am able to resist the temptation to judge others, I can see them as teachers of forgiveness in my life, reminding me that I can only have peace of mind when I forgive rather than judge.",
       "author": "Gerald Jampolsky",
       "tags": ["temptation", "judge", "forgiveness", "teacher", "peace"]
     },
     {
+      "id":  "072",
       "text": "Nothing is more contagious than your example.",
       "author": "John C. Maxwell",
       "tags": ["example", "contagious"]
     },
     {
+      "id":  "073",
       "text": "How much we know and understand ourselves is critically important, but there is something that is even more essential to living a wholehearted life: loving ourselves.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "love"]
     },
     {
+      "id":  "074",
       "text": "Wholehearted living is about engaging in our lives from a place of worthiness. ",
       "author": "Brene Brown",
       "tags": ["wholehearted", "worthy", "worthiness"]
     },
     {
+      "id":  "075",
       "text": "Let go of who you're supposed to be; embrace who you are.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "authenticity"]
     },
     {
+      "id":  "076",
       "text": "We can't practice compassion with other people if we can't treat ourselves kindly.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "self-compassion"]
     },
     {
+      "id":  "077",
       "text": "Self-compassion is key because when we're able to be gentle with ourselves in the midst of shame, we're more likely to reach out, connect, and experience empathy.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "self-compassion", "shame", "empathy"]
     },
     {
+      "id":  "078",
       "text": "We need resilience and hope, and a spirit that can carry us through doubt and fear. We need to believe we can effect change if we want to live and love with our whole hearts.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "resilience", "hope", "fear", "doubt"]
     },
     {
+      "id":  "079",
       "text": "Gratitude is a practice that shifts your focus from what your life lacks to the abundance that is already present.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "gratitude", "focus", "abundance"]
     },
     {
+      "id":  "080",
       "text": "Joy - a spiritual way of connecting to the world that's connected to practicing gratitude.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "joy", "gratitude"]
     },
     {
+      "id":  "081",
       "text": "Practicing gratitude is how we acknowledge that there's enough and that we're enough.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "gratitude"]
     },
     {
+      "id":  "082",
       "text": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "gratitude", "peace", "vision"]
     },
     {
+      "id":  "083",
       "text": "I don't have to chase extraordinary moments to find happiness -- it's right in front of me if I'm paying attention and practicing gratitude.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "gratitude", "happiness"]
     },
     {
+      "id":  "084",
       "text": "I have never interviewed a single person who talks about the capacity to really experience and soften into joy who does not actively practice gratitude.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "joy", "gratitude"]
     },
     {
+      "id":  "085",
       "text": "Twinkle lights are the perfect metaphor for joy. Joy is not a constant. It comes to us in moments -- often ordinary moments. Sometimes we miss out on the bursts of joy because we're too busy chasing down extraordinary moments. Other times we're so afraid of the dark that we don't dare let ourselves enjoy the light. I believe a joyful life is made up of joyful moments gracefully strung together by trust, gratitude, inspiration, and faith.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "trust", "gratitude", "inspiration", "faith"]
     },
     {
+      "id":  "086",
       "text": "Intuition is not a single way of knowing -- it's our ability to hold space for uncertainty and our willingness to trust the many ways we've developed knowledge and insight, including instinct, experience, faith, and reason.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "instinct", "experience", "faith", "reason", "intuition"]
     },
     {
+      "id":  "087",
       "text": "Faith is a place of mystery, where we find the courage to believe in what we cannot see and the strength to let go of our fear of uncertainty.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "faith", "mystery", "courage", "strength", "uncertainty"]
     },
     {
+      "id":  "088",
       "text": "Creativity, which is the expression of our originality, helps us stay mindful that what we bring to the world is completely original and cannot be compared.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "creativity", "comparison", "original"]
     },
     {
+      "id":  "089",
       "text": "Creativity is the way I share my soul with the world.",
       "author": "Brene Brown",
       "tags": ["creativity", "wholehearted"]
     },
     {
+      "id":  "090",
       "text": "If we want to live a wholehearted life, we have to become intentional about cultivating rest and play, and we must work  to let go of exhaustion as a status symbol and productivity as self-worth.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "rest", "play", "courage", "exhaustion"]
     },
     {
+      "id":  "091",
       "text": "It takes courage to say yes to rest and play in a culture where exhaustion is seen as a status symbol.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "rest", "play", "courage", "exhaustion"]
     },
     {
+      "id":  "092",
       "text": "Rest and play are as vital to our health as nutrition and exercise.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "rest", "play"]
     },
     {
+      "id":  "093",
       "text": "Stillness is not about focusing on nothingness; it's about creating an emotional clearing to allow ourselves to feel, think, dream, and question.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "stillness", "feel", "think", "question", "dream"]
     },
     {
+      "id":  "094",
       "text": "We all have gifts and talents. When we cultivate those gifts and share them with the world, we create a sense of meaning and purpose in our lives.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "gifts", "talents", "meaning", "purpose"]
     },
     {
+      "id":  "095",
       "text": "Laughter, song, and dance create emotional and spiritual connection; they remind us of the one thing that truly matters when we are searching for comfort, celebration, inspiration, or healing: we are not alone.",
       "author": "Brene Brown",
       "tags": ["wholehearted", "laughter", "song", "dance", "connection", "comfort", "inspiration", "healing", "alone"]
     },
     {
+      "id":  "096",
       "text": "Wholehearted living is not like trying to reach a destination. It's like walking toward a star in the sky. We never really 'arrive', but we certainly know that we're heading in the right direction.",
       "author": "Brene Brown",
       "tags": ["destination", "wholehearted"]
     },
     {
+      "id":  "097",
       "text": "A smile is a curve that sets everything straight.",
       "author": "Phyllis Diller",
       "tags": ["smile", "smiling"]
     },
     {
+      "id":  "098",
       "text": "Don't cry because it's over; smile because it happened.",
       "author": "Dr. Seuss",
       "tags": ["smile", "smiling"]
-    },{
+    },
+    {
+      "id":  "099",
       "text": "Because of your smile, you make life more beautiful.",
       "author": "Thich Nhat Hanh",
       "tags": ["smile", "smiling"]
-    },{
+    },
+    {
+      "id":  "100",
       "text": "A simple smile. That's the start of opening your heart and being compassionate to others.",
       "author": "Dalai Lama",
       "tags": ["smile", "smiling", "compassion", "dalai lama", "open", "heart"]
     },
     {
+      "id":  "101",
       "text": "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
       "author": "Marilyn Monroe",
       "tags": ["smile", "smiling"]
     },
     {
+      "id":  "102",
       "text": "Smiling is the best way to face every problem, to crush every fear and to hide every pain.",
       "author": "Unknown",
       "tags": ["smile", "smiling"]
     },
     {
+      "id":  "103",
       "text": "And so let us always meet each other with a smile, for the smile is the beginning of love.",
       "author": "Mother Teresa",
       "tags": ["smile", "smiling"]
     },
     {
+      "id":  "104",
       "text": "It is a Simple, Mind touching, Interactive, Long lasting Effect which wins the hearts..yes it's your sweet smile, so keep smiling always.",
       "author": "BoyBanat.com",
       "tags": ["smile", "smiling"]
     },
     {
+      "id":  "105",
       "text": "I love people who make me laugh.  I honestly think it's the thing I like most, to laugh. It cures a multitude of ills. It's probably the most important thing in a person.",
       "author": "Audrey Hepburn",
       "tags": ["laugh", "laughter"]
     },
     {
+      "id":  "106",
       "text": "Be happy..Enjoy every moment of your life..Life is too short to waste in grudges..Laugh when you can..Apologize when you should..and let go of what you can't change.",
       "author": "www.rishikajain.com",
       "tags": ["laugh", "laughter"]
     },
     {
+      "id":  "107",
       "text": "It is impossible for you to be angry and laugh at the same time. Anger and laughter are mutually exclusive and you have the power to choose either.",
       "author": "Wayne Dyer",
       "tags": ["laugh", "laughter"]
     },
     {
+      "id":  "108",
       "text": "Life is short, break the rules, forgive quickly, kiss slowly, love truly, laugh uncontrollably, and never regret anything that makes you smile.",
       "author": "Mark Twain",
       "tags": ["laugh", "laughter"]
     },
     {
+      "id":  "109",
       "text": "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.",
       "author": "Henri M. J. Nouwen",
       "tags": ["joy", "choose"]
     },
     {
+      "id":  "110",
       "text": "Comparison is the death of joy.",
       "author": "Mark Twain",
       "tags": ["joy", "comparison"]
     },
     {
+      "id":  "111",
       "text": "Let what brings you joy lead the way! Just trust, and let your little heart sing!",
       "author": "Jane Lee Logan",
       "tags": ["joy", "heart"]
     },
     {
+      "id":  "112",
       "text": "Follow Your Bliss",
       "author": "Joseph Campbell",
       "tags": ["bliss"]
     },
     {
+      "id":  "113",
       "text": "Joy is not the result of getting what you want; it is the way to get what you want. In the deepest sense, joy is what you want.",
       "author": "Alan Cohen",
       "tags": ["joy", "desire"]
     },
     {
+      "id":  "114",
       "text": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
       "author": "Thich Nhat Hanh",
       "tags": ["joy", "smile"]
     },
     {
+      "id":  "115",
       "text": "I will practice gratitude to access joy.",
       "author": "Brene Brown",
       "tags": ["joy", "gratitude"]
     },
     {
+      "id":  "116",
       "text": "Joy comes to us in ordinary moments.  We risk missing out on joy when we get too busy chasing down the extraordinary.",
       "author": "Brene Brown",
       "tags": ["joy", "ordinary"]
     },
     {
+      "id":  "117",
       "text": "It is not selfish to be happy. It is your highest purpose. Your joy is the greatest contribution you can make to life on the planet. A heart at peace with its owner blesses everyone it touches.",
       "author": "Alan Cohen",
       "tags": ["happiness", "purpose", "joy"]
     },
     {
+      "id":  "118",
       "text": "No is a complete sentence.",
       "author": "Unknown",
       "tags": ["boundaries", "no"]
     },
     {
+      "id":  "119",
       "text": "Our intention creates our reality.",
       "author": "Wayne Dyer",
       "tags": ["intention", "reality", "create"]
     },
     {
+      "id":  "120",
       "text": "We are powerful beyond measure.",
       "author": "Marianne Williamson",
       "tags": ["powerful", "unlimited"]
     },
     {
+      "id":  "121",
       "text": "Everything that happens in the universe starts with intention.",
       "author": "Deepak Chopra",
       "tags": ["intention"]
     },
     {
+      "id":  "122",
       "text": "Intentions are like magnets; the more we declare them, believe in them, and act in ways to manifest them, the more powerful and real they become.",
       "author": "Unknown",
       "tags": ["intention", "belief"]
     },
     {
+      "id":  "123",
       "text": "The power of mass intention may ultimately be the force that shifts the tide toward repair and renewal of the planet.",
       "author": "Lynne McTaggart",
       "tags": ["intention", "mass"]
     },
     {
+      "id":  "124",
       "text": "The quantum law says that all potentials exist simultaneously. Our thinking and our feelings affect all aspects of life, beyond both space and time.",
       "author": "Dr. Joe Dispenza",
       "tags": ["intention", "quantum", "create"]
     },
     {
+      "id":  "125",
       "text": "Since nothing is more important than that you feel good, we would, if we were standing in your physical shoes, make a list of the five things that you feel best while you're doing them. And then make sure that you do all five of those things every single day.",
       "author": "Abraham Hicks",
       "tags": ["feel good", "favorite","daily"]
     },
     {
+      "id":  "126",
       "text": "You are extensions of pure, positive, creative energy, and when you are not deliberately flowing the energy toward what you want, life is flat. Friends, this is not piddly little energy! The energy keeps your earth spinning in its orbit, in perfect proximity to other planets. We THINK it can help you be happy in your house.",
       "author": "Abraham Hicks",
       "tags": ["energy", "create"]
     },
     {
+      "id":  "127",
       "text": "The true purpose of yoga is to discover that aspect of your being that can never be lost.",
       "author": "Deepak Chopra",
       "tags": ["yoga"]
     },
     {
+      "id":  "128",
       "text": "Regard your neighbor's gain as your own gain, and your neighbor's loss as your own loss.",
       "author": "Taoism",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "129",
       "text": "I am a stranger to no one, and no one is a stranger to me. Indeed, I am a friend to all",
       "author": "Sikhism",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "130",
       "text": "In everything, do to others as you would have them do to you; for this is the law and the prophets.",
       "author": "Christianity",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "131",
       "text": "We affirm and promote respect for the interdependent web of all existence of which we are a part.",
       "author": "Unitarianism",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "132",
       "text": "We are as much alive as we keep the earth alive.",
       "author": "Native American Spirituality",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "133",
       "text": "Do not do unto others whatever is injurious to yourself.",
       "author": "Zoroastrianism",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "134",
       "text": "One should treat all creatures in the world as one would like to be treated.",
       "author": "Jainism",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "135",
       "text": "What is hateful to you, do not do to your neighbour. This is the whole Torah; all the rest is commentary.",
       "author": "Judaism",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "136",
       "text": "Not one of you truly believes until you wish for others what you wish for yourself.",
       "author": "Islam",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "137",
       "text": "Lay not on any soul a load that you would not wish to be laid  upon you, and desire not for anyone the things you would not desire for yourself.",
       "author": "Baha'i Faith",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "138",
       "text": "This is the sum of duty: do not do to others what would cause pain if done to you.",
       "author": "Hinduism",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "139",
       "text": "Treat not others in ways that you yourself would find hurtful.",
       "author": "Buddhism",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "140",
       "text": "One word which sums up the basis of all good conduct...loving kindness. Do not do to others what you do not want done to yourself.",
       "author": "Confucianism",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "141",
       "text": "The heart of the person before you is a mirror -- see there your own form.",
       "author": "Shinto",
       "tags": ["golden", "rule"]
     },
     {
+      "id":  "142",
       "text": "It is compassion that heals us. Compassion -- the sense of shared humanity, the sense of our kinship with each other--this is what heals. This is what heals the desperation that we feel, the darkness that we feel.",
       "author": "Pema Chodron",
       "tags": ["compassion"]
     },
     {
+      "id":  "143",
       "text": "If we have no peace, it is because we have forgotten that we belong to each other.",
       "author": "Mother Teresa",
       "tags": ["peace"]
     },
     {
+      "id":  "144",
       "text": "We are here to awaken from the illusion of our separateness.",
       "author": "Thich Nhat Hanh",
       "tags": ["unity", "oneness"]
     },
     {
+      "id":  "145",
       "text": "All things are our relatives; what we do to everything, we do to ourselves. All is really one.",
       "author": "Black Elk",
       "tags": ["unity", "oneness"]
     },
     {
+      "id":  "146",
       "text": "Try to be a rainbow in someone else's cloud.",
       "author": "Maya Angelou",
       "tags": ["kindness"]
     },
     {
+      "id":  "147",
       "text": "Unspoken expectations are premeditated resentments.",
       "author": "Neil Strauss",
       "tags": ["expectation", "resentment"]
     },
     {
+      "id":  "148",
       "text": "If 98% of your life is working and 2% is not, and if we focus 100% on the 2% that is NOT working, then at that moment 100% of our life is not working..",
       "author": "Alan Cohen",
       "tags": ["focus", "negativity"]
