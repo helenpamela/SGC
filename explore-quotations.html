@@ -564,7 +564,7 @@
       <div class="quote-card">
 
         <div class="quote-text">
-          "${formatTags(quote.tags,input)}"
+          "${highlightText(quote.text, input)}"
         </div>
 
         <div class="quote-author">
@@ -572,9 +572,7 @@
         </div>
 
         <div class="quote-tags">
-          🏷️ ${highlightText(tags, input)}${extraTags}
-        </div>
-
+          🏷️ ${formatTags(quote.tags, input)}
         </div>
    `;
 
@@ -611,18 +609,25 @@
     return text.replace(regex, '<span class="highlight">$1</span>');
   }
 
-  function formatTags(tags,input){
+  function formatTags(tags,input) {
 
     if(!tags) return "";
 
-    return tags
+    const shown = tags
       .slice(0,5)
-      .map(tag=>`
+      .map(tag => `
         <span class="tag-pill">
             ${highlightText(tag,input)}
         </span>
       `)
       .join("");
+
+    const extra =
+      tags.length > 5
+        ? `<span class="tag-pill">+${tags.length-5}</span>`
+        : "";
+
+    return shown + extra;
 
   }
 
