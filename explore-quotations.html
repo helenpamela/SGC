@@ -338,7 +338,7 @@
     <h2 id="quotations-title">Search Quotations by Author or Topic</h2>
 
     <input type="text" id="searchInput" placeholder="Enter author or topic..."
-      onkeyup="searchQuotations()"style="width: 100%; padding: 12px; margin-bottom: 20px;">
+      onkeyup="searchQuotations() "style="width: 100%; padding: 12px; margin-bottom: 20px;">
 
     <ul id="searchResults"></ul>
 
@@ -352,7 +352,6 @@
 </body>
 
 <script src="app.js"></script>
-// <script src="inspiration.json"></script>
 
 
 <script>
@@ -364,6 +363,23 @@
     .then(data => {
       document.getElementById('header-placeholder').innerHTML = data;
   });
+  
+  let quotes = [];
+
+  fetch("inspiration.json")
+    .then(response => response.json())
+    .then(data => {
+      quotes = data.quotes;
+      console.log("Loaded", quotes.length, "quotes");
+  })
+  .catch(err => console.error(err));
+  
+  
+  
+  
+  
+  
+  
   
   const response = await fetch("inspiration.json");
   const quotations = await response.json();
@@ -383,8 +399,9 @@
     }
 
     let matches = [];
-
-    Object.entries(quotes).forEach(([id, quote]) => {
+    
+    quotes.forEach((quote) => {
+   
       if (!quote.author) {
         console.log("Missing author:", id, quote);
       }
@@ -395,19 +412,25 @@
 
 
       const authorMatch = quote.author.toLowerCase().includes(input);
+
       const tagMatch = quote.tags?.some(tag =>
         tag.toLowerCase().includes(input)
       );
 
-      if (authorMatch || tagMatch) {
-        matches.push(id);
+      const textMatch =
+        quote.text.toLowerCase().includes(input);
+
+      if (authorMatch || tagMatch || textMatch) {
+        matches.push(quote.id);
 
         const li = document.createElement("li");
+
         li.innerHTML = `
-        <a href="quote.html?id=${id}">
-          ${quote.text}
-        </a>
-      `;
+          <a href="quote.html?id=${quote.id}">
+            ${quote.text}
+          </a>`;
+     
+
         results.appendChild(li);
       }
     });
@@ -436,69 +459,5 @@
     return text.replace(regex, '<span class="highlight">$1</span>');
   }
 
-  /*
-  const search = document.getElementById("exploreSearch");
-  const results = document.getElementById("results");
-  const noResults = document.getElementById("noResults");
-
-  search.addEventListener("keyup", function () {
-    const value = search.value.toLowerCase();
-    filteredItems = []; // reset every search
-    results.innerHTML = "";
-
-    let matchCount = 0;
-
-    allItems.forEach((item, index) => {
-
-      const authorMatch= quote.author.toLowerCase().includes(value);
-      const tagMatch = quote.tags?.some(tag =>
-        tag.toLowerCase().includes(value)
-      );
-
-      if (authorMatch || tagMatch) {
-
-        const li = document.createElement("li");
-
-        filteredQuotes.push(quote);
-
-        const index = filteredQuotes.length - 1;
-
-        // find matching tag
-        let matchText = "";
-        if (value) {
-          const match = quote.tags?.find(tag =>
-            tag.toLowerCase().includes(value)
-          );
-          if (match) matchText = `🔍 ${match}`;
-        }
-
-        li.innerHTML = `
-
-
-          <div style="font-size:13px; color:#7a6c9d;">
-            ${matchText}
-          </div>
-
-          <div style="font-size:16px; font-weight:500;">
-            ${quote.author}
-          </div>
-
-          <div style="font-size:16px; font-weight:500;">
-            ${quote.text}
-          </div>
-
-          </a>
-       `;
-
-        results.appendChild(li);
-        matchCount++;
-      }
-    });
-    
-
-
-  });
-  */
-
-
+ 
 
