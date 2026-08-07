@@ -1,0 +1,625 @@
+<head>
+  <title>Explore Affirmationss</title>
+
+  <link rel="stylesheet" href="header-styles.css">
+
+  <style>
+    .explore-banner h1 {
+      position: relative;
+      color: #5c4b7d;
+      font-weight: 600;
+      font-size: 38px;
+      text-shadow:
+        0 2px 6px rgba(255, 255, 255, 0.9),
+        0 0 8px rgba(92, 75, 125, 0.2);
+    }
+
+    .explore-banner img {
+      width: 100px;
+      margin-bottom: 10px;
+    }
+
+    .explore-banner {
+      background-image: url('explore-images/explore-header.jpg');
+      /* <-- your image path */
+      background-size: cover;
+      background-position: center;
+
+      padding: 40px 20px;
+      border-radius: 16px;
+      margin-bottom: 25px;
+      text-align: center;
+
+      position: relative;
+    }
+
+    /* Soft overlay so text is readable */
+    .explore-banner::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(255, 255, 255, 0.35);
+      /* soft white glow */
+      border-radius: 16px;
+    }
+
+
+    body {
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      margin: 0;
+      background: #f6f3f9;
+    }
+
+    select {
+      font-size: 18px;
+      padding: 8px;
+    }
+
+    label {
+      font-size: 18px;
+    }
+
+    button {
+      font-size: 18px;
+      padding: 10px 16px;
+    }
+
+    input {
+      font-size: 18px;
+    }
+
+    select,
+    input {
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 800px;
+      margin: 30px auto;
+      background: #ffffff;
+      padding: 30px 25px;
+      border-radius: 18px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    }
+
+    h1 {
+      text-align: center;
+      color: #5c4b7d;
+    }
+
+    body {
+      background: linear-gradient(180deg, #f6f3f9, #ffffff);
+    }
+
+    .card {
+      padding: 15px;
+      border-radius: 12px;
+      background: #ffffff;
+      margin-bottom: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    }
+
+    .button {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 14px;
+      background: #e6d9f5;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+
+    }
+
+    .button:hover {
+      background: #d6c6f0;
+      box-shadow: 0 0 10px rgba(180, 150, 255, 0.4);
+    }
+
+    .home-button {
+      display: inline-block;
+      margin-bottom: 20px;
+      padding: 12px 20px;
+      font-size: 16px;
+      background: #dcd0f0;
+      border-radius: 10px;
+      text-decoration: none;
+      color: #5c4b7d;
+    }
+
+    .container img {
+      width: 120px;
+      margin-bottom: 10px;
+    }
+
+    @keyframes gentleGlow {
+      0% {
+        box-shadow: 0 0 10px rgba(200, 170, 255, 0.25);
+      }
+
+      50% {
+        box-shadow: 0 0 16px rgba(200, 170, 255, 0.45);
+      }
+
+      100% {
+        box-shadow: 0 0 10px rgba(200, 170, 255, 0.25);
+      }
+    }
+
+    #searchResults li {
+      list-style: none;
+      margin: 8px 0;
+    }
+
+    #searchResults a {
+      text-decoration: none;
+      color: #5c4b7d;
+      background: #f3ecfb;
+      padding: 10px;
+      border-radius: 8px;
+      display: block;
+    }
+
+    #searchResults a:hover {
+      background: #e6d9f5;
+    }
+
+    #results li {
+      list-style: none;
+      margin-bottom: 10px;
+    }
+
+    #results a {
+      display: block;
+      background: #f3ecfb;
+      padding: 14px;
+      border: 1px solid rgba(180, 150, 255, 0.2);
+      border-radius: 12px;
+      text-decoration: none;
+      color: #5c4b7d;
+      font-size: 16px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    #results a:hover {
+      background: #e6d9f5;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 14px rgba(180, 150, 255, 0.25);
+    }
+
+    #results {
+      display: grid;
+      grid-template-columns: repeat(2, 300px);
+      gap: 16px;
+      justify-content: center;
+      margin: 0 auto;
+      /* 👈 helps */
+      max-width: 650px;
+      /* 👈 centers visually under input */
+    }
+
+
+
+    .highlight {
+      background:#fff5a5;
+      color:#3c2f52;
+      padding:2px 5px;
+      border-radius:5px;
+      font-weight:700;
+    }
+
+    #modal-body {
+      text-align: center;
+      transition: opacity 0.2s ease;
+
+    }
+
+    #modal-body img {
+      width: 100%;
+      max-width: 700px;
+      border-radius: 14px;
+      display: block;
+      margin: 0 auto 15px auto;
+
+      box-shadow: 0 10px 25px rgba(92, 75, 125, 0.25);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+
+    }
+
+    #modal-body img:hover {
+      transform: scale(1.02);
+      box-shadow: 0 16px 35px rgba(92, 75, 125, 0.35);
+    }
+
+    .modal {
+      position: fixed;
+      z-index: 9999;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.5);
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s ease;
+    }
+
+    .modal.show {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .modal-content {
+      background: linear-gradient(180deg, #ffffff, #f9f6fc);
+      padding: 25px;
+      border-radius: 18px;
+      max-width: 900px;
+      width: 90%;
+      max-height: 80vh;
+      overflow-y: auto;
+
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2),
+        0 0 25px rgba(180, 150, 255, 0.25);
+
+      position: relative;
+      animation: popIn 0.25s ease;
+
+    }
+
+    @keyframes popIn {
+      from {
+        transform: scale(0.9);
+        opacity: 0;
+      }
+
+      to {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+
+    .modal-content button {
+      background: #e6d9f5;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .modal-content button:hover {
+      background: #d6c6f0;
+    }
+
+    .feature-card {
+      position: relative;
+      background: linear-gradient(180deg, #ffffff, #f6f0ff);
+      border-radius: 18px;
+      padding: 20px 20px 12px 20px;
+      margin-bottom: 20px;
+
+      text-align: center;
+
+      box-shadow:
+        0 10px 25px rgba(92, 75, 125, 0.2),
+        0 0 25px rgba(180, 150, 255, 0.25);
+    }
+
+    .feature-image {
+      width: 180px;
+      border-radius: 12px;
+      margin: 0 auto 10px auto;
+      display: block;
+
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    }
+
+    .feature-title {
+      font-size: 26px;
+      font-weight: 600;
+      color: #5c4b7d;
+      margin-top: 5px;
+
+      text-shadow:
+        0 0 8px rgba(180, 150, 255, 0.4);
+    }
+
+    .affirmation-card{
+
+      background:linear-gradient(
+        180deg,
+        #f8f3ff,
+        #eee5fb
+      );
+
+      border-radius:18px;
+
+      padding:22px;
+
+      margin-bottom:18px;
+
+      box-shadow:
+        0 8px 20px rgba(92,75,125,.15);
+
+      transition:.25s;
+    }
+
+    .affirmation-card:hover{
+
+      transform:translateY(-3px);
+
+      box-shadow:
+        0 14px 28px rgba(92,75,125,.22);
+    }
+
+    .affirmation-text {
+      font-size:22px;
+      line-height:1.5;
+      color:#4f4268;
+      font-style:italic;
+      margin-bottom:18px;
+    }
+
+    .affirmation-author {
+      text-align:right;
+      color:#6f5c91;
+      font-size:18px;
+      font-weight:600;
+      margin-bottom:14px;
+    }
+
+    .affirmation-tags {
+      font-size:14px;
+      color:#7d6ea3;
+    }
+
+    .tag-pill {
+      display:inline-block;
+      background:#e6d9f5;
+      color:#5c4b7d;
+      padding:4px 10px;
+      margin:3px;
+      border-radius:999px;
+      font-size:13px;
+    }
+
+    .page-subtitle {
+      color:#7d6ea3;
+      font-size:18px;
+      margin-top:-8px;
+      margin-bottom:24px;
+    }
+
+    .affirmation-card {
+      animation:fadeIn .35s ease;
+    }
+
+    @keyframes fadeIn{
+      from{
+        opacity:0;
+        transform:translateY(8px);
+      }
+      to{
+        opacity:1;
+        transform:translateY(0);
+      }
+    }
+
+
+
+
+  </style>
+</head>
+
+<body>
+
+  <div id="header-placeholder"></div>
+
+  <div class="container">
+
+    <div class="explore-banner">
+      <h1>Explore Affirmations</h1>
+    </div>  
+  
+    <h2 id="affirmations-title">Discover Affirmations</h2>
+
+    <p class="page-subtitle">
+
+       Inspiration gathered during our Spiritual Growth Club journey.
+
+    </p>
+
+    <input type="text" id="searchInput" placeholder="Discover affirmations..."
+      onkeyup="searchAffirmations()"
+      style="width: 100%; padding: 12px; margin-bottom: 20px;">
+     
+      <p id="resultCount"></p>
+    
+      <div id="searchHint" class="search-hint">
+    
+      🌸 <strong>Start typing to discover affirmations.</strong>
+    
+      <p>
+        Search by topic or any word in an affirmation.
+      </p>
+    
+      <p style="font-size:15px;color:#7a6c9d;">
+        Examples:
+        <em>abundance</em> •
+        <em>acceptance</em> •
+        <em>clarity</em> •
+        <em>reiki</em> •
+        <em>chakra</em>
+      </p>
+    
+    </div>
+    
+    
+    
+    
+    <ul id="searchResults"></ul>
+
+    <hr style="margin: 30px 0;">
+
+    <p id="noResults" style="display:none; color:#7a6c9d;">
+      No matches found ✨
+    </p>
+ </div>
+
+</body>
+
+<script src="app.js"></script>
+
+
+<script>
+  console.log("Inline script started");
+  console.log ("Ready to fetch header.html");
+
+  fetch('header.html')
+    .then(response => response.text())
+    .then(data => {
+      document.getElementById('header-placeholder').innerHTML = data;
+  });
+  
+  let quotes = [];
+
+  fetch("affirmations.json")
+    .then(response => response.json())
+    .then(data => {
+      quotes = data.quotes;
+      console.log("Loaded", quotes.length, "quotes");
+  })
+  .catch(err => console.error(err));
+  
+
+  console.log("About to define searchQuotations");
+  // Search Quotations
+ function searchQuotations() {
+    const input = document.getElementById("searchInput").value.toLowerCase();
+    const results = document.getElementById("searchResults");
+
+    console.log("SEARCH QUOTATIONS RUNNING");
+    results.innerHTML = "";
+
+    document.getElementById("searchHint").style.display = "none";
+    
+    if (!input) {
+      localStorage.removeItem("searchResults"); // 👈 clear old results
+      localStorage.removeItem("isSearchMode");
+
+      document.getElementById("searchHint").style.display = "block";
+
+      document.getElementById("resultCount").textContent = "";
+
+      results.innerHTML = "";
+      return;
+    }
+
+    let matches = [];
+    
+    affirmations.forEach((affirmation) => {
+   
+ 
+
+      if (!affirmation.tags) {
+        console.log("Missing tags:", affirmation.id, affirmation);
+      }
+
+      const tagMatch = affirmation.tags?.some(tag =>
+        tag.toLowerCase().includes(input)
+      );
+
+      const textMatch =
+        affirmation.text.toLowerCase().includes(input);
+
+      if (tagMatch || textMatch) {
+        matches.push(affirmation.id);
+
+        const li = document.createElement("li");
+
+    const tags = affirmation.tags
+      ? affirmation.tags.slice(0,5).join(" • ")
+      : "";
+
+    const extraTags =
+      affirmation.tags && affirmation.tags.length > 5
+        ? ` +${affirmation.tags.length-5}`
+        : "";
+
+    li.innerHTML = `
+      <div class="affirmation-card">
+
+        <div class="affirmation-text">
+          “${highlightText(affirmation.text, input)}”
+        </div>
+
+
+        <div class="affirmation-tags">
+          🏷️ ${formatTags(affirmation.tags, input)}
+        </div>
+   `;
+
+        results.appendChild(li);
+
+        
+      }
+    });
+    
+     document.getElementById("resultCount").innerHTML =
+    `✨ <strong>${matches.length}</strong> affirmation${matches.length===1?"":"s found"}`;
+
+    // 👇 SAVE RESULTS
+    localStorage.setItem("searchResults", JSON.stringify(matches));
+    localStorage.setItem("isSearchMode", "true");
+
+    // Optional message
+    if (matches.length === 0) {
+      results.innerHTML = `<li style="color:#8a7fb0;">No results found 💜</li>`;
+    }
+
+    console.log("Saved searchResults:", matches); // 👈 debug
+
+  }
+
+ 
+  function highlightText(text, searchTerm) {
+    if (!searchTerm) return text;
+
+    const escaped = searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(`(${escaped})`, "gi");
+
+    // const regex = new RegExp(`(${searchTerm})`, "gi");
+    return text.replace(regex, '<span class="highlight">$1</span>');
+  }
+
+  function formatTags(tags,input) {
+
+    if(!tags) return "";
+
+    const shown = tags
+      .slice(0,5)
+      .map(tag => `
+        <span class="tag-pill">
+            ${highlightText(tag,input)}
+        </span>
+      `)
+      .join("");
+
+    const extra =
+      tags.length > 5
+        ? `<span class="tag-pill">+${tags.length-5}</span>`
+        : "";
+
+    return shown + extra;
+
+  }
+
+</script>
+
+
+
+ 
+

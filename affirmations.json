@@ -1,0 +1,1839 @@
+{
+  "affirmations": [
+    {
+      "id":  "001",
+      "text": "I am connected with the energy of Mother Earth. My body, mind, and spirit are grounded, centered, and purified.",
+      "image": "affirmation-images/1st-chakra-affirmation.jpg",
+      "tags": ["chakra affirmation", "root"]
+    },
+    
+    {
+      "id":  "002",
+      "text": "I love my life. I honor my body and treat myself respectfully. Healing happens each time I rest, relax, and enjoy myself.",
+      "image": "affirmation-images/2nd-chakra-affirmation.jpg",
+      "tags": ["chakra affirmation", "sacral", "self-respect"]
+    },
+    {
+      "id":  "003",
+      "text": "I am worthy of love, kindness, and respect, regardless of what I have done. I am enough",
+      "image": "affirmation-images/3rd-chakra-affirmation.jpg",
+      "tags": ["chakra affirmation", "solar plexus", "self-worth", "self-confidence"]
+    },
+    {
+      "id":  "004",
+      "text": "I am love, I am peace, I am light. Joy is my reason for living. ",
+      "image": "affirmation-images/4th-chakra-affirmation.jpg",
+      "tags": ["chakra affirmation", "heart"]
+    },
+    {
+      "id":  "005",
+      "text": "I express myself with grace and integrity. I always speak from the heart. I am worthy of being heard.",
+      "image": "affirmation-images/5th-chakra-affirmation.jpg",
+      "tags": ["chakra affirmation", "throat", "self-expression"]
+    },
+    {
+      "id":  "006",
+      "text": "I see clearly. I am open to inspiration. My mind is clear and agile. My imagination is vivid and powerful. I am open to the wisdom within me.",
+      "image": "affirmation-images/6th-chakra-affirmation.jpg",
+      "tags": ["chakra affirmation", "brow", "third eye"]
+    },
+    {
+      "id":  "007",
+      "text": "I connect with Spirit. I invite sacred transformation. I embrace the unity of all beings.",
+      "image": "affirmation-images/7th-chakra-affirmation.jpg",
+      "tags": ["chakra affirmation", "crown"]
+    },
+    {
+      "id":  "008",
+      "text": "I find harmony within me.",
+      "image": "affirmation-images/201307-crackle-quartz-1.png",
+      "tags": ["crackle quartz affirmation 1", "July 2013"]
+    },
+    {
+      "id":  "009",
+      "text": "My positive thoughts encourage a joy-filled life.",
+      "image": "affirmation-images/201307-crackle-quartz-2.png",
+      "tags": ["crackle quartz affirmation 2", "July 2013"]
+    },
+    {
+      "id":  "010",
+      "text": "I am playful.",
+      "image": "affirmation-images/201307-crackle-quartz-3.png",
+      "tags": ["crackle quartz affirmation 3", "July 2013"]
+    },
+    {
+      "id":  "011",
+      "text": "I realize my full potential.",
+      "image": "affirmation-images/201307-crackle-quartz-4.png",
+      "tags": ["crackle quartz affirmation 4", "July 2013"]
+    },
+    {
+      "id":  "012",
+      "text": "I lay down the heavy weight of doubt, shame, guilt, and embarrassment. ",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-1.png",
+      "tags": ["forgiveness affirmation 1", "April 2016"]
+    },
+    {
+      "id":  "013",
+      "text": "I release the past so I can step into the future with pure intentions.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-2.png",
+      "tags": ["forgiveness affirmation 2", "April 2016"]
+    },
+    {
+      "id":  "014",
+      "text": "I am capable of moving beyond my mistakes.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-3.png",
+      "tags": ["forgiveness affirmation 3", "April 2016"]
+    },
+    {
+      "id":  "015",
+      "text": "I am able to heal from the hurt and pain of what I have caused.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-4.png",
+      "tags": ["forgiveness affirmation 4", "April 2016"]
+    },
+    {
+      "id":  "016",
+      "text": "I am worthy of all the compassion and kindness life offers me.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-5.png",
+      "tags": ["forgiveness affirmation 5", "April 2016"]
+    },
+    {
+      "id":  "017",
+      "text": "I forgive myself one day at a time until it's complete.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-6.png",
+      "tags": ["forgiveness affirmation 6", "April 2016"]
+    },
+    {
+      "id":  "018",
+      "text": "I gently release the grip of anger and rage from my body.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-7.png",
+      "tags": ["forgiveness affirmation 7", "April 2016"]
+    },
+    {
+      "id":  "019",
+      "text": "I set my past free and forgive my participation in it.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-8.png",
+      "tags": ["forgiveness affirmation 8", "April 2016"]
+    },
+    {
+      "id":  "020",
+      "text": "I give up the hope of a different past by accepting my true past.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-9.png",
+      "tags": ["forgiveness affirmation 9", "April 2016"]
+    },
+    {
+      "id":  "021",
+      "text": "I trust my present and future decisions based on love and good intentions.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-10.png",
+      "tags": ["forgiveness affirmation 10", "April 2016"]
+    },
+    {
+      "id":  "022",
+      "text": "I trade my anger and rage for understanding and compassion.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-11.png",
+      "tags": ["forgiveness affirmation 11", "April 2016"]
+    },
+    {
+      "id":  "023",
+      "text": "I accept that I did the best that I could at the time with what I knew.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-12.png",
+      "tags": ["forgiveness affirmation 12", "April 2016"]
+    },
+    {
+      "id":  "024",
+      "text": "I have the courage to heal and become whole again.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-13.png",
+      "tags": ["forgiveness affirmation 13", "April 2016"]
+    },
+    {
+      "id":  "025",
+      "text": "I will treat myself with respect and kindness from today forward.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-14.png",
+      "tags": ["forgiveness affirmation 14", "April 2016"]
+    },
+    {
+      "id":  "026",
+      "text": "I forgive others as I forgive myself: with ease, sincerity, and loving compassion.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-15.png",
+      "tags": ["forgiveness affirmation 15", "April 2016"]
+    },
+    {
+      "id":  "027",
+      "text": "I take this small step toward greater growth.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-16.png",
+      "tags": ["forgiveness affirmation 16", "April 2016"]
+    },
+    {
+      "id":  "028",
+      "text": "I am willing to live with all of who I am.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-17.png",
+      "tags": ["forgiveness affirmation 17", "April 2016"]
+    },
+    {
+      "id":  "029",
+      "text": "I am capable of loving all of who I am.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-18.png",
+      "tags": ["forgiveness affirmation 18", "April 2016"]
+    },
+    {
+      "id":  "030",
+      "text": "I go with the flow that life brings me.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-19.png",
+      "tags": ["forgiveness affirmation 19", "April 2016"]
+    },
+    {
+      "id":  "031",
+      "text": "I grow more patient and understanding of others by forgiving myself.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-20.png",
+      "tags": ["forgiveness affirmation 20", "April 2016"]
+    },
+    {
+      "id":  "032",
+      "text": "I let go of all self-judgement and self-sabotage.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-21.png",
+      "tags": ["forgiveness affirmation 21", "April 2016"]
+    },
+    {
+      "id":  "033",
+      "text": "I melt into an ocean of love and forgiveness.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-22.png",
+      "tags": ["forgiveness affirmation 22", "April 2016"]
+    },
+    {
+      "id":  "034",
+      "text": "I grow stronger and better as I forgive myself to move on.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-23.png",
+      "tags": ["forgiveness affirmation 23", "April 2016"]
+    },
+    {
+      "id":  "035",
+      "text": "I forgive myself so that I can have inner peace again.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-24.png",
+      "tags": ["forgiveness affirmation 24", "April 2016"]
+    },
+    {
+      "id":  "036",
+      "text": "I can only share my gift with the world if I first forgive myself.",
+      "image": "affirmation-images/201604-25-forgiveness-affirmations-25.png",
+      "tags": ["forgiveness affirmation 25", "April 2016"]
+    },
+    {
+      "id":  "037",
+      "text": "I am loved unconditionally.",
+      "image": "affirmation-images/201711-angel-affirmation1.png",
+      "tags": ["angelic positive affirmation 1 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "038",
+      "text": "I am open to my guardian angels.",
+      "image": "affirmation-images/201711-angel-affirmation2.png",
+      "tags": ["angelic positive affirmation 2 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "039",
+      "text": "I am protected and guided by my angels.",
+      "image": "affirmation-images/201711-angel-affirmation3.png",
+      "tags": ["angelic positive affirmation 3 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "040",
+      "text": "I trust that my guide will attract only miracles in my life.",
+      "image": "affirmation-images/201711-angel-affirmation4.png",
+      "tags": ["angelic positive affirmation 4 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "041",
+      "text": "I am open to my Healing Angels.",
+      "image": "affirmation-images/201711-angel-affirmation5.png",
+      "tags": ["angelic positive affirmation 5 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "042",
+      "text": "I am thankful for my life and my Angel of Perception",
+      "image": "affirmation-images/201711-angel-affirmation6.png",
+      "tags": ["angelic positive affirmation 6 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "043",
+      "text": "I am now surrounded by Angels.",
+      "image": "affirmation-images/201711-angel-affirmation7.png",
+      "tags": ["angelic positive affirmation 7 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "044",
+      "text": "The angels shine the light of the universe upon me and through me.",
+      "image": "affirmation-images/201711-angel-affirmation8.png",
+      "tags": ["angelic positive affirmation 8 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "045",
+      "text": "I accept love from the Angels.",
+      "image": "affirmation-images/201711-angel-affirmation9.png",
+      "tags": ["angelic positive affirmation 9 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "046",
+      "text": "I call upon the Archangels to help and guide me.",
+      "image": "affirmation-images/201711-angel-affirmation10.png",
+      "tags": ["angelic positive affirmation 10 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "047",
+      "text": "My inner voice and feelings are guidance from the Angels.",
+      "image": "affirmation-images/201711-angel-affirmation11.png",
+      "tags": ["angelic positive affirmation 11 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "048",
+      "text": "I know that the Angels love me and are guiding me right now.",
+      "image": "affirmation-images/201711-angel-affirmation12.png",
+      "tags": ["angelic positive affirmation 12 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "049",
+      "text": "I accept the Angels' love.",
+      "image": "affirmation-images/201711-angel-affirmation13.png",
+      "tags": ["angelic positive affirmation 13 from SDJ", "Nov 2017"]
+    },
+    {
+      "id":  "050",
+      "text": "I release that which no longer serves me and embrace my dreams.",
+      "image": "affirmation-images/201801-affirmation1.jpg",
+      "tags": ["burning bowl ceremony", "Jan 2018"]
+    },
+    {
+      "id":  "051",
+      "text": "We are here to experience more of the fullness of who we are in order to transform the world.",
+      "image": "affirmation-images/201801-affirmation2.jpg",
+      "tags": ["Jan 2018"]
+    },
+    {
+      "id":  "052",
+      "text": "I am happy and healthy.",
+      "image": "affirmation-images/201802-affirmation1.jpg",
+      "tags": ["Feb 2018"]
+    },
+    {
+      "id":  "053",
+      "text": "I choose peace.",
+      "image": "affirmation-images/201802-affirmation2.jpg",
+      "tags": ["Feb 2018"]
+    },
+    {
+      "id":  "054",
+      "text": "I live in Easy World where everything is easy.",
+      "image": "affirmation-images/201802-affirmation3.jpg",
+      "tags": ["Feb 2018"]
+    },
+    {
+      "id":  "055",
+      "text": "I love and accept myself just the way I am.",
+      "image": "affirmation-images/201802-affirmation4.jpg",
+      "tags": ["Feb 2018"]
+    },
+    {
+      "id":  "056",
+      "text": "I trust the process of life.",
+      "image": "affirmation-images/201802-affirmation5.jpg",
+      "tags": ["Feb 2018"]
+    },
+    {
+      "id":  "057",
+      "text": "Love is my gift to the world.",
+      "image": "affirmation-images/201802-affirmation6.jpg",
+      "tags": ["Feb 2018"]
+    },
+    {
+      "id":  "058",
+      "text": "Money is coming to me easily and effortlessly.",
+      "image": "affirmation-images/201802-affirmation7.jpg",
+      "tags": ["Feb 2018"]
+    },
+    {
+      "id":  "059",
+      "text": "My life is filled with everything that makes life worthwhile.",
+      "image": "affirmation-images/201802-affirmation8.jpg",
+      "tags": ["Feb 2018"]
+    },
+    {
+      "id":  "060",
+      "text": "SGC sees your greatness.",
+      "image": "affirmation-images/201802-affirmation9.jpg",
+      "tags": ["Feb 2018"]
+    },
+    {
+      "id":  "061",
+      "text": "It is impossible for me to be angry and laugh at the same time.",
+      "image": "affirmation-images/201803-affirmation1.png",
+      "tags": ["Mar 2018"]
+    },
+    {
+      "id":  "062",
+      "text": "I am safe and provided for at all times. I can adapt to any situation with grace and confidence.",
+      "image": "affirmation-images/201803-affirmation2.png",
+      "tags": ["Mar 2018"]
+    },
+    {
+      "id":  "063",
+      "text": "I clear any and all ways I am holding on to shame.",
+      "image": "affirmation-images/201805-affirmation.png",
+      "tags": ["May 2018"]
+    },
+    {
+      "id":  "064",
+      "text": "I am carefree.",
+      "image": "affirmation-images/201806-affirmation.png",
+      "tags": ["June 2018"]
+    },
+    {
+      "id":  "065",
+      "text": "I accept myself completely just as I am.",
+      "image": "affirmation-images/201807-affirmation1.png",
+      "tags": ["July 2018"]
+    },
+    {
+      "id":  "066",
+      "text": "I accept others for who they are.",
+      "image": "affirmation-images/201807-affirmation2.png",
+      "tags": ["July 2018"]
+    },
+    {
+      "id":  "067",
+      "text": "I accept that everyone is doing the best they can with what they have.",
+      "image": "affirmation-images/201807-affirmation3.png",
+      "tags": ["July 2018"]
+    },
+    {
+      "id":  "068",
+      "text": "I see the world through eyes of love and acceptance.",
+      "image": "affirmation-images/201807-affirmation4.png",
+      "tags": ["July 2018"]
+    },
+    {
+      "id":  "069",
+      "text": "I breathe in stillness and breathe out peace.",
+      "image": "affirmation-images/201808-affirmation.png",
+      "tags": ["Aug 2018"]
+    },
+    {
+      "id":  "070",
+      "text": "I am brave.",
+      "image": "affirmation-images/201809-affirmation.png",
+      "tags": ["Sept 2018"]
+    },
+    {
+      "id":  "071",
+      "text": "I rise above the turmoil and toxicity in my environment, because I operate at a higher frequency of peace and love.",
+      "image": "affirmation-images/201811-affirmation.png",
+      "tags": ["Nov 2018"]
+    },
+    {
+      "id":  "072",
+      "text": "Today I am breathing in the light and love of the season and sharing it with everyone I meet.",
+      "image": "affirmation-images/201812-affirmation.png",
+      "tags": ["Dec 2018"]
+    },
+    {
+      "id":  "073",
+      "text": "Our intention creates our reality. Wayne Dyer.",
+      "image": "affirmation-images/201901-affirmation.png",
+      "tags": ["Jan 2019"]
+    },
+    {
+      "id":  "074",
+      "text": "My thoughts create my reality.",
+      "image": "affirmation-images/201902-affirmation1.png",
+      "tags": ["Feb 2019"]
+    },
+    {
+      "id":  "075",
+      "text": "I manifest happiness in my life.",
+      "image": "affirmation-images/201902-affirmation2.png",
+      "tags": ["Feb 2019"]
+    },
+    {
+      "id":  "076",
+      "text": "I live in a loving, abundant, harmonious universe, and I am grateful.",
+      "image": "affirmation-images/201903-affirmation.png",
+      "tags": ["Mar 2019"]
+    },
+    {
+      "id":  "077",
+      "text": "The love within me is more powerful than doubt or fear.",
+      "image": "affirmation-images/201904-affirmation.png",
+      "tags": ["April 2019"]
+    },
+    {
+      "id":  "078",
+      "text": "Have courage and be kind...Where there is kindness there is goodness, and where there is goodness there is magic.",
+      "image": "affirmation-images/201905-affirmation.png",
+      "tags": ["May 2019"]
+    },
+    {
+      "id":  "079",
+      "text": "Choose Kindness",
+      "image": "affirmation-images/201906-affirmation1.png",
+      "tags": ["June 2019"]
+    },
+    {
+      "id":  "080",
+      "text": "Kindness is free, sprinkle that stuff everywhere.",
+      "image": "affirmation-images/201906-affirmation2.png",
+      "tags": ["June 2019"]
+    },
+    {
+      "id":  "081",
+      "text": "Today is a brand new day. My past does not define me. My future is mine to create.",
+      "image": "affirmation-images/201908-affirmation.png",
+      "tags": ["Aug 2019"]
+    },
+    {
+      "id":  "082",
+      "text": "My self worth is not tied to the approval or thoughts of those around me.",
+      "image": "affirmation-images/201909-affirmation.png",
+      "tags": ["Sept 2019"]
+    },
+    {
+      "id":  "083",
+      "text": "Every act of love and kindness raises the vibration of the entire universe...",
+      "image": "affirmation-images/201911-affirmation.png",
+      "tags": ["Nov 2019"]
+    },
+    {
+      "id":  "084",
+      "text": "I share my love and holiday joy with everyone I meet.",
+      "image": "affirmation-images/201912-affirmation.png",
+      "tags": ["Dec 2019"]
+    },
+    {
+      "id":  "085",
+      "text": "This is my year for unlimited health, happiness, and prosperity.",
+      "image": "affirmation-images/202001-affirmation1.png",
+      "tags": ["Jan 2020"]
+    },
+    {
+      "id":  "086",
+      "text": "This is my year to release the past, move boldly forward, and shine!",
+      "image": "affirmation-images/202001-affirmation2.png",
+      "tags": ["Jan 2020"]
+    },
+    {
+      "id":  "087",
+      "text": "This is the year that I accept that all things are possible with intention and belief.",
+      "image": "affirmation-images/202001-affirmation2.png",
+      "tags": ["Jan 2020"]
+    },
+    {
+      "id":  "088",
+      "text": "May I be safe, May I be healthy, May I be happy, May I live with ease, May I love myself just the way I am.",
+      "image": "affirmation-images/202002-affirmation.png",
+      "tags": ["Feb 2020"]
+    },
+    {
+      "id":  "089",
+      "text": "I am happy, healthy, and wealthy.",
+      "image": "affirmation-images/202002-loa-affirmation-1.png",
+      "tags": ["Feb 2020", "Law of Attraction Affirmation 1"]
+    },
+    {
+      "id":  "090",
+      "text": "I am grateful for every experience in each moment of my life.",
+      "image": "affirmation-images/202002-loa-affirmation-2.png",
+      "tags": ["Feb 2020", "Law of Attraction Affirmation 2"]
+    },
+    {
+      "id":  "091",
+      "text": "I am worthy of living the life I want to live.",
+      "image": "affirmation-images/202002-loa-affirmation-3.png",
+      "tags": ["Feb 2020", "Law of Attraction Affirmation 3"]
+    },
+    {
+      "id":  "092",
+      "text": "I am a money magnet and prosperity of all kinds is drawn to me.",
+      "image": "affirmation-images/202002-loa-affirmation-4.png",
+      "tags": ["Feb 2020", "Law of Attraction Affirmation 4"]
+    },
+    {
+      "id":  "093",
+      "text": "I am truly happy in all aspects of my life.",
+      "image": "affirmation-images/202002-loa-affirmation-5.png",
+      "tags": ["Feb 2020", "Law of Attraction Affirmation 5"]
+    },
+    {
+      "id":  "094",
+      "text": "I am beautiful just as I am.",
+      "image": "affirmation-images/202002-loa-affirmation-6.png",
+      "tags": ["Feb 2020", "Law of Attraction Affirmation 6"]
+    },
+    {
+      "id":  "095",
+      "text": "I am a positive person unaffected by the negativity of others.",
+      "image": "affirmation-images/202002-loa-affirmation-7.png",
+      "tags": ["Feb 2020", "Law of Attraction Affirmation 7"]
+    },
+    {
+      "id":  "096",
+      "text": "I am a confident woman.",
+      "image": "affirmation-images/202002-loa-affirmation-8.png",
+      "tags": ["Feb 2020", "Law of Attraction Affirmation 8"]
+    },
+    {
+      "id":  "097",
+      "text": "I nourish my soul every day with inspirational materials.",
+      "image": "affirmation-images/202006-affirmation.png",
+      "tags": ["June 2020"]
+    },
+    {
+      "id":  "098",
+      "text": "Courage is not having the strength to go on; it is going on when you don't have the strength.",
+      "image": "affirmation-images/202008-affirmation1.png",
+      "tags": ["Aug 2020"]
+    },
+    {
+      "id":  "099",
+      "text": "I now choose to free myself from all destructive fears and doubts.",
+      "image": "affirmation-images/202008-affirmation2.png",
+      "tags": ["Aug 2020"]
+    },
+    {
+      "id":  "100",
+      "text": "Life's problems are not solved by perfect people, but by those who show up. I am someone who shows up.",
+      "image": "affirmation-images/202009-affirmation.png",
+      "tags": ["Sept 2020"]
+    },
+    {
+      "id":  "101",
+      "text": "Peace is my priority.",
+      "image": "affirmation-images/202011-affirmation.png",
+      "tags": ["Nov 2020"]
+    },
+    {
+      "id":  "102",
+      "text": "I carry the light of the season wherever I go.",
+      "image": "affirmation-images/202102-affirmation.png",
+      "tags": ["Feb 2021"]
+    },
+    {
+      "id":  "103",
+      "text": "I release the past so that I am free in this moment for all that is possible now.",
+      "image": "affirmation-images/202103-affirmation.png",
+      "tags": ["Mar 2021"]
+    },
+    {
+      "id":  "104",
+      "text": "My head and my heart are in perfect alignment.",
+      "image": "affirmation-images/202104-affirmation.png",
+      "tags": ["April 2021"]
+    },
+    {
+      "id":  "105",
+      "text": "I am meant to live in peace.",
+      "image": "affirmation-images/202107-affirmation.png",
+      "tags": ["July 2021"]
+    },
+    {
+      "id":  "106",
+      "text": "I choose to live in the present moment.",
+      "image": "affirmation-images/202108-affirmation.png",
+      "tags": ["Aug 2021"]
+    },
+    {
+      "id":  "107",
+      "text": "I can create my world as I choose.",
+      "image": "affirmation-images/202109-affirmation1.png",
+      "tags": ["Sept 2021"]
+    },
+    {
+      "id":  "108",
+      "text": "I can change my life by changing my thoughts.",
+      "image": "affirmation-images/202109-affirmation2.png",
+      "tags": ["Sept 2021"]
+    },
+    {
+      "id":  "109",
+      "text": "I am healthy and full of energy.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-1.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "110",
+      "text": "I attract positive energy like a magnet.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-2.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "111",
+      "text": "I am grateful for my good health.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-3.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "112",
+      "text": "I am at peace with myself.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-4.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "113",
+      "text": "I am a high vibrational being.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-5.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "114",
+      "text": "I love myself.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-6.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "115",
+      "text": "I am the creator of my life.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-7.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "116",
+      "text": "My body is my temple.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-8.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "117",
+      "text": "I am raising my vibration.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-9.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "118",
+      "text": "I attract positivity.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-10.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "119",
+      "text": "I am happy now.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-11.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "120",
+      "text": "I am grateful for my life.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-12.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "121",
+      "text": "I attract high-vibe experiences.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-13.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "122",
+      "text": "The higher I vibrate, the lighter I feel.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-14.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "123",
+      "text": "I am grateful for all the blessings in my life.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-15.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "124",
+      "text": "I am worthy of everything good in life.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-16.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "125",
+      "text": "I am aligned with the universe.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-17.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "126",
+      "text": "I keep my energy level high.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-18.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "127",
+      "text": "I choose to be full of joy and gratitude.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-19.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "128",
+      "text": "I am vibrating at the highest frequency.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-20.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "129",
+      "text": "I eat healthy to fuel my body.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-21.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "130",
+      "text": "I have a deep sense of well-being.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-22.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "131",
+      "text": "I am constantly raising my vibration.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-23.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "132",
+      "text": "I am in control of my own health.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-24.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "133",
+      "text": "I choose to be filled with good energy and love.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-25.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "134",
+      "text": "I fill my mind with positive thoughts.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-26.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "135",
+      "text": "I am a joyful giver and a happy receiver of good things.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-27.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "136",
+      "text": "I listen to what my body needs.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-28.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "137",
+      "text": "I attract positive people.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-29.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "138",
+      "text": "I feel a complete sense of joy, love, and happiness.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-30.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "139",
+      "text": "I spread happiness everywhere I go.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-31.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "140",
+      "text": "My high vibration helps manifest my desires.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-32.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "141",
+      "text": "I choose to raise my vibration every day.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-33.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "142",
+      "text": "My life is filled with miracles.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-34.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "143",
+      "text": "Everything I need is within me now.",
+      "image": "affirmation-images/202110-35-affirmations-to-raise-your-vibration-35.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "144",
+      "text": "I choose to raise my vibration every day.",
+      "image": "affirmation-images/202110-affirmation.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "145",
+      "text": "I am raising my vibration.",
+      "image": "affirmation-images/202110-affirmation-1-to-raise-your-vibration.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "146",
+      "text": "I choose to be filled with good energy and love.",
+      "image": "affirmation-images/202110-affirmation-2-to-raise-your-vibration.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "147",
+      "text": "The higher I vibrate, the lighter I feel.",
+      "image": "affirmation-images/202110-affirmation-3-to-raise-your-vibration.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "148",
+      "text": "I attract positive energy like a magnet.",
+      "image": "affirmation-images/202110-affirmation-4-to-raise-your-vibration.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "149",
+      "text": "I am a high vibrational being.",
+      "image": "affirmation-images/202110-affirmation-5-to-raise-your-vibration.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "150",
+      "text": "My high vibration helps manifest my desires.",
+      "image": "affirmation-images/202110-affirmation-6-to-raise-your-vibration.png",
+      "tags": ["Oct 2021"]
+    },
+    {
+      "id":  "151",
+      "text": "I am an abundant being living in an abundant universe in which the Creator provides all I need and more in clever and creative ways.",
+      "image": "affirmation-images/202111-affirmation.png",
+      "tags": ["Nov 2021"]
+    },
+    {
+      "id":  "152",
+      "text": "I share my love and holiday joy with everyone I meet.",
+      "image": "affirmation-images/202112-affirmation.png",
+      "tags": ["Dec 2021"]
+    },
+    {
+      "id":  "153",
+      "text": "I welcome growth, learning, and positive change.",
+      "image": "affirmation-images/202201-affirmation.png",
+      "tags": ["Jan 2022"]
+    },
+    {
+      "id":  "154",
+      "text": "I take care of the world when I take care of myself.",
+      "image": "affirmation-images/202202-affirmation.png",
+      "tags": ["Feb 2022"]
+    },
+    {
+      "id":  "155",
+      "text": "I am happy to be me.",
+      "image": "affirmation-images/202203-affirmation.png",
+      "tags": ["Mar 2022"]
+    },
+    {
+      "id":  "156",
+      "text": "I will talk to myself the same way I talk to the people I love.",
+      "image": "affirmation-images/202204-affirmation.png",
+      "tags": ["April 2022"]
+    },
+    {
+      "id":  "157",
+      "text": "As I practice self-compassion, feeling good becomes normal to me.",
+      "image": "affirmation-images/202205-affirmation.png",
+      "tags": ["May 2022"]
+    },
+    {
+      "id":  "158",
+      "text": "I am giving attention to what really matters.",
+      "image": "affirmation-images/202206-affirmation.png",
+      "tags": ["June 2022"]
+    },
+    {
+      "id":  "159",
+      "text": "I am able to maintain a peaceful heart.",
+      "image": "affirmation-images/202208-affirmation.png",
+      "tags": ["Aug 2022"]
+    },
+    {
+      "id":  "160",
+      "text": "I am will to be happy now.",
+      "image": "affirmation-images/202209-affirmation.png",
+      "tags": ["Sept 2022"]
+    },
+    {
+      "id":  "161",
+      "text": "Today is going to be a really, really great day.",
+      "image": "affirmation-images/202211-affirmation.png",
+      "tags": ["Nov 2022"]
+    },
+    {
+      "id":  "162",
+      "text": "My life is a reflection of my thoughts.",
+      "image": "affirmation-images/202212-affirmation.png",
+      "tags": ["Dec 2022"]
+    },
+    {
+      "id":  "163",
+      "text": "I forgive others as I forgive myself with ease, sincerity, and compassion.",
+      "image": "affirmation-images/202301-affirmation.png",
+      "tags": ["Jan 2023"]
+    },
+    {
+      "id":  "164",
+      "text": "I am free to choose positive and honoring thoughts.",
+      "image": "affirmation-images/202302-affirmation1.png",
+      "tags": ["Feb 2023"]
+    },
+    {
+      "id":  "165",
+      "text": "I communicate with love...and attract loving experiences andpeople to me.",
+      "image": "affirmation-images/202302-affirmation2.png",
+      "tags": ["Feb 2023"]
+    },
+    {
+      "id":  "166",
+      "text": "I soar into limitless love, light, and joy.",
+      "image": "affirmation-images/202303-affirmation.png",
+      "tags": ["Mar 2023"]
+    },
+    {
+      "id":  "167",
+      "text": "I feel peaceful, grounded, and secure.",
+      "image": "affirmation-images/202304-affirmation.png",
+      "tags": ["April 2023"]
+    },
+    {
+      "id":  "168",
+      "text": "I will rise above the thoughts trying to weight me down.",
+      "image": "affirmation-images/202305-affirmation.png",
+      "tags": ["May 2023"]
+    },
+    {
+      "id":  "169",
+      "text": "Every experience I have is perfect for me.",
+      "image": "affirmation-images/202307-affirmation.png",
+      "tags": ["July 2023"]
+    },
+    {
+      "id":  "170",
+      "text": "I am at peace with myself and everything that surrounds me.",
+      "image": "affirmation-images/202308-affirmation.png",
+      "tags": ["Aug 2023"]
+    },
+    {
+      "id":  "171",
+      "text": "Anything I can imagine I can create.",
+      "image": "affirmation-images/202310-affirmation.png",
+      "tags": ["Oct 2023"]
+    },
+    {
+      "id":  "172",
+      "text": "Today I will find joy in all the little things.",
+      "image": "affirmation-images/202311-affirmation.png",
+      "tags": ["Nov 2023"]
+    },
+    {
+      "id":  "173",
+      "text": "The holiday lights reflect the brightness and positivity within me.",
+      "image": "affirmation-images/202312-affirmation.png",
+      "tags": ["Dec 2023"]
+    },
+    {
+      "id":  "174",
+      "text": "The holiday lights reflect the brightness and positivity within me.",
+      "image": "affirmation-images/202312-affirmation.png",
+      "tags": ["Dec 2023"]
+    },
+    {
+      "id":  "175",
+      "text": "In 2026 I will live in the moment more.",
+      "image": "affirmation-images/202401-affirmation.png",
+      "tags": ["Jan 2024"]
+    },
+    {
+      "id":  "176",
+      "text": "My open heart is a magnet for joy and abundance.",
+      "image": "affirmation-images/202402-affirmation.png",
+      "tags": ["Feb 2024"]
+    },
+    {
+      "id":  "177",
+      "text": "My life purpose is to love myself first and foremost.",
+      "image": "affirmation-images/202403-affirmation.png",
+      "tags": ["Mar 2024"]
+    },
+    {
+      "id":  "178",
+      "text": "I am happy just being me.",
+      "image": "affirmation-images/202404-affirmation.jpg",
+      "tags": ["April 2024"]
+    },
+    {
+      "id":  "179",
+      "text": "I believe that my spirit is in harmony with the universe.",
+      "image": "affirmation-images/202405-affirmation.jpg",
+      "tags": ["May 2024"]
+    },
+    {
+      "id":  "180",
+      "text": "My beliefs manifest my reality.",
+      "image": "affirmation-images/202406-affirmation.jpg",
+      "tags": ["June 2024"]
+    },
+    {
+      "id":  "181",
+      "text": "My words have the power to heal or to hurt, so I choose them wisely.",
+      "image": "affirmation-images/202407-affirmation.jpg",
+      "tags": ["July 2024"]
+    },
+    {
+      "id":  "182",
+      "text": "All is well in my world. It really is.",
+      "image": "affirmation-images/202408-affirmation.jpg",
+      "tags": ["Aug 2024"]
+    },
+    {
+      "id":  "183",
+      "text": "Calm and centered, Quite and still, I love myself and always will.",
+      "image": "affirmation-images/202409-affirmation.jpg",
+      "tags": ["Sept 2024"]
+    },
+    {
+      "id":  "184",
+      "text": "I am peaceful and calm.",
+      "image": "affirmation-images/202501-affirmation.jpg",
+      "tags": ["Jan 2025"]
+    },
+    {
+      "id":  "185",
+      "text": "",
+      "image": "affirmation-images/202501-affirmation.jpg",
+      "tags": ["Jan 2025"]
+    },
+    {
+      "id":  "186",
+      "text": "I think positively and create a wonderful life for myself.",
+      "image": "affirmation-images/202502-affirmation.jpg",
+      "tags": ["Feb 2025"]
+    },
+    {
+      "id":  "187",
+      "text": "I invite my thoughts and my intuition to provide me with greater clarity.",
+      "image": "affirmation-images/202503-affirmation.jpg",
+      "tags": ["March 2025"]
+    },
+    {
+      "id":  "188",
+      "text": "I accept and celebrate my humanness.",
+      "image": "affirmation-images/202504-affirmation.png",
+      "tags": ["April 2025"]
+    },
+    {
+      "id":  "189",
+      "text": "My friendships are a source of joy and happiness.",
+      "image": "affirmation-images/202505-affirmation.jpg",
+      "tags": ["May 2025"]
+    },
+    {
+      "id":  "190",
+      "text": "The present moment is a gift and I appreciate it with my attention.",
+      "image": "affirmation-images/202506-affirmation.jpg",
+      "tags": ["June 2025"]
+    },
+    {
+      "id":  "191",
+      "text": "Today I choose to radiate my light out in the world.",
+      "image": "affirmation-images/202507-affirmation.jpg",
+      "tags": ["July 2025"]
+    },
+    {
+      "id":  "192",
+      "text": "I am showing up as my authentic self, imperfections and all.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-1.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-1"]
+    },
+    {
+      "id":  "193",
+      "text": "I treat myself with kindness and understanding, even when I make mistakes.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-2.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-2"]
+    },
+    {
+      "id":  "194",
+      "text": "I am resilient and capable of navigating challenges.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-3.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-3"]
+    },
+    {
+      "id":  "195",
+      "text": "I am grateful for the ordinary moments in my life. I allow myself to feel joy fully, trusting in its presence, even when it is fleeting.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-4.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-4"]
+    },
+    {
+      "id":  "196",
+      "text": "I trust my intuition and inner wisdom to guide me.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-5.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-5"]
+    },
+    {
+      "id":  "197",
+      "text": "I embrace my unique creative spirit, and share my gifts with the world.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-6.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-6"]
+    },
+    {
+      "id":  "198",
+      "text": "I choose to engage in activities that bring me joy and allow me to lose myself in the moment.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-7.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-7"]
+    },
+    
+    {
+      "id":  "199",
+      "text": "I create space for calm and stillness in my life to process emotions and gain clarity.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-8.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-8"]
+    },
+    {
+      "id":  "200",
+      "text": "I release the pressure to live the life I'm 'supposed to' and embrace the life I want to live.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-9.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-9"]
+    },
+    {
+      "id":  "201",
+      "text": "Laughter is my medicine and I choose to take it often. I allow myself to laugh freely and with abandon.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-10.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-10"]
+    },
+    {
+      "id":  "202",
+      "text": "I am enough exactly as I am.",
+      "image": "affirmation-images/202508-wholehearted-affirmation-11.png",
+      "tags": ["Aug 2025", "wholehearted-affirmation-11"]
+    },
+    {
+      "id":  "203",
+      "text": "I possess the inner strength and courage to persevere in the face of uncertainty.",
+      "image": "affirmation-images/202510-affirmation.jpg",
+      "tags": ["Oct 2025"]
+    },
+    {
+      "id":  "204",
+      "text": "I am thankful for what I am, what I have, and what I can do.",
+      "image": "affirmation-images/202511-affirmation.jpg",
+      "tags": ["Nov 2025"]
+    },
+    {
+      "id":  "205",
+      "text": "I am a beacon of joy and I spread cheer to all around me.",
+      "image": "affirmation-images/202512-affirmation.png",
+      "tags": ["Dec 2025"]
+    },
+    {
+      "id":  "206",
+      "text": "My presence along will brighten someone's day.",
+      "image": "affirmation-images/202601-affirmation.png",
+      "tags": ["Jan 2026"]
+    },
+    {
+      "id":  "207",
+      "text": "I concentrate my thoughts on ideas and beliefs that make me feel good.",
+      "image": "affirmation-images/202602-affirmation.png",
+      "tags": ["Feb 2026"]
+    },
+    {
+      "id":  "208",
+      "text": "Today I choose to inhale positive energy and exhale my fears.",
+      "image": "affirmation-images/202603-affirmation.png",
+      "tags": ["Mar 2026"]
+    },
+    {
+      "id":  "209",
+      "text": "Each day of my life is filled with wonder and magic.",
+      "image": "affirmation-images/202604-affirmation.png",
+      "tags": ["April 2026"]
+    },
+    {
+      "id":  "210",
+      "text": "I am an abundant being living in an abundant universe that supplies me with everything I need in the perfect way and timing",
+      "image": "affirmation-images/202606-affirmation.png",
+      "tags": ["June 2026"]
+    },
+    {
+      "id":  "211",
+      "text": "I am an abundant being living in an abundant universe that supplies me with everything I need in the perfect way and timing",
+      "image": "affirmation-images/202606-affirmation.png",
+      "tags": ["June 2026"]
+    },
+    {
+      "id":  "212",
+      "text": "For Self-Love: I radiate beauty, confidence, and grace.",
+      "image": "affirmation-images/cn-fa05a-affirmation1.png",
+      "tags": ["Cliff Notes","First Aid", "rose quartz"]
+    },
+    {
+      "id":  "213",
+      "text": "For Growth: Today, I'm creating a better version of myself. ",
+      "image": "affirmation-images/cn-fa05a-affirmation2.png",
+      "tags": ["Cliff Notes","First Aid", "amethyst"]
+    },
+    {
+      "id":  "214",
+      "text": "For Being Present: I surrender both my past and my future. I live in the power of now.",
+      "image": "affirmation-images/cn-fa05a-affirmation3.png",
+      "tags": ["Cliff Notes","First Aid", "unakite jasper"]
+    },
+    {
+      "id":  "215",
+      "text": "For Creativity: I always have access to my inner creative spirit.",
+      "image": "affirmation-images/cn-fa05a-affirmation4.png",
+      "tags": ["Cliff Notes","First Aid", "carnelian"]
+    },
+    {
+      "id":  "216",
+      "text": "For Passion: I am creating the life of my dreams in my mind, body, and soul.",
+      "image": "affirmation-images/cn-fa05a-affirmation5.png",
+      "tags": ["Cliff Notes","First Aid", "pyrite"]
+    },
+    {
+      "id":  "217",
+      "text": "For Happiness: I radiate happiness and positive energy.",
+      "image": "affirmation-images/cn-fa05a-affirmation6.png",
+      "tags": ["Cliff Notes","First Aid", "citrine"]
+    },
+    {
+      "id":  "218",
+      "text": "For Strength: My mind, body, and soul are energized. ",
+      "image": "affirmation-images/cn-fa05a-affirmation7.png",
+      "tags": ["Cliff Notes","First Aid", "quartz"]
+    },
+    {
+      "id":  "219",
+      "text": "All that I seek is already within me.",
+      "image": "affirmation-images/cn-fa05-affirmation1.png",
+      "tags": ["Cliff Notes","First Aid", "Louise Hay"]
+    },
+    {
+      "id":  "220",
+      "text": "I am my own unique self.",
+      "image": "affirmation-images/cn-fa05-affirmation2.png",
+      "tags": ["Cliff Notes","First Aid"]
+    },
+    {
+      "id":  "221",
+      "text": "I do not fix problems. I fix my thinking. Then problems fix themselves.",
+      "image": "affirmation-images/cn-fa05-affirmation3.png",
+      "tags": ["Cliff Notes","First Aid", "Louise Hay"]
+    },
+    {
+      "id":  "222",
+      "text": "All is well in my world.",
+      "image": "affirmation-images/cn-fa05-affirmation4.png",
+      "tags": ["Cliff Notes","First Aid", "Louise Hay"]
+    },
+    {
+      "id":  "223",
+      "text": "I always have a choice.",
+      "image": "affirmation-images/cn-fa05-affirmation5.png",
+      "tags": ["Cliff Notes","First Aid"]
+    },
+    {
+      "id":  "224",
+      "text": "My body is always doing its best to create perfect health.",
+      "image": "affirmation-images/cn-fa05-affirmation6.png",
+      "tags": ["Cliff Notes","First Aid"]
+    },
+    {
+      "id":  "225",
+      "text": "I choose to make the rest of my life the best of my life.",
+      "image": "affirmation-images/cn-fa05-affirmation7.png",
+      "tags": ["Cliff Notes","First Aid", "Louise Hay"]
+    },
+    {
+      "id":  "226",
+      "text": "I choose to make the rest of my life the best of my life.",
+      "image": "affirmation-images/dp09a-happiness-affirmation1.png",
+      "tags": ["Cliff Notes","Daily Practices", "Happiness Affirmations"]
+    },
+    {
+      "id":  "227",
+      "text": "I am happy in this moment.",
+      "image": "affirmation-images/dp09a-happiness-affirmation1.png",
+      "tags": ["Cliff Notes","Daily Practices", "Happiness Affirmations"]
+    },
+    {
+      "id":  "228",
+      "text": "Gratitude and appreciation are sources of my happiness.",
+      "image": "affirmation-images/dp09a-happiness-affirmation2.png",
+      "tags": ["Cliff Notes","Daily Practices", "Happiness Affirmations"]
+    },
+    {
+      "id":  "229",
+      "text": "All is well.",
+      "image": "affirmation-images/dp09a-happiness-affirmation3.png",
+      "tags": ["Cliff Notes","Daily Practices", "Happiness Affirmations"]
+    },
+    {
+      "id":  "230",
+      "text": "I am in charge of my happiness.",
+      "image": "affirmation-images/dp09a-happiness-affirmation4.png",
+      "tags": ["Cliff Notes","Daily Practices", "Happiness Affirmations"]
+    },
+    {
+      "id":  "231",
+      "text": "My happiness increases my health, wealth, and love.",
+      "image": "affirmation-images/dp09a-happiness-affirmation5.png",
+      "tags": ["Cliff Notes","Daily Practices", "Happiness Affirmations"]
+    },
+    {
+      "id":  "232",
+      "text": "I choose happiness now.",
+      "image": "affirmation-images/dp09a-happiness-affirmation6.png",
+      "tags": ["Cliff Notes","Daily Practices", "Happiness Affirmations"]
+    },
+    {
+      "id":  "233",
+      "text": "I am loved.",
+      "image": "affirmation-images/dp09a-happiness-affirmation7.png",
+      "tags": ["Cliff Notes","Daily Practices", "Happiness Affirmations"]
+    },
+    {
+      "id":  "234",
+      "text": "I am happy.",
+      "image": "affirmation-images/dp09b-morning-affirmation1.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "235",
+      "text": "I am healthy.",
+      "image": "affirmation-images/dp09b-morning-affirmation2.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "236",
+      "text": "I am wealthy.",
+      "image": "affirmation-images/dp09b-morning-affirmation3.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "237",
+      "text": "I am secure.",
+      "image": "affirmation-images/dp09b-morning-affirmation4.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "238",
+      "text": "I am worthy.",
+      "image": "affirmation-images/dp09b-morning-affirmation5.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "239",
+      "text": "I am positive.",
+      "image": "affirmation-images/dp09b-morning-affirmation6.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "240",
+      "text": "I am blessed.",
+      "image": "affirmation-images/dp09b-morning-affirmation7.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "241",
+      "text": "I am grateful.",
+      "image": "affirmation-images/dp09b-morning-affirmation8.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "242",
+      "text": "I am beautiful.",
+      "image": "affirmation-images/dp09b-morning-affirmation9.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "243",
+      "text": "I am confident.",
+      "image": "affirmation-images/dp09b-morning-affirmation10.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "244",
+      "text": "I am courageous.",
+      "image": "affirmation-images/dp09b-morning-affirmation11.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "245",
+      "text": "I am excited about today.",
+      "image": "affirmation-images/dp09b-morning-affirmation12.png",
+      "tags": ["Cliff Notes","Daily Practices", "Morning Affirmations"]
+    },
+    {
+      "id":  "246",
+      "text": "I am one with Divine love.",
+      "image": "affirmation-images/dp09d-reiki-affirmation1.png",
+      "tags": ["Cliff Notes","Daily Practices", "Reiki Affirmations", "crown", "chakra"]
+    },
+    {
+      "id":  "247",
+      "text": "I seek only the truth.",
+      "image": "affirmation-images/dp09d-reiki-affirmation2.png",
+      "tags": ["Cliff Notes","Daily Practices", "Reiki Affirmations", "third eye", "chakra"]
+    },
+    {
+      "id":  "248",
+      "text": "I give thanks for my many blessings.",
+      "image": "affirmation-images/dp09d-reiki-affirmation3.png",
+      "tags": ["Cliff Notes","Daily Practices", "Reiki Affirmations", "throat", "chakra"]
+    },
+    {
+      "id":  "249",
+      "text": "I am kind to every living being.",
+      "image": "affirmation-images/dp09d-reiki-affirmation4.png",
+      "tags": ["Cliff Notes","Daily Practices", "Reiki Affirmations", "heart", "chakra"]
+    },
+    {
+      "id":  "250",
+      "text": "I do my work honestly.",
+      "image": "affirmation-images/dp09d-reiki-affirmation5.png",
+      "tags": ["Cliff Notes","Daily Practices", "Reiki Affirmations", "solar plexus", "chakra"]
+    },
+    {
+      "id":  "251",
+      "text": "I am free from worry.",
+      "image": "affirmation-images/dp09d-reiki-affirmation6.png",
+      "tags": ["Cliff Notes","Daily Practices", "Reiki Affirmations", "sacral", "chakra"]
+    },
+    {
+      "id":  "252",
+      "text": "I let go of anger and allow peace to enter.",
+      "image": "affirmation-images/dp09d-reiki-affirmation7.png",
+      "tags": ["Cliff Notes","Daily Practices", "Reiki Affirmations", "root", "chakra"]
+    },
+    {
+      "id":  "253",
+      "text": "I am a magnet for money. Prosperity of every kind is drawn to me.",
+      "image": "affirmation-images/dp09e-abundance-affirmation1.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "254",
+      "text": "I think big, and then I allow myself to accept even more good from life.",
+      "image": "affirmation-images/dp09e-abundance-affirmation2.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "255",
+      "text": "Wherever it is that I work, I am deeply appreciated and well compensated.",
+      "image": "affirmation-images/dp09e-abundance-affirmation3.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "256",
+      "text": "Today is a delightful day. Money comes to me in expected and unexpected ways.",
+      "image": "affirmation-images/dp09e-abundance-affirmation4.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "257",
+      "text": "I have unlimited choices. Opportunities are everywhere.",
+      "image": "affirmation-images/dp09e-abundance-affirmation5.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "258",
+      "text": "I truly believe that we are here to bless and prosper each other. I reflect this belief in my daily interactions.",
+      "image": "affirmation-images/dp09e-abundance-affirmation6.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "259",
+      "text": "I support others in becoming prosperous and, in turn, life supports me in wondrous ways.",
+      "image": "affirmation-images/dp09e-abundance-affirmation7.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "260",
+      "text": "I now do work I love, and I am well paid for it.",
+      "image": "affirmation-images/dp09e-abundance-affirmation8.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "261",
+      "text": "The money that comes to me today is a pleasure to handle. I save some and spend some.",
+      "image": "affirmation-images/dp09e-abundance-affirmation9.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "262",
+      "text": "vI live in a loving, abundant, and harmonious universe, and I am grateful.",
+      "image": "affirmation-images/dp09e-abundance-affirmation10.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "263",
+      "text": "I am now willing to be open to the unlimited prosperity that exists everywhere.",
+      "image": "affirmation-images/dp09e-abundance-affirmation11.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "264",
+      "text": "Money is a state of mind that supports me. I allow prosperity to enter my life on a higher level than ever before.",
+      "image": "affirmation-images/dp09e-abundance-affirmation12.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "265",
+      "text": "Life supplies all my needs in great abundance. I trust life.",
+      "image": "affirmation-images/dp09e-abundance-affirmation13.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "266",
+      "text": "I radiate success, and prosper wherever I turn.",
+      "image": "affirmation-images/dp09e-abundance-affirmation14.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "267",
+      "text": "The Law of Attraction brings only good into my life.",
+      "image": "affirmation-images/dp09e-abundance-affirmation15.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "268",
+      "text": "I move from poverty thinking to prosperity thinking, and my finances reflect this change.",
+      "image": "affirmation-images/dp09e-abundance-affirmation16.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "269",
+      "text": "I delight in the financial security that is a constant in my life.",
+      "image": "affirmation-images/dp09e-abundance-affirmation17.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "270",
+      "text": "The more grateful I am for the wealth and abundance in my life, the more reasons I find to be grateful.",
+      "image": "affirmation-images/dp09e-abundance-affirmation18.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "271",
+      "text": "I express gratitude for all the good in my life. Each day brings wonderful new surprises.",
+      "image": "affirmation-images/dp09e-abundance-affirmation19.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "272",
+      "text": "I pay my bills with love, and I rejoice as I write out each check. Abundance flows freely through me.",
+      "image": "affirmation-images/dp09e-abundance-affirmation20.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "273",
+      "text": "At this very moment, enormous wealth and power are available to me. I choose to feel worthy and deserving.",
+      "image": "affirmation-images/dp09e-abundance-affirmation21.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "274",
+      "text": "I deserve the best, and I accept the best now.",
+      "image": "affirmation-images/dp09e-abundance-affirmation22.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "275",
+      "text": "I release all resistance to money, and I now allow it to flow joyously into my life.",
+      "image": "affirmation-images/dp09e-abundance-affirmation23.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "276",
+      "text": "My good comes from everywhere and everyone.",
+      "image": "affirmation-images/dp09e-abundance-affirmation24.png",
+      "tags": ["Cliff Notes","Daily Practices", "Abundance Affirmations"]
+    },
+    {
+      "id":  "277",
+      "text": "I accept and love myself unconditionally.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation1.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "278",
+      "text": "I accept others exactly for who they are.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation2.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "279",
+      "text": "I wish everyone I encounter the best.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation3.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "280",
+      "text": "I give blessings to my global family.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation4.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "281",
+      "text": "We're all in this together.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation5.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "282",
+      "text": "I respect the beliefs of others and look for the good in everyone.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation6.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "283",
+      "text": "I accept my life the way it is.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation7.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "284",
+      "text": "I accept that everyone is doing the best they can with what they have.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation8.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "285",
+      "text": "Today I will practice patience and loving kindness to everyone I encounter.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation9.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "286",
+      "text": "I practice goodness and treat everyone with respect.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation10.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "287",
+      "text": "I am open to others' opinions.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation11.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "288",
+      "text": "I celebrate the diversity of life.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation12.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "289",
+      "text": "I see the beauty in every culture.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation13.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "290",
+      "text": "I send blessings/prayers to my human family.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation14.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "291",
+      "text": "I am one with everything and everyone.",
+      "image": "affirmation-images/dp09f-acceptance-affirmation15.png",
+      "tags": ["Cliff Notes","Daily Practices", "Acceptance Affirmations"]
+    },
+    {
+      "id":  "292",
+      "text": "I am a clear vessel for the light of my soul.",
+      "image": "affirmation-images/dp09g-clarity-affirmation1.png",
+      "tags": ["Cliff Notes","Daily Practices", "Clarity Affirmations"]
+    },
+    {
+      "id":  "293",
+      "text": "I am fully present with the gifts of this day. knowing that each day leads me to the future.",
+      "image": "affirmation-images/dp09g-clarity-affirmation2.png",
+      "tags": ["Cliff Notes","Daily Practices", "Clarity Affirmations"]
+    },
+    {
+      "id":  "294",
+      "text": "I invite my thoughts and my intuition to provide me with greater clarity.",
+      "image": "affirmation-images/dp09g-clarity-affirmation3.png",
+      "tags": ["Cliff Notes","Daily Practices", "Clarity Affirmations"]
+    },
+    {
+      "id":  "295",
+      "text": "The words I speak and write clearly express my thoughts, intentions, ideas, and necessary information.",
+      "image": "affirmation-images/dp09g-clarity-affirmation4.png",
+      "tags": ["Cliff Notes","Daily Practices", "Clarity Affirmations"]
+    },
+    {
+      "id":  "296",
+      "text": "I experience the love in my heart with greater clarity than ever before.",
+      "image": "affirmation-images/dp09g-clarity-affirmation5.png",
+      "tags": ["Cliff Notes","Daily Practices", "Clarity Affirmations"]
+    },
+    {
+      "id":  "297",
+      "text": "My actions are clearly directed toward my highest purpose.",
+      "image": "affirmation-images/dp09g-clarity-affirmation6.png",
+      "tags": ["Cliff Notes","Daily Practices", "Clarity Affirmations"]
+    },
+    {
+      "id":  "298",
+      "text": "What I create today has a clear benefit to those who encounter it, today and in the future.",
+      "image": "affirmation-images/dp09g-clarity-affirmation7.png",
+      "tags": ["Cliff Notes","Daily Practices", "Clarity Affirmations"]
+    },
+    {
+      "id":  "299",
+      "text": "It is clear to me that my presence is required everywhere I go. I know that I belong.",
+      "image": "affirmation-images/dp09g-clarity-affirmation8.png",
+      "tags": ["Cliff Notes","Daily Practices", "Clarity Affirmations"]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+     
+  
+
+
+  
+
