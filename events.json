@@ -1,10 +1,17 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "July 18, 2026",
+  "lastUpdated": "August 7, 2026",
 
   "event": [
-     
+     {
+      "status": "active",
+      "image": "events-images/sgc-icon.png",
+      "type": "Latest Update to App",  
+      "datetime": "Aug 6",
+      "location": "Explore",
+      "note": "Added new feature: Search Quotations"
+     },
      {
       "status": "archived",
       "image": "events-images/sandwich.jpg",
@@ -22,7 +29,7 @@
       "note": "Celebrating Kathy's birthday! (and bring handouts from June meeting!)"
      },
      {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/salad.png",
       "type": "Lunch",  
       "datetime": "Saturday August 1 - Time 11:30 AM",
@@ -34,13 +41,13 @@
       "status": "active",
       "image": "events-images/meeting.png",
       "type": "Meeting",  
-      "datetime": "Saturday August 8 Noon",
+      "datetime": "Saturday August 22 Noon",
       "location": "Linda's House",
-      "note": "Happy Birthday Linda!"
+      "note": "DATE CHANGE! - Happy Birthday Linda!"
      },
      {
       "status": "active",
-      "image": "events-images/salad.png",
+      "image": "events-images/sandwich.png",
       "type": "Lunch",  
       "datetime": "Wednesday September 9 - Time 11:30 AM",
       "location": "Lou Malnati's - Tempe Marketplace",
