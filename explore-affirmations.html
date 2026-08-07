@@ -400,7 +400,6 @@
       }
     }
 
-
   </style>
 </head>
 
@@ -422,7 +421,7 @@
 
     </p>
 
-    <input type="text" id="searchInput" placeholder="Discover affirmations..."
+    <input type="text" id="searchInput" placeholder="Start typing..."
       onkeyup="searchAffirmations()"
       style="width: 100%; padding: 12px; margin-bottom: 20px;">
      
@@ -433,7 +432,7 @@
       🌸 <strong>Start typing to discover affirmations.</strong>
     
       <p>
-        Search by topic or any word in an affirmation.
+        Search by any word in the affirmation or where it came from (meeting or Cliff Notes).
       </p>
     
       <p style="font-size:15px;color:#7a6c9d;">
@@ -441,14 +440,11 @@
         <em>abundance</em> •
         <em>acceptance</em> •
         <em>clarity</em> •
-        <em>reiki</em> •
-        <em>chakra</em>
+        <em>April 2016</em> •
+        <em>First Aid</em>
       </p>
     
-    </div>
-    
-    
-    
+    </div>    
     
     <ul id="searchResults"></ul>
 
@@ -510,9 +506,7 @@
 
     let matches = [];
     
-    affirmations.forEach((affirmation) => {
-   
- 
+    affirmations.forEach((affirmation) => { 
 
       if (!affirmation.tags) {
         console.log("Missing tags:", affirmation.id, affirmation);
