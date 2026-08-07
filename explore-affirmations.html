@@ -506,6 +506,7 @@
   });
   
   let affirmations = [];
+  let filteredAffirmations = [];
 
   fetch("affirmations.json")
     .then(response => response.json())
@@ -541,9 +542,9 @@
       return;
     }
 
-    let matches = [];
+    filteredAffirmations = [];
     
-    affirmations.forEach((affirmation) => { 
+    affirmations.forEach((affirmation, index) => { 
 
       if (!affirmation.tags) {
         console.log("Missing tags:", affirmation.id, affirmation);
@@ -557,22 +558,23 @@
         affirmation.text.toLowerCase().includes(input);
 
       if (tagMatch || textMatch) {
-        matches.push(affirmation.id);
-
+        matches.push(affirmation);
+        const modalIndex = filteredAffirmations.length - 1;
         const li = document.createElement("li");
 
-    const tags = affirmation.tags
-      ? affirmation.tags.slice(0,5).join(" • ")
-      : "";
+      const tags = affirmation.tags
+        ? affirmation.tags.slice(0,5).join(" • ")
+        : "";
 
-    const extraTags =
-      affirmation.tags && affirmation.tags.length > 5
+      const extraTags =
+        affirmation.tags && affirmation.tags.length > 5
         ? ` +${affirmation.tags.length-5}`
         : "";
 
-    li.innerHTML = `
-      <div class="affirmation-card"
-         onclick="openAffirmationModal(${index})">
+      li.innerHTML = `
+        <div class="affirmation-card"
+         onclick="openAffirmationModal(${modalIndex})">
+
 
         <div class="affirmation-text">
           “${highlightText(affirmation.text, input)}”
@@ -582,7 +584,7 @@
         <div class="affirmation-tags">
           🏷️ ${formatTags(affirmation.tags, input)}
         </div>
-   `;
+     `;
 
         results.appendChild(li);
 
@@ -590,7 +592,8 @@
       }
     });
     
-     document.getElementById("resultCount").innerHTML =
+    filteredAffirmations = matches; 
+    document.getElementById("resultCount").innerHTML =
     `✨ <strong>${matches.length}</strong> affirmation${matches.length===1?"":"s found"}`;
 
     // 👇 SAVE RESULTS
@@ -654,9 +657,9 @@
     const affirmation = filteredAffirmations[index];
 
     document.getElementById("modalAffirmationImage").src =
-        affirmation.Image;
+        affirmation.image;
 
-    displayModalTags(affirmation.Tags);
+    displayModalTags(affirmation.tags);
 
   }
 
