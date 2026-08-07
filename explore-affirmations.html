@@ -558,7 +558,7 @@
         affirmation.text.toLowerCase().includes(input);
 
       if (tagMatch || textMatch) {
-        matches.push(affirmation);
+        filteredAffirmations.push(affirmation);
         const modalIndex = filteredAffirmations.length - 1;
         const li = document.createElement("li");
 
@@ -592,20 +592,19 @@
       }
     });
     
-    filteredAffirmations = matches; 
     document.getElementById("resultCount").innerHTML =
-    `✨ <strong>${matches.length}</strong> affirmation${matches.length===1?"":"s found"}`;
+    `✨ <strong>${filteredAffirmations.length}</strong> affirmation${filteredAffirmations.length===1?"":"s found"}`;
 
     // 👇 SAVE RESULTS
-    localStorage.setItem("searchResults", JSON.stringify(matches));
+    localStorage.setItem("searchResults", JSON.stringify(filteredAffirmations));
     localStorage.setItem("isSearchMode", "true");
 
     // Optional message
-    if (matches.length === 0) {
+    if (filteredAffirmations.length === 0) {
       results.innerHTML = `<li style="color:#8a7fb0;">No results found 💜</li>`;
     }
 
-    console.log("Saved searchResults:", matches); // 👈 debug
+    console.log("Saved searchResults:", filteredAffirmations); // 👈 debug
 
   }
 
