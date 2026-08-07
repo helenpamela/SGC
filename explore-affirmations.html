@@ -484,24 +484,24 @@
       document.getElementById('header-placeholder').innerHTML = data;
   });
   
-  let quotes = [];
+  let affirmations = [];
 
   fetch("affirmations.json")
     .then(response => response.json())
     .then(data => {
-      quotes = data.quotes;
-      console.log("Loaded", quotes.length, "quotes");
+      affirmations = data.affirmations;
+      console.log("Loaded", affirmations.length, "affirmations");
   })
   .catch(err => console.error(err));
   
 
-  console.log("About to define searchQuotations");
-  // Search Quotations
- function searchQuotations() {
+  console.log("About to define searchAffirmations");
+  // Search affirmations
+ function searchAffirmations() {
     const input = document.getElementById("searchInput").value.toLowerCase();
     const results = document.getElementById("searchResults");
 
-    console.log("SEARCH QUOTATIONS RUNNING");
+    console.log("SEARCH affirmations RUNNING");
     results.innerHTML = "";
 
     document.getElementById("searchHint").style.display = "none";
