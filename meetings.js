@@ -20243,7 +20243,7 @@ const meetings = {
         },
         {
           type: "audio",
-          label: "Meditation: Self-Compassion Break",
+          label: "Meditation: Self-Compassion Break - Kristin Neff",
           src: "audio/201704-self-compassion-break.mp3"  
         },
 
@@ -34658,9 +34658,14 @@ const meetings = {
           label: "Wings of Forgiveness - Lyrics - India Arie",
           src: "https://drive.google.com/file/d/1fDHmZxHEnM8MG-iEu1W9PMbEdLsHoZ5r/preview"  
         },
-         {
+        {
+          type: "image",
+          label: "SGC Forgiveness DVD = Label",
+          src: "topic-images/201109-forgiveness-dvd-label.jpg"  
+        },       
+        {
           type: "pdf",
-          label: "SGC Forgiveness DVD Contents",
+          label: "SGC Forgiveness DVD - Contents",
           src: "https://drive.google.com/file/d/1l4_XTZ7goDK3cJug8Urq47q228xA1RNs/preview"  
         },
         {
@@ -35119,6 +35124,16 @@ const meetings = {
           label: "Watched two DVDs: 'Attitudinal Healing' and 'Love is Letting Go of Fear'",
           src: ""  
         },
+        {
+          type: "image",
+          label: "Attitudinal Healing DVD - Label",
+          src: "topic-images/201107-attitudinal-healing-dvd-label.jpg"  
+        },
+        {
+          type: "pdf",
+          label: "Attitudinal Healing DVD - Contents",
+          src: "https://drive.google.com/file/d/1e_pfdDJxoDlVLelVUB-p2qye47QdvCQb/preview"  
+        },       
         {
           type: "pdf",
           label: "Principles of Attitudinal Healing - Poster",
