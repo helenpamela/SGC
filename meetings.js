@@ -38494,7 +38494,7 @@ const meetings = {
       {
         type: "image",
         label: "Blew bubbles in back yard",
-        src: "other-images/201003-blowing-bubbles.png"
+        src: "member-images/2019-blowing-bubbles.jpg"
       },
       {
         type: "pdf",
