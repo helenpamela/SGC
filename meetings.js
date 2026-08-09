@@ -35099,17 +35099,17 @@ const meetings = {
     },
 
     meditation: {
-      title: "",
+      title: "Balloon Bouquet",
       items: [
         {
-          type: "text",
-          label: "Listened to Balloon Bouquet Meditation",
-          src: ""
+          type: "audio",
+          label: "Balloon Bouquet Meditation",
+          src: "audio/201107-balloon-bouquet-meditation-mina.mp3"
         }
       ]
     },
 
-    tags: ["crystal", "chakra", "root", "heart", "shiva lingam", "jampolsky", "attitudial", "healing"],
+    tags: ["crystal", "chakra", "root", "heart", "shiva lingam", "jampolsky", "attitudial", "healing", "audio"],
 
     topic: {
       title: "Attitudinal Healing",
