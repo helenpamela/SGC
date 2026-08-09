@@ -20216,7 +20216,7 @@ const meetings = {
       ]
     },
 
-    tags: ["mary", "gratitude", "stand", "compassion", "cd", "stand up for yourself", "self-compassion"],
+    tags: ["mary", "gratitude", "stand", "compassion", "cd", "stand up for yourself", "self-compassion", "audio"],
 
     topic: {
       title: "Self-Compassion Online Class - Part 2",
@@ -20241,6 +20241,12 @@ const meetings = {
           label: "Be Kind to Yourself",
           src: "https://drive.google.com/file/d/1Kv2N8nZASgB00npYUQdjXNsoG8sZJIh1/preview"  
         },
+        {
+          type: "audio",
+          label: "Meditation: Self-Compassion Break",
+          src: "audio/201704-self-compassion-break.mp3"  
+        },
+
         {
           type: "pdf",
           label: "10 Self-Love Encouraging Questions",
