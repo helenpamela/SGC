@@ -32578,7 +32578,7 @@ const meetings = {
     },
 
     tags: ["archangel", "ariel", "jampolsky", "gerald jampolsky", "jerry jampolsky", "beliefs", 
-          "friends", "cd", "friendship"],
+          "friends", "cd", "friendship", "dvd"],
 
     topic: {
       title: "Beliefs - Friendship",
@@ -32659,7 +32659,11 @@ const meetings = {
           label: "Friends CD Song List 3",
           src: "topic-images/201205-friends-cd-song-list-3.jpg"  
         },
-     
+        {
+          type: "image",
+          label: "Friends DVD Label",
+          src: "topic-images/201205-dvd-friends-label.jpg"  
+        },
         {
           type: "pdf",
           label: "SGC DVD - Friends - Contents",
@@ -32842,7 +32846,7 @@ const meetings = {
       ]
     },
 
-    tags: ["eft", "archange", "michael", "audit", "review", "dance", "cd"],
+    tags: ["eft", "archange", "michael", "audit", "review", "dance", "cd", ],
 
     topic: {
       title: "Annual Audit/Review",
@@ -33068,7 +33072,7 @@ const meetings = {
       ]
     },
 
-    tags: ["crystal", "fulgurite", "believe", "belief", "cd"],
+    tags: ["crystal", "fulgurite", "believe", "belief", "cd", "dvd"],
 
     topic: {
       title: "Believe / Beliefs",
@@ -33122,6 +33126,11 @@ const meetings = {
           label: "SGC DVD Label - Love is Letting Go of Fear",
           src: "https://drive.google.com/file/d/1UB3uhClYmkZtnybPwEze90zNaOpT40MI/preview"
         },
+        {
+          type: "image",
+          label: "DVD - Just Believe",
+          src: "topic-images/201203-dvd-just-believe-label.jpg"
+        },        
         {
           type: "pdf",
           label: "SGC Believe DVD Contents ",
@@ -34467,7 +34476,7 @@ const meetings = {
       ]
     },
 
-    tags: ["forgive","forgiveness", "crystal", "rhodonite", "sugilite", "howlite", "all about me"],
+    tags: ["forgive","forgiveness", "crystal", "rhodonite", "sugilite", "howlite", "all about me", "dvd"],
 
     topic: {
       title: "Forgiveness",
@@ -35114,7 +35123,7 @@ const meetings = {
       ]
     },
 
-    tags: ["crystal", "chakra", "root", "heart", "shiva lingam", "jampolsky", "attitudial", "healing", "audio"],
+    tags: ["crystal", "chakra", "root", "heart", "shiva lingam", "jampolsky", "attitudial", "healing", "audio", "dvd"],
 
     topic: {
       title: "Attitudinal Healing",
