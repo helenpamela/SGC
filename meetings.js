@@ -31216,13 +31216,7 @@ const meetings = {
           type: "pdf",
           label: "Pine Qualities",
           src: "https://drive.google.com/file/d/1m5qY9EHSrrggCkPIavoHfrwgECi9hZsq/preview"
-        },
-
-
-
-      
-        
-         
+        },      
    
       ]
     },
@@ -31245,8 +31239,7 @@ const meetings = {
           label: "Ho'oponopono Statements",
           src: "https://drive.google.com/file/d/15JkhnlkmTPq-O54AfIR17Ahz11O-qXcq/preview"
         },
-       
-       
+             
 
       ],
     },
@@ -31292,7 +31285,7 @@ const meetings = {
       ]
     },
 
-    tags: ["meditation", "mantra", "lotus", ],
+    tags: ["meditation", "mantra", "lotus", "dvd"],
 
     topic: {
       title: "Mantra Meditation",
@@ -31337,6 +31330,11 @@ const meetings = {
           type: "pdf",
           label: "Sounds and Silence: Mantra",
           src: "https://drive.google.com/file/d/1zwpR_fJtNLQ6h3O7dKfgR6Cv_G1DNAB1/preview"  
+        },
+        {
+          type: "image",
+          label: "SGC Mantra DVD - Label",
+          src: "topic-images/201210-mantras-dvd-label.jpg"  
         },
         {
           type: "pdf",
@@ -31599,6 +31597,11 @@ const meetings = {
           label: "Smiling CD Song List",
           src: "https://drive.google.com/file/d/1Be9TXlwyHx91xk14XjY__tw-m39EbK2H/preview"  
         }, 
+        {
+          type: "pdf",
+          label: "SGC Smiling DVD - Label",
+          src: "topic-images/201209-smiling-dvd-label.jpg"  
+        },        
         {
           type: "pdf",
           label: "SGC Smiling DVD Contents",
@@ -32324,6 +32327,11 @@ const meetings = {
           label: "How Do You Start Your Day - Louise Hay",
           src: "https://drive.google.com/file/d/1MaSF9TVZM9gVS6kq5ilYmC2xgsKZH3AE/preview"
         },
+        {
+          type: "image",
+          label: "SGC DVD - Healing - Label",
+          src: "topic-images/201206-dvd-healing-label.jpg"  
+        },        
         {
           type: "pdf",
           label: "SGC DVD - Healing - Contents",
