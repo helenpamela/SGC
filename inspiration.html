@@ -148,6 +148,7 @@
       });
 
     let data = {};
+    console.log("fetch inspiration.json next");
 
     fetch('inspiration.json?v=' + Date.now())
       .then(response => response.json())
@@ -177,6 +178,7 @@
       let candidates = [];
 
       items.forEach((_, index) => {
+        console.log("in forEach loop index=", index);
         const lastUsed = usage[index] || 0;
 
         if (lastUsed < oldestTime) {
