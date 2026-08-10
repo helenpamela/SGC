@@ -25968,11 +25968,21 @@ const meetings = {
       ]
     },
 
-    tags: ["chakra", "solar plexus", "affirmation", "self-acceptance", "denise linn"],
+    tags: ["chakra", "solar plexus", "affirmation", "self-acceptance", "denise linn", "dvd"],
 
     topic: {
       title: "Self-Acceptance",
       items: [
+        {
+          type: "image",
+          label: "DVD - I Love Myself - Label",
+          src: "topic-images/201411-dvd-i-love-myself-label.jpg"  
+        },
+        {
+          type: "pdf",
+          label: "DVD - I Love Myself - Contents",
+          src: "https://drive.google.com/file/d/1c_pwKKPGKepMY2acvNBKk5vMhN6nPDEG/preview"  
+        },        
         {
           type: "pdf",
           label: "When You Truly Accept Yourself",
@@ -29284,15 +29294,15 @@ const meetings = {
       ]
     },
 
-    tags: ["crystal", "crackle quartz", "thought exchange", "atlantis"],
+    tags: ["crystal", "crackle quartz", "thought exchange", "atlantis", "movie"],
 
     topic: {
       title: "Thought Exchange",
       items: [
         {
-          type: "text",
-          label: "Watched Thought Exchange DVD",
-          src: ""  
+          type: "image",
+          label: "Watched Thought Exchange movie",
+          src: "topic-images/201307-movie-thought-exchange.png"  
         },
         {
           type: "",
@@ -29508,15 +29518,15 @@ const meetings = {
       ]
     },
 
-    tags: ["crystal", "bloodstone", "chiastolite", "segment intending", "segment", "intend", "dvd"],
+    tags: ["crystal", "bloodstone", "chiastolite", "segment intending", "segment", "intend", "movie"],
 
     topic: {
       title: "Watch DVD - People vs State of Illusion",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""  
+          type: "image",
+          label: "People vs State of Illusion - poster",
+          src: "topic-images/201306-movie-people-vs-state.png"  
         },
         {
           type: "",
@@ -29849,6 +29859,11 @@ const meetings = {
           src: "https://drive.google.com/file/d/1gQ7i9nw6z_GRAOMBP7Dh9Bae4Toev7Z9/preview"
         },
         {
+          type: "image",
+          label: "SGC Brene Brown DVD - TED Talks - label",
+          src: "luminary-images/201304-brene-brown-dvd-label.jpg"
+        },
+        {
           type: "video",
           label: "Brene Brown - The Power of Vulnerability",
           src: "https://www.youtube.com/embed/iCvmsMzlF7o?si=yXLvtoePgA9TFoaN"
@@ -29880,7 +29895,7 @@ const meetings = {
     },
 
     tags: ["crystal", "quartz", "rutilated", "nick ortner", "brene brown", "vulnerability", "play",
-          "mandala", "shame"],
+          "mandala", "shame", "dvd"],
 
     topic: {
       title: "Watch DVD - People vs The State of Illusion [moved to June]",
@@ -31060,13 +31075,18 @@ const meetings = {
       ]
     },
 
-    tags: ["flower", "cactus", "gratitude", "I AM", "joel osteen", "oprah", "2012", "DVD", "deepak chopra",
+    tags: ["flower", "cactus", "gratitude", "I AM", "joel osteen", "oprah", "2012", "dvd", "deepak chopra",
           "gregg braden", "abraham"
     ],
 
     topic: {
       title: "Watch SGC DVD: 2012",
       items: [
+        {
+          type: "image",
+          label: "2012 DVD - Label",
+          src: "topic-images/201211-2012-dvd-label.jpg"  
+        },
         {
           type: "pdf",
           label: "Contents of DVD",
@@ -31598,7 +31618,7 @@ const meetings = {
           src: "https://drive.google.com/file/d/1Be9TXlwyHx91xk14XjY__tw-m39EbK2H/preview"  
         }, 
         {
-          type: "pdf",
+          type: "image",
           label: "SGC Smiling DVD - Label",
           src: "topic-images/201209-smiling-dvd-label.jpg"  
         },        
