@@ -58,7 +58,7 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "pdf",
+        type: "image",
         label: "Read three prayers instead of LovingKindness Prayer",
         src: "lovingkindness-images/202608-three-prayers.jpg"
       }
@@ -104,7 +104,7 @@ const meetings = {
               {
           type: "image",
           label: "Stuffed Penguin from Linda",
-          src: "monthly-focus-images/202606-capybaras.jpg"
+          src: "monthly-focus-images/202608-penguin.jpg"
         }         
    
       ]
@@ -131,7 +131,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Definition of Allowing from Ask and It Is Given",
-          src: "https://drive.google.com/file/d/1LuatB3aEhuq8OwiNhLz8bRfNH0rsdOm6preview"
+          src: "https://drive.google.com/file/d/1LuatB3aEhuq8OwiNhLz8bRfNH0rsdOm6/preview"
         }
        
        
