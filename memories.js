@@ -1366,12 +1366,12 @@ const memories = {
       year: 2025
     },
     {
-      src: "member-images/202608-linda-birthday-and-wedding-cake.jpg",
+      src: "member-images/2026-linda-birthday-and-wedding-cake.jpg",
       caption: "August 2026 - Linda's Birthday AND Wedding Cake! 🍰",
       year: 2026
     },
     {
-      src: "member-images/202608-trudi.jpg",
+      src: "member-images/2026-trudi.jpg",
       caption: "August 2026 - Trudi - Pretty in Pink 🩷",
       year: 2026
     }    
