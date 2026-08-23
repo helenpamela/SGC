@@ -55,7 +55,7 @@
      },
      {
       "status": "active",
-      "image": "events-images/cruise-ship2.png",
+      "image": "events-images/cruise-ship.png",
       "type": "Meeting",  
       "datetime": "October meeting",
       "location": "",
@@ -63,7 +63,7 @@
      },
      {
       "status": "active",
-      "image": "events-images/4-women-with-drinks.png",
+      "image": "events-images/4-women.png",
       "type": "Meeting",  
       "datetime": "November 7 Noon",
       "location": "Linda's house",
