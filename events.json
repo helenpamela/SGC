@@ -1,7 +1,7 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "August 7, 2026",
+  "lastUpdated": "August 23, 2026",
 
   "event": [
      {
@@ -14,22 +14,6 @@
      },
      {
       "status": "archived",
-      "image": "events-images/sandwich.jpg",
-      "type": "Lunch",  
-      "datetime": "Wednesday July 1 - 11:30 AM",
-      "location": "Village Tavern",
-      "note": ""
-     },
-     {
-      "status": "archived",
-      "image": "events-images/4-women.png",
-      "type": "Meeting",  
-      "datetime": "Saturday July 18 Noon",
-      "location": "Linda's House",
-      "note": "Celebrating Kathy's birthday! (and bring handouts from June meeting!)"
-     },
-     {
-      "status": "archived",
       "image": "events-images/salad.png",
       "type": "Lunch",  
       "datetime": "Saturday August 1 - Time 11:30 AM",
@@ -38,7 +22,7 @@
      },
      
      {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/meeting.png",
       "type": "Meeting",  
       "datetime": "Saturday August 22 Noon",
@@ -47,7 +31,7 @@
      },
      {
       "status": "active",
-      "image": "events-images/sandwich.jpg",
+      "image": "events-images/pizza.jpg",
       "type": "Lunch",  
       "datetime": "Wednesday September 9 - Time 11:30 AM",
       "location": "Lou Malnati's - Tempe Marketplace",
@@ -60,7 +44,33 @@
       "datetime": "Saturday September 19 Noon",
       "location": "Linda's House",
       "note": ""
+     },
+     {
+      "status": "active",
+      "image": "events-images/fish-and-chips.png",
+      "type": "Lunch",  
+      "datetime": "Saturday September 30 11:00 am",
+      "location": "Seattle Fish House",
+      "note": "NOTE EARLY TIME"
+     },
+     {
+      "status": "active",
+      "image": "events-images/cruise-ship2.png",
+      "type": "Meeting",  
+      "datetime": "October meeting",
+      "location": "",
+      "note": "NO MEETING IN OCTOBER DUE TO LINDA'S PANAMA CRUISE"
+     },
+     {
+      "status": "active",
+      "image": "events-images/4-women-with-drinks.png",
+      "type": "Meeting",  
+      "datetime": "November 7 Noon",
+      "location": "Linda's house",
+      "note": ""
      }
+
+
 
    ]
 }
