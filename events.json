@@ -49,7 +49,7 @@
       "status": "active",
       "image": "events-images/fish-and-chips.png",
       "type": "Lunch",  
-      "datetime": "Saturday September 30 11:00 am",
+      "datetime": "Wednesday September 30 11:00 am",
       "location": "Seattle Fish House",
       "note": "NOTE EARLY TIME"
      },
@@ -65,7 +65,7 @@
       "status": "active",
       "image": "events-images/4-women.png",
       "type": "Meeting",  
-      "datetime": "November 7 Noon",
+      "datetime": "Saturday November 7 Noon",
       "location": "Linda's house",
       "note": ""
      }
