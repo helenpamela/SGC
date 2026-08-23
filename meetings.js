@@ -2,7 +2,276 @@
 
 const meetings = {
 
-"202607": {
+"202608": {
+    title: "August 2026",
+    month: "August",
+    year: 2026,
+    meetingCancelled: false, // or false
+    cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1wRssApIWlj9NMQ8pKW-PLMwNjdx6m1gM/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/1q4RjrIAJIwpWTL9zyiNU5szJ2z7azO0s/preview"
+        },
+
+        
+      ]
+    },
+
+    announcements: [
+      
+      {
+        type: "pdf",
+        label: "Unity World Day of Prayer",
+        src: "https://drive.google.com/file/d/1xriUH4GDR2Mkgy2y8YYcEv1maAeVQtVS/preview"
+      }, 
+
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+   
+    ],
+
+    lovingkindness: [
+      {
+        type: "pdf",
+        label: "Read three prayers instead of LovingKindness Prayer",
+        src: "lovingkindness-images/202608-three-prayers.jpg"
+      }
+   
+    ],
+
+    invocation: [
+      {
+        type: "pdf",
+        label: "We read out loud Clearing Statements from Mira of Pleiadians",
+        src: "https://drive.google.com/file/d/1uep4F9eibwnbCHlEo9NO8NeHmJF0tkkf/preview"
+      }
+    ],
+
+    focus: {
+      title: "Penguin",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202608-penguin.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202608-penguin-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Penguin - AI Overview",
+          src: "https://drive.google.com/file/d/1QdLcdMgLT8AzdiLcnSY4hx5trc7pfvRj/preview"
+        },
+        
+        {
+          type: "pdf",
+          label: "Penguin Images",
+          src: "https://drive.google.com/file/d/1-15FNYku09xryrtonZZ84RjSgw8EDkdX/preview"
+        },
+        {
+          type: "pdf",
+          label: "Article - Penguin Symbolism",
+          src: "https://drive.google.com/file/d/1344l4LwB6f9HhrJlXJkdW0lt7Jfl1vlI/preview"
+        },
+              {
+          type: "image",
+          label: "Stuffed Penguin from Linda",
+          src: "monthly-focus-images/202606-capybaras.jpg"
+        }         
+   
+      ]
+    },
+
+    practice: {
+      title: "Art of Allowing",
+      items: [       
+        {
+          type: "pdf",
+          label: "Daily Practice of Allowing - AI Overview 4",
+          src: "https://drive.google.com/file/d/1WEquq0Gb80vsgRnXBSROfBpncdk5AoO3/preview"
+        },
+         {
+          type: "pdf",
+          label: "The Art of Allowing Daily Practice - AI Overview 5",
+          src: "https://drive.google.com/file/d/1ygshJupWHjEKnS5g6SoLcGR0GkiD9G07/preview"
+        },
+        {
+          type: "pdf",
+          label: "5 Steps to Practice the Art of Allowing - AI Overview 6",
+          src: "https://drive.google.com/file/d/12KClzCQLrAGRcqwVMsYUQ8yqHEy7XAC3/preview"
+        },
+        {
+          type: "pdf",
+          label: "Definition of Allowing from Ask and It Is Given",
+          src: "https://drive.google.com/file/d/1LuatB3aEhuq8OwiNhLz8bRfNH0rsdOm6preview"
+        }
+       
+       
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202608-affirmation.png"
+      },
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "Abraham - Esther & Jerry Hicks",
+      items: [
+        {
+          type: "image",
+          label: "Esther & Jerry Hicks - Abraham",
+          src: "luminary-images/202608-esther-and-jerry-hicks.jpg"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "image",
+          label: "",
+          src: "none-images/no-meditation.jpg"  
+        },
+           
+        
+      ]
+    },
+
+    tags: ["penguin", "animal", "abraham", "esther hicks", "hicks", "jerry hicks", "allow", "allowing",
+          "art of allowing", "video", "desiderata", "serenity prayer", "prayer of st. francis"],
+
+    topic: {
+      title: "Allowing",
+      items: [
+        
+      {
+        type: "pdf",
+        label: "Article - 5 Steps to Practice the Art of Allowing",
+        src: "https://drive.google.com/file/d/1jfpm2e0TJuE3RaiUB7cYhZCp4Wp3SWqR/preview"  
+      }, 
+      {
+        type: "pdf",
+        label: "Allowing - AI Overview 1",
+        src: "https://drive.google.com/file/d/1YXg8svnqz1ESI-dfatH6K0YzD9tmEwjZ/preview"  
+      }, 
+      {
+        type: "pdf",
+        label: "The Art of Allowing - AI Overview 2",
+        src: "https://drive.google.com/file/d/1SfC__Mdn4mv3zphPvfHmoTEBnJoT7QM2/preview"  
+      }, 
+      {
+        type: "pdf",
+        label: "Metaphysical Meaning of Allowing - AI Overview 3",
+        src: "https://drive.google.com/file/d/1w6Q8Hs78ssarYW9bJcVWbCKaSSjSy2lG/preview"  
+      }, 
+      {
+        type: "pdf",
+        label: "Metaphysical Meaning of Allowing - AI Overview 7",
+        src: "https://drive.google.com/file/d/1XaTSHf5KzDP79lJiLzjIqDuk7qmTITtL/preview"  
+      }, 
+      {
+        type: "pdf",
+        label: "Article - The Law of Allowing - from EvolveWithKristie.com",
+        src: "https://drive.google.com/file/d/1iZwgc1aLtBPEBltUicah-wERW-oqMkwk/preview"  
+      }, 
+      {
+        type: "pdf",
+        label: "Article - The Art of Allowing - by Luna Ursa",
+        src: "https://drive.google.com/file/d/1w-weLQDo_rz1oTSp64xvfHXVEYkkhSy3/preview"  
+      }, 
+      {
+        type: "pdf",
+        label: "Article - The Art of Allowing - by Mike Robbins",
+        src: "https://drive.google.com/file/d/1-jK_4s_lqplkiFEeCOAW5NMaCcvUnogN/preview"  
+      }, 
+      {
+        type: "pdf",
+        label: "Article - Do I Allow or Do I Take Action - by Teal Swan",
+        src: "https://drive.google.com/file/d/1EZ7NCC29NvFRlImcUwWbYiahBxghuNRi/preview"  
+      }, 
+      {
+        type: "pdf",
+        label: "Article - The Art of Allowing - by Dikra Akrat",
+        src: "https://drive.google.com/file/d/1gNAvgyjTllPntXzkaaUhUTQmA-UAS6ql/preview"  
+      }, 
+      {
+        type: "video",
+        label: "Abraham Hicks - The Art of Allowing - uploaded by Aurayla",
+        src: "https://www.youtube.com/embed/B6SvcEIzEww?si=6J4QTG6iVG_y5RXQ"
+      },
+      {
+        type: "video",
+        label: "Abraham Hicks ~ HOW TO BE IN ALLOWING MODE ★🧡 NO MATTER WHAT 🧡★ - uploaded by Abraham Hicks Community",
+        src: "https://www.youtube.com/embed/w0XaCw7bxwc?si=PAq1VtSq5khr3Dpp"
+      },
+      {
+        type: "video",
+        label: "Abraham Hicks ~ Learn the Art of Allowing in 10 Minutes - uploaded by Life is Joy",
+        src: "https://www.youtube.com/embed/s21mTJCRiH0?si=_jQzGbT2Cky8zigN"
+      },
+      {
+        type: "video",
+        label: "Abraham Hicks ~ How to become a Master of the Art of Allowing - uploaded by Life is Joy",
+        src: "https://www.youtube.com/embed/ac3Uy3WXPJg?si=tzzSjdL-xfezBrMD"
+      },
+
+         
+
+      ]
+    },
+
+    other: [
+      {
+        type: "image",
+        label: "Linda's Birthday AND Wedding Cake",
+        src: "member-images/2026-linda-birthday-and-wedding-cake.jpg"
+      },
+      {
+        type: "image",
+        label: "Trudi - Pretty in Pink",
+        src: "member-images/2026-trudi.jpg"
+      }
+    ]
+  },
+
+  "202607": {
     title: "July 2026",
     month: "July",
     year: 2026,
