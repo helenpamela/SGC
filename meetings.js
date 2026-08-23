@@ -109,7 +109,7 @@ const meetings = {
               {
           type: "image",
           label: "Stuffed Penguin from Linda",
-          src: "monthly-focus-images/202608-penguin.jpg"
+          src: "monthly-focus-images/202608-stuffed-penguin.jpg"
         }         
    
       ]
