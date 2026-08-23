@@ -17,6 +17,26 @@ const memories = {
       caption: "Silly Glasses 2012 👓",
       year: 2012
     },
+        {
+      src: "member-images/2012-spa-day1.jpg",
+      caption: "Spa Day - Trudi & Linda 👄",
+      year: "2012"
+    },
+    {
+      src: "member-images/2012-spa-day2.jpg",
+      caption: "Spa Day 👄",
+      year: "2012"
+    },
+    {
+      src: "member-images/2012-spa-day3.jpg",
+      caption: "Spa Day - Trudi & Kathy 👄",
+      year: "2012"
+    },
+    {
+      src: "member-images/2012-spa-day4.jpg",
+      caption: "Spa Day - Linda 👄",
+      year: "2012"
+    },
     {
       src: "member-images/2013-vision-boards.jpg",
       caption: "Vision Boards 2013 🖼️",
@@ -479,7 +499,7 @@ const memories = {
       caption: "Butterflies 2019 🦋",
       year: 2019
     },
-{
+    {
       src: "member-images/2019-pc-birthday.jpg",
       caption: "PC Birthday 2019 🎂",
       year: 2019
@@ -1346,11 +1366,15 @@ const memories = {
       year: 2025
     },
     {
-      src: "member-images/2025-Christmas-vicky-linda-earmuffs-calendar.jpg",
-      caption: "Christmas 2025 - Vicky & Linda 🎅🏻",
-      year: 2025
-    }
-    
+      src: "member-images/202608-linda-birthday-and-wedding-cake.jpg",
+      caption: "August 2026 - Linda's Birthday AND Wedding Cake! 🍰",
+      year: 2026
+    },
+    {
+      src: "member-images/202608-trudi.jpg",
+      caption: "August 2026 - Trudi - Pretty in Pink 🩷",
+      year: 2026
+    }    
 
   ],
 
@@ -1360,29 +1384,7 @@ const memories = {
       src: "member-images/undated-pink-scarves.jpg",
       caption: "Pink Scarves 🧣",
       year: "undated"
-    },
-    {
-      src: "member-images/undated-spa-day1.jpg",
-      caption: "Spa Day - Trudi & Linda 👄",
-      year: "undated"
-    },
-    {
-      src: "member-images/undated-spa-day2.jpg",
-      caption: "Spa Day 👄",
-      year: "undated"
-    },
-    {
-      src: "member-images/undated-spa-day3.jpg",
-      caption: "Spa Day - Trudi & Kathy 👄",
-      year: "undated"
-    },
-    {
-      src: "member-images/undated-spa-day4.jpg",
-      caption: "Spa Day - Linda 👄",
-      year: "undated"
     }
-
-
 
   ]
 
