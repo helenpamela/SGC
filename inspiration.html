@@ -149,33 +149,25 @@
 
     let data = {};
     let affirmData = {};
-    console.log("fetch inspiration.json next");
 
-    fetch('inspiration.json?v=' + Date.now())
-      .then(response => response.json())
-      .then(json => {
-        data = json;
-      });
- 
-    fetch("affirmations.json")
-     .then(response => response.json())
-     .then(affirmData => {
-      affirmData = json;
-      console.log("Loaded", affirmations.length, "affirmations");
+    Promise.all([
+      fetch('inspiration.json?v=' + Date.now()).then(response => response.json()),
+      fetch('affirmations.json?v=' + Date.now()).then(response => response.json())
+    ])
+      .then(([inspirationJson, affirmationsJson]) => {
+      data = inspirationJson;
+      affirmData = affirmationsJson;
+
+    console.log("Inspiration data loaded");
+    console.log("Loaded", affirmData.affirmations.length, "affirmations");
+
+    // showInspiration();
     })
-    showInspiration();
+    .catch(error => {
+      console.error("Error loading inspiration data:", error);
+    });
 
-    /*  
-    function getRandomIndex(arrayLength, lastIndex) {
-      let newIndex;
-
-      do {
-        newIndex = Math.floor(Math.random() * arrayLength);
-      } while (newIndex === lastIndex && arrayLength > 1);
-
-      return newIndex;
-    }
-    */
+    
 
     function getLeastRecentlyUsedIndex(items, key) {
       const usage = JSON.parse(localStorage.getItem(key) || "{}");
