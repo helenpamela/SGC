@@ -148,14 +148,22 @@
       });
 
     let data = {};
+    let affirmData = {};
     console.log("fetch inspiration.json next");
 
     fetch('inspiration.json?v=' + Date.now())
       .then(response => response.json())
       .then(json => {
         data = json;
-        showInspiration();
       });
+ 
+    fetch("affirmations.json")
+     .then(response => response.json())
+     .then(affirmData => {
+      affirmData = json;
+      console.log("Loaded", affirmations.length, "affirmations");
+    })
+    showInspiration();
 
     /*  
     function getRandomIndex(arrayLength, lastIndex) {
@@ -213,7 +221,7 @@
         const quoteIndex = getLeastRecentlyUsedIndex(data.quotes, "quotesUsage");
         const quote = data.quotes[quoteIndex];
 
-        const affirmationArray = data.affirmations || [];
+        const affirmationArray = affirmData.affirmations || [];
         let affirmation = null;
 
         if (affirmationArray.length > 0) {
