@@ -453,8 +453,6 @@
         return;
       }
 
-
-
       // console.log("setTitle for MonthlyFocus next:", data.focus?.title);
       setTitle("focus-title", "Monthly Focus", data.focus?.title);
 
@@ -507,7 +505,7 @@
         el.innerHTML = main;
       }
     }
-    ;
+    
     function renderItems(items, containerId) {
       // console.log("In renderItems containerId:", containerId);
 
@@ -565,8 +563,6 @@
       });
     }
 
-
-
     function loadDoc(url) {
       const modal = document.getElementById("modal");
       const viewer = document.getElementById("modalViewer");
@@ -595,36 +591,7 @@
           }
         };
       }
-    });
-
-    /*
-    function getMeetingList() {
-      if (meetingSearchResults && meetingSearchResults.length > 1) {
-        return meetingSearchResults;
-      }
-      return Object.keys(meetings);
-    }
-    */
-
-    /*
-    function getMeetingList() {
-      const isSearchMode = localStorage.getItem("isSearchMode") === "true";
-
-      if (isSearchMode) {
-        if (meetingSearchResults && meetingSearchResults.length > 1) {
-          return meetingSearchResults;
-        }
-      }
-
-      const storedList = JSON.parse(localStorage.getItem("meetingList") || "[]");
-
-      if (storedList.length > 0) {
-        return storedList;
-      }
-
-      return Object.keys(meetings);
-    }
-    */
+    });   
 
     function getMeetingList() {
       const isSearchMode = localStorage.getItem("isSearchMode") === "true";
@@ -639,79 +606,6 @@
 
       return Object.keys(meetings);
     }
-
-    /*
-    //function nextResult() {
-    window.nextResult = function() {
-      let list = getMeetingList();
-
-      console.log("----- NAV DEBUG -----");
-      console.log("LIST:", list);
-      console.log("CURRENT ID:", id);
-      console.log("INDEX:", list.findIndex(x => String(x) === String(id)));
-
-      let currentIndex = list.findIndex(x => String(x) === String(id));
-
-      if (currentIndex === -1) currentIndex = 0;
-
-      let nextId = list[(currentIndex + 1) % list.length];
-      window.location.href = `meetings.html?id=${nextId}`;
-    }
-
-    //function prevResult() {
-    window.prevResult = function() {
-      let list = getMeetingList();
-
-      console.log("----- NAV DEBUG -----");
-      console.log("LIST:", list);
-      console.log("CURRENT ID:", id);
-      console.log("INDEX:", list.findIndex(x => String(x) === String(id)));
-
-      let currentIndex = list.findIndex(x => String(x) === String(id));
-
-      if (currentIndex === -1) currentIndex = 0;
-
-      let prevId = list[(currentIndex - 1 + list.length) % list.length];
-      window.location.href = `meetings.html?id=${prevId}`;
-    }
-      */
-    /*
-    document.addEventListener("DOMContentLoaded", () => {
-
-      window.nextResult = function () {
-        let list = getMeetingList();
-
-        console.log("----- NAV DEBUG -----");
-        console.log("LIST:", list);
-        console.log("CURRENT ID:", id);
-        console.log("INDEX:", list.findIndex(x => String(x) === String(id)));
-
-        let currentIndex = list.findIndex(x => String(x) === String(id));
-
-        if (currentIndex === -1) currentIndex = 0;
-
-        let nextId = list[(currentIndex + 1) % list.length];
-        window.location.href = `meetings.html?id=${nextId}`;
-      };
-
-      window.prevResult = function () {
-        let list = getMeetingList();
-
-        console.log("----- NAV DEBUG -----");
-        console.log("LIST:", list);
-        console.log("CURRENT ID:", id);
-        console.log("INDEX:", list.findIndex(x => String(x) === String(id)));
-
-        let currentIndex = list.findIndex(x => String(x) === String(id));
-
-        if (currentIndex === -1) currentIndex = 0;
-
-        let prevId = list[(currentIndex - 1 + list.length) % list.length];
-        window.location.href = `meetings.html?id=${prevId}`;
-      };
-
-    });
-    */
 
     window.nextResult = function () {
       let list = getMeetingList();
@@ -756,11 +650,7 @@
       window.location.href = `meetings.html?id=${prevId}`;
     };
 
-
-
   </script>
-
-
 
 </body>
 
