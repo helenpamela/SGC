@@ -86,49 +86,8 @@ window.addEventListener("load", () => {
     if (cliffBtn) cliffBtn.classList.add("active-nav");
   }
 
-  if (document.getElementById("year")) {
-    populateYears();
-  }
+  
 });
-
-
-function populateYears() {
-  const yearSelect = document.getElementById("year");
-  const currentYear = new Date().getFullYear();
-
-  for (let y = currentYear; y >= 2009; y--) {
-    const option = document.createElement("option");
-    option.value = y;
-    option.textContent = y;
-    yearSelect.appendChild(option);
-  }
-}
-
-function goToMeeting() {
-  const month = document.getElementById("month").value;
-  const year = document.getElementById("year").value;
-
-  const page = `meeting-${year}-${month}.html`;
-
-  window.location.href = page;
-}
-
-function searchMeetings() {
-  const input = document.getElementById("searchInput").value.toLowerCase();
-  const results = document.getElementById("searchResults");
-
-  results.innerHTML = "";
-
-  const filtered = meetingsList.filter(meeting =>
-    meeting.title.toLowerCase().includes(input) ||
-    meeting.topics.some(topic => topic.includes(input))
-  );
-  filtered.forEach(meeting => {
-    const li = document.createElement("li");
-    li.innerHTML = `<a href="${meeting.link}">${meeting.title}</a>`;
-    results.appendChild(li);
-  });
-}
 
 
 function logout() {
