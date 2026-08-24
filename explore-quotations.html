@@ -596,40 +596,7 @@
 
     console.log("Saved quotationSearchResults:", matches); // 👈 debug
 
-  }
-
- 
-  function highlightText(text, searchTerm) {
-    if (!searchTerm) return text;
-
-    const escaped = searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const regex = new RegExp(`(${escaped})`, "gi");
-
-    // const regex = new RegExp(`(${searchTerm})`, "gi");
-    return text.replace(regex, '<span class="highlight">$1</span>');
-  }
-
-  function formatTags(tags,input) {
-
-    if(!tags) return "";
-
-    const shown = tags
-      .slice(0,5)
-      .map(tag => `
-        <span class="tag-pill">
-            ${highlightText(tag,input)}
-        </span>
-      `)
-      .join("");
-
-    const extra =
-      tags.length > 5
-        ? `<span class="tag-pill">+${tags.length-5}</span>`
-        : "";
-
-    return shown + extra;
-
-  }
+  } 
 
 </script>
 
