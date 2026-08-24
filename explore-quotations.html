@@ -147,12 +147,12 @@
       }
     }
 
-    #searchResults li {
+    #quotationSearchResults li {
       list-style: none;
       margin: 8px 0;
     }
 
-    #searchResults a {
+    #quotationSearchResults a {
       text-decoration: none;
       color: #5c4b7d;
       background: #f3ecfb;
@@ -161,7 +161,7 @@
       display: block;
     }
 
-    #searchResults a:hover {
+    #quotationSearchResults a:hover {
       background: #e6d9f5;
     }
 
@@ -466,7 +466,7 @@
     
     
     
-    <ul id="searchResults"></ul>
+    <ul id="quotationSearchResults"></ul>
 
     <hr style="margin: 30px 0;">
 
@@ -505,7 +505,7 @@
   // Search Quotations
  function searchQuotations() {
     const input = document.getElementById("searchInput").value.toLowerCase();
-    const results = document.getElementById("searchResults");
+    const results = document.getElementById("quotationSearchResults");
 
     console.log("SEARCH QUOTATIONS RUNNING");
     results.innerHTML = "";
@@ -513,7 +513,7 @@
     document.getElementById("searchHint").style.display = "none";
     
     if (!input) {
-      localStorage.removeItem("searchResults"); // 👈 clear old results
+      localStorage.removeItem("quotationSearchResults"); // 👈 clear old results
       localStorage.removeItem("isSearchMode");
 
       document.getElementById("searchHint").style.display = "block";
@@ -586,7 +586,7 @@
     `✨ <strong>${matches.length}</strong> quotation${matches.length===1?"":"s found"}`;
 
     // 👇 SAVE RESULTS
-    localStorage.setItem("searchResults", JSON.stringify(matches));
+    localStorage.setItem("quotationSearchResults", JSON.stringify(matches));
     localStorage.setItem("isSearchMode", "true");
 
     // Optional message
@@ -594,7 +594,7 @@
       results.innerHTML = `<li style="color:#8a7fb0;">No results found 💜</li>`;
     }
 
-    console.log("Saved searchResults:", matches); // 👈 debug
+    console.log("Saved quotationSearchResults:", matches); // 👈 debug
 
   }
 
