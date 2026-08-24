@@ -397,7 +397,7 @@
     const urlParams = new URLSearchParams(window.location.search);
     const id = urlParams.get("id");
 
-    let searchResults = [];
+    let meetingSearchResults = [];
 
     data = meetings[id];
 
@@ -410,12 +410,12 @@
       const isSearchMode = localStorage.getItem("isSearchMode") === "true";
 
       if (isSearchMode) {
-        searchResults = JSON.parse(localStorage.getItem("searchResults") || "[]");
+        meetingSearchResults = JSON.parse(localStorage.getItem("meetingSearchResults") || "[]");
       } else {
-        searchResults = [];
+        meetingSearchResults = [];
       }
 
-      // console.log("Search results:", searchResults)
+      // console.log("Search results:", meetingSearchResults)
 
       document.getElementById("search-nav").style.display = "block";
 
@@ -599,8 +599,8 @@
 
     /*
     function getMeetingList() {
-      if (searchResults && searchResults.length > 1) {
-        return searchResults;
+      if (meetingSearchResults && meetingSearchResults.length > 1) {
+        return meetingSearchResults;
       }
       return Object.keys(meetings);
     }
@@ -611,8 +611,8 @@
       const isSearchMode = localStorage.getItem("isSearchMode") === "true";
 
       if (isSearchMode) {
-        if (searchResults && searchResults.length > 1) {
-          return searchResults;
+        if (meetingSearchResults && meetingSearchResults.length > 1) {
+          return meetingSearchResults;
         }
       }
 
@@ -630,7 +630,7 @@
       const isSearchMode = localStorage.getItem("isSearchMode") === "true";
 
       if (isSearchMode) {
-        const results = JSON.parse(localStorage.getItem("searchResults") || "[]");
+        const results = JSON.parse(localStorage.getItem("meetingSearchResults") || "[]");
         if (results.length > 0) return results;
       }
 
