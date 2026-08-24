@@ -46,19 +46,6 @@ function applyPermissions() {
   });
 }
 
-
-
-// HOME PAGE → only Logout
-if (currentPage === "index.html" || currentPage === "") {
-  if (homeBtn) homeBtn.style.display = "none";
-}
-
-// CLIFF NOTES MAIN PAGE → hide Cliff Notes button
-if (currentPage === "cliff-notes.html") {
-  if (cliffBtn) cliffBtn.style.display = "none";
-}
-
-
 window.addEventListener("load", () => {
   const role = localStorage.getItem("role");
   if (role) showApp();
