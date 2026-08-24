@@ -1,7 +1,6 @@
 
 const STUDENT_WORD = "smile";
 const TEACHER_WORD = "Bubba604";
-const currentPage = window.location.pathname.split("/").pop();
 
 function checkAccess() {
   const input = document.getElementById("accessInput").value;
