@@ -23208,7 +23208,7 @@ const meetings = {
         {
           type: "pdf",
           label: "White Stone Ceremony - Unity",
-          src: "https://drive.google.com/file/d/16ZLOWsnLd6tThTddCgIUvuh2WvuSwIxu/preview"
+          src: "https://drive.google.com/file/d/1gM3IkCvW1cgEKXzxtuBawOif9-rbqE44/preview"
         },
         {
           type: "pdf",
@@ -23223,7 +23223,7 @@ const meetings = {
         {
           type: "pdf",
           label: "White Stones",
-          src: "https://drive.google.com/file/d/1IdBDSnAY9Cc09JrBPHZpmI04bvfy0xlm/preview"
+          src: "https://drive.google.com/file/d/1cAvX1xeo-OHtHqxquSmV_WTuy5e6oc4k/preview"
         },
       
         
@@ -23253,7 +23253,7 @@ const meetings = {
         {   
           type: "pdf",
           label: "Way Easier",
-          src: "https://drive.google.com/file/d/1yFMm7iNLBzMYIYt06rb5y9SH1n-pM0Ul/preview"
+          src: "https://drive.google.com/file/d/1ftSa0UovOnB9uhA-w08iHbjS15Mwagrm/preview"
         },
         {
           type: "image",
