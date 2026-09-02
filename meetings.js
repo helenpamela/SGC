@@ -23268,7 +23268,7 @@ const meetings = {
         {
         type: "audio",
         label: "The Best - Tina Turner",
-        src: "daily-practice-images/201601-the-best.mp3"
+        src: "audio/201601-the-best.mp3"
         },       
         {
         type: "image",
