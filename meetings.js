@@ -19803,7 +19803,7 @@ const meetings = {
       items: [
         {
           type: "audio",
-          label: "Denise Linn - Sparkling Joy/Shimmering Blessings "
+          label: "Denise Linn - Sparkling Joy/Shimmering Blessings",
           src: "audio/DeniseLinn_SparklingJoy.mp3"
         }
       ]
