@@ -2,6 +2,171 @@
 
 const meetings = {
 
+
+"202609": {
+    title: "September 2026",
+    month: "September",
+    year: 2026,
+    meetingCancelled: false, // true or false
+    cancelReasonImage: "none-images/201005-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: ""
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Puff the Magic Dragon 🐉",
+
+      items: [
+      
+        {
+          type: "image",
+          src: "monthly-focus-images/202609-baby-dragons-from-linda.jpg"
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: [""],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
 "202608": {
     title: "August 2026",
     month: "August",
@@ -21681,8 +21846,8 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "The Issue at Hand",
-          src: "https://drive.google.com/file/d/13d6juqPpRQh8ELkaoZJ47bUNNGLP4L79/preview"
+          label: "The Issue at Hand - Insight Meditation Center",
+          src: "https://drive.google.com/file/d/1fp8amX16z1uvmw37nNMXicBwZHR2-olW/preview"         
         },
         {
           type: "",
