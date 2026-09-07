@@ -19396,7 +19396,12 @@ const meetings = {
           label: "Benefits of Journaling for Stress Management",
           src: "https://drive.google.com/file/d/1tZCjaAlPeCNmSi2ywG3EiW9rLkVYfnIJ/preview"
         },
-           {
+        {
+          type: "pdf",
+          label: "Journaling Images",
+          src: "https://drive.google.com/file/d/1jMPx5kqCUzBqWgkkvUhllSr8X6WvVe_0/preview"
+        },
+        {
           type: "pdf",
           label: "Health Benefits of Journaling",
           src: "https://drive.google.com/file/d/1xpn_p7TH67GE1jNruMPy5DkmbW_c4RJC/preview"
