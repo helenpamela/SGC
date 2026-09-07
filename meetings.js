@@ -20812,14 +20812,14 @@ const meetings = {
       title: "Journaling",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Journaling Ideas",
+          src: "https://drive.google.com/file/d/1164vRhVBwqB8fDa8uzKhXjI0E4uE43po/preview"
         },
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "365 Journaling Questions",
+          src: "https://drive.google.com/file/d/1n32YeQT7zu_BAy5O_on3CVA0FPt13X-V/preview"
         },
          {
           type: "",
