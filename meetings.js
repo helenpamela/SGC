@@ -23056,8 +23056,8 @@ const meetings = {
 
     announcements: [
       {
-        type: "",
-        label: "",
+        type: "text",
+        label: "1) Peggy Inman attended as a guest!, 2) Tapping Summit Feb 22",
         src: ""
       }, 
     ],
@@ -23119,11 +23119,7 @@ const meetings = {
           label: "Mirror Work Quotes",
           src: "https://drive.google.com/file/d/1gqdv4PIyzkpRM5tSe_dM29pXP1lIXcRB/preview"
         },
-        {
-          type: "pdf",
-          label: "How to Practice Self-Love",
-          src: "https://drive.google.com/file/d/1rJWzJfePeZNA_nIMVICVoZoSwWZt8ocE/preview"
-        },
+    
          {
           type: "",
           label: "",
@@ -23266,6 +23262,11 @@ const meetings = {
           type: "pdf",
           label: "Self-Reliance",
           src: "https://drive.google.com/file/d/1DtYiLmtNOxU0CDP6taZvuqctOeEKwRhr/preview"
+        },
+        {
+          type: "pdf",
+          label: "How to Practice Self-Love",
+          src: "https://drive.google.com/file/d/1rJWzJfePeZNA_nIMVICVoZoSwWZt8ocE/preview"
         },
 
        
