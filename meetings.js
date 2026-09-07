@@ -20969,7 +20969,7 @@ const meetings = {
       items: [
         {
           type: "text",
-          src: "Handed out lapis stones from Linda"
+          label: "Handed out lapis stones from Linda"
         },
         {
           type: "image",
