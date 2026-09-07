@@ -19799,11 +19799,12 @@ const meetings = {
     },
 
     meditation: {
-      title: "",
+      title: "Denise Linn Meditation",
       items: [
         {
-          type: "image",
-          src: "none-images/no-meditation.jpg"
+          type: "audio",
+          label: "Denise Linn - Sparkling Joy/Shimmering Blessings "
+          src: "audio/DeniseLinn_SparklingJoy.mp3"
         }
       ]
     },
@@ -19813,6 +19814,11 @@ const meetings = {
     topic: {
       title: "Joy",
       items: [
+        {
+          type: "image",
+          label: "Handed out book - The Book of Joy - from Linda",
+          src: "topic-images/201708-the-book-of-joy.png"  
+        },
         {
           type: "pdf",
           label: "10 Steps to Joy",
