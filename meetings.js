@@ -22956,11 +22956,16 @@ const meetings = {
       ]
     },
 
-    tags: ["meditation", "atlantis", "anita moorjani", "labradorite", "self-love", "worksheet"],
+    tags: ["meditation", "atlantis", "anita moorjani", "labradorite", "self-love", "worksheet", "form"],
 
     topic: {
       title: "Self-Love",
       items: [
+        {
+          type: "text",
+          label: "💌 We wrote letters to ourselves and Linda mailed them to us in June.",
+          src: ""  
+        },
         {
           type: "pdf",
           label: "Writing as a Practice of Self-Love",
@@ -23003,8 +23008,13 @@ const meetings = {
         }, 
         {
           type: "pdf",
-          label: "",
-          src: ""  
+          label: "Form - My Accomplishments",
+          src: "https://drive.google.com/file/d/11noPPyzE2F3W1zK9jbFddu5Yq6zCLzAl/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Form - What I love about Myself",
+          src: "https://drive.google.com/file/d/1CO2qmgEowyALkzVnyG6knzotVyzkxIEK/preview"  
         }
        
           
