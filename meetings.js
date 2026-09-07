@@ -20968,6 +20968,10 @@ const meetings = {
 
       items: [
         {
+          type: "text",
+          src: "Handed out lapis stones from Linda"
+        },
+        {
           type: "image",
           src: "chakra-images/201702-third-eye.png"
         },
@@ -21010,8 +21014,8 @@ const meetings = {
       title: "LovingKindness Meditation",
       items: [
         {
-          type: "",
-          label: "",
+          type: "text",
+          label: "Handed out angels and then listened to meditation",
           src: ""
         },
         {
@@ -21064,7 +21068,7 @@ const meetings = {
     tags: ["trust", "chakra", "third eye", "lovingkindness"],
 
     topic: {
-      title: "Trust Class online",
+      title: "Trust Class online: The Anatomy of Trust - Brene Brown",
       items: [
         {
           type: "",
