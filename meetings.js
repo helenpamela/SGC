@@ -22648,6 +22648,11 @@ const meetings = {
       title: "Ho'oponopono",
       items: [
         {
+          type: "image",
+          label: "Handed out Ho'oponopono books from Linda",
+          src: "daily-practice-images/201604-hooponoono-book-present-from-linda.png"
+        },
+        {
           type: "pdf",
           label: "Ho'oponopono Statements",
           src: "https://drive.google.com/file/d/1_jn-gP1GlHgIeOPqBOmXOYF56elSpkRm/preview"
@@ -22765,7 +22770,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Forgiveness Quotes",
-          src: "https://drive.google.com/file/d/1-cCQiDlWO8MCLpL0JrLPHkWafrhITd4J/preview"  
+          src: "https://drive.google.com/file/d/1Sn0zdB8ZkTJ3Gk5esIf0_g4QgqsDx5p_/preview"  
         },
         {
           type: "pdf",
