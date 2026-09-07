@@ -19003,6 +19003,11 @@ const meetings = {
       items: [
         {
           type: "pdf",
+          label: "Archangel Class Affirmations",
+          src: "https://drive.google.com/file/d/1DWjQ4SeYa-xilqD15gLL0PMRHkSsp8B8/preview"  
+        },
+        {
+          type: "pdf",
           label: "Chamuel Exercises",
           src: "https://drive.google.com/file/d/1vazg03_GugKDFyLLxFOo4xURAWq3TA6U/preview"  
         },
