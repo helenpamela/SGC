@@ -19205,7 +19205,14 @@ const meetings = {
           type: "image",
           label: "CD cover - Archangel Meditations",
           src: "topic-images/201711-cd-cover-SDJ-archangel-class-meditations.jpg"  
-        }
+        },
+        {
+          type: "audio",
+          label: "Archangel Michael Meditation",
+          src: "audio/Sunny-Archangel-Michael-Meditation.mp3"  
+        },
+
+        
       ]
     },
 
