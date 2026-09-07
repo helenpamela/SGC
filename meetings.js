@@ -20680,11 +20680,6 @@ const meetings = {
           label: "Be Kind to Yourself",
           src: "https://drive.google.com/file/d/1Kv2N8nZASgB00npYUQdjXNsoG8sZJIh1/preview"  
         },
-        {
-          type: "audio",
-          label: "Meditation: Self-Compassion Break - Kristin Neff",
-          src: "audio/201704-self-compassion-break.mp3"  
-        },
 
         {
           type: "pdf",
@@ -20706,6 +20701,11 @@ const meetings = {
           label: "Self-Compassion CD 1",
           src: "topic-images/201704-CD_SelfCompassion1_KristinNeff.jpg"  
         }, 
+                {
+          type: "audio",
+          label: "Meditation: Self-Compassion Break - Kristin Neff",
+          src: "audio/201704-self-compassion-break.mp3"  
+        }
   
           
 
