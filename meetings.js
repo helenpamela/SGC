@@ -19757,9 +19757,9 @@ const meetings = {
       title: "Choose Joy",
       items: [
         {
-          type: "",
-          label: "",
-          src: "none-images/no-daily-practice.png"
+          type: "pdf",
+          label: "Joy Images",
+          src: "https://drive.google.com/file/d/1OuShOIxAU8xOaf3j7DNCn8NqnktUIAVW/preview"
         },
         {
           type: "",
