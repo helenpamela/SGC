@@ -23136,9 +23136,9 @@ const meetings = {
         },
     
          {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Mirror Work - Cliff Notes Tools",
+          src: "https://drive.google.com/file/d/10bLGIIQs5YMkjTBGelC99i-btQ5RX9GI/preview"
         },
        
        
