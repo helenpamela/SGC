@@ -7936,7 +7936,7 @@ const meetings = {
       ]
     },
 
-    tags: ["crystal", "vision board", "forgiveness", "ho-oponopono", "rhodonite", "jeremiel"],
+    tags: ["crystal", "vision board", "forgiveness", "ho'oponopono","hooponopono", "rhodonite", "jeremiel"],
 
     topic: {
       title: "Vision Boards",
@@ -16661,7 +16661,7 @@ const meetings = {
       },
       {
         type: "pdf",
-        label: "Holiday Affirmations from Louis Hay",
+        label: "Holiday Affirmations from Louise Hay",
         src: "https://drive.google.com/file/d/1hSLnokzpgdRLhhBP0-HhJb6FV1XOwFSB/preview"
       },
     ],
@@ -16699,9 +16699,9 @@ const meetings = {
         },
     
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Christmas Group Therapy Cartoon",
+          src: "https://drive.google.com/file/d/15oyGF1UuowBGUTRVjsZA4e50o3sp-PZS/preview"
         },
    
 
@@ -17015,10 +17015,10 @@ const meetings = {
     affirmation: [
       {
         type: "image",
-        src: ""
+        src: "affirmation-images/201810-affirmation.png"
       },
       {
-        type: "image",
+        type: "",
         src: ""
       },
     ],
@@ -17780,7 +17780,7 @@ const meetings = {
     tags: ["crystal", "meditation", "larimar", "atlantis"],
 
     topic: {
-      title: "Movie",
+      title: "Movie - The Greatest Showman 🤡",
       items: [
         {
           type: "",
@@ -17851,7 +17851,7 @@ const meetings = {
     announcements: [
       {
         type: "text",
-        label: "",
+        label: "Empathy Day  -  June 12",
         src: ""
       }, 
     ],
@@ -18014,7 +18014,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Shame Quotes",
-          src: "https://drive.google.com/file/d/19IFRV4HYBYakKJI793ggsjr1EuHo0aN7/preview"
+          src: "https://drive.google.com/file/d/1Qhi-r1vwRsIKBo4mYByEFdnNs1uiGu2H/preview"
         },      
         {
           type: "pdf",
@@ -18029,7 +18029,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Storytelling Quotes",
-          src: "https://drive.google.com/file/d/1TxoOZabrzUFDmkjj5e3C87kVnXzR5Kvm/preview"
+          src: "https://drive.google.com/file/d/1OrvBDG8q8ZcOTj1Kh1EdQ_e3VYcX3IWu/preview"
         },
         {
           type: "pdf",
@@ -18382,14 +18382,20 @@ const meetings = {
       ]
     },
 
-    tags: ["flower", "worksheet", "shamrock", "faith", "anger","noble", "truths","eightfold", "path", "blessings"],
+    tags: ["flower", "worksheet", "shamrock", "faith", "anger","noble", "truths","eightfold", "path", 
+           "blessings", "Sharon Salzberg"],
 
     topic: {
       title: "Cultivate Faith",
       items: [
         {
           type: "pdf",
-          label: "Faith Worksheet",
+          label: "Faith Worksheet - blank answers",
+          src: "https://drive.google.com/file/d/1YfSgWNpJKp9U_G02ulpYF3WdjyxMY2F4/preview"  
+        },
+        {
+          type: "pdf",
+          label: "Faith Worksheet - with answers",
           src: "https://drive.google.com/file/d/1MUBHlobhVseoYZfDghMvi8BqFKflI8_w/preview"  
         },
         {
@@ -18755,6 +18761,11 @@ const meetings = {
     practice: {
       title: "Set Intentions for 2018",
       items: [
+        {
+          type: "text",
+          label: "Listened to Burning Bowl meditation from Unity's Reverend Kathy",
+          src: ""
+        },
         {
           type: "pdf",
           label: "Setting Intentions - Quotes",
@@ -19222,7 +19233,7 @@ const meetings = {
     },
 
     tags: ["archangel", "gratitude", "gabriel", "michael", "jophiel", "michael", "raphael",
-           "uriel", "chamuel", "affirmation"],
+           "uriel", "chamuel", "affirmation", "sunny dawn johnston", "archangel class"],
 
     topic: {
       title: "Archangel Class",
@@ -21088,7 +21099,7 @@ const meetings = {
       ]
     },
 
-    tags: ["trust", "chakra", "third eye", "lovingkindness"],
+    tags: ["trust", "chakra", "third eye", "lovingkindness", "brene brown"],
 
     topic: {
       title: "Trust Class online: The Anatomy of Trust - Brene Brown",
