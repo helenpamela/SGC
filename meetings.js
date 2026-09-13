@@ -16192,21 +16192,7 @@ const meetings = {
         label: "Kindness Quotes",
         src: "https://drive.google.com/file/d/1bSHn0vUclxqcIEB9rxF_2LL2Go427rwm/preview"
       },  
-      {
-        type: "image",
-        label: "Archangel Haniel",
-        src: "archangel-images/201902-haniel.png"
-      },  
-      {
-        type: "image",
-        label: "Archangel Haniel - properties",
-        src: "archangel-images/201902-haniel-properties.png"
-      },
-      {
-        type: "pdf",
-        label: "Haniel - article",
-        src: "https://drive.google.com/file/d/1o_Lu0Kxse4FLkSo3HC2o2y7JEedsFby1/preview"
-      },  
+  
     ],
 
     intention: [
@@ -16233,9 +16219,24 @@ const meetings = {
     ],
 
     focus: {
-      title: "Butterfly",
+      title: "Archangel Haniel and Butterfly",
 
       items: [
+      {
+        type: "image",
+        label: "Archangel Haniel",
+        src: "archangel-images/201902-haniel.png"
+      },  
+      {
+        type: "image",
+        label: "Archangel Haniel - properties",
+        src: "archangel-images/201902-haniel-properties.png"
+      },
+      {
+        type: "pdf",
+        label: "Haniel - article",
+        src: "https://drive.google.com/file/d/1o_Lu0Kxse4FLkSo3HC2o2y7JEedsFby1/preview"
+      },
         {
           type: "image",
           src: "animal-images/201902-butterfly.png"
