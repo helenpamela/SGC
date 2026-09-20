@@ -15,7 +15,7 @@ const meetings = {
       {
         type: "pdf",
         label: "Agenda",
-        src: ""
+        src: "https://drive.google.com/file/d/1YB1zp1oNdSWS2wptvAl3_svCrb4kcVWq/preview"
       }
     ],
 
@@ -24,16 +24,16 @@ const meetings = {
         {
           type: "pdf",
           label: "Working Agenda",
-          src: ""
+          src: "https://drive.google.com/file/d/1S4YdE-N8ZOe5dDCEwEvTDNVuS2YruQDQ/preview"
         }
       ]
     },
 
     announcements: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "'You are Enough' Keychains - present from Linda",
+        src: "announcement-images/202609-keychains.jpg"
       }, 
     ],
 
@@ -54,9 +54,14 @@ const meetings = {
 
     lovingkindness: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "pdf",
+        label: "Spread Lovingkindness Prayer",
+        src: "https://drive.google.com/file/d/1Kg3yvdinnPVAocKLKSftmrxeulkQGntc/preview"
+      },
+      {
+        type: "audio",
+        label: "Spread Lovingkindness Prayer - Mina",
+        src: "audio/SpreadLovingKindness_Mina.mp3"
       }
     ],
 
@@ -75,11 +80,13 @@ const meetings = {
       
         {
           type: "image",
+          label: "Baby Dragons - present from Linda",
           src: "monthly-focus-images/202609-baby-dragons-from-linda.jpg"
         },
         {
-          type: "",
-          src: ""
+          type: "pdf",
+          label: "Puff The Magic Dragon - Info and Lyrics",
+          src: "https://drive.google.com/file/d/1kK6xYClLWWJ6JxcKjyUpDiidHOc054FQ/view?usp=drive_link"
         }
     
 
@@ -87,12 +94,12 @@ const meetings = {
     },
 
     practice: {
-      title: "",
+      title: "Breathe, Relax, Allow, Enjoy",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Laminated half-page: Breathe, Relax, Allow, Enjoy",
+          src: "https://drive.google.com/file/d/1dpgSFbJ_ZXSlh1ENmgNA0IXHrXKM9WKv/preview"
         },
         {
           type: "",
@@ -105,47 +112,108 @@ const meetings = {
 
     affirmation: [
       {
-        type: "",
-        src: ""
+        type: "image",
+        src: "affirmation-images/202609-affirmation.png"
       }
     ],
 
     luminary: {
-      title: "",
+      title: "Julia Rogers Hamrick",
       items: [
         {
-          type: "",
-          src: ""
+          type: "image",
+          label: "Julia Rogers Hamrick",
+          src: "luminary-images/202609-julia-rogers-hamrick.jpg"
         }
       ]
     },
 
     meditation: {
-      title: "",
+      title: "Find Peace in Uncertain Times",
       items: [
         {
-          type: "",
-          src: ""
+          type: "video",
+          label: "15-Minute Guided Meditation to Find Peace in Uncertain Times posted by Boho Beautiful Yoga",
+          src: "https://www.youtube.com/embed/W19PdslW7iw?si=6IWvdhSeM60QL4HR"
         }
       ]
     },
 
-    tags: [""],
+    tags: ["easy world", "puff", "magic dragon", "julia rogers hamrick", "julia hamrick", "video"],
 
     topic: {
-      title: "",
+      title: "Easy World",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
-  
+          type: "pdf",
+          label: "My Decree of Surrender and Empowerment from Julia Rogers Hamrick",
+          src: "https://drive.google.com/file/d/1hpsw0PR696bh2dAm5MwtdWe1WGy9OF0T/preview" 
         },
-    
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "pdf",
+          label: "Easy World Poster 1",
+          src: "https://drive.google.com/file/d/1z6_iZSH9CDnh7DnV7KF-H33pqpafQwlP/preview" 
+        },
+           {
+          type: "pdf",
+          label: "Easy World Poster 2",
+          src: "https://drive.google.com/file/d/1kEENvZG15VJykbLjD5ghCg-zrnrQXh-t/preview" 
+        },
+           {
+          type: "pdf",
+          label: "Easy World Poster 3",
+          src: "https://drive.google.com/file/d/1x_hEvjTQLF6eQ0LKywKvm0O2qwV7u7I3/preview" 
+        },
+           {
+          type: "pdf",
+          label: "Easy World Poster 4",
+          src: "https://drive.google.com/file/d/1cnBYg1nfO7oQHXlNTuVdHuFStiRbngOJ/preview" 
+        },
+        {
+          type: "pdf",
+          label: "Choosing Easy World - Book Description",
+          src: "https://drive.google.com/file/d/1HFNaOZx3iIQ72AdyXecOrf-jXupM8QG1/preview" 
+        },
+        {
+          type: "pdf",
+          label: "Choosing Easy World - Book Review",
+          src: "https://drive.google.com/file/d/1pt_mtMYWEUKdTLqXF3cH5d1msu3RNy9y/preview" 
+        },
+        {
+          type: "pdf",
+          label: "Easy World article - Dr. Amy Johnson",
+          src: "https://drive.google.com/file/d/1ypew0m15K8YeOgt0AQnAuLHzIRyZc3ws/preview" 
+        },
+        {
+          type: "pdf",
+          label: "Article - Don't Make it Happen - Allow it to Happen by Dr. Amy Johnson",
+          src: "https://drive.google.com/file/d/1jLX6IBmHFwqN98dLz17Byth6ETHebxiM/view?usp=drive_link" 
+        },
+        {
+          type: "pdf",
+          label: "Article - Let Go of Control: How to Learn the Art of Surrender by Dr. Amy Johnson",
+          src: "https://drive.google.com/file/d/12Y2QgLn6SrdjVU_WKX8FyM55GLqdjlza/view?usp=drive_link" 
+        },
+        {
+          type: "pdf",
+          label: "Article - I Choose to Live in Easy World by Dr. Amy Johnson",
+          src: "https://drive.google.com/file/d/1ypew0m15K8YeOgt0AQnAuLHzIRyZc3ws/preview" 
+        },
+        {
+          type: "pdf",
+          label: "Article - Today's Brilliance from Julia Hamrick",
+          src: "https://drive.google.com/file/d/1oLmRTA_IhGgUf6XkpyAK9zdPHG_UFI3U/preview" 
+        },
+   
+        {
+          type: "video",
+          label: "Choosing Easy World - Julia Rogers Hamrick",
+          src: "https://www.youtube.com/embed/5PvBz_OnfYc?si=OSkVsCqWhRTZnOsn"
+        },
+         {
+          type: "video",
+          label: "Do You Know What Easy World REALLY Is?  - Julia Rogers Hamrick",
+          src: "https://www.youtube.com/embed/tETQauX5-V0?si=GEAXkmYALubvCFs8"
         },
    
 
@@ -154,16 +222,27 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Kathy's Delicious Pasta - We want the recipe!",
+        src: "other-images/202609-pasta.jpg"
       },
       {
-        type: "",
-        label: "",
-        src: ""
-      }
+        type: "image",
+        label: "Vicky opening wedding presents from Kathy.",
+        src: "other-images/202609-vicky-opening-wedding-presesnts-from-kathy.jpg"
+      },
+      {
+        type: "image",
+        label: "Lobster Pen - present from Kenny.",
+        src: "other-images/202609-lobster-pen-from kenny.jpg"
+      },
+      {
+        type: "pdf",
+        label: "September Happiness Calendar",
+        src: "https://drive.google.com/file/d/1KtBM1kcSVq57NcobZ2PtVtBlJT_qMhrD/preview"
+      },
 
+      
     ]
   },
 
