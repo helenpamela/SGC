@@ -186,18 +186,13 @@ const meetings = {
         },
         {
           type: "pdf",
-          label: "Easy World article - Dr. Amy Johnson",
-          src: "https://drive.google.com/file/d/1ypew0m15K8YeOgt0AQnAuLHzIRyZc3ws/preview" 
-        },
-        {
-          type: "pdf",
           label: "Article - Don't Make it Happen - Allow it to Happen by Dr. Amy Johnson",
-          src: "https://drive.google.com/file/d/1jLX6IBmHFwqN98dLz17Byth6ETHebxiM/view?usp=drive_link" 
+          src: "https://drive.google.com/file/d/1jLX6IBmHFwqN98dLz17Byth6ETHebxiM/preview" 
         },
         {
           type: "pdf",
           label: "Article - Let Go of Control: How to Learn the Art of Surrender by Dr. Amy Johnson",
-          src: "https://drive.google.com/file/d/12Y2QgLn6SrdjVU_WKX8FyM55GLqdjlza/view?usp=drive_link" 
+          src: "https://drive.google.com/file/d/12Y2QgLn6SrdjVU_WKX8FyM55GLqdjlza/preview" 
         },
         {
           type: "pdf",
