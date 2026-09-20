@@ -86,7 +86,7 @@ const meetings = {
         {
           type: "pdf",
           label: "Puff The Magic Dragon - Info and Lyrics",
-          src: "https://drive.google.com/file/d/1kK6xYClLWWJ6JxcKjyUpDiidHOc054FQ/view?usp=drive_link"
+          src: "https://drive.google.com/file/d/1kK6xYClLWWJ6JxcKjyUpDiidHOc054FQ/preview"
         },
         {
           type: "video",
