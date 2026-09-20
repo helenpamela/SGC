@@ -87,6 +87,11 @@ const meetings = {
           type: "pdf",
           label: "Puff The Magic Dragon - Info and Lyrics",
           src: "https://drive.google.com/file/d/1kK6xYClLWWJ6JxcKjyUpDiidHOc054FQ/view?usp=drive_link"
+        },
+        {
+          type: "video",
+          label: "Puff The Magic Dragon - Peter, Paul, and Mary",
+          src: "https://www.youtube.com/embed/Y7lmAc3LKWM?si=640mckLlb6rduDz3" 
         }
     
 
