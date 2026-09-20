@@ -1,16 +1,16 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "September 13, 2026",
+  "lastUpdated": "September 19, 2026",
 
   "event": [
      {
       "status": "active",
       "image": "events-images/sgc-icon.png",
       "type": "Latest Update to App",  
-      "datetime": "Aug 6",
-      "location": "Explore",
-      "note": "Added new features: Search Quotations & Search Affirmations"
+      "datetime": "Sept 19",
+      "location": "Explore & Events",
+      "note": "Updated Events page and added 9/19 meeting"
      },
      {
       "status": "archived",
@@ -38,7 +38,7 @@
       "note": ""
      },
      {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/meeting.png",
       "type": "Meeting",  
       "datetime": "Saturday September 19 Noon",
@@ -67,6 +67,14 @@
       "type": "Meeting",  
       "datetime": "Saturday November 7 Noon",
       "location": "Linda's house",
+      "note": ""
+     },
+     {
+      "status": "active",
+      "image": "events-images/salad.png",
+      "type": "Lunch",  
+      "datetime": "Wednesday Nov 18 - 11:30 AM",
+      "location": "TBD",
       "note": ""
      }
 
