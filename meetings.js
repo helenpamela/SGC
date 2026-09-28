@@ -15014,8 +15014,8 @@ const meetings = {
   },
 
   "201909": {
-    title: "October 2019",
-    month: "October",
+    title: "September 2019",
+    month: "September",
     year: 2019,
     meetingCancelled: false, // or false
     cancelReasonImage: "none-images/yyyymm-no-mtg.png", 
