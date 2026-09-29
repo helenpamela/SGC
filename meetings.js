@@ -14689,10 +14689,10 @@ const meetings = {
 
     announcements: [
       {
-        type: "",
-        label: "",
-        src: ""
-      }, 
+        type: "image",
+        label: "World Kindness Day - Nov 13",
+        src: "announcement-images/201911-world-kindness-day.jpeg"
+      } 
     ],
 
     intention: [
@@ -14747,7 +14747,7 @@ const meetings = {
     },
 
     practice: {
-      title: "Kindness",
+      title: "Choose Kindness",
       items: [
         {
           type: "pdf",
@@ -15171,9 +15171,9 @@ const meetings = {
 
     other: [
       {
-        type: "pdf",
-        label: "Radical Kindness Workbook",
-        src: "https://drive.google.com/file/d/1F6c2J4Bzc9yrCPg80GLxtqQWOp-AI1rB/preview"
+        type: "",
+        label: "",
+        src: ""
       },
       {
         type: "",
@@ -15736,6 +15736,16 @@ const meetings = {
           type: "pdf",
           label: "Symbolic Meaning of Lions",
           src: "https://drive.google.com/file/d/1gX5eSxruSRvaO0cULg-wfKirX8UjHJ7N/preview"
+        },
+        {
+          type: "image",
+          label: "Stuffed Lion - present from Linda",
+          src: "monthly-focus-images/201905-stuffed-lion1.png"
+        },
+        {
+          type: "image",
+          label: "Stuffed Lion - present from Linda",
+          src: "monthly-focus-images/201905-stuffed-lion2.png"
         }
     
 
@@ -16175,12 +16185,12 @@ const meetings = {
     tags: ["animal", "movie", "pig", "year of the", "prosperity", "abundance", "prayer", "st. francis"],
 
     topic: {
-      title: "Movie",
+      title: "Movie: Heal",
       items: [
         {
-          type: "",
-          label: "",
-          src: ""
+          type: "image",
+          label: "Movie 'Heal' (streaming on Gaia)",
+          src: "topic-images/201903-movie-heal.jpeg"
   
         },
     
