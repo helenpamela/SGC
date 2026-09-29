@@ -15740,12 +15740,12 @@ const meetings = {
         {
           type: "image",
           label: "Stuffed Lion - present from Linda",
-          src: "monthly-focus-images/201905-stuffed-lion1.png"
+          src: "monthly-focus-images/201905-stuffed-lion1.jpg"
         },
         {
           type: "image",
           label: "Stuffed Lion - present from Linda",
-          src: "monthly-focus-images/201905-stuffed-lion2.png"
+          src: "monthly-focus-images/201905-stuffed-lion2.jpg"
         }
     
 
