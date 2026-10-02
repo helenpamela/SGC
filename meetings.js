@@ -15154,7 +15154,7 @@ const meetings = {
       items: [
         {
           type: "pdf",
-          label: "Pathway to Joy by Sonia Choquette",
+          label: "Pathway to Joy by Sonia Choquette (33 pages)",
           src: "https://drive.google.com/file/d/1iocH_vei5vgprRvHaeeuGI-0Xwz2lrhk/preview"
   
         },
