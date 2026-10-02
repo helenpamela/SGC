@@ -1,16 +1,16 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "September 19, 2026",
+  "lastUpdated": "October 2, 2026",
 
   "event": [
      {
       "status": "active",
       "image": "events-images/sgc-icon.png",
       "type": "Latest Update to App",  
-      "datetime": "Sept 19",
-      "location": "Explore & Events",
-      "note": "Updated Events page and added 9/19 meeting"
+      "datetime": "Oct 2",
+      "location": "Events",
+      "note": "Removed lunch item after lunch at Seattle Fish House"
      },
      {
       "status": "archived",
@@ -46,7 +46,7 @@
       "note": ""
      },
      {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/fish-and-chips.png",
       "type": "Lunch",  
       "datetime": "Wednesday September 30 11:00 am",
