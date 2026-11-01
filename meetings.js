@@ -13097,7 +13097,7 @@ const meetings = {
     },
 
     tags: ["animal", "get on your bird", "perspective", "rhino", "rhinoceros", "timothy snyder",
-           "susan jeffers", "colette baron-reid", "meditation", "tips"],
+           "susan jeffers", "colette baron-reid", "meditation", "tips", "sunny dawn johnston"],
 
     topic: {
       title: "Perspective",
@@ -13119,6 +13119,11 @@ const meetings = {
           label: "Which One Do You See?",
           src: "topic-images/202009-which-one-do-you-see.jpg"
         },
+        {
+          type: "pdf",
+          label: "Sunny Dawn Johnston email on Perspective",
+          src: "https://drive.google.com/file/d/1sh-cyAdNv1-Tt1Lx4JnoPIgKndOayqri/preview"
+        }
    
 
       ]
@@ -13323,9 +13328,18 @@ const meetings = {
           type: "pdf",
           label: "Sunny Dawn Johnston on Fear",
           src: "https://drive.google.com/file/d/16uz-RSm3o_yM_mvYsIWu4lzdFt2tsZ3K/preview"
+        },
+        {
+          type: "pdf",
+          label: "Form: What Do I Fear?",
+          src: "https://drive.google.com/file/d/1jVMZoIhON601QCdzhXVWqmvulDDOCmkx/preview"
+        },
+        {
+          type: "pdf",
+          label: "Vow of the Courageous Warrior",
+          src: "https://drive.google.com/file/d/1Y5HH0FpBCauaxx9F6an5d0ACibPmuusw/preview"
         }
-   
-
+       
       ]
     },
 
@@ -14157,8 +14171,8 @@ const meetings = {
 
     announcements: [
       {
-        type: "",
-        label: "",
+        type: "text",
+        label: "(1) Tapping World Summit Feb 24 - Mar 3, (2) SoulFest - Celebrate Your Life (online)",
         src: ""
       }, 
     ],
