@@ -2,6 +2,373 @@
 
 const meetings = {
 
+  "202611": {
+    title: "November 2026",
+    month: "November",
+    year: 2026,
+    meetingCancelled: false, // true or false
+    cancelReasonImage: "none-images/201005-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/1HLc7bXS6Akhq0jrB3QpolNiu2jyC9l8j/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "pdf",
+          label: "Working Agenda",
+          src: "https://drive.google.com/file/d/18dACcDx92oB_QlIDWBd1Cs8TN5UvZVIf/preview"
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "pdf",
+        label: "World Kindness Day is Friday, November 13.",
+        src: "https://drive.google.com/file/d/114SxKJ_nAti5SWloLc7GlzzgZw3hMLEC/preview"
+      },
+      {
+        type: "pdf",
+        label: "Happiness Calendar",
+        src: "https://drive.google.com/file/d/1Iehnm1-KuaTaVQ8LgmOR-Ga-ceGUw5Am/preview"
+      },
+      {
+        type: "pdf",
+        label: "Kindness Prayer",
+        src: "https://drive.google.com/file/d/13cGvVNIE6LvIGQP6_SzuIS2A10-YSkov/preview"
+      },
+      {
+        type: "pdf",
+        label: "7 Ways to Start Making Kindness the Norm",
+        src: "https://drive.google.com/file/d/1jYJ03yM9Tr6785WuX-vRFWz1VqEvfq59/preview"
+      },
+      {
+        type: "pdf",
+        label: "Random Acts of Kindness Day",
+        src: "https://drive.google.com/file/d/1nK0gIBmQIVhZB8tNb-qbePG0dnJo42N3/preview"
+      },
+
+    ],
+
+    intention: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    invocation: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "Otter",
+
+      items: [
+        {
+          type: "image",
+          src: "animal-images/202611-otter.png"
+        },
+        {
+          type: "image",
+          src: "animal-images/202611-otter-properties.png"
+        },
+        {
+          type: "pdf",
+          label: "Spiritual Properties of the Otter",
+          src: "https://drive.google.com/file/d/1jaetLJEfnm2aGTW1yHYcsGJroX8bgbPc/preview"
+        },
+        {
+          type: "pdf",
+          label: "Otter Fun Facts",
+          src: "https://drive.google.com/file/d/150dozi2y0RQqURxtSOPZFC2H1UDFCuqs/preview"
+        },
+    
+
+      ]
+    },
+
+    practice: {
+      title: "Ho'oponopono",
+      items: [
+        {
+          type: "pdf",
+          label: "The Four Mantras",
+          src: "https://drive.google.com/file/d/1ufMC0XGK_gxu1DaxP1uCBBt4IBKwc_U5/preview"
+        },
+        {
+          type: "pdf",
+          label: "Ho'oponopono Statements (laminated half page)",
+          src: "https://drive.google.com/file/d/1CW2gm0RCjLxdw3QTTvbvO1OH6R3KyL0W/preview"
+        },        
+
+      ]
+    },
+
+    affirmation: [
+      {
+        type: "image",
+        src: "affirmation-images/202611-affirmation.png"
+      }
+    ],
+
+    luminary: {
+      title: "Joe Vitale, Morrnah Nalamaku Simeona, Dr. Ihaleakala Hew Len",
+      items: [
+        {
+          type: "image",
+          label: "Joe Vitale",
+          src: "luminary images/202611-joe-vitale.jpeg"
+        },
+         {
+          type: "image",
+          label: "Morrnah Nalamaku Simeona",
+          src: "luminary images/202611-morrnah-nalamaku-simeona.jpeg"
+        },
+         {
+          type: "image",
+          label: "Dr. Ihaleakala Hew Len",
+          src: "luminary images/202611-dr-ihaleakala-hew-len.jpeg"
+        }
+      ]
+    },
+
+    meditation: {
+      title: "Ho'oponopono",
+      items: [
+        {
+          type: "video",
+          label: "Ho'oponopono Meditation for Deep Healing",
+          src: "https://www.youtube.com/embed/2TePAocURLk?si=7YzlceUjk9_O3k_3"
+        }
+      ]
+    },
+
+    tags: ["ho'oponopono", "animal", "otter", "happiness calendar", "kindness"],
+
+    topic: {
+      title: "Gratitude",
+      items: [
+        {
+          type: "pdf",
+          label: "Gratitude Images/Quotes",
+          src: "https://drive.google.com/file/d/1_pVfHyNDPKi-EIfWUkO6ck2yBDiJZ2BN/preview"
+  
+        },
+    
+        {
+          type: "image",
+          label: "Gratitude A-Z card - Front",
+          src: "topic-images/202611-gratitude-card-front.png"
+        },
+        {
+          type: "image",
+          label: "Gratitude A-Z card - Back",
+          src: "topic-images/202611-gratitude-card-back.png"
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
+
+  "202610": {
+    title: "October 2026",
+    month: "October",
+    year: 2026,
+    meetingCancelled: true, // or false
+    cancelReasonImage: "none-images/201005-no-mtg.png", 
+    cancelMessage: "We'll Be Together Again Soon ✨",
+
+    final_agenda: [
+      {
+        type: "pdf",
+        label: "Agenda",
+        src: "https://drive.google.com/file/d/15p80h4o1HGDbnz1uwJiCr7oy0dNX5c6N/preview"
+      }
+    ],
+
+    teacher_only: {
+      working_agenda: [
+        {
+          type: "",
+          label: "Working Agenda",
+          src: ""
+        }
+      ]
+    },
+
+    announcements: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }, 
+    ],
+
+    intention: [
+      {
+        type: "",
+      }
+
+    ],
+
+    vision: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    lovingkindness: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+    ],
+
+    focus: {
+      title: "",
+
+      items: [
+        {
+          type: "",
+          src: ""
+        },
+        {
+          type: "",
+          src: ""
+        }
+    
+
+      ]
+    },
+
+    practice: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+        {
+          type: "",
+          label: "",
+          src: ""
+        },        
+
+      ],
+    },
+
+    affirmation: [
+      {
+        type: "",
+        src: ""
+      }
+    ],
+
+    luminary: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    meditation: {
+      title: "",
+      items: [
+        {
+          type: "",
+          src: ""
+        }
+      ]
+    },
+
+    tags: ["cancelled"],
+
+    topic: {
+      title: "",
+      items: [
+        {
+          type: "",
+          label: "",
+          src: ""
+  
+        },
+    
+        {
+          type: "",
+          label: "",
+          src: ""
+        },
+   
+
+      ]
+    },
+
+    other: [
+      {
+        type: "",
+        label: "",
+        src: ""
+      },
+      {
+        type: "",
+        label: "",
+        src: ""
+      }
+
+    ]
+  },
 
 "202609": {
     title: "September 2026",
