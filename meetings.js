@@ -129,7 +129,13 @@ const meetings = {
           type: "pdf",
           label: "Ho'oponopono Statements (laminated half page)",
           src: "https://drive.google.com/file/d/1CW2gm0RCjLxdw3QTTvbvO1OH6R3KyL0W/preview"
-        },        
+        },
+        {
+          type: "audio",
+          label: "Karen Drucker - Ho'oponopono",
+          src: "audio/KarenDrucker_Ho'oponopono.mp3"
+        },
+
 
       ]
     },
