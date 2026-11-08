@@ -112,6 +112,18 @@ const meetings = {
           label: "Otter Fun Facts",
           src: "https://drive.google.com/file/d/150dozi2y0RQqURxtSOPZFC2H1UDFCuqs/preview"
         },
+        {
+          type: "image",
+          label: "Stuffed Otter - Front",
+          src: "monthly-focus-images/202611-stuffed-otter-front.jpg"
+        },
+        {
+          type: "image",
+          label: "Stuffed Otter - Side",
+          src: "monthly-focus-images/202611-stuffed-otter-side.jpg"
+        }
+
+        
     
 
       ]
@@ -208,9 +220,9 @@ const meetings = {
 
     other: [
       {
-        type: "",
-        label: "",
-        src: ""
+        type: "image",
+        label: "Kathy and Trudi - Blue Tsunami!",
+        src: "other-images/202611-kathy-and-trudi-blue-tsunami.jpg"
       },
       {
         type: "",
