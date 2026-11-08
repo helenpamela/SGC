@@ -147,17 +147,17 @@ const meetings = {
         {
           type: "image",
           label: "Joe Vitale",
-          src: "luminary images/202611-joe-vitale.jpeg"
+          src: "luminary-images/202611-joe-vitale.jpeg"
         },
          {
           type: "image",
           label: "Morrnah Nalamaku Simeona",
-          src: "luminary images/202611-morrnah-nalamaku-simeona.jpeg"
+          src: "luminary-images/202611-morrnah-nalamaku-simeona.jpeg"
         },
          {
           type: "image",
           label: "Dr. Ihaleakala Hew Len",
-          src: "luminary images/202611-dr-ihaleakala-hew-len.jpeg"
+          src: "luminary-images/202611-dr-ihaleakala-hew-len.jpeg"
         }
       ]
     },
