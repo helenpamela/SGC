@@ -1,16 +1,16 @@
 {
   
   "title": "Upcoming Events",
-  "lastUpdated": "November 1, 2026",
+  "lastUpdated": "November 7, 2026",
 
   "event": [
      {
       "status": "active",
       "image": "events-images/sgc-icon.png",
       "type": "Latest Update to App",  
-      "datetime": "Nov 1",
+      "datetime": "Nov 7",
       "location": "Meetings & Events",
-      "note": "Unpdated 2020 meetings after app review; Removed Oct meeting from Events"
+      "note": "Added Nov 7 meeting to Meetings; Removed Oct meeting  & added Dec and Jan in Events"
      },
      {
       "status": "archived",
@@ -62,7 +62,7 @@
       "note": "NO MEETING IN OCTOBER DUE TO LINDA'S PANAMA CRUISE"
      },
      {
-      "status": "active",
+      "status": "archived",
       "image": "events-images/4-women.png",
       "type": "Meeting",  
       "datetime": "Saturday November 7 Noon",
@@ -72,10 +72,26 @@
      {
       "status": "active",
       "image": "events-images/salad.png",
-      "type": "Lunch",  
-      "datetime": "Wednesday Nov 18 - 11:30 AM",
-      "location": "Location TBD",
+      "type": "No Lunch",  
+      "datetime": "Wednesday Nov 18",
+      "location": "CANCELLED",
       "note": ""
+     },
+     {
+      "status": "active",
+      "image": "events-images/4-women-with-drinks.png",
+      "type": "Meeting",  
+      "datetime": "Saturday December 12 Noon",
+      "location": "Linda's house",
+      "note": "Potluck: Linda-Shrimp etc; Kathy-Lasagna; Pam-Potatoes; Trudi-Dessert"
+     },
+     {
+      "status": "active",
+      "image": "events-images/4-women-around-table.png",
+      "type": "Meeting",  
+      "datetime": "Saturday January 16, 2027 Noon",
+      "location": "Linda's house",
+      "note": "Happy New Year"
      }
 
 
